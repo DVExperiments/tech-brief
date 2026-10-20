@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#131d28">
+  <meta name="description" content="Latest technology news and emerging ideas from The Verge, WIRED, MIT Technology Review, and Ars Technica.">
+  <title>Tech Brief — Technology news, at a glance</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script defer src="config.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <div class="app" id="app">
+    <aside class="sidebar" aria-label="News sources">
+      <div class="brand">
+        <div class="brand-symbol" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+        <div class="brand-words"><div class="brand-title" id="brandName">TECH BRIEF</div><div class="brand-caption">A FRESH PERSPECTIVE</div></div>
+      </div>
+
+      <div class="side-scroll">
+        <p class="section-label sidebar-heading">YOUR CHANNELS <span class="rule"></span></p>
+        <nav class="source-nav" id="sourceNav" aria-label="Select news source">
+          <button class="source-button is-active" type="button" data-source="all" aria-pressed="true">
+            <span class="source-symbol all-symbol"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.4"/><rect x="14" y="3" width="7" height="7" rx="1.4"/><rect x="3" y="14" width="7" height="7" rx="1.4"/><rect x="14" y="14" width="7" height="7" rx="1.4"/></svg></span>
+            <span class="source-name">All sources</span><span class="source-count" id="count-all">—</span>
+          </button>
+          <button class="source-button" type="button" data-source="verge" aria-pressed="false">
+            <span class="source-symbol source-verge">V</span><span class="source-name">The Verge</span><span class="source-count" id="count-verge">—</span>
+          </button>
+          <button class="source-button" type="button" data-source="wired" aria-pressed="false">
+            <span class="source-symbol source-wired">W</span><span class="source-name">WIRED</span><span class="source-count" id="count-wired">—</span>
+          </button>
+          <button class="source-button" type="button" data-source="mit" aria-pressed="false">
+            <span class="source-symbol source-mit">M</span><span class="source-name">MIT Tech Review</span><span class="source-count" id="count-mit">—</span>
+          </button>
+          <button class="source-button" type="button" data-source="ars" aria-pressed="false">
+            <span class="source-symbol source-ars">A</span><span class="source-name">Ars Technica</span><span class="source-count" id="count-ars">—</span>
+          </button>
+        </nav>
+
+        <div class="sidebar-bottom">
+          <p class="section-label">A LITTLE CONTEXT</p>
+          <p>Four great publications. One place to discover what matters next.</p>
+          <div class="separator"></div>
+          <div class="sidebar-live"><span class="live-indicator"></span><span id="sidebarStatus">Checking for stories…</span></div>
+          <p class="sidebar-small">Headlines link directly to their original publishers.</p>
+        </div>
+      </div>
+      <div class="sidebar-footer">CURATED BY THE FEED, NOT AN ALGORITHM <span aria-hidden="true">↗</span></div>
+    </aside>
+
+    <main class="main" id="main" tabindex="-1">
+      <div class="main-scroll" id="mainScroll">
+        <header class="topbar">
+          <div class="breadcrumb"><span class="breadcrumb-square"></span><span id="eyebrow">THE NEWSROOM</span><span class="breadcrumb-slash">/</span><span class="breadcrumb-quiet">THE LATEST</span></div>
+          <div class="top-actions">
+            <span class="live-label"><span class="live-indicator dark"></span> RSS-POWERED</span>
+            <button type="button" class="icon-button" id="themeToggle" aria-label="Switch appearance" title="Switch appearance">
+              <svg class="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42"/></svg>
+            </button>
+            <button type="button" class="icon-button" id="refreshButton" aria-label="Reload latest published headlines" title="Reload latest published headlines">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.6 6"/><path d="M20 4v7h-7"/></svg>
+            </button>
+          </div>
+        </header>
+
+        <section class="intro" aria-labelledby="introHeading">
+          <div class="intro-left">
+            <div class="intro-tag"><span class="tag-dot"></span> IDEAS WORTH YOUR ATTENTION <span class="tag-line"></span></div>
+            <h1 id="introHeading">Stay curious<span class="heading-period">.</span></h1>
+            <p id="introSubheading">Fresh perspectives on technology, science and the future.</p>
+          </div>
+          <div class="intro-decoration" aria-hidden="true"><div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="orbit orbit-c"></div><div class="orbit-core"><span></span></div></div>
+        </section>
+
+        <section class="news-section" aria-labelledby="sectionHeading">
+          <div class="news-heading-row">
+            <div>
+              <div class="section-overline">NOW READING <span class="overline-dash"></span> <span id="sourceHeadingLabel">ALL PUBLICATIONS</span></div>
+              <h2 id="sectionHeading"><span id="sectionTitle">Latest stories</span><span class="story-total" id="storyTotal" aria-label="Article count"></span></h2>
+            </div>
+            <div class="news-meta" id="updatedLabel">Connecting to the feed…</div>
+          </div>
+          <div class="toolbar">
+            <label class="search-box" for="searchInput">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="10.75" cy="10.75" r="6.75"/><path d="m16 16 5 5"/></svg>
+              <input type="search" id="searchInput" placeholder="Search headlines or topics" autocomplete="off" aria-label="Search news articles">
+              <span class="search-shortcut">/</span>
+            </label>
+            <label class="date-select-wrap" for="dateFilter">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 10h18"/></svg>
+              <select id="dateFilter" aria-label="Filter articles by publication date">
+                <option value="all">Any time</option>
+                <option value="day">Past 24 hours</option>
+                <option value="week">Past 7 days</option>
+              </select>
+              <svg class="dropdown-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m7 10 5 5 5-5"/></svg>
+            </label>
+          </div>
+          <div class="notice" id="notice" role="status" hidden></div>
+          <div class="feed-grid" id="feedGrid" aria-live="polite" aria-busy="true">
+            <div class="loading-card skeleton"><div class="skeleton-image"></div><div class="skeleton-body"><div class="skeleton-line short"></div><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line medium"></div></div></div>
+            <div class="loading-card skeleton"><div class="skeleton-image"></div><div class="skeleton-body"><div class="skeleton-line short"></div><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line medium"></div></div></div>
+            <div class="loading-card skeleton"><div class="skeleton-image"></div><div class="skeleton-body"><div class="skeleton-line short"></div><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line medium"></div></div></div>
+          </div>
+          <div class="load-more-area" id="loadMoreArea" hidden><button type="button" id="loadMore" class="load-more">Load more stories <span aria-hidden="true">↓</span></button></div>
+        </section>
+        <footer class="main-footer"><span>TECH BRIEF <span class="footer-dot">✳</span> READ MORE. THINK BIGGER.</span><span>Articles remain on the original publishers' websites.</span></footer>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

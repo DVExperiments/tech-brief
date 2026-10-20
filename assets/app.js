@@ -17,13 +17,6 @@
   const brand = $('#brandName');
   if (typeof cfg.siteName === 'string') brand.textContent = cfg.siteName;
   if (typeof cfg.eyebrow === 'string') $('#eyebrow').textContent = cfg.eyebrow;
-  if (typeof cfg.heading === 'string') {
-    const h = $('#introHeading');
-    h.textContent = cfg.heading.replace(/\.+$/, '');
-    const period = document.createElement('span'); period.className = 'heading-period'; period.textContent = '.';
-    h.append(period);
-  }
-  if (typeof cfg.subheading === 'string') $('#introSubheading').textContent = cfg.subheading;
 
   function safeUrl(input) {
     try {

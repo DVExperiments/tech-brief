@@ -1,6 +1,796 @@
 {
   "version": 1,
-  "updated_at": null,
-  "sources": {},
-  "articles": []
+  "updated_at": "2026-10-20T23:40:50Z",
+  "sources": {
+    "verge": {
+      "status": "ok",
+      "count": 10,
+      "last_success_at": "2026-10-20T23:40:50Z",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "error": null
+    },
+    "wired": {
+      "status": "ok",
+      "count": 36,
+      "last_success_at": "2026-10-20T23:40:50Z",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "error": null
+    },
+    "mit": {
+      "status": "ok",
+      "count": 10,
+      "last_success_at": "2026-10-20T23:40:50Z",
+      "feed_url": "https://www.technologyreview.com/feed/",
+      "error": null
+    },
+    "ars": {
+      "status": "ok",
+      "count": 20,
+      "last_success_at": "2026-10-20T23:40:50Z",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "error": null
+    }
+  },
+  "articles": [
+    {
+      "id": "fe3e9498d926dd061cdc",
+      "source": "verge",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported…",
+      "image": "",
+      "published_at": "2026-10-20T23:04:19Z",
+      "category": "AI"
+    },
+    {
+      "id": "9658e069cd1b5716a8fa",
+      "source": "verge",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to…",
+      "image": "",
+      "published_at": "2026-10-20T22:20:11Z",
+      "category": "Creators"
+    },
+    {
+      "id": "cc5f1736e299641f33ac",
+      "source": "verge",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar…",
+      "image": "",
+      "published_at": "2026-10-20T22:11:34Z",
+      "category": "AI"
+    },
+    {
+      "id": "f6669219de3669fc5832",
+      "source": "ars",
+      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-1152x648.jpg",
+      "published_at": "2026-10-20T22:04:54Z",
+      "category": "Cars"
+    },
+    {
+      "id": "9b0d0a62cfe68288f452",
+      "source": "ars",
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1234276092-1152x648.jpg",
+      "published_at": "2026-10-20T21:44:34Z",
+      "category": "Health"
+    },
+    {
+      "id": "40d55b0d698e844f30a7",
+      "source": "verge",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special…",
+      "image": "",
+      "published_at": "2026-10-20T21:30:24Z",
+      "category": "Business"
+    },
+    {
+      "id": "b52eacddb9c2f86acc86",
+      "source": "ars",
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
+      "published_at": "2026-10-20T21:14:33Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "7eb2e1d221f15e67fd3d",
+      "source": "verge",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the…",
+      "image": "",
+      "published_at": "2026-10-20T21:02:53Z",
+      "category": "Elon Musk"
+    },
+    {
+      "id": "dd716bff741a8b7c3dda",
+      "source": "mit",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "da0c6e8ba007e53aad43",
+      "source": "mit",
+      "title": "Here’s the tea",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "ad57d1b8a2b177921567",
+      "source": "mit",
+      "title": "Melt it, spin it, use it again",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "d8e4842999abe58e520e",
+      "source": "mit",
+      "title": "A reason to eat carbs",
+      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "17745cc2fa337b5ce244",
+      "source": "mit",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "c69647a4e914eefddf07",
+      "source": "mit",
+      "title": "Taking a swing at a pickleball startup",
+      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to get recruited into gangs, getting…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "1b66938579727f6976ae",
+      "source": "mit",
+      "title": "A good TA: priceless",
+      "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+      "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "11536ae12e719c4ca7d9",
+      "source": "mit",
+      "title": "Nebraska native explores galaxies far, far away",
+      "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+      "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "5b6e0798a2d1e7f06d32",
+      "source": "mit",
+      "title": "A champion for brain injury patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "29288e44919efc8f4d08",
+      "source": "mit",
+      "title": "A cleaner path to rare earth metals",
+      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he…",
+      "image": "",
+      "published_at": "2026-10-20T21:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "928fc57fb4e897a88249",
+      "source": "verge",
+      "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
+      "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses…",
+      "image": "",
+      "published_at": "2026-10-20T20:52:07Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "a2d69911b3bde9b47147",
+      "source": "wired",
+      "title": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
+      "url": "https://www.wired.com/story/rocco-sale-october-2026/",
+      "summary": "Save $100 on the new Essential or $200 on the original, and give your holiday drinks a place of their own.",
+      "image": "https://media.wired.com/photos/6ad7d2fa4d0edca385d0d9e6/master/pass/Rocco%20The%20Essential%20sale%20102026%20top%20art%20SOURCE%20Rocco.jpg",
+      "published_at": "2026-10-20T20:47:46Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c0b0c7a95608d8a92db3",
+      "source": "verge",
+      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
+      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring…",
+      "image": "",
+      "published_at": "2026-10-20T20:32:09Z",
+      "category": "AR"
+    },
+    {
+      "id": "6c7ff8aa259d53aec890",
+      "source": "verge",
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in…",
+      "image": "",
+      "published_at": "2026-10-20T20:26:58Z",
+      "category": "News"
+    },
+    {
+      "id": "ab3b438ae0a8e8fbb92a",
+      "source": "verge",
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health…",
+      "image": "",
+      "published_at": "2026-10-20T20:26:04Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "7f9a5eec2c3d6e07b1a1",
+      "source": "ars",
+      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+      "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+      "summary": "A lifetime ad-free subscription is available.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png",
+      "published_at": "2026-10-20T20:20:12Z",
+      "category": "Tech"
+    },
+    {
+      "id": "10ebb7561b1f487a204a",
+      "source": "verge",
+      "title": "TikTok has started censoring searches for popular peptides",
+      "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
+      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased…",
+      "image": "",
+      "published_at": "2026-10-20T20:16:04Z",
+      "category": "Creators"
+    },
+    {
+      "id": "245a3ccab67a7d11973d",
+      "source": "ars",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
+      "published_at": "2026-10-20T20:07:58Z",
+      "category": "AI"
+    },
+    {
+      "id": "de6371bda4c005ef85f4",
+      "source": "ars",
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "summary": "It's probably time to audit your Gemini settings.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
+      "published_at": "2026-10-20T20:00:33Z",
+      "category": "AI"
+    },
+    {
+      "id": "58070a9057163ea30b3a",
+      "source": "ars",
+      "title": "OpenBSD 8.0 arrives with security record still intact",
+      "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-e1792523267196.png",
+      "published_at": "2026-10-20T19:57:18Z",
+      "category": "Tech"
+    },
+    {
+      "id": "908e88f0f410b6428811",
+      "source": "ars",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "published_at": "2026-10-20T19:47:35Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "7b4282bb0bf4fc9ab34c",
+      "source": "ars",
+      "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+      "url": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+      "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg",
+      "published_at": "2026-10-20T19:25:14Z",
+      "category": "Policy"
+    },
+    {
+      "id": "1622498eca9511dc2599",
+      "source": "ars",
+      "title": "Does anyone actually want to win the medium-lift race in the United States?",
+      "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+      "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke-second-stage-1152x648.jpg",
+      "published_at": "2026-10-20T19:13:31Z",
+      "category": "Space"
+    },
+    {
+      "id": "09dc91d9d661bedae5c7",
+      "source": "ars",
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-1152x648.jpg",
+      "published_at": "2026-10-20T18:22:54Z",
+      "category": "AI"
+    },
+    {
+      "id": "924ca0412cabdf50976e",
+      "source": "ars",
+      "title": "Quantum error correction goes well beyond breakeven",
+      "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+      "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
+      "published_at": "2026-10-20T18:08:57Z",
+      "category": "Science"
+    },
+    {
+      "id": "804310d579a8b7118a4f",
+      "source": "wired",
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+      "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg",
+      "published_at": "2026-10-20T17:41:58Z",
+      "category": "Business"
+    },
+    {
+      "id": "7491d8f09cb27b38bd21",
+      "source": "ars",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
+      "published_at": "2026-10-20T17:40:20Z",
+      "category": "AI"
+    },
+    {
+      "id": "aa380fdc531927ded515",
+      "source": "wired",
+      "title": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
+      "url": "https://www.wired.com/review/review-hatch-sleep-clock/",
+      "summary": "I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?",
+      "image": "https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg",
+      "published_at": "2026-10-20T16:03:17Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b54923a198cb882cb538",
+      "source": "wired",
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg",
+      "published_at": "2026-10-20T15:07:43Z",
+      "category": "Culture"
+    },
+    {
+      "id": "b911b843eb8a984b90be",
+      "source": "ars",
+      "title": "Polestar tries to quantify what it’s like to drive a performance car",
+      "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+      "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg",
+      "published_at": "2026-10-20T14:53:07Z",
+      "category": "Cars"
+    },
+    {
+      "id": "cedfc123bce623c302a0",
+      "source": "ars",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+      "published_at": "2026-10-20T12:33:13Z",
+      "category": "AI"
+    },
+    {
+      "id": "841a599a73fdaf669bc2",
+      "source": "ars",
+      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro-1152x648.jpg",
+      "published_at": "2026-10-20T11:00:16Z",
+      "category": "Cars"
+    },
+    {
+      "id": "af543f0471accd4775ff",
+      "source": "wired",
+      "title": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
+      "url": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
+      "summary": "The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete.",
+      "image": "https://media.wired.com/photos/6ad67b40b1e2ce8d04a898c4/master/pass/Sony%20ULT%20Tower%207%20Speaker%20Deal%20102026%20top%20art%20SOURCE%20Sony.jpg",
+      "published_at": "2026-10-20T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d5a8da58bea7ac3c2a74",
+      "source": "wired",
+      "title": "The Physics Behind Tesla’s Flying Roadster",
+      "url": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
+      "summary": "To understand how Elon’s new car hops, glides, and sticks upside down, we need to talk about friction and force.",
+      "image": "https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/master/pass/Roadster_56.jpg",
+      "published_at": "2026-10-20T10:45:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "0334ecc109485182b9a9",
+      "source": "wired",
+      "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
+      "url": "https://www.wired.com/story/final-fantasy-vii-revelation/",
+      "summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
+      "image": "https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png",
+      "published_at": "2026-10-20T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1e962ae29589301fc675",
+      "source": "wired",
+      "title": "Sexual Assault Is a Free Speech Issue",
+      "url": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
+      "summary": "Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”",
+      "image": "https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg",
+      "published_at": "2026-10-20T10:30:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "9cc3795cb99cc6ed6c36",
+      "source": "wired",
+      "title": "Organic Mattress Sale: 20 Percent Off Essentia Beds",
+      "url": "https://www.wired.com/story/essentia-sale-october-2026/",
+      "summary": "Sleep healthier this winter with an organic mattress—now on heavy discount through November 2.",
+      "image": "https://media.wired.com/photos/6ad674bb43f8fc6e5c00cffe/master/pass/My%20Favorite%20Organic%20Mattress%20Is%20Discounted%20Right%20Now%20102026%20top%20art%20SOURCE%20Essentia.jpg",
+      "published_at": "2026-10-20T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "df78d5f7a82802ff78de",
+      "source": "wired",
+      "title": "They Fled Trump’s America. Now They Regret It",
+      "url": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+      "summary": "The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.",
+      "image": "https://media.wired.com/photos/6ab68ffabc7793cf754904bd/master/pass/Final_Art.jpg",
+      "published_at": "2026-10-20T10:22:23Z",
+      "category": "Culture"
+    },
+    {
+      "id": "e07da5c554beeaaeee2e",
+      "source": "wired",
+      "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
+      "url": "https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups/",
+      "summary": "By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.",
+      "image": "https://media.wired.com/photos/6ad671268983de0c2300263d/master/pass/GettyImages-1408776216.jpg",
+      "published_at": "2026-10-20T10:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "14c839139dd2c962f853",
+      "source": "wired",
+      "title": "Demi Adejuyigbe Thinks You Should Only Post 3 Times a Day",
+      "url": "https://www.wired.com/story/demi-adejuyigbe-user-behavior/",
+      "summary": "The comedian sees being online as similar to visiting the zoo. “I don’t need to interact with that,” he says. “It’s just a thing that I enjoy, and then I walk away.”",
+      "image": "https://media.wired.com/photos/6ad6481c78f42295d534e05f/master/pass/user_behavior_demi_adejuyigbe.jpg",
+      "published_at": "2026-10-20T10:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "b8b1d40f89ac632d5664",
+      "source": "wired",
+      "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
+      "url": "https://www.wired.com/gallery/best-ai-notetakers/",
+      "summary": "A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them. Here are our favorites.",
+      "image": "https://media.wired.com/photos/6ad696c9a81e4c7e1674b90b/master/pass/Best%20AI%20Notetakers%20(Update%20Oct%202026)%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-20T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4a6b808faa08e99654f9",
+      "source": "wired",
+      "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
+      "url": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/",
+      "summary": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy.",
+      "image": "https://media.wired.com/photos/6ad642584427daea1862e237/master/pass/2255213382",
+      "published_at": "2026-10-20T09:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "cc924063ed57a18f55c7",
+      "source": "ars",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
+      "published_at": "2026-10-20T05:59:56Z",
+      "category": "Science"
+    },
+    {
+      "id": "56a2e4d6a03304104069",
+      "source": "wired",
+      "title": "Wayfair Coupons: Up to 80% Off October 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "62dbba02251e08ab8e30",
+      "source": "wired",
+      "title": "50% Off DoorDash Promo Code | October 2026",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4b426cf7a03849354e86",
+      "source": "wired",
+      "title": "Chewy Promo Codes: $20 Off October 2026",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b85c67f0c41fcf2beee1",
+      "source": "wired",
+      "title": "30% Off Canon Promo Codes | October 2026",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2f328cf41beeca8ce08a",
+      "source": "wired",
+      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b0e25edfcc07de1ed70a",
+      "source": "wired",
+      "title": "Mattress Firm Coupons: Save up to $700",
+      "url": "https://www.wired.com/story/mattress-firm-coupon/",
+      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e135c9b0583ca71a3682",
+      "source": "wired",
+      "title": "Mint Mobile Discounts for October 2026",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3b16f44023252999ad43",
+      "source": "wired",
+      "title": "Whoop Promo Codes: 20% Off This October 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a07babc3363ed6be2aad",
+      "source": "wired",
+      "title": "Home Chef Promo Codes for October 2026",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a955aeeaf7b6e6f17608",
+      "source": "wired",
+      "title": "AT&T Promo Codes: $50 Off This October 2026",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d9003daea344d6b1605e",
+      "source": "wired",
+      "title": "eBay Coupons: 20% Off in October 2026",
+      "url": "https://www.wired.com/story/ebay-coupon-code/",
+      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-10-20T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8b7f89bcb022f6da1a3d",
+      "source": "ars",
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
+      "published_at": "2026-10-19T22:44:26Z",
+      "category": "Health"
+    },
+    {
+      "id": "d9a896c4650400da6dec",
+      "source": "wired",
+      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
+      "url": "https://www.wired.com/story/power-bank-deals-october-2026/",
+      "summary": "You can never have too many portable chargers, especially when they’re this discounted.",
+      "image": "https://media.wired.com/photos/6ad6814fc2cc5f3eed50f4a6/master/pass/Power%20Bank%20Deals%20Post%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-19T20:55:15Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b312bd119da7b08db411",
+      "source": "ars",
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
+      "published_at": "2026-10-19T20:54:17Z",
+      "category": "Science"
+    },
+    {
+      "id": "a8298a45bd3195821c22",
+      "source": "ars",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
+      "published_at": "2026-10-19T20:21:53Z",
+      "category": "AI"
+    },
+    {
+      "id": "5e49087e08d361fa5dce",
+      "source": "wired",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "image": "https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg",
+      "published_at": "2026-10-19T19:49:17Z",
+      "category": "Business"
+    },
+    {
+      "id": "207336c0ac32c05bcf61",
+      "source": "wired",
+      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
+      "url": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
+      "summary": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
+      "image": "https://media.wired.com/photos/6ad66eab8983de0c23002637/master/pass/Holiday%20Card%20Sale%20102026%20top%20art%20SOURCE%20Mixbook.jpg",
+      "published_at": "2026-10-19T19:43:22Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b3ea57cd6040050bf6fe",
+      "source": "wired",
+      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
+      "url": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
+      "summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
+      "image": "https://media.wired.com/photos/6ad6231e8983de0c230024ad/master/pass/GettyImages-1266839449.jpg",
+      "published_at": "2026-10-19T18:55:05Z",
+      "category": "Politics"
+    },
+    {
+      "id": "d0706631dac679527552",
+      "source": "wired",
+      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+      "url": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+      "summary": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
+      "image": "https://media.wired.com/photos/6ad0c058fa571af93e340368/master/pass/JAXA.jpg",
+      "published_at": "2026-10-19T18:45:06Z",
+      "category": "Science"
+    },
+    {
+      "id": "f1471b401046d6b9256e",
+      "source": "wired",
+      "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
+      "url": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
+      "summary": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts.",
+      "image": "https://media.wired.com/photos/6ad63be5ae9c6872d8862277/master/pass/Get%20Your%20Kitchen%20Thanksgiving-Ready%20With%20All-Clad%E2%80%99s%20Factory%20Seconds%20Sale%20102026%20top%20art%20SOURCE%20All-Clad.jpg",
+      "published_at": "2026-10-19T16:10:40Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5891cc331ca14a70e652",
+      "source": "wired",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "image": "https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg",
+      "published_at": "2026-10-19T16:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "40199619867e303393ff",
+      "source": "wired",
+      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
+      "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
+      "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
+      "image": "https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg",
+      "published_at": "2026-10-19T11:30:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "3f67d8fc4c5b12e571df",
+      "source": "wired",
+      "title": "How the Xbox’s Disc-to-Digital Program Works",
+      "url": "https://www.wired.com/story/xbox-disc-to-digital/",
+      "summary": "Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.",
+      "image": "https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg",
+      "published_at": "2026-10-19T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a4951638a8e590d8c6a6",
+      "source": "wired",
+      "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
+      "url": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/",
+      "summary": "In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.",
+      "image": "https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg",
+      "published_at": "2026-10-19T10:30:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "c228a118a7bfeaad3273",
+      "source": "wired",
+      "title": "The Story of Billy Evans and ‘Theranos 2.0’",
+      "url": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/",
+      "summary": "Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?",
+      "image": "https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg",
+      "published_at": "2026-10-19T10:00:00Z",
+      "category": "The Big Story"
+    }
+  ]
 }

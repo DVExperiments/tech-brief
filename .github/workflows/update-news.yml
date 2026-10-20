@@ -1,0 +1,41 @@
+name: Update tech news
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Twice per hour, offset from the busiest exact-hour GitHub cron times.
+    - cron: '17,47 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-brief-feed-update
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh RSS snapshot
+        run: python scripts/update_feeds.py
+      - name: Commit new headlines if they changed
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No new headlines to publish."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/news.json
+          git commit -m 'Update technology news snapshot'
+          git push

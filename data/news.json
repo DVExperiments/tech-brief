@@ -1,37 +1,257 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T07:40:42Z",
+  "updated_at": "2026-10-21T13:15:22Z",
   "sources": {
     "verge": {
       "status": "ok",
-      "count": 11,
-      "last_success_at": "2026-10-21T07:40:42Z",
+      "count": 16,
+      "last_success_at": "2026-10-21T13:15:21Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-21T07:40:42Z",
+      "last_success_at": "2026-10-21T13:15:21Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 10,
-      "last_success_at": "2026-10-21T07:40:42Z",
+      "count": 18,
+      "last_success_at": "2026-10-21T13:15:22Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 21,
-      "last_success_at": "2026-10-21T07:40:42Z",
+      "last_success_at": "2026-10-21T13:15:22Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "8ab9d5679ed76e86b574",
+      "source": "wired",
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "image": "https://media.wired.com/photos/6ad7df7552635a2423fcfe8e/master/pass/GettyImages-2297134397.jpg",
+      "published_at": "2026-10-21T12:35:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "bd3de5409d4a74ca59b3",
+      "source": "verge",
+      "title": "I reviewed the iPhone Duo, ask me anything",
+      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+      "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review…",
+      "image": "",
+      "published_at": "2026-10-21T12:15:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "639c79b6b203efb18594",
+      "source": "mit",
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026…",
+      "image": "",
+      "published_at": "2026-10-21T12:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "911d146ce26737780560",
+      "source": "verge",
+      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+      "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+      "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi…",
+      "image": "",
+      "published_at": "2026-10-21T12:00:00Z",
+      "category": "Android"
+    },
+    {
+      "id": "2cbd582da33abf1296eb",
+      "source": "verge",
+      "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+      "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+      "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been…",
+      "image": "",
+      "published_at": "2026-10-21T12:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "5cb70f66417a36d04e7e",
+      "source": "verge",
+      "title": "The iPhone Duo is a messy, expensive, good time",
+      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+      "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future…",
+      "image": "",
+      "published_at": "2026-10-21T12:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "f91dddfb1662d2055c1b",
+      "source": "wired",
+      "title": "Apple iPhone Duo Review: Is It Worth It?",
+      "url": "https://www.wired.com/review/apple-iphone-duo/",
+      "summary": "Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up.",
+      "image": "https://media.wired.com/photos/6ad7940031b157a7a885ace4/master/pass/DSC_9923.jpg",
+      "published_at": "2026-10-21T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6dea86b0554859d2b8b1",
+      "source": "verge",
+      "title": "A critical PHP vulnerability may take websites down today",
+      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+      "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the…",
+      "image": "",
+      "published_at": "2026-10-21T11:49:17Z",
+      "category": "News"
+    },
+    {
+      "id": "b8d2a96e96b922494bf5",
+      "source": "wired",
+      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+      "image": "https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg",
+      "published_at": "2026-10-21T11:08:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "02309ba9c70d7c2a5b31",
+      "source": "wired",
+      "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
+      "url": "https://www.wired.com/story/make-big-games-smaller/",
+      "summary": "Between crushing layoffs, ballooning budgets, and bland end products, video game makers need to stop chasing AAA glory.",
+      "image": "https://media.wired.com/photos/6ad7a0764809649ec79b3fcd/master/pass/Jason_and_Lucia_02.jpg",
+      "published_at": "2026-10-21T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "94f43188f06ac0af7dd4",
+      "source": "wired",
+      "title": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
+      "url": "https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/",
+      "summary": "Ultra Right Beer, a brand launched in 2023 by MAGA political consultant Seth Weathers, has vanished from the internet with many deliveries unfulfilled.",
+      "image": "https://media.wired.com/photos/6acfffd479c07b8988eb427e/master/pass/culture_anti_woke_ultra_right_beer.jpg",
+      "published_at": "2026-10-21T10:45:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "6e5ae78f7faeb07ced4a",
+      "source": "wired",
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "image": "https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg",
+      "published_at": "2026-10-21T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "9358ee76f83fac48c4be",
+      "source": "wired",
+      "title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
+      "url": "https://www.wired.com/gallery/best-hearing-aids/",
+      "summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
+      "image": "https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg",
+      "published_at": "2026-10-21T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "62f173d1b9b29a900393",
+      "source": "wired",
+      "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
+      "url": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
+      "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.",
+      "image": "https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg",
+      "published_at": "2026-10-21T10:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "ea9842a86133ea721d45",
+      "source": "mit",
+      "title": "We can do impossible things",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "849357e115380585b32f",
+      "source": "mit",
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Space"
+    },
+    {
+      "id": "dae01e7e532f8cc813fa",
+      "source": "mit",
+      "title": "Exercise in a pill",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Biotechnology and health"
+    },
+    {
+      "id": "a31b418a77cf79b07a43",
+      "source": "mit",
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "2fd13aaefe727c23992b",
+      "source": "mit",
+      "title": "Cleaning up PFAS",
+      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "00e264be6dfe12013f50",
+      "source": "mit",
+      "title": "Solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "42c9f9a7b7231b7f8438",
+      "source": "mit",
+      "title": "Eliminating traffic deaths",
+      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on…",
+      "image": "",
+      "published_at": "2026-10-21T09:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "6e91740c9b622c9ccf6f",
+      "source": "wired",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+      "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "image": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
+      "published_at": "2026-10-21T08:30:00Z",
+      "category": "Business"
+    },
     {
       "id": "f68ad0c39266083ecb55",
       "source": "wired",
@@ -693,46 +913,6 @@
       "category": "Gear"
     },
     {
-      "id": "3b16f44023252999ad43",
-      "source": "wired",
-      "title": "Whoop Promo Codes: 20% Off This October 2026",
-      "url": "https://www.wired.com/story/whoop-promo-code/",
-      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a07babc3363ed6be2aad",
-      "source": "wired",
-      "title": "Home Chef Promo Codes for October 2026",
-      "url": "https://www.wired.com/story/home-chef-promo-code/",
-      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a955aeeaf7b6e6f17608",
-      "source": "wired",
-      "title": "AT&T Promo Codes: $50 Off This October 2026",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d9003daea344d6b1605e",
-      "source": "wired",
-      "title": "eBay Coupons: 20% Off in October 2026",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "8b7f89bcb022f6da1a3d",
       "source": "ars",
       "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
@@ -741,16 +921,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
       "published_at": "2026-10-19T22:44:26Z",
       "category": "Health"
-    },
-    {
-      "id": "d9a896c4650400da6dec",
-      "source": "wired",
-      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
-      "url": "https://www.wired.com/story/power-bank-deals-october-2026/",
-      "summary": "You can never have too many portable chargers, especially when they’re this discounted.",
-      "image": "https://media.wired.com/photos/6ad6814fc2cc5f3eed50f4a6/master/pass/Power%20Bank%20Deals%20Post%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-19T20:55:15Z",
-      "category": "Gear"
     },
     {
       "id": "b312bd119da7b08db411",
@@ -771,46 +941,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
       "published_at": "2026-10-19T20:21:53Z",
       "category": "AI"
-    },
-    {
-      "id": "5e49087e08d361fa5dce",
-      "source": "wired",
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "image": "https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg",
-      "published_at": "2026-10-19T19:49:17Z",
-      "category": "Business"
-    },
-    {
-      "id": "207336c0ac32c05bcf61",
-      "source": "wired",
-      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
-      "url": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
-      "summary": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
-      "image": "https://media.wired.com/photos/6ad66eab8983de0c23002637/master/pass/Holiday%20Card%20Sale%20102026%20top%20art%20SOURCE%20Mixbook.jpg",
-      "published_at": "2026-10-19T19:43:22Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b3ea57cd6040050bf6fe",
-      "source": "wired",
-      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
-      "url": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
-      "summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
-      "image": "https://media.wired.com/photos/6ad6231e8983de0c230024ad/master/pass/GettyImages-1266839449.jpg",
-      "published_at": "2026-10-19T18:55:05Z",
-      "category": "Politics"
-    },
-    {
-      "id": "d0706631dac679527552",
-      "source": "wired",
-      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
-      "url": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
-      "summary": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
-      "image": "https://media.wired.com/photos/6ad0c058fa571af93e340368/master/pass/JAXA.jpg",
-      "published_at": "2026-10-19T18:45:06Z",
-      "category": "Science"
     }
   ]
 }

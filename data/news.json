@@ -1,37 +1,257 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T13:15:22Z",
+  "updated_at": "2026-10-21T18:06:40Z",
   "sources": {
     "verge": {
       "status": "ok",
-      "count": 16,
-      "last_success_at": "2026-10-21T13:15:21Z",
+      "count": 26,
+      "last_success_at": "2026-10-21T18:06:39Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-21T13:15:21Z",
+      "last_success_at": "2026-10-21T18:06:39Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 18,
-      "last_success_at": "2026-10-21T13:15:22Z",
+      "last_success_at": "2026-10-21T18:06:40Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
-      "count": 21,
-      "last_success_at": "2026-10-21T13:15:22Z",
+      "count": 25,
+      "last_success_at": "2026-10-21T18:06:40Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "5317d6ac2fc8e5614529",
+      "source": "verge",
+      "title": "Will TP-Link really make routers in the US? Here’s what it told us",
+      "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+      "summary": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of…",
+      "image": "",
+      "published_at": "2026-10-21T18:00:00Z",
+      "category": "Policy"
+    },
+    {
+      "id": "871d1dbb085d336e718f",
+      "source": "verge",
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech…",
+      "image": "",
+      "published_at": "2026-10-21T18:00:00Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "c7a246a9edd4e889d008",
+      "source": "verge",
+      "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
+      "url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+      "summary": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of…",
+      "image": "",
+      "published_at": "2026-10-21T18:00:00Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "a0a04ae7b3249eabeedb",
+      "source": "wired",
+      "title": "GM Wants Your Car to Do Your Chores",
+      "url": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+      "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
+      "image": "https://media.wired.com/photos/6ad86a30ddab9d722491775f/master/pass/2027%20Cadillac%20Escalade%20IQ.jpg",
+      "published_at": "2026-10-21T18:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c447d88a17b96bd86128",
+      "source": "verge",
+      "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
+      "summary": "If you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like a piece of framed art instead of a black, monolithic rectangle…",
+      "image": "",
+      "published_at": "2026-10-21T17:35:40Z",
+      "category": "Deals"
+    },
+    {
+      "id": "6d1adf1c277785f4b04e",
+      "source": "verge",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has…",
+      "image": "",
+      "published_at": "2026-10-21T17:19:07Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "d8995989a4bc383de72d",
+      "source": "wired",
+      "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
+      "url": "https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/",
+      "summary": "Samsung's Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.",
+      "image": "https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-21T17:00:15Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9f0f3ad0d4a66888129e",
+      "source": "verge",
+      "title": "They want your blood",
+      "url": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer…",
+      "image": "",
+      "published_at": "2026-10-21T17:00:00Z",
+      "category": "Column"
+    },
+    {
+      "id": "0cf71e46e9aea4d4d11a",
+      "source": "ars",
+      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+      "summary": "\"We have had significant constructive engagement with the FAA.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
+      "published_at": "2026-10-21T16:46:19Z",
+      "category": "Space"
+    },
+    {
+      "id": "c171e8311aa49516cdec",
+      "source": "verge",
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "url": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+      "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon…",
+      "image": "",
+      "published_at": "2026-10-21T16:05:51Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "fb2747b6e5790add337a",
+      "source": "wired",
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+      "image": "https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg",
+      "published_at": "2026-10-21T16:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "80b7de107257748e0581",
+      "source": "verge",
+      "title": "Apple Music has a new logo",
+      "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+      "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music…",
+      "image": "",
+      "published_at": "2026-10-21T15:48:12Z",
+      "category": "Apple"
+    },
+    {
+      "id": "08c74c99977fe0d3182d",
+      "source": "ars",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
+      "published_at": "2026-10-21T15:14:07Z",
+      "category": "AI"
+    },
+    {
+      "id": "5f276f600f7c27a2a05e",
+      "source": "wired",
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
+      "published_at": "2026-10-21T15:02:15Z",
+      "category": "Business"
+    },
+    {
+      "id": "b2dee7babe030afef6b8",
+      "source": "verge",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout…",
+      "image": "",
+      "published_at": "2026-10-21T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "268553d210fb42085721",
+      "source": "wired",
+      "title": "7 Best Phones You Can’t Buy in the US (2026)",
+      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
+      "summary": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
+      "image": "https://media.wired.com/photos/6ad7820d0f45928d2d3fc88c/master/pass/Best%20Non%20US%20Phones%20Update%201%20(cropped)%20SOURCE%20Simon%20Hill.jpg",
+      "published_at": "2026-10-21T15:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8311a372e54c57debb33",
+      "source": "verge",
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+      "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if…",
+      "image": "",
+      "published_at": "2026-10-21T14:47:14Z",
+      "category": "Deals"
+    },
+    {
+      "id": "5e74903b2575d04d9f7d",
+      "source": "wired",
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "image": "https://media.wired.com/photos/6ad8c3e67fa1a6118ccee121/master/pass/102126-PHP.jpg",
+      "published_at": "2026-10-21T14:26:19Z",
+      "category": "Security"
+    },
+    {
+      "id": "35ab2b62518f6f360826",
+      "source": "wired",
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
+      "published_at": "2026-10-21T14:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "0b8877c6c31aa284bd05",
+      "source": "wired",
+      "title": "Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI",
+      "url": "https://www.wired.com/story/darn-tough-sock-sale-october-2026/",
+      "summary": "Get ready for winter: Darn Tough socks are on sale at REI and come with a lifetime warranty.",
+      "image": "https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg",
+      "published_at": "2026-10-21T13:52:22Z",
+      "category": "Gear"
+    },
+    {
+      "id": "92c28ce8818af4a1c61c",
+      "source": "wired",
+      "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
+      "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
+      "summary": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
+      "image": "https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg",
+      "published_at": "2026-10-21T13:34:37Z",
+      "category": "Science"
+    },
+    {
+      "id": "b463cec8d0b8873fec7f",
+      "source": "wired",
+      "title": "Roku Pro Series OLED TV Review (2026)",
+      "url": "https://www.wired.com/review/roku-pro-series-oled/",
+      "summary": "It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.",
+      "image": "https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-21T13:21:18Z",
+      "category": "Gear"
+    },
     {
       "id": "8ab9d5679ed76e86b574",
       "source": "wired",
@@ -113,6 +333,16 @@
       "category": "News"
     },
     {
+      "id": "82943ee9eb28838647c2",
+      "source": "ars",
+      "title": "Review: Carrie is a triumphant remix with one major flaw",
+      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/carrieTOP-1152x648.jpg",
+      "published_at": "2026-10-21T11:19:12Z",
+      "category": "Culture"
+    },
+    {
       "id": "b8d2a96e96b922494bf5",
       "source": "wired",
       "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
@@ -121,6 +351,16 @@
       "image": "https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg",
       "published_at": "2026-10-21T11:08:00Z",
       "category": "Gear"
+    },
+    {
+      "id": "90918830f5ac9ba2bfbf",
+      "source": "ars",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "summary": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg",
+      "published_at": "2026-10-21T11:00:04Z",
+      "category": "Features"
     },
     {
       "id": "02309ba9c70d7c2a5b31",
@@ -803,36 +1043,6 @@
       "category": "Gear"
     },
     {
-      "id": "14c839139dd2c962f853",
-      "source": "wired",
-      "title": "Demi Adejuyigbe Thinks You Should Only Post 3 Times a Day",
-      "url": "https://www.wired.com/story/demi-adejuyigbe-user-behavior/",
-      "summary": "The comedian sees being online as similar to visiting the zoo. “I don’t need to interact with that,” he says. “It’s just a thing that I enjoy, and then I walk away.”",
-      "image": "https://media.wired.com/photos/6ad6481c78f42295d534e05f/master/pass/user_behavior_demi_adejuyigbe.jpg",
-      "published_at": "2026-10-20T10:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "b8b1d40f89ac632d5664",
-      "source": "wired",
-      "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
-      "url": "https://www.wired.com/gallery/best-ai-notetakers/",
-      "summary": "A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them. Here are our favorites.",
-      "image": "https://media.wired.com/photos/6ad696c9a81e4c7e1674b90b/master/pass/Best%20AI%20Notetakers%20(Update%20Oct%202026)%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-20T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4a6b808faa08e99654f9",
-      "source": "wired",
-      "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
-      "url": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/",
-      "summary": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy.",
-      "image": "https://media.wired.com/photos/6ad642584427daea1862e237/master/pass/2255213382",
-      "published_at": "2026-10-20T09:30:00Z",
-      "category": "Science"
-    },
-    {
       "id": "cc924063ed57a18f55c7",
       "source": "ars",
       "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
@@ -841,76 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
       "published_at": "2026-10-20T05:59:56Z",
       "category": "Science"
-    },
-    {
-      "id": "56a2e4d6a03304104069",
-      "source": "wired",
-      "title": "Wayfair Coupons: Up to 80% Off October 2026",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "62dbba02251e08ab8e30",
-      "source": "wired",
-      "title": "50% Off DoorDash Promo Code | October 2026",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4b426cf7a03849354e86",
-      "source": "wired",
-      "title": "Chewy Promo Codes: $20 Off October 2026",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b85c67f0c41fcf2beee1",
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | October 2026",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2f328cf41beeca8ce08a",
-      "source": "wired",
-      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
-      "url": "https://www.wired.com/story/adorama-promo-code/",
-      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b0e25edfcc07de1ed70a",
-      "source": "wired",
-      "title": "Mattress Firm Coupons: Save up to $700",
-      "url": "https://www.wired.com/story/mattress-firm-coupon/",
-      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e135c9b0583ca71a3682",
-      "source": "wired",
-      "title": "Mint Mobile Discounts for October 2026",
-      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
-      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-10-20T05:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "8b7f89bcb022f6da1a3d",

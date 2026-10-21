@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T23:40:50Z",
+  "updated_at": "2026-10-21T02:03:21Z",
   "sources": {
     "verge": {
       "status": "ok",
-      "count": 10,
-      "last_success_at": "2026-10-20T23:40:50Z",
+      "count": 11,
+      "last_success_at": "2026-10-21T02:03:20Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-20T23:40:50Z",
+      "last_success_at": "2026-10-21T02:03:20Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 10,
-      "last_success_at": "2026-10-20T23:40:50Z",
+      "last_success_at": "2026-10-21T02:03:20Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 20,
-      "last_success_at": "2026-10-20T23:40:50Z",
+      "last_success_at": "2026-10-21T02:03:21Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "29de9dd60985b7cb6fa0",
+      "source": "verge",
+      "title": "YouTube might be testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots…",
+      "image": "",
+      "published_at": "2026-10-21T00:00:56Z",
+      "category": "News"
+    },
     {
       "id": "fe3e9498d926dd061cdc",
       "source": "verge",

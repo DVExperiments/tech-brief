@@ -1,37 +1,247 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T18:06:40Z",
+  "updated_at": "2026-10-21T21:43:57Z",
   "sources": {
     "verge": {
       "status": "ok",
-      "count": 26,
-      "last_success_at": "2026-10-21T18:06:39Z",
+      "count": 36,
+      "last_success_at": "2026-10-21T21:43:57Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-21T18:06:39Z",
+      "last_success_at": "2026-10-21T21:43:57Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 18,
-      "last_success_at": "2026-10-21T18:06:40Z",
+      "last_success_at": "2026-10-21T21:43:57Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
-      "count": 25,
-      "last_success_at": "2026-10-21T18:06:40Z",
+      "count": 31,
+      "last_success_at": "2026-10-21T21:43:57Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "3d6eff868bdf173f190b",
+      "source": "verge",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential…",
+      "image": "",
+      "published_at": "2026-10-21T21:30:02Z",
+      "category": "AI"
+    },
+    {
+      "id": "b2ebd5edc1483b4d2c67",
+      "source": "wired",
+      "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
+      "url": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
+      "summary": "As the White House contemplates losing Congress, there has been an unusually early effort to find a Republican scapegoat.",
+      "image": "https://media.wired.com/photos/6ad7dddccd0792bc5939c725/master/pass/politics_republican_midterms_trump_blame.jpg",
+      "published_at": "2026-10-21T21:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "3aa71b5b4cbc20a127e5",
+      "source": "verge",
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's…",
+      "image": "",
+      "published_at": "2026-10-21T20:49:07Z",
+      "category": "Creators"
+    },
+    {
+      "id": "16c0315ca6fcdabeee1c",
+      "source": "verge",
+      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday…",
+      "image": "",
+      "published_at": "2026-10-21T20:46:56Z",
+      "category": "Meta"
+    },
+    {
+      "id": "6df3184d0ac091fa5f6f",
+      "source": "wired",
+      "title": "Trump Isn’t Even Good at TV Anymore",
+      "url": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
+      "summary": "From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.",
+      "image": "https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg",
+      "published_at": "2026-10-21T20:38:01Z",
+      "category": "Culture"
+    },
+    {
+      "id": "836ae62a45a686921d2d",
+      "source": "verge",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in…",
+      "image": "",
+      "published_at": "2026-10-21T20:36:56Z",
+      "category": "News"
+    },
+    {
+      "id": "86bf332b6b6e8b42ffc7",
+      "source": "verge",
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion…",
+      "image": "",
+      "published_at": "2026-10-21T20:22:31Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "44c3d59ff9eb3ec75bd6",
+      "source": "verge",
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+      "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio…",
+      "image": "",
+      "published_at": "2026-10-21T20:15:00Z",
+      "category": "Audio"
+    },
+    {
+      "id": "525206dc90cffcccae76",
+      "source": "wired",
+      "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
+      "url": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
+      "summary": "By keeping Skullcandy in Park City, Utah, Bose is betting that skate cred and budget pricing will reach listeners it’s been missing.",
+      "image": "https://media.wired.com/photos/6a560635c946b09bdcf9a518/master/pass/Skullcandy_Crusher_1080_ANC_Cement_S6CNW-U993_Press_Images_3840%20(1).jpg",
+      "published_at": "2026-10-21T20:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8b328d656890b11ce9f2",
+      "source": "verge",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with…",
+      "image": "",
+      "published_at": "2026-10-21T19:54:00Z",
+      "category": "Apps"
+    },
+    {
+      "id": "323fd4e51be3303f8d65",
+      "source": "verge",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to…",
+      "image": "",
+      "published_at": "2026-10-21T19:53:20Z",
+      "category": "AI"
+    },
+    {
+      "id": "53fcfe0625e4f7ae507f",
+      "source": "ars",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
+      "published_at": "2026-10-21T19:44:40Z",
+      "category": "AI"
+    },
+    {
+      "id": "73eba4709c66e40a8020",
+      "source": "verge",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set…",
+      "image": "",
+      "published_at": "2026-10-21T19:30:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "2ace82e3b87a178182e8",
+      "source": "ars",
+      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+      "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+      "summary": "Next Mass Effect project canceled as parent company lays off 400.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
+      "published_at": "2026-10-21T19:12:16Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "935b0f540ed132a02722",
+      "source": "verge",
+      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+      "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+      "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling…",
+      "image": "",
+      "published_at": "2026-10-21T19:02:49Z",
+      "category": "Meta"
+    },
+    {
+      "id": "b56c375bea19bc6be642",
+      "source": "ars",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
+      "published_at": "2026-10-21T18:51:42Z",
+      "category": "AI"
+    },
+    {
+      "id": "96b5f7ac87c16eb67abb",
+      "source": "wired",
+      "title": "Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget",
+      "url": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/",
+      "summary": "This feature-packed security camera is the perfect way to keep an eye on your home and fam from afar.",
+      "image": "https://media.wired.com/photos/6ad8d3bf28742edb9f78f8d1/master/pass/One%20of%20My%20Favorite%20Eufy%20Security%20Cameras%20Is%20On%20Sale%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-21T18:46:49Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9c9df00311f1767a7822",
+      "source": "wired",
+      "title": "Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)",
+      "url": "https://www.wired.com/story/ruggable-october-hosting-sale-2026/",
+      "summary": "If you’re going to nest, you might as well do it at a discount.",
+      "image": "https://media.wired.com/photos/6ad7f51365ca68303fb85227/master/pass/New%20Ruggable%20October%20Hosting%20Sale%20Post%20102026%20top%20art%20SOURCE%20Ruggable.jpg",
+      "published_at": "2026-10-21T18:43:42Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9ef96af931ad94968cd0",
+      "source": "ars",
+      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
+      "published_at": "2026-10-21T18:35:38Z",
+      "category": "Policy"
+    },
+    {
+      "id": "915d16f795aecc3f45cc",
+      "source": "ars",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
+      "published_at": "2026-10-21T18:20:40Z",
+      "category": "AI"
+    },
+    {
+      "id": "16bc6c42c185620ea2b5",
+      "source": "ars",
+      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+      "url": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+      "summary": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg",
+      "published_at": "2026-10-21T18:00:37Z",
+      "category": "Tech"
+    },
     {
       "id": "5317d6ac2fc8e5614529",
       "source": "verge",
@@ -97,7 +307,7 @@
       "source": "wired",
       "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
       "url": "https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/",
-      "summary": "Samsung's Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.",
+      "summary": "Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.",
       "image": "https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
       "published_at": "2026-10-21T17:00:15Z",
       "category": "Gear"
@@ -991,56 +1201,6 @@
       "image": "https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/master/pass/Roadster_56.jpg",
       "published_at": "2026-10-20T10:45:00Z",
       "category": "Science"
-    },
-    {
-      "id": "0334ecc109485182b9a9",
-      "source": "wired",
-      "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
-      "url": "https://www.wired.com/story/final-fantasy-vii-revelation/",
-      "summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
-      "image": "https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png",
-      "published_at": "2026-10-20T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1e962ae29589301fc675",
-      "source": "wired",
-      "title": "Sexual Assault Is a Free Speech Issue",
-      "url": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
-      "summary": "Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”",
-      "image": "https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg",
-      "published_at": "2026-10-20T10:30:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "9cc3795cb99cc6ed6c36",
-      "source": "wired",
-      "title": "Organic Mattress Sale: 20 Percent Off Essentia Beds",
-      "url": "https://www.wired.com/story/essentia-sale-october-2026/",
-      "summary": "Sleep healthier this winter with an organic mattress—now on heavy discount through November 2.",
-      "image": "https://media.wired.com/photos/6ad674bb43f8fc6e5c00cffe/master/pass/My%20Favorite%20Organic%20Mattress%20Is%20Discounted%20Right%20Now%20102026%20top%20art%20SOURCE%20Essentia.jpg",
-      "published_at": "2026-10-20T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "df78d5f7a82802ff78de",
-      "source": "wired",
-      "title": "They Fled Trump’s America. Now They Regret It",
-      "url": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
-      "summary": "The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.",
-      "image": "https://media.wired.com/photos/6ab68ffabc7793cf754904bd/master/pass/Final_Art.jpg",
-      "published_at": "2026-10-20T10:22:23Z",
-      "category": "Culture"
-    },
-    {
-      "id": "e07da5c554beeaaeee2e",
-      "source": "wired",
-      "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
-      "url": "https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups/",
-      "summary": "By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.",
-      "image": "https://media.wired.com/photos/6ad671268983de0c2300263d/master/pass/GettyImages-1408776216.jpg",
-      "published_at": "2026-10-20T10:15:00Z",
-      "category": "Gear"
     },
     {
       "id": "cc924063ed57a18f55c7",

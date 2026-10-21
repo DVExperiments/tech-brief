@@ -1,37 +1,107 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T02:03:21Z",
+  "updated_at": "2026-10-21T07:40:42Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 11,
-      "last_success_at": "2026-10-21T02:03:20Z",
+      "last_success_at": "2026-10-21T07:40:42Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-21T02:03:20Z",
+      "last_success_at": "2026-10-21T07:40:42Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 10,
-      "last_success_at": "2026-10-21T02:03:20Z",
+      "last_success_at": "2026-10-21T07:40:42Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
-      "count": 20,
-      "last_success_at": "2026-10-21T02:03:21Z",
+      "count": 21,
+      "last_success_at": "2026-10-21T07:40:42Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "f68ad0c39266083ecb55",
+      "source": "wired",
+      "title": "TurboTax Full Service Coupons This October 2026",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-10-21T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6d9851e55144c10884cd",
+      "source": "wired",
+      "title": "Home Depot Promo Codes: 30% Off in October 2026",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-10-21T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ce4b29e12ad2a4415cbd",
+      "source": "wired",
+      "title": "Udemy Coupon Codes: 20% Off October 2026",
+      "url": "https://www.wired.com/story/udemy-promo-code/",
+      "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-10-21T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0260110bde917509701a",
+      "source": "wired",
+      "title": "Ulta Promo Codes: Up to 20% Off in October 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-10-21T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b4153dfd8cdc12b69f2b",
+      "source": "wired",
+      "title": "20% Off Sephora Promo Code | October 2026",
+      "url": "https://www.wired.com/story/sephora-promo-code/",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-10-21T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "551c7c70d08fa6150abf",
+      "source": "wired",
+      "title": "LG Promo Codes and Coupons for October 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-10-21T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "aa602e9ca63a84ab5dbc",
+      "source": "ars",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "published_at": "2026-10-21T02:12:18Z",
+      "category": "Biz & IT"
+    },
     {
       "id": "29de9dd60985b7cb6fa0",
       "source": "verge",
@@ -741,66 +811,6 @@
       "image": "https://media.wired.com/photos/6ad0c058fa571af93e340368/master/pass/JAXA.jpg",
       "published_at": "2026-10-19T18:45:06Z",
       "category": "Science"
-    },
-    {
-      "id": "f1471b401046d6b9256e",
-      "source": "wired",
-      "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
-      "url": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
-      "summary": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts.",
-      "image": "https://media.wired.com/photos/6ad63be5ae9c6872d8862277/master/pass/Get%20Your%20Kitchen%20Thanksgiving-Ready%20With%20All-Clad%E2%80%99s%20Factory%20Seconds%20Sale%20102026%20top%20art%20SOURCE%20All-Clad.jpg",
-      "published_at": "2026-10-19T16:10:40Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5891cc331ca14a70e652",
-      "source": "wired",
-      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
-      "image": "https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg",
-      "published_at": "2026-10-19T16:00:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "40199619867e303393ff",
-      "source": "wired",
-      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
-      "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
-      "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
-      "image": "https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg",
-      "published_at": "2026-10-19T11:30:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "3f67d8fc4c5b12e571df",
-      "source": "wired",
-      "title": "How the Xbox’s Disc-to-Digital Program Works",
-      "url": "https://www.wired.com/story/xbox-disc-to-digital/",
-      "summary": "Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.",
-      "image": "https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg",
-      "published_at": "2026-10-19T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a4951638a8e590d8c6a6",
-      "source": "wired",
-      "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
-      "url": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/",
-      "summary": "In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.",
-      "image": "https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg",
-      "published_at": "2026-10-19T10:30:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "c228a118a7bfeaad3273",
-      "source": "wired",
-      "title": "The Story of Billy Evans and ‘Theranos 2.0’",
-      "url": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/",
-      "summary": "Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?",
-      "image": "https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg",
-      "published_at": "2026-10-19T10:00:00Z",
-      "category": "The Big Story"
     }
   ]
 }

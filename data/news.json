@@ -1,37 +1,117 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T21:43:57Z",
+  "updated_at": "2026-10-22T00:15:42Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-21T21:43:57Z",
+      "last_success_at": "2026-10-22T00:15:42Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-21T21:43:57Z",
+      "last_success_at": "2026-10-22T00:15:42Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 18,
-      "last_success_at": "2026-10-21T21:43:57Z",
+      "last_success_at": "2026-10-22T00:15:42Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
-      "count": 31,
-      "last_success_at": "2026-10-21T21:43:57Z",
+      "count": 34,
+      "last_success_at": "2026-10-22T00:15:42Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0d7d098eb2916de8bb1e",
+      "source": "verge",
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu…",
+      "image": "",
+      "published_at": "2026-10-21T23:46:45Z",
+      "category": "Creators"
+    },
+    {
+      "id": "78afa3cd9fb9dfdf1a0c",
+      "source": "verge",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter…",
+      "image": "",
+      "published_at": "2026-10-21T23:36:31Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "02124d94e82b89774642",
+      "source": "wired",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg",
+      "published_at": "2026-10-21T22:39:50Z",
+      "category": "Business"
+    },
+    {
+      "id": "1a8e9bcd89130ff3e248",
+      "source": "verge",
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed…",
+      "image": "",
+      "published_at": "2026-10-21T22:33:44Z",
+      "category": "AI"
+    },
+    {
+      "id": "88cd26de88aa58cab1b1",
+      "source": "ars",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg",
+      "published_at": "2026-10-21T22:06:07Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "7465d57fde0d78f09134",
+      "source": "wired",
+      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+      "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+      "summary": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.",
+      "image": "https://media.wired.com/photos/6ad8f12cba3e5597384c89ad/master/pass/Business_Airbnb%20Hosts%20Are%20Furious%20They%20Can%20No%20Longer%20Make%20Guests%20Do%20Their%20Chores_v2.jpg",
+      "published_at": "2026-10-21T21:57:22Z",
+      "category": "Business"
+    },
+    {
+      "id": "ada218f4b8d8246c6820",
+      "source": "ars",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
+      "published_at": "2026-10-21T21:48:52Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "1008f1c0e97f9fe6a9ca",
+      "source": "ars",
+      "title": "Tesla profits drop 43% in Q3",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg",
+      "published_at": "2026-10-21T21:35:07Z",
+      "category": "Cars"
+    },
     {
       "id": "3d6eff868bdf173f190b",
       "source": "verge",
@@ -993,26 +1073,6 @@
       "category": "AR"
     },
     {
-      "id": "6c7ff8aa259d53aec890",
-      "source": "verge",
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in…",
-      "image": "",
-      "published_at": "2026-10-20T20:26:58Z",
-      "category": "News"
-    },
-    {
-      "id": "ab3b438ae0a8e8fbb92a",
-      "source": "verge",
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health…",
-      "image": "",
-      "published_at": "2026-10-20T20:26:04Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "7f9a5eec2c3d6e07b1a1",
       "source": "ars",
       "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
@@ -1021,16 +1081,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png",
       "published_at": "2026-10-20T20:20:12Z",
       "category": "Tech"
-    },
-    {
-      "id": "10ebb7561b1f487a204a",
-      "source": "verge",
-      "title": "TikTok has started censoring searches for popular peptides",
-      "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased…",
-      "image": "",
-      "published_at": "2026-10-20T20:16:04Z",
-      "category": "Creators"
     },
     {
       "id": "245a3ccab67a7d11973d",
@@ -1181,26 +1231,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro-1152x648.jpg",
       "published_at": "2026-10-20T11:00:16Z",
       "category": "Cars"
-    },
-    {
-      "id": "af543f0471accd4775ff",
-      "source": "wired",
-      "title": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
-      "url": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
-      "summary": "The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete.",
-      "image": "https://media.wired.com/photos/6ad67b40b1e2ce8d04a898c4/master/pass/Sony%20ULT%20Tower%207%20Speaker%20Deal%20102026%20top%20art%20SOURCE%20Sony.jpg",
-      "published_at": "2026-10-20T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d5a8da58bea7ac3c2a74",
-      "source": "wired",
-      "title": "The Physics Behind Tesla’s Flying Roadster",
-      "url": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
-      "summary": "To understand how Elon’s new car hops, glides, and sticks upside down, we need to talk about friction and force.",
-      "image": "https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/master/pass/Roadster_56.jpg",
-      "published_at": "2026-10-20T10:45:00Z",
-      "category": "Science"
     },
     {
       "id": "cc924063ed57a18f55c7",

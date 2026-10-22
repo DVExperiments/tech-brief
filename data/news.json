@@ -1,37 +1,227 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T10:12:16Z",
+  "updated_at": "2026-10-22T15:18:23Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T10:12:16Z",
+      "last_success_at": "2026-10-22T15:18:22Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T10:12:16Z",
+      "last_success_at": "2026-10-22T15:18:22Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 19,
-      "last_success_at": "2026-10-22T10:12:16Z",
+      "count": 22,
+      "last_success_at": "2026-10-22T15:18:22Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
-      "count": 35,
-      "last_success_at": "2026-10-22T10:12:16Z",
+      "count": 36,
+      "last_success_at": "2026-10-22T15:18:23Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "c28c1ebcb9b8ff005526",
+      "source": "verge",
+      "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+      "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+      "summary": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a…",
+      "image": "",
+      "published_at": "2026-10-22T15:14:20Z",
+      "category": "Apple"
+    },
+    {
+      "id": "04068edf5ce23d254002",
+      "source": "verge",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress…",
+      "image": "",
+      "published_at": "2026-10-22T15:12:27Z",
+      "category": "AI"
+    },
+    {
+      "id": "dafd1076cf96a3671782",
+      "source": "verge",
+      "title": "You could just get a refurbished Samsung phone on Amazon",
+      "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
+      "summary": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with…",
+      "image": "",
+      "published_at": "2026-10-22T14:55:29Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "66115deaced006ce706f",
+      "source": "verge",
+      "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+      "url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+      "summary": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are…",
+      "image": "",
+      "published_at": "2026-10-22T14:41:02Z",
+      "category": "Deals"
+    },
+    {
+      "id": "f4fe48158fc7f4b7a637",
+      "source": "verge",
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+      "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+      "summary": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that…",
+      "image": "",
+      "published_at": "2026-10-22T14:24:49Z",
+      "category": "Android"
+    },
+    {
+      "id": "db36bc11389d51a9d948",
+      "source": "verge",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few…",
+      "image": "",
+      "published_at": "2026-10-22T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "775cadf095b2f9de6b18",
+      "source": "verge",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's…",
+      "image": "",
+      "published_at": "2026-10-22T13:20:37Z",
+      "category": "Apple"
+    },
+    {
+      "id": "353eaf4b8c65801fa9d1",
+      "source": "verge",
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
+      "summary": "Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On…",
+      "image": "",
+      "published_at": "2026-10-22T13:17:59Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "fafac867d46f70c100b9",
+      "source": "ars",
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+      "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+      "summary": "General Motors' plans will require quite a lot of customers' trust.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/OnStar-AI-Assistant-1152x648.jpg",
+      "published_at": "2026-10-22T13:04:32Z",
+      "category": "Cars"
+    },
+    {
+      "id": "61c42046fbb571ccec4a",
+      "source": "verge",
+      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
+      "url": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen",
+      "summary": "Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced…",
+      "image": "",
+      "published_at": "2026-10-22T13:00:00Z",
+      "category": "Audio"
+    },
+    {
+      "id": "b33971fbbed9b763755d",
+      "source": "verge",
+      "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
+      "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
+      "summary": "Birdbuddy is finally launching the new smart bird feeders it originally announced at CES 2026 earlier this year, but with new names. The Birdbuddy 2 Mini is now called the Birdbuddy Nook, and it is designed to be a…",
+      "image": "",
+      "published_at": "2026-10-22T13:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "852025f4fb4884d5ad9e",
+      "source": "wired",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg",
+      "published_at": "2026-10-22T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8216b37b172b934ece60",
+      "source": "mit",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist…",
+      "image": "",
+      "published_at": "2026-10-22T12:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "fd8f8c5edbd348d97272",
+      "source": "ars",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg",
+      "published_at": "2026-10-22T11:30:33Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "e09ee89c94ead4ca1d50",
+      "source": "ars",
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+      "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2170672849-1152x648.jpg",
+      "published_at": "2026-10-22T11:15:36Z",
+      "category": "Policy"
+    },
+    {
+      "id": "282ee297dcf0d9b1e862",
+      "source": "wired",
+      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+      "url": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+      "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
+      "image": "https://media.wired.com/photos/6ad8bdd4ba3e5597384c8379/master/pass/update%20best%20surface%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-22T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "cbf7bb6adff4802e8f60",
+      "source": "wired",
+      "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+      "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+      "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads model at the beginning of this year.",
+      "image": "https://media.wired.com/photos/6ad9d068ec7a57895da5d773/master/pass/GettyImages-2296209094.jpg",
+      "published_at": "2026-10-22T10:43:13Z",
+      "category": "Business"
+    },
+    {
+      "id": "b18174583e813ebf4bc6",
+      "source": "wired",
+      "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "url": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+      "summary": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
+      "image": "https://media.wired.com/photos/6ad935fd8dbac9acb33aa1cc/master/pass/DSC_9943.jpg",
+      "published_at": "2026-10-22T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ddaae5192770e961f118",
+      "source": "wired",
+      "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+      "url": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+      "summary": "A host of election-denying candidates are running for attorney general in states across the country.",
+      "image": "https://media.wired.com/photos/6ad17dc0a804ead0a674cfcd/master/pass/Election-Deniers-Politics.jpg",
+      "published_at": "2026-10-22T10:15:00Z",
+      "category": "Photo"
+    },
     {
       "id": "9a048c4aa86ddf5fcd80",
       "source": "wired",
@@ -51,6 +241,26 @@
       "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif",
       "published_at": "2026-10-22T10:00:00Z",
       "category": "Science"
+    },
+    {
+      "id": "08b264e9072926c35d3f",
+      "source": "mit",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the…",
+      "image": "",
+      "published_at": "2026-10-22T10:00:00Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "a5d26374cd82ce7a73d1",
+      "source": "mit",
+      "title": "Three things you should know about permafrost",
+      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it…",
+      "image": "",
+      "published_at": "2026-10-22T10:00:00Z",
+      "category": "Climate change and energy"
     },
     {
       "id": "4f63c753aba5bab1b4eb",
@@ -167,7 +377,7 @@
       "source": "ars",
       "title": "Tesla profits drop 43% in Q3",
       "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "summary": "Tesla’s once-booming energy storage business also shrank in Q3 2026.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg",
       "published_at": "2026-10-21T21:35:07Z",
       "category": "Cars"
@@ -653,16 +863,6 @@
       "category": "Apple"
     },
     {
-      "id": "5cb70f66417a36d04e7e",
-      "source": "verge",
-      "title": "The iPhone Duo is a messy, expensive, good time",
-      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-      "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future…",
-      "image": "",
-      "published_at": "2026-10-21T12:00:00Z",
-      "category": "Apple"
-    },
-    {
       "id": "f91dddfb1662d2055c1b",
       "source": "wired",
       "title": "Apple iPhone Duo Review: Is It Worth It?",
@@ -671,16 +871,6 @@
       "image": "https://media.wired.com/photos/6ad7940031b157a7a885ace4/master/pass/DSC_9923.jpg",
       "published_at": "2026-10-21T12:00:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "6dea86b0554859d2b8b1",
-      "source": "verge",
-      "title": "A critical PHP vulnerability may take websites down today",
-      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
-      "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the…",
-      "image": "",
-      "published_at": "2026-10-21T11:49:17Z",
-      "category": "News"
     },
     {
       "id": "82943ee9eb28838647c2",
@@ -853,56 +1043,6 @@
       "category": "Gear"
     },
     {
-      "id": "6d9851e55144c10884cd",
-      "source": "wired",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-10-21T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ce4b29e12ad2a4415cbd",
-      "source": "wired",
-      "title": "Udemy Coupon Codes: 20% Off October 2026",
-      "url": "https://www.wired.com/story/udemy-promo-code/",
-      "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-10-21T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0260110bde917509701a",
-      "source": "wired",
-      "title": "Ulta Promo Codes: Up to 20% Off in October 2026",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-10-21T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b4153dfd8cdc12b69f2b",
-      "source": "wired",
-      "title": "20% Off Sephora Promo Code | October 2026",
-      "url": "https://www.wired.com/story/sephora-promo-code/",
-      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "published_at": "2026-10-21T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "551c7c70d08fa6150abf",
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "published_at": "2026-10-21T05:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "aa602e9ca63a84ab5dbc",
       "source": "ars",
       "title": "PHP warns it plans to release 2 emergency patches imminently",
@@ -911,46 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
       "published_at": "2026-10-21T02:12:18Z",
       "category": "Biz & IT"
-    },
-    {
-      "id": "29de9dd60985b7cb6fa0",
-      "source": "verge",
-      "title": "YouTube might be testing hiding the dislike button",
-      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots…",
-      "image": "",
-      "published_at": "2026-10-21T00:00:56Z",
-      "category": "News"
-    },
-    {
-      "id": "fe3e9498d926dd061cdc",
-      "source": "verge",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported…",
-      "image": "",
-      "published_at": "2026-10-20T23:04:19Z",
-      "category": "AI"
-    },
-    {
-      "id": "9658e069cd1b5716a8fa",
-      "source": "verge",
-      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to…",
-      "image": "",
-      "published_at": "2026-10-20T22:20:11Z",
-      "category": "Creators"
-    },
-    {
-      "id": "cc5f1736e299641f33ac",
-      "source": "verge",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar…",
-      "image": "",
-      "published_at": "2026-10-20T22:11:34Z",
-      "category": "AI"
     },
     {
       "id": "f6669219de3669fc5832",
@@ -973,16 +1073,6 @@
       "category": "Health"
     },
     {
-      "id": "40d55b0d698e844f30a7",
-      "source": "verge",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special…",
-      "image": "",
-      "published_at": "2026-10-20T21:30:24Z",
-      "category": "Business"
-    },
-    {
       "id": "b52eacddb9c2f86acc86",
       "source": "ars",
       "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
@@ -991,16 +1081,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
       "published_at": "2026-10-20T21:14:33Z",
       "category": "Gaming"
-    },
-    {
-      "id": "7eb2e1d221f15e67fd3d",
-      "source": "verge",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the…",
-      "image": "",
-      "published_at": "2026-10-20T21:02:53Z",
-      "category": "Elon Musk"
     },
     {
       "id": "dd716bff741a8b7c3dda",
@@ -1101,26 +1181,6 @@
       "image": "",
       "published_at": "2026-10-20T21:00:00Z",
       "category": "Uncategorized"
-    },
-    {
-      "id": "928fc57fb4e897a88249",
-      "source": "verge",
-      "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
-      "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses…",
-      "image": "",
-      "published_at": "2026-10-20T20:52:07Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "c0b0c7a95608d8a92db3",
-      "source": "verge",
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring…",
-      "image": "",
-      "published_at": "2026-10-20T20:32:09Z",
-      "category": "AR"
     },
     {
       "id": "7f9a5eec2c3d6e07b1a1",
@@ -1271,26 +1331,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
       "published_at": "2026-10-19T22:44:26Z",
       "category": "Health"
-    },
-    {
-      "id": "b312bd119da7b08db411",
-      "source": "ars",
-      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
-      "published_at": "2026-10-19T20:54:17Z",
-      "category": "Science"
-    },
-    {
-      "id": "a8298a45bd3195821c22",
-      "source": "ars",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
-      "published_at": "2026-10-19T20:21:53Z",
-      "category": "AI"
     }
   ]
 }

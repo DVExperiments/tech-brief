@@ -1,37 +1,77 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T04:59:14Z",
+  "updated_at": "2026-10-22T10:12:16Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T04:59:14Z",
+      "last_success_at": "2026-10-22T10:12:16Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T04:59:14Z",
+      "last_success_at": "2026-10-22T10:12:16Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 18,
-      "last_success_at": "2026-10-22T04:59:14Z",
+      "count": 19,
+      "last_success_at": "2026-10-22T10:12:16Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 35,
-      "last_success_at": "2026-10-22T04:59:14Z",
+      "last_success_at": "2026-10-22T10:12:16Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "9a048c4aa86ddf5fcd80",
+      "source": "wired",
+      "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "url": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+      "summary": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
+      "image": "https://media.wired.com/photos/6ad907aa141b637f559fb800/master/pass/Greenlight%20Family%20Hub%20102026%20top%20art%20SOURCE%20Greenlight.jpg",
+      "published_at": "2026-10-22T10:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e89def170505836f9e61",
+      "source": "wired",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif",
+      "published_at": "2026-10-22T10:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "4f63c753aba5bab1b4eb",
+      "source": "wired",
+      "title": "This Preamp Costs More Than a Fancy Sports Car",
+      "url": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
+      "summary": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
+      "image": "https://media.wired.com/photos/6ad8a5e5a9fa5fe98ee99914/master/pass/Mimesis%20Statement%20_%20Telos%209800%20_%20Theia%20Passive%20SOURCE%20Simon%20Lucas.jpeg",
+      "published_at": "2026-10-22T09:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5bf42e8e5d32d29586be",
+      "source": "mit",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What…",
+      "image": "",
+      "published_at": "2026-10-22T08:41:18Z",
+      "category": "Artificial intelligence"
+    },
     {
       "id": "d3e6f9317ff3113c22ea",
       "source": "wired",
@@ -1073,16 +1113,6 @@
       "category": "Entertainment"
     },
     {
-      "id": "a2d69911b3bde9b47147",
-      "source": "wired",
-      "title": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
-      "url": "https://www.wired.com/story/rocco-sale-october-2026/",
-      "summary": "Save $100 on the new Essential or $200 on the original, and give your holiday drinks a place of their own.",
-      "image": "https://media.wired.com/photos/6ad7d2fa4d0edca385d0d9e6/master/pass/Rocco%20The%20Essential%20sale%20102026%20top%20art%20SOURCE%20Rocco.jpg",
-      "published_at": "2026-10-20T20:47:46Z",
-      "category": "Gear"
-    },
-    {
       "id": "c0b0c7a95608d8a92db3",
       "source": "verge",
       "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
@@ -1183,16 +1213,6 @@
       "category": "Science"
     },
     {
-      "id": "804310d579a8b7118a4f",
-      "source": "wired",
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg",
-      "published_at": "2026-10-20T17:41:58Z",
-      "category": "Business"
-    },
-    {
       "id": "7491d8f09cb27b38bd21",
       "source": "ars",
       "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
@@ -1201,16 +1221,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
       "published_at": "2026-10-20T17:40:20Z",
       "category": "AI"
-    },
-    {
-      "id": "aa380fdc531927ded515",
-      "source": "wired",
-      "title": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
-      "url": "https://www.wired.com/review/review-hatch-sleep-clock/",
-      "summary": "I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?",
-      "image": "https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg",
-      "published_at": "2026-10-20T16:03:17Z",
-      "category": "Gear"
     },
     {
       "id": "b911b843eb8a984b90be",

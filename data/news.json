@@ -1,37 +1,187 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T19:31:54Z",
+  "updated_at": "2026-10-22T22:46:38Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T19:31:54Z",
+      "last_success_at": "2026-10-22T22:46:38Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T19:31:54Z",
+      "last_success_at": "2026-10-22T22:46:38Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 23,
-      "last_success_at": "2026-10-22T19:31:54Z",
+      "count": 24,
+      "last_success_at": "2026-10-22T22:46:38Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T19:31:54Z",
+      "last_success_at": "2026-10-22T22:46:38Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "45661805397f74757e35",
+      "source": "wired",
+      "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+      "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
+      "image": "https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/master/pass/virus%20Shamonda%20Francia%201298348369.jpg",
+      "published_at": "2026-10-22T22:26:57Z",
+      "category": "Science"
+    },
+    {
+      "id": "db8ee4729f4ec841cfb6",
+      "source": "verge",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture…",
+      "image": "",
+      "published_at": "2026-10-22T21:51:25Z",
+      "category": "AI"
+    },
+    {
+      "id": "e1e1fa2746c0a649ba41",
+      "source": "verge",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia…",
+      "image": "",
+      "published_at": "2026-10-22T21:30:39Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "dbc55f36dde114bb66b4",
+      "source": "mit",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has…",
+      "image": "",
+      "published_at": "2026-10-22T21:17:29Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "0e54e6f10938bed6b1df",
+      "source": "verge",
+      "title": "Fall 2026 earnings watch",
+      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest…",
+      "image": "",
+      "published_at": "2026-10-22T21:15:16Z",
+      "category": "Tech"
+    },
+    {
+      "id": "aef8c67fe9be6db492e2",
+      "source": "verge",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their…",
+      "image": "",
+      "published_at": "2026-10-22T20:32:05Z",
+      "category": "AI"
+    },
+    {
+      "id": "3050c06b5efdb2534d18",
+      "source": "verge",
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's…",
+      "image": "",
+      "published_at": "2026-10-22T20:24:04Z",
+      "category": "AI"
+    },
+    {
+      "id": "542cf5d7deac6fb88eb5",
+      "source": "verge",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising…",
+      "image": "",
+      "published_at": "2026-10-22T20:23:48Z",
+      "category": "News"
+    },
+    {
+      "id": "6660b5332958b6908398",
+      "source": "ars",
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
+      "published_at": "2026-10-22T20:17:52Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "b78de6ff5c5a41f3bafc",
+      "source": "wired",
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "url": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+      "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
+      "image": "https://media.wired.com/photos/6ada2a91587bb57d09e564bf/master/pass/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg",
+      "published_at": "2026-10-22T20:05:51Z",
+      "category": "Gear"
+    },
+    {
+      "id": "87071ed6c7847f970bc0",
+      "source": "ars",
+      "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+      "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+      "summary": "We can't have nice things, but at least we can get trailers for them.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-1152x648.png",
+      "published_at": "2026-10-22T19:59:37Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "777e47a1110d21e556a9",
+      "source": "wired",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg",
+      "published_at": "2026-10-22T19:56:32Z",
+      "category": "Business"
+    },
+    {
+      "id": "3863674a36e02a8a3ae6",
+      "source": "verge",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger!…",
+      "image": "",
+      "published_at": "2026-10-22T19:45:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "d8433c9fee719acc214f",
+      "source": "verge",
+      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+      "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as…",
+      "image": "",
+      "published_at": "2026-10-22T19:44:51Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "c1208efc35fa5ce6089e",
+      "source": "ars",
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg",
+      "published_at": "2026-10-22T19:34:40Z",
+      "category": "Culture"
+    },
     {
       "id": "2df4e4a8ff2dd8d25af8",
       "source": "verge",
@@ -63,6 +213,26 @@
       "category": "Business"
     },
     {
+      "id": "7486e9198cec65b97e15",
+      "source": "ars",
+      "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+      "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+      "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg",
+      "published_at": "2026-10-22T19:04:06Z",
+      "category": "Health"
+    },
+    {
+      "id": "af22a633115f71e8a726",
+      "source": "ars",
+      "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+      "url": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+      "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg",
+      "published_at": "2026-10-22T19:01:23Z",
+      "category": "Cars"
+    },
+    {
       "id": "8128449a4107d3b381ec",
       "source": "verge",
       "title": "Discord now formats Markdown previews right",
@@ -71,6 +241,16 @@
       "image": "",
       "published_at": "2026-10-22T18:58:19Z",
       "category": "AI"
+    },
+    {
+      "id": "3fa0911c78d8663a4640",
+      "source": "ars",
+      "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+      "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+      "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg",
+      "published_at": "2026-10-22T18:49:14Z",
+      "category": "Tech"
     },
     {
       "id": "404e086325dfe4965199",
@@ -113,6 +293,16 @@
       "category": "Apple"
     },
     {
+      "id": "7e7cca7256a0384ce281",
+      "source": "ars",
+      "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
+      "url": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
+      "summary": "The Russian official who called commercial satellites \"legitimate targets\" now says concerns are \"unfounded.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg",
+      "published_at": "2026-10-22T18:29:39Z",
+      "category": "Space"
+    },
+    {
       "id": "76e616bcdd994cdb0315",
       "source": "verge",
       "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
@@ -145,7 +335,7 @@
     {
       "id": "6d44b36882d64d374acc",
       "source": "wired",
-      "title": "Anker Soundcore Space 2 Are Their Lowest Price Ever",
+      "title": "Anker Soundcore Space 2 Are at Their Lowest Price Ever",
       "url": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
       "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
       "image": "https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
@@ -180,7 +370,7 @@
       "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg",
       "published_at": "2026-10-22T17:04:31Z",
-      "category": "Policy"
+      "category": "Features"
     },
     {
       "id": "2dce4130da7bd6d94e64",
@@ -663,16 +853,6 @@
       "category": "Electric Cars"
     },
     {
-      "id": "44c3d59ff9eb3ec75bd6",
-      "source": "verge",
-      "title": "Bose acquires Skullcandy to help it reach a wider audience",
-      "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-      "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio…",
-      "image": "",
-      "published_at": "2026-10-21T20:15:00Z",
-      "category": "Audio"
-    },
-    {
       "id": "525206dc90cffcccae76",
       "source": "wired",
       "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
@@ -681,26 +861,6 @@
       "image": "https://media.wired.com/photos/6a560635c946b09bdcf9a518/master/pass/Skullcandy_Crusher_1080_ANC_Cement_S6CNW-U993_Press_Images_3840%20(1).jpg",
       "published_at": "2026-10-21T20:15:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "8b328d656890b11ce9f2",
-      "source": "verge",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with…",
-      "image": "",
-      "published_at": "2026-10-21T19:54:00Z",
-      "category": "Apps"
-    },
-    {
-      "id": "323fd4e51be3303f8d65",
-      "source": "verge",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to…",
-      "image": "",
-      "published_at": "2026-10-21T19:53:20Z",
-      "category": "AI"
     },
     {
       "id": "53fcfe0625e4f7ae507f",
@@ -713,16 +873,6 @@
       "category": "AI"
     },
     {
-      "id": "73eba4709c66e40a8020",
-      "source": "verge",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set…",
-      "image": "",
-      "published_at": "2026-10-21T19:30:00Z",
-      "category": "AI"
-    },
-    {
       "id": "2ace82e3b87a178182e8",
       "source": "ars",
       "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
@@ -731,16 +881,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
       "published_at": "2026-10-21T19:12:16Z",
       "category": "Gaming"
-    },
-    {
-      "id": "935b0f540ed132a02722",
-      "source": "verge",
-      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-      "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-      "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling…",
-      "image": "",
-      "published_at": "2026-10-21T19:02:49Z",
-      "category": "Meta"
     },
     {
       "id": "b56c375bea19bc6be642",
@@ -801,36 +941,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg",
       "published_at": "2026-10-21T18:00:37Z",
       "category": "Tech"
-    },
-    {
-      "id": "5317d6ac2fc8e5614529",
-      "source": "verge",
-      "title": "Will TP-Link really make routers in the US? Here’s what it told us",
-      "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
-      "summary": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of…",
-      "image": "",
-      "published_at": "2026-10-21T18:00:00Z",
-      "category": "Policy"
-    },
-    {
-      "id": "871d1dbb085d336e718f",
-      "source": "verge",
-      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
-      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
-      "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech…",
-      "image": "",
-      "published_at": "2026-10-21T18:00:00Z",
-      "category": "Autonomous Cars"
-    },
-    {
-      "id": "c7a246a9edd4e889d008",
-      "source": "verge",
-      "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
-      "url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
-      "summary": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of…",
-      "image": "",
-      "published_at": "2026-10-21T18:00:00Z",
-      "category": "Gaming"
     },
     {
       "id": "a0a04ae7b3249eabeedb",
@@ -993,16 +1103,6 @@
       "category": "Culture"
     },
     {
-      "id": "b8d2a96e96b922494bf5",
-      "source": "wired",
-      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-      "image": "https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg",
-      "published_at": "2026-10-21T11:08:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "90918830f5ac9ba2bfbf",
       "source": "ars",
       "title": "The past, present, and future share a show floor at Pinball Expo 2026",
@@ -1011,26 +1111,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg",
       "published_at": "2026-10-21T11:00:04Z",
       "category": "Features"
-    },
-    {
-      "id": "02309ba9c70d7c2a5b31",
-      "source": "wired",
-      "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
-      "url": "https://www.wired.com/story/make-big-games-smaller/",
-      "summary": "Between crushing layoffs, ballooning budgets, and bland end products, video game makers need to stop chasing AAA glory.",
-      "image": "https://media.wired.com/photos/6ad7a0764809649ec79b3fcd/master/pass/Jason_and_Lucia_02.jpg",
-      "published_at": "2026-10-21T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "94f43188f06ac0af7dd4",
-      "source": "wired",
-      "title": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
-      "url": "https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/",
-      "summary": "Ultra Right Beer, a brand launched in 2023 by MAGA political consultant Seth Weathers, has vanished from the internet with many deliveries unfulfilled.",
-      "image": "https://media.wired.com/photos/6acfffd479c07b8988eb427e/master/pass/culture_anti_woke_ultra_right_beer.jpg",
-      "published_at": "2026-10-21T10:45:00Z",
-      "category": "Culture"
     },
     {
       "id": "ea9842a86133ea721d45",
@@ -1270,76 +1350,6 @@
       "summary": "It's probably time to audit your Gemini settings.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
       "published_at": "2026-10-20T20:00:33Z",
-      "category": "AI"
-    },
-    {
-      "id": "58070a9057163ea30b3a",
-      "source": "ars",
-      "title": "OpenBSD 8.0 arrives with security record still intact",
-      "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-e1792523267196.png",
-      "published_at": "2026-10-20T19:57:18Z",
-      "category": "Tech"
-    },
-    {
-      "id": "908e88f0f410b6428811",
-      "source": "ars",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
-      "published_at": "2026-10-20T19:47:35Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "7b4282bb0bf4fc9ab34c",
-      "source": "ars",
-      "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
-      "url": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
-      "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg",
-      "published_at": "2026-10-20T19:25:14Z",
-      "category": "Policy"
-    },
-    {
-      "id": "1622498eca9511dc2599",
-      "source": "ars",
-      "title": "Does anyone actually want to win the medium-lift race in the United States?",
-      "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
-      "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke-second-stage-1152x648.jpg",
-      "published_at": "2026-10-20T19:13:31Z",
-      "category": "Space"
-    },
-    {
-      "id": "09dc91d9d661bedae5c7",
-      "source": "ars",
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-1152x648.jpg",
-      "published_at": "2026-10-20T18:22:54Z",
-      "category": "AI"
-    },
-    {
-      "id": "924ca0412cabdf50976e",
-      "source": "ars",
-      "title": "Quantum error correction goes well beyond breakeven",
-      "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
-      "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
-      "published_at": "2026-10-20T18:08:57Z",
-      "category": "Science"
-    },
-    {
-      "id": "7491d8f09cb27b38bd21",
-      "source": "ars",
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
-      "published_at": "2026-10-20T17:40:20Z",
       "category": "AI"
     }
   ]

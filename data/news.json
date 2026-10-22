@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T15:18:23Z",
+  "updated_at": "2026-10-22T19:31:54Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T15:18:22Z",
+      "last_success_at": "2026-10-22T19:31:54Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T15:18:22Z",
+      "last_success_at": "2026-10-22T19:31:54Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 22,
-      "last_success_at": "2026-10-22T15:18:22Z",
+      "count": 23,
+      "last_success_at": "2026-10-22T19:31:54Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T15:18:23Z",
+      "last_success_at": "2026-10-22T19:31:54Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "2df4e4a8ff2dd8d25af8",
+      "source": "verge",
+      "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+      "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+      "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community…",
+      "image": "",
+      "published_at": "2026-10-22T19:15:00Z",
+      "category": "Policy"
+    },
+    {
+      "id": "25eef90d7227670d6140",
+      "source": "verge",
+      "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+      "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in…",
+      "image": "",
+      "published_at": "2026-10-22T19:13:42Z",
+      "category": "Android"
+    },
+    {
+      "id": "dff2c03a4a04512f8597",
+      "source": "wired",
+      "title": "Inside the Exclusive Nathan Fielder Interview",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
+      "summary": "This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.",
+      "image": "https://media.wired.com/photos/6ad948eb213049c1e3561565/master/pass/business-Uncanny-Valley-Nathan-Fielder.jpg",
+      "published_at": "2026-10-22T19:06:37Z",
+      "category": "Business"
+    },
+    {
+      "id": "8128449a4107d3b381ec",
+      "source": "verge",
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on…",
+      "image": "",
+      "published_at": "2026-10-22T18:58:19Z",
+      "category": "AI"
+    },
+    {
+      "id": "404e086325dfe4965199",
+      "source": "mit",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference…",
+      "image": "",
+      "published_at": "2026-10-22T18:48:04Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "b0432fb0c79d7f69c412",
+      "source": "verge",
+      "title": "The new Fire TV Stick 4K is already half off",
+      "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+      "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable…",
+      "image": "",
+      "published_at": "2026-10-22T18:43:57Z",
+      "category": "Deals"
+    },
+    {
+      "id": "f21c2e1cc21b589044cf",
+      "source": "verge",
+      "title": "Refurbished PS5 consoles include second controller for an extra $18",
+      "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+      "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished…",
+      "image": "",
+      "published_at": "2026-10-22T18:38:50Z",
+      "category": "Deals"
+    },
+    {
+      "id": "c8cec70ac16192947e4b",
+      "source": "verge",
+      "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+      "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+      "summary": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller…",
+      "image": "",
+      "published_at": "2026-10-22T18:30:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "76e616bcdd994cdb0315",
+      "source": "verge",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this…",
+      "image": "",
+      "published_at": "2026-10-22T18:15:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "f9ad124b32311b1e5be0",
+      "source": "verge",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
+      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
+      "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\"…",
+      "image": "",
+      "published_at": "2026-10-22T18:14:24Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "32c8fbe2c05468beba82",
+      "source": "verge",
+      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
+      "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
+      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway…",
+      "image": "",
+      "published_at": "2026-10-22T18:07:02Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "6d44b36882d64d374acc",
+      "source": "wired",
+      "title": "Anker Soundcore Space 2 Are Their Lowest Price Ever",
+      "url": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
+      "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
+      "image": "https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-22T18:03:44Z",
+      "category": "Gear"
+    },
+    {
+      "id": "835d96956b0e6cbff588",
+      "source": "verge",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company…",
+      "image": "",
+      "published_at": "2026-10-22T18:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "e244a61b4a1aa8b5b045",
+      "source": "wired",
+      "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
+      "url": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+      "summary": "Ancient plants reveal that the vestiges of the North American ice sheet started expanding a few thousand years ago, but that climate change caused it to reverse course.",
+      "image": "https://media.wired.com/photos/6ad93d4fded54679300f8db7/master/pass/GettyImages-53043931.jpg",
+      "published_at": "2026-10-22T18:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "d3534a0bcca5112fecd4",
+      "source": "ars",
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg",
+      "published_at": "2026-10-22T17:04:31Z",
+      "category": "Policy"
+    },
+    {
+      "id": "2dce4130da7bd6d94e64",
+      "source": "ars",
+      "title": "US-backed vaccine trial on babies canceled after international outcry",
+      "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+      "summary": "The decried trial was canceled last week before police seized vaccine doses.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg",
+      "published_at": "2026-10-22T16:37:00Z",
+      "category": "Health"
+    },
+    {
+      "id": "ccd0e8d0aeac10aac4a0",
+      "source": "ars",
+      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor.png",
+      "published_at": "2026-10-22T15:59:40Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "576692d6e388078dd83c",
+      "source": "wired",
+      "title": "Save $150 on the Apple Mac Mini M4, but There’s a Catch",
+      "url": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+      "summary": "Apple’s Mac Mini M4 is one of the best mini computers you can buy, and it’s $150 off. While it’s a good deal on a new, older-generation model, it’s more expensive than it was at launch.",
+      "image": "https://media.wired.com/photos/6ada289019e924cf32885a66/master/pass/M4%20Mac%20Mini%20Deal%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
+      "published_at": "2026-10-22T15:30:31Z",
+      "category": "Gear"
+    },
+    {
+      "id": "06bf4027b14b9595b48f",
+      "source": "ars",
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "summary": "Hackers were already probing the bug before defenders were told it existed.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg",
+      "published_at": "2026-10-22T15:25:02Z",
+      "category": "AI"
+    },
+    {
+      "id": "7372d0b8f5ba9a2b263c",
+      "source": "wired",
+      "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
+      "url": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
+      "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off.",
+      "image": "https://media.wired.com/photos/6ada246c62f24429e365a94f/master/pass/Fellow%20Aiden%20Coffee%20Maker%20Deals%20Post%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
+      "published_at": "2026-10-22T15:14:37Z",
+      "category": "Gear"
+    },
     {
       "id": "c28c1ebcb9b8ff005526",
       "source": "verge",
@@ -81,6 +281,16 @@
       "image": "",
       "published_at": "2026-10-22T14:24:49Z",
       "category": "Android"
+    },
+    {
+      "id": "f74e991b997c1d9a7beb",
+      "source": "ars",
+      "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+      "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+      "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sauron-1152x648-1792610020.jpg",
+      "published_at": "2026-10-22T14:22:31Z",
+      "category": "Culture"
     },
     {
       "id": "db36bc11389d51a9d948",
@@ -220,7 +430,7 @@
       "summary": "A host of election-denying candidates are running for attorney general in states across the country.",
       "image": "https://media.wired.com/photos/6ad17dc0a804ead0a674cfcd/master/pass/Election-Deniers-Politics.jpg",
       "published_at": "2026-10-22T10:15:00Z",
-      "category": "Photo"
+      "category": "Politics"
     },
     {
       "id": "9a048c4aa86ddf5fcd80",
@@ -238,7 +448,7 @@
       "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
       "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
       "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-      "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif",
+      "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
       "published_at": "2026-10-22T10:00:00Z",
       "category": "Science"
     },
@@ -633,26 +843,6 @@
       "category": "Gear"
     },
     {
-      "id": "c447d88a17b96bd86128",
-      "source": "verge",
-      "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
-      "url": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
-      "summary": "If you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like a piece of framed art instead of a black, monolithic rectangle…",
-      "image": "",
-      "published_at": "2026-10-21T17:35:40Z",
-      "category": "Deals"
-    },
-    {
-      "id": "6d1adf1c277785f4b04e",
-      "source": "verge",
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has…",
-      "image": "",
-      "published_at": "2026-10-21T17:19:07Z",
-      "category": "Gaming"
-    },
-    {
       "id": "d8995989a4bc383de72d",
       "source": "wired",
       "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
@@ -661,16 +851,6 @@
       "image": "https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
       "published_at": "2026-10-21T17:00:15Z",
       "category": "Gear"
-    },
-    {
-      "id": "9f0f3ad0d4a66888129e",
-      "source": "verge",
-      "title": "They want your blood",
-      "url": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer…",
-      "image": "",
-      "published_at": "2026-10-21T17:00:00Z",
-      "category": "Column"
     },
     {
       "id": "0cf71e46e9aea4d4d11a",
@@ -683,16 +863,6 @@
       "category": "Space"
     },
     {
-      "id": "c171e8311aa49516cdec",
-      "source": "verge",
-      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
-      "url": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
-      "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon…",
-      "image": "",
-      "published_at": "2026-10-21T16:05:51Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "fb2747b6e5790add337a",
       "source": "wired",
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
@@ -701,16 +871,6 @@
       "image": "https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg",
       "published_at": "2026-10-21T16:00:00Z",
       "category": "Business"
-    },
-    {
-      "id": "80b7de107257748e0581",
-      "source": "verge",
-      "title": "Apple Music has a new logo",
-      "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
-      "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music…",
-      "image": "",
-      "published_at": "2026-10-21T15:48:12Z",
-      "category": "Apple"
     },
     {
       "id": "08c74c99977fe0d3182d",
@@ -733,16 +893,6 @@
       "category": "Business"
     },
     {
-      "id": "b2dee7babe030afef6b8",
-      "source": "verge",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout…",
-      "image": "",
-      "published_at": "2026-10-21T15:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "268553d210fb42085721",
       "source": "wired",
       "title": "7 Best Phones You Can’t Buy in the US (2026)",
@@ -751,16 +901,6 @@
       "image": "https://media.wired.com/photos/6ad7820d0f45928d2d3fc88c/master/pass/Best%20Non%20US%20Phones%20Update%201%20(cropped)%20SOURCE%20Simon%20Hill.jpg",
       "published_at": "2026-10-21T15:00:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "8311a372e54c57debb33",
-      "source": "verge",
-      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
-      "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
-      "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if…",
-      "image": "",
-      "published_at": "2026-10-21T14:47:14Z",
-      "category": "Deals"
     },
     {
       "id": "5e74903b2575d04d9f7d",
@@ -823,16 +963,6 @@
       "category": "Security"
     },
     {
-      "id": "bd3de5409d4a74ca59b3",
-      "source": "verge",
-      "title": "I reviewed the iPhone Duo, ask me anything",
-      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-      "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review…",
-      "image": "",
-      "published_at": "2026-10-21T12:15:00Z",
-      "category": "Apple"
-    },
-    {
       "id": "639c79b6b203efb18594",
       "source": "mit",
       "title": "The Download: introducing the Impossible issue",
@@ -841,26 +971,6 @@
       "image": "",
       "published_at": "2026-10-21T12:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "911d146ce26737780560",
-      "source": "verge",
-      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-      "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
-      "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi…",
-      "image": "",
-      "published_at": "2026-10-21T12:00:00Z",
-      "category": "Android"
-    },
-    {
-      "id": "2cbd582da33abf1296eb",
-      "source": "verge",
-      "title": "I can’t get enough of the iPhone Duo’s matte inner display",
-      "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
-      "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been…",
-      "image": "",
-      "published_at": "2026-10-21T12:00:00Z",
-      "category": "Apple"
     },
     {
       "id": "f91dddfb1662d2055c1b",
@@ -921,36 +1031,6 @@
       "image": "https://media.wired.com/photos/6acfffd479c07b8988eb427e/master/pass/culture_anti_woke_ultra_right_beer.jpg",
       "published_at": "2026-10-21T10:45:00Z",
       "category": "Culture"
-    },
-    {
-      "id": "6e5ae78f7faeb07ced4a",
-      "source": "wired",
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-      "image": "https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg",
-      "published_at": "2026-10-21T10:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "9358ee76f83fac48c4be",
-      "source": "wired",
-      "title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
-      "url": "https://www.wired.com/gallery/best-hearing-aids/",
-      "summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
-      "image": "https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg",
-      "published_at": "2026-10-21T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "62f173d1b9b29a900393",
-      "source": "wired",
-      "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
-      "url": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
-      "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.",
-      "image": "https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg",
-      "published_at": "2026-10-21T10:00:00Z",
-      "category": "The Big Story"
     },
     {
       "id": "ea9842a86133ea721d45",
@@ -1021,26 +1101,6 @@
       "image": "",
       "published_at": "2026-10-21T09:00:00Z",
       "category": "Culture"
-    },
-    {
-      "id": "6e91740c9b622c9ccf6f",
-      "source": "wired",
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
-      "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-      "image": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
-      "published_at": "2026-10-21T08:30:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "f68ad0c39266083ecb55",
-      "source": "wired",
-      "title": "TurboTax Full Service Coupons This October 2026",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-10-21T05:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "aa602e9ca63a84ab5dbc",
@@ -1281,56 +1341,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
       "published_at": "2026-10-20T17:40:20Z",
       "category": "AI"
-    },
-    {
-      "id": "b911b843eb8a984b90be",
-      "source": "ars",
-      "title": "Polestar tries to quantify what it’s like to drive a performance car",
-      "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-      "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg",
-      "published_at": "2026-10-20T14:53:07Z",
-      "category": "Cars"
-    },
-    {
-      "id": "cedfc123bce623c302a0",
-      "source": "ars",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
-      "published_at": "2026-10-20T12:33:13Z",
-      "category": "AI"
-    },
-    {
-      "id": "841a599a73fdaf669bc2",
-      "source": "ars",
-      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro-1152x648.jpg",
-      "published_at": "2026-10-20T11:00:16Z",
-      "category": "Cars"
-    },
-    {
-      "id": "cc924063ed57a18f55c7",
-      "source": "ars",
-      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
-      "published_at": "2026-10-20T05:59:56Z",
-      "category": "Science"
-    },
-    {
-      "id": "8b7f89bcb022f6da1a3d",
-      "source": "ars",
-      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
-      "published_at": "2026-10-19T22:44:26Z",
-      "category": "Health"
     }
   ]
 }

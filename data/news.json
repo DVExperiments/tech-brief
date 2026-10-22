@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T00:15:42Z",
+  "updated_at": "2026-10-22T04:59:14Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T00:15:42Z",
+      "last_success_at": "2026-10-22T04:59:14Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T00:15:42Z",
+      "last_success_at": "2026-10-22T04:59:14Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 18,
-      "last_success_at": "2026-10-22T00:15:42Z",
+      "last_success_at": "2026-10-22T04:59:14Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
-      "count": 34,
-      "last_success_at": "2026-10-22T00:15:42Z",
+      "count": 35,
+      "last_success_at": "2026-10-22T04:59:14Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "d3e6f9317ff3113c22ea",
+      "source": "wired",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "image": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif",
+      "published_at": "2026-10-22T02:24:17Z",
+      "category": "Security"
+    },
     {
       "id": "0d7d098eb2916de8bb1e",
       "source": "verge",
@@ -71,6 +81,16 @@
       "image": "",
       "published_at": "2026-10-21T22:33:44Z",
       "category": "AI"
+    },
+    {
+      "id": "be9543be690bd4250c09",
+      "source": "ars",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+      "published_at": "2026-10-21T22:17:50Z",
+      "category": "Policy"
     },
     {
       "id": "88cd26de88aa58cab1b1",
@@ -1191,16 +1211,6 @@
       "image": "https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg",
       "published_at": "2026-10-20T16:03:17Z",
       "category": "Gear"
-    },
-    {
-      "id": "b54923a198cb882cb538",
-      "source": "wired",
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg",
-      "published_at": "2026-10-20T15:07:43Z",
-      "category": "Culture"
     },
     {
       "id": "b911b843eb8a984b90be",

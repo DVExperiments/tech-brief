@@ -1,37 +1,217 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T15:55:52Z",
+  "updated_at": "2026-10-23T19:57:32Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T15:55:52Z",
+      "last_success_at": "2026-10-23T19:57:32Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T15:55:52Z",
+      "last_success_at": "2026-10-23T19:57:32Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-23T15:55:52Z",
+      "last_success_at": "2026-10-23T19:57:32Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T15:55:52Z",
+      "last_success_at": "2026-10-23T19:57:32Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "a44f57b5ddee73aedaa7",
+      "source": "verge",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the…",
+      "image": "",
+      "published_at": "2026-10-23T19:35:15Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "320e7496aa426c232c36",
+      "source": "verge",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be…",
+      "image": "",
+      "published_at": "2026-10-23T19:32:39Z",
+      "category": "AI"
+    },
+    {
+      "id": "8a4d0920d7159c28e080",
+      "source": "verge",
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning…",
+      "image": "",
+      "published_at": "2026-10-23T18:43:30Z",
+      "category": "Deals"
+    },
+    {
+      "id": "f3e53e6a0577b7bbe3c2",
+      "source": "wired",
+      "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
+      "url": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
+      "summary": "The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.",
+      "image": "https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg",
+      "published_at": "2026-10-23T18:27:32Z",
+      "category": "Gear"
+    },
+    {
+      "id": "57898756bde2b67d69eb",
+      "source": "verge",
+      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
+      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale…",
+      "image": "",
+      "published_at": "2026-10-23T17:55:03Z",
+      "category": "Deals"
+    },
+    {
+      "id": "8c4a8053ad6d1c165817",
+      "source": "verge",
+      "title": "Elon Musk’s dangerous grip on outer space",
+      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's…",
+      "image": "",
+      "published_at": "2026-10-23T17:35:15Z",
+      "category": "Elon Musk"
+    },
+    {
+      "id": "dc5db32f3095fdaeb184",
+      "source": "ars",
+      "title": "Crows can evaluate visual info twice as fast as mammals",
+      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+      "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
+      "published_at": "2026-10-23T17:32:58Z",
+      "category": "Science"
+    },
+    {
+      "id": "02af730eea60a36bea51",
+      "source": "ars",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+      "published_at": "2026-10-23T17:18:31Z",
+      "category": "AI"
+    },
+    {
+      "id": "e91966e6ec408fd66fde",
+      "source": "verge",
+      "title": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most…",
+      "image": "",
+      "published_at": "2026-10-23T17:00:18Z",
+      "category": "AI"
+    },
+    {
+      "id": "31f2026544720828f29e",
+      "source": "wired",
+      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
+      "url": "https://www.wired.com/gallery/iphone-buying-guide/",
+      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
+      "image": "https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg",
+      "published_at": "2026-10-23T17:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "505ed658a1279d17de40",
+      "source": "ars",
+      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
+      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg",
+      "published_at": "2026-10-23T16:58:39Z",
+      "category": "Health"
+    },
+    {
+      "id": "7fd48155349bbd315fda",
+      "source": "verge",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds…",
+      "image": "",
+      "published_at": "2026-10-23T16:52:55Z",
+      "category": "AI"
+    },
+    {
+      "id": "11ddf06e067acbbbc2b4",
+      "source": "ars",
+      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+      "url": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+      "summary": "Corporate phishing tests are common, but this one was especially cruel.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg",
+      "published_at": "2026-10-23T16:51:59Z",
+      "category": "Policy"
+    },
+    {
+      "id": "5ef1bc022d3a733c712a",
+      "source": "verge",
+      "title": "The first broken iPhone Duos are here",
+      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them…",
+      "image": "",
+      "published_at": "2026-10-23T16:37:03Z",
+      "category": "Apple"
+    },
+    {
+      "id": "0ad071004e9db947270e",
+      "source": "ars",
+      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+      "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+      "summary": "Sound designer lets Half Life-related codename slip at a conference.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
+      "published_at": "2026-10-23T16:35:00Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "58cddbd76d439ce1c3ca",
+      "source": "wired",
+      "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
+      "url": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
+      "summary": "The trillionaire has given more than $445 million to Republican political groups this election cycle, as Democrats vow to investigate him.",
+      "image": "https://media.wired.com/photos/6adb5fd2c971dd84b8dc4ea5/master/pass/GettyImages-2246892016.jpg",
+      "published_at": "2026-10-23T16:12:49Z",
+      "category": "Politics"
+    },
+    {
+      "id": "ce742a4e4621c304e7e5",
+      "source": "verge",
+      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway…",
+      "image": "",
+      "published_at": "2026-10-23T15:24:45Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "9b6be45cc39fe7d996b1",
+      "source": "verge",
+      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+      "summary": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks…",
+      "image": "",
+      "published_at": "2026-10-23T15:16:24Z",
+      "category": "Elon Musk"
+    },
     {
       "id": "96347511fdd378ef6d23",
       "source": "wired",
@@ -180,7 +360,7 @@
       "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg",
       "published_at": "2026-10-23T11:00:57Z",
-      "category": "Space"
+      "category": "Features"
     },
     {
       "id": "959ad90c0a19b58420ef",
@@ -633,16 +813,6 @@
       "category": "Deals"
     },
     {
-      "id": "c8cec70ac16192947e4b",
-      "source": "verge",
-      "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
-      "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
-      "summary": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller…",
-      "image": "",
-      "published_at": "2026-10-22T18:30:00Z",
-      "category": "Apple"
-    },
-    {
       "id": "7e7cca7256a0384ce281",
       "source": "ars",
       "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
@@ -653,36 +823,6 @@
       "category": "Space"
     },
     {
-      "id": "76e616bcdd994cdb0315",
-      "source": "verge",
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this…",
-      "image": "",
-      "published_at": "2026-10-22T18:15:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "f9ad124b32311b1e5be0",
-      "source": "verge",
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
-      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
-      "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\"…",
-      "image": "",
-      "published_at": "2026-10-22T18:14:24Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "32c8fbe2c05468beba82",
-      "source": "verge",
-      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
-      "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
-      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway…",
-      "image": "",
-      "published_at": "2026-10-22T18:07:02Z",
-      "category": "Electric Cars"
-    },
-    {
       "id": "6d44b36882d64d374acc",
       "source": "wired",
       "title": "Anker Soundcore Space 2 Are at Their Lowest Price Ever",
@@ -691,16 +831,6 @@
       "image": "https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
       "published_at": "2026-10-22T18:03:44Z",
       "category": "Gear"
-    },
-    {
-      "id": "835d96956b0e6cbff588",
-      "source": "verge",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company…",
-      "image": "",
-      "published_at": "2026-10-22T18:00:00Z",
-      "category": "AI"
     },
     {
       "id": "e244a61b4a1aa8b5b045",
@@ -771,56 +901,6 @@
       "image": "https://media.wired.com/photos/6ada246c62f24429e365a94f/master/pass/Fellow%20Aiden%20Coffee%20Maker%20Deals%20Post%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
       "published_at": "2026-10-22T15:14:37Z",
       "category": "Gear"
-    },
-    {
-      "id": "c28c1ebcb9b8ff005526",
-      "source": "verge",
-      "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
-      "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
-      "summary": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a…",
-      "image": "",
-      "published_at": "2026-10-22T15:14:20Z",
-      "category": "Apple"
-    },
-    {
-      "id": "04068edf5ce23d254002",
-      "source": "verge",
-      "title": "PHP: The three little letters wreaking havoc across the web",
-      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress…",
-      "image": "",
-      "published_at": "2026-10-22T15:12:27Z",
-      "category": "AI"
-    },
-    {
-      "id": "dafd1076cf96a3671782",
-      "source": "verge",
-      "title": "You could just get a refurbished Samsung phone on Amazon",
-      "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
-      "summary": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with…",
-      "image": "",
-      "published_at": "2026-10-22T14:55:29Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "66115deaced006ce706f",
-      "source": "verge",
-      "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
-      "url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
-      "summary": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are…",
-      "image": "",
-      "published_at": "2026-10-22T14:41:02Z",
-      "category": "Deals"
-    },
-    {
-      "id": "f4fe48158fc7f4b7a637",
-      "source": "verge",
-      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
-      "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
-      "summary": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that…",
-      "image": "",
-      "published_at": "2026-10-22T14:24:49Z",
-      "category": "Android"
     },
     {
       "id": "f74e991b997c1d9a7beb",
@@ -1073,16 +1153,6 @@
       "category": "Culture"
     },
     {
-      "id": "525206dc90cffcccae76",
-      "source": "wired",
-      "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
-      "url": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
-      "summary": "By keeping Skullcandy in Park City, Utah, Bose is betting that skate cred and budget pricing will reach listeners it’s been missing.",
-      "image": "https://media.wired.com/photos/6a560635c946b09bdcf9a518/master/pass/Skullcandy_Crusher_1080_ANC_Cement_S6CNW-U993_Press_Images_3840%20(1).jpg",
-      "published_at": "2026-10-21T20:15:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "53fcfe0625e4f7ae507f",
       "source": "ars",
       "title": "The new human-crafted Apple Music brand matters in an AI world",
@@ -1113,26 +1183,6 @@
       "category": "AI"
     },
     {
-      "id": "96b5f7ac87c16eb67abb",
-      "source": "wired",
-      "title": "Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget",
-      "url": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/",
-      "summary": "This feature-packed security camera is the perfect way to keep an eye on your home and fam from afar.",
-      "image": "https://media.wired.com/photos/6ad8d3bf28742edb9f78f8d1/master/pass/One%20of%20My%20Favorite%20Eufy%20Security%20Cameras%20Is%20On%20Sale%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-21T18:46:49Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9c9df00311f1767a7822",
-      "source": "wired",
-      "title": "Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)",
-      "url": "https://www.wired.com/story/ruggable-october-hosting-sale-2026/",
-      "summary": "If you’re going to nest, you might as well do it at a discount.",
-      "image": "https://media.wired.com/photos/6ad7f51365ca68303fb85227/master/pass/New%20Ruggable%20October%20Hosting%20Sale%20Post%20102026%20top%20art%20SOURCE%20Ruggable.jpg",
-      "published_at": "2026-10-21T18:43:42Z",
-      "category": "Gear"
-    },
-    {
       "id": "9ef96af931ad94968cd0",
       "source": "ars",
       "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
@@ -1143,46 +1193,6 @@
       "category": "Policy"
     },
     {
-      "id": "915d16f795aecc3f45cc",
-      "source": "ars",
-      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
-      "published_at": "2026-10-21T18:20:40Z",
-      "category": "AI"
-    },
-    {
-      "id": "16bc6c42c185620ea2b5",
-      "source": "ars",
-      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
-      "url": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
-      "summary": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg",
-      "published_at": "2026-10-21T18:00:37Z",
-      "category": "Tech"
-    },
-    {
-      "id": "0cf71e46e9aea4d4d11a",
-      "source": "ars",
-      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-      "summary": "\"We have had significant constructive engagement with the FAA.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
-      "published_at": "2026-10-21T16:46:19Z",
-      "category": "Space"
-    },
-    {
-      "id": "08c74c99977fe0d3182d",
-      "source": "ars",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
-      "published_at": "2026-10-21T15:14:07Z",
-      "category": "AI"
-    },
-    {
       "id": "639c79b6b203efb18594",
       "source": "mit",
       "title": "The Download: introducing the Impossible issue",
@@ -1191,16 +1201,6 @@
       "image": "",
       "published_at": "2026-10-21T12:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "82943ee9eb28838647c2",
-      "source": "ars",
-      "title": "Review: Carrie is a triumphant remix with one major flaw",
-      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/carrieTOP-1152x648.jpg",
-      "published_at": "2026-10-21T11:19:12Z",
-      "category": "Culture"
     },
     {
       "id": "ea9842a86133ea721d45",

@@ -1,37 +1,157 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T01:01:18Z",
+  "updated_at": "2026-10-23T11:40:50Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T01:01:18Z",
+      "last_success_at": "2026-10-23T11:40:49Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T01:01:18Z",
+      "last_success_at": "2026-10-23T11:40:49Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 24,
-      "last_success_at": "2026-10-23T01:01:18Z",
+      "count": 25,
+      "last_success_at": "2026-10-23T11:40:49Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T01:01:18Z",
+      "last_success_at": "2026-10-23T11:40:50Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0ef52edc55fd593caa0a",
+      "source": "wired",
+      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+      "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+      "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+      "image": "https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-23T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "959ad90c0a19b58420ef",
+      "source": "wired",
+      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
+      "url": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+      "summary": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
+      "image": "https://media.wired.com/photos/6ad8c933572fecfc421778e0/master/pass/102126-Split%20Tunneling.jpg",
+      "published_at": "2026-10-23T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b2ecca2d458b79c523a2",
+      "source": "verge",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of…",
+      "image": "",
+      "published_at": "2026-10-23T10:58:03Z",
+      "category": "News"
+    },
+    {
+      "id": "009602e339ab86b0aa24",
+      "source": "wired",
+      "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
+      "url": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
+      "summary": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.",
+      "image": "https://media.wired.com/photos/6ada67244d7b986a1aaead4e/master/pass/Turtle%20Beach%20Vulcan%20XP%20II%20SOURCE%20Matt%20Kamen.jpg",
+      "published_at": "2026-10-23T10:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "cf55884522c6b11c8180",
+      "source": "wired",
+      "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
+      "url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
+      "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
+      "image": "https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/master/pass/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg",
+      "published_at": "2026-10-23T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1d9eeddd895fe84e0c17",
+      "source": "wired",
+      "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
+      "url": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
+      "image": "https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg",
+      "published_at": "2026-10-23T10:15:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "43e2c9feb8e50bc76444",
+      "source": "wired",
+      "title": "What Type of Mattress Is Right for You? (2026)",
+      "url": "https://www.wired.com/story/mattress-types-explained-2026/",
+      "summary": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
+      "image": "https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg",
+      "published_at": "2026-10-23T10:08:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "659ee0c718acb1b8545f",
+      "source": "verge",
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a…",
+      "image": "",
+      "published_at": "2026-10-23T10:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "5f1c2273b60ddd9eaf64",
+      "source": "wired",
+      "title": "8 Things to Know About the iPhone Duo",
+      "url": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
+      "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
+      "image": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
+      "published_at": "2026-10-23T09:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f579aa24c847570068f9",
+      "source": "wired",
+      "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
+      "url": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
+      "summary": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
+      "image": "https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg",
+      "published_at": "2026-10-23T09:07:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "263e7a35a967644b3cca",
+      "source": "wired",
+      "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
+      "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
+      "summary": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
+      "image": "https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg",
+      "published_at": "2026-10-23T09:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "e31c778c32202511c5c5",
+      "source": "mit",
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I went in not really knowing what to expect. I’d avoided…",
+      "image": "",
+      "published_at": "2026-10-23T09:00:00Z",
+      "category": "Biotechnology and health"
+    },
     {
       "id": "ec297d01d55cb8f4171d",
       "source": "verge",
@@ -863,16 +983,6 @@
       "category": "Cars"
     },
     {
-      "id": "3d6eff868bdf173f190b",
-      "source": "verge",
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential…",
-      "image": "",
-      "published_at": "2026-10-21T21:30:02Z",
-      "category": "AI"
-    },
-    {
       "id": "b2ebd5edc1483b4d2c67",
       "source": "wired",
       "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
@@ -881,16 +991,6 @@
       "image": "https://media.wired.com/photos/6ad7dddccd0792bc5939c725/master/pass/politics_republican_midterms_trump_blame.jpg",
       "published_at": "2026-10-21T21:00:00Z",
       "category": "Politics"
-    },
-    {
-      "id": "3aa71b5b4cbc20a127e5",
-      "source": "verge",
-      "title": "New York’s first microdrama film festival searches for its audience",
-      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-      "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's…",
-      "image": "",
-      "published_at": "2026-10-21T20:49:07Z",
-      "category": "Creators"
     },
     {
       "id": "6df3184d0ac091fa5f6f",
@@ -1023,16 +1123,6 @@
       "category": "Space"
     },
     {
-      "id": "fb2747b6e5790add337a",
-      "source": "wired",
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "image": "https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg",
-      "published_at": "2026-10-21T16:00:00Z",
-      "category": "Business"
-    },
-    {
       "id": "08c74c99977fe0d3182d",
       "source": "ars",
       "title": "The $15 billion ad-powered AI startup your doctor may already be using",
@@ -1041,86 +1131,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
       "published_at": "2026-10-21T15:14:07Z",
       "category": "AI"
-    },
-    {
-      "id": "5f276f600f7c27a2a05e",
-      "source": "wired",
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
-      "published_at": "2026-10-21T15:02:15Z",
-      "category": "Business"
-    },
-    {
-      "id": "268553d210fb42085721",
-      "source": "wired",
-      "title": "7 Best Phones You Can’t Buy in the US (2026)",
-      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
-      "summary": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
-      "image": "https://media.wired.com/photos/6ad7820d0f45928d2d3fc88c/master/pass/Best%20Non%20US%20Phones%20Update%201%20(cropped)%20SOURCE%20Simon%20Hill.jpg",
-      "published_at": "2026-10-21T15:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5e74903b2575d04d9f7d",
-      "source": "wired",
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-      "image": "https://media.wired.com/photos/6ad8c3e67fa1a6118ccee121/master/pass/102126-PHP.jpg",
-      "published_at": "2026-10-21T14:26:19Z",
-      "category": "Security"
-    },
-    {
-      "id": "35ab2b62518f6f360826",
-      "source": "wired",
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-      "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-      "published_at": "2026-10-21T14:00:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "0b8877c6c31aa284bd05",
-      "source": "wired",
-      "title": "Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI",
-      "url": "https://www.wired.com/story/darn-tough-sock-sale-october-2026/",
-      "summary": "Get ready for winter: Darn Tough socks are on sale at REI and come with a lifetime warranty.",
-      "image": "https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg",
-      "published_at": "2026-10-21T13:52:22Z",
-      "category": "Gear"
-    },
-    {
-      "id": "92c28ce8818af4a1c61c",
-      "source": "wired",
-      "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
-      "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
-      "summary": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
-      "image": "https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg",
-      "published_at": "2026-10-21T13:34:37Z",
-      "category": "Science"
-    },
-    {
-      "id": "b463cec8d0b8873fec7f",
-      "source": "wired",
-      "title": "Roku Pro Series OLED TV Review (2026)",
-      "url": "https://www.wired.com/review/roku-pro-series-oled/",
-      "summary": "It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.",
-      "image": "https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-21T13:21:18Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8ab9d5679ed76e86b574",
-      "source": "wired",
-      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-      "image": "https://media.wired.com/photos/6ad7df7552635a2423fcfe8e/master/pass/GettyImages-2297134397.jpg",
-      "published_at": "2026-10-21T12:35:00Z",
-      "category": "Security"
     },
     {
       "id": "639c79b6b203efb18594",

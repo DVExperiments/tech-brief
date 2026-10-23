@@ -1,37 +1,87 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T19:57:32Z",
+  "updated_at": "2026-10-23T23:09:52Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T19:57:32Z",
+      "last_success_at": "2026-10-23T23:09:51Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T19:57:32Z",
+      "last_success_at": "2026-10-23T23:09:51Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-23T19:57:32Z",
+      "last_success_at": "2026-10-23T23:09:51Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T19:57:32Z",
+      "last_success_at": "2026-10-23T23:09:52Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "6af37384128175a1b075",
+      "source": "ars",
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
+      "published_at": "2026-10-23T22:48:25Z",
+      "category": "Space"
+    },
+    {
+      "id": "fc44a606248062558eee",
+      "source": "verge",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has…",
+      "image": "",
+      "published_at": "2026-10-23T21:39:26Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "38388fc750f1cfb8feca",
+      "source": "verge",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI…",
+      "image": "",
+      "published_at": "2026-10-23T21:11:07Z",
+      "category": "AI"
+    },
+    {
+      "id": "a0d2e406e5f04fcdac06",
+      "source": "ars",
+      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+      "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
+      "published_at": "2026-10-23T20:28:43Z",
+      "category": "Policy"
+    },
+    {
+      "id": "1100e135de31a667b8e2",
+      "source": "ars",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+      "published_at": "2026-10-23T20:19:55Z",
+      "category": "AI"
+    },
     {
       "id": "a44f57b5ddee73aedaa7",
       "source": "verge",
@@ -43,6 +93,16 @@
       "category": "Entertainment"
     },
     {
+      "id": "76e5c44e51df5bc72ac7",
+      "source": "ars",
+      "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
+      "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+      "summary": "Space Force considering options: public-private, federal installation, state land.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg",
+      "published_at": "2026-10-23T19:33:58Z",
+      "category": "Science"
+    },
+    {
       "id": "320e7496aa426c232c36",
       "source": "verge",
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
@@ -51,6 +111,16 @@
       "image": "",
       "published_at": "2026-10-23T19:32:39Z",
       "category": "AI"
+    },
+    {
+      "id": "6f5bcfd1d122434345a3",
+      "source": "ars",
+      "title": "Spotify ramps up policy enforcement on family plans",
+      "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+      "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
+      "published_at": "2026-10-23T19:20:27Z",
+      "category": "Tech"
     },
     {
       "id": "8a4d0920d7159c28e080",
@@ -793,26 +863,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "b0432fb0c79d7f69c412",
-      "source": "verge",
-      "title": "The new Fire TV Stick 4K is already half off",
-      "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
-      "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable…",
-      "image": "",
-      "published_at": "2026-10-22T18:43:57Z",
-      "category": "Deals"
-    },
-    {
-      "id": "f21c2e1cc21b589044cf",
-      "source": "verge",
-      "title": "Refurbished PS5 consoles include second controller for an extra $18",
-      "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
-      "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished…",
-      "image": "",
-      "published_at": "2026-10-22T18:38:50Z",
-      "category": "Deals"
-    },
-    {
       "id": "7e7cca7256a0384ce281",
       "source": "ars",
       "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
@@ -1123,16 +1173,6 @@
       "category": "Biz & IT"
     },
     {
-      "id": "1008f1c0e97f9fe6a9ca",
-      "source": "ars",
-      "title": "Tesla profits drop 43% in Q3",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-      "summary": "Tesla’s once-booming energy storage business also shrank in Q3 2026.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg",
-      "published_at": "2026-10-21T21:35:07Z",
-      "category": "Cars"
-    },
-    {
       "id": "b2ebd5edc1483b4d2c67",
       "source": "wired",
       "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
@@ -1151,46 +1191,6 @@
       "image": "https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg",
       "published_at": "2026-10-21T20:38:01Z",
       "category": "Culture"
-    },
-    {
-      "id": "53fcfe0625e4f7ae507f",
-      "source": "ars",
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
-      "published_at": "2026-10-21T19:44:40Z",
-      "category": "AI"
-    },
-    {
-      "id": "2ace82e3b87a178182e8",
-      "source": "ars",
-      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
-      "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
-      "summary": "Next Mass Effect project canceled as parent company lays off 400.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
-      "published_at": "2026-10-21T19:12:16Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "b56c375bea19bc6be642",
-      "source": "ars",
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
-      "published_at": "2026-10-21T18:51:42Z",
-      "category": "AI"
-    },
-    {
-      "id": "9ef96af931ad94968cd0",
-      "source": "ars",
-      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-      "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
-      "published_at": "2026-10-21T18:35:38Z",
-      "category": "Policy"
     },
     {
       "id": "639c79b6b203efb18594",

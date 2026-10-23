@@ -4,25 +4,6 @@ A polished, small-screen-friendly Google Sites news widget hosted entirely on Gi
 
 **No paid APIs, tokens, databases, servers, or external JavaScript libraries required.** GitHub Actions regularly fetches RSS/Atom and saves a small JSON file. The frontend reads that local JSON file, avoiding browser cross-origin restrictions on publisher RSS feeds.
 
-## Setup — upload the ZIP contents to a new GitHub repository
-
-1. Create a new **public** repository, for example `tech-brief`.
-2. Extract the ZIP. **Upload the contents**, not the enclosing folder, to the **repository root** on the `main` branch. Include the hidden `.github` folder; GitHub's web uploader can upload whole directories through **Add file → Upload files** (drag the extracted contents).
-3. Go to **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-4. Go to **Settings → Actions → General → Workflow permissions** and choose **Read and write permissions** if the workflow's bot is currently blocked from pushing commits. Save. The workflow declares `contents: write`, but repository policy may also need adjustment.
-5. Go to **Actions → Update tech news → Run workflow**, choose `main` and run it. This first run populates `data/news.json` with real headlines.
-6. After GitHub Pages publishes, visit `https://YOUR-USERNAME.github.io/tech-brief/` (replace the username and repo name with your actual details).
-
-If the repo is named `<username>.github.io`, the URL is usually `https://<username>.github.io/` instead. If you use a different default branch, adjust the Pages branch selection to match it.
-
-## Embed into Google Sites
-
-1. In the Google Sites editor, choose **Insert → Embed → By URL**.
-2. Paste your GitHub Pages URL, e.g. `https://YOUR-USERNAME.github.io/tech-brief/`.
-3. Choose the web-page preview and click **Insert**.
-4. Stretch the embed to fill the desired section width. Start with **750–900 px high**, then adjust until the sidebar and article grid feel comfortable.
-5. Publish your Google Site.
-
 The article list scrolls **inside** the embedded page, so an embed with a fixed height can still show many headlines. On narrow widths the sidebar becomes a horizontal publisher strip.
 
 ## Updates and expected behavior

@@ -1,37 +1,77 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T22:46:38Z",
+  "updated_at": "2026-10-23T01:01:18Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T22:46:38Z",
+      "last_success_at": "2026-10-23T01:01:18Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T22:46:38Z",
+      "last_success_at": "2026-10-23T01:01:18Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 24,
-      "last_success_at": "2026-10-22T22:46:38Z",
+      "last_success_at": "2026-10-23T01:01:18Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-22T22:46:38Z",
+      "last_success_at": "2026-10-23T01:01:18Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "ec297d01d55cb8f4171d",
+      "source": "verge",
+      "title": "Etsy is cracking down on AI slop listings",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve…",
+      "image": "",
+      "published_at": "2026-10-23T00:09:58Z",
+      "category": "Creators"
+    },
+    {
+      "id": "6439b5c159172b1bd426",
+      "source": "wired",
+      "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
+      "image": "https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg",
+      "published_at": "2026-10-22T23:15:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "1a2bbacee6de1e12e22b",
+      "source": "verge",
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that…",
+      "image": "",
+      "published_at": "2026-10-22T23:02:43Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "ad38ff38ca3861c2af27",
+      "source": "verge",
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My…",
+      "image": "",
+      "published_at": "2026-10-22T23:00:00Z",
+      "category": "Column"
+    },
     {
       "id": "45661805397f74757e35",
       "source": "wired",
@@ -41,6 +81,36 @@
       "image": "https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/master/pass/virus%20Shamonda%20Francia%201298348369.jpg",
       "published_at": "2026-10-22T22:26:57Z",
       "category": "Science"
+    },
+    {
+      "id": "2f69b8a6020b3592ed7c",
+      "source": "ars",
+      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png",
+      "published_at": "2026-10-22T22:25:33Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "9ff57bc0a8dad6147afd",
+      "source": "ars",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
+      "published_at": "2026-10-22T22:12:19Z",
+      "category": "Health"
+    },
+    {
+      "id": "b13e148f3b480108dae0",
+      "source": "ars",
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "published_at": "2026-10-22T21:52:31Z",
+      "category": "Space"
     },
     {
       "id": "db8ee4729f4ec841cfb6",
@@ -81,6 +151,16 @@
       "image": "",
       "published_at": "2026-10-22T21:15:16Z",
       "category": "Tech"
+    },
+    {
+      "id": "5e0ef8ec6203b068592d",
+      "source": "ars",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "published_at": "2026-10-22T21:07:09Z",
+      "category": "Policy"
     },
     {
       "id": "aef8c67fe9be6db492e2",
@@ -813,16 +893,6 @@
       "category": "Creators"
     },
     {
-      "id": "16c0315ca6fcdabeee1c",
-      "source": "verge",
-      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday…",
-      "image": "",
-      "published_at": "2026-10-21T20:46:56Z",
-      "category": "Meta"
-    },
-    {
       "id": "6df3184d0ac091fa5f6f",
       "source": "wired",
       "title": "Trump Isn’t Even Good at TV Anymore",
@@ -831,26 +901,6 @@
       "image": "https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg",
       "published_at": "2026-10-21T20:38:01Z",
       "category": "Culture"
-    },
-    {
-      "id": "836ae62a45a686921d2d",
-      "source": "verge",
-      "title": "PHP: The three letters that shut down sites all over the internet today",
-      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in…",
-      "image": "",
-      "published_at": "2026-10-21T20:36:56Z",
-      "category": "News"
-    },
-    {
-      "id": "86bf332b6b6e8b42ffc7",
-      "source": "verge",
-      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion…",
-      "image": "",
-      "published_at": "2026-10-21T20:22:31Z",
-      "category": "Electric Cars"
     },
     {
       "id": "525206dc90cffcccae76",
@@ -1083,16 +1133,6 @@
       "category": "The Download"
     },
     {
-      "id": "f91dddfb1662d2055c1b",
-      "source": "wired",
-      "title": "Apple iPhone Duo Review: Is It Worth It?",
-      "url": "https://www.wired.com/review/apple-iphone-duo/",
-      "summary": "Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up.",
-      "image": "https://media.wired.com/photos/6ad7940031b157a7a885ace4/master/pass/DSC_9923.jpg",
-      "published_at": "2026-10-21T12:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "82943ee9eb28838647c2",
       "source": "ars",
       "title": "Review: Carrie is a triumphant remix with one major flaw",
@@ -1213,16 +1253,6 @@
       "category": "Health"
     },
     {
-      "id": "b52eacddb9c2f86acc86",
-      "source": "ars",
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
-      "published_at": "2026-10-20T21:14:33Z",
-      "category": "Gaming"
-    },
-    {
       "id": "dd716bff741a8b7c3dda",
       "source": "mit",
       "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
@@ -1321,36 +1351,6 @@
       "image": "",
       "published_at": "2026-10-20T21:00:00Z",
       "category": "Uncategorized"
-    },
-    {
-      "id": "7f9a5eec2c3d6e07b1a1",
-      "source": "ars",
-      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-      "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-      "summary": "A lifetime ad-free subscription is available.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png",
-      "published_at": "2026-10-20T20:20:12Z",
-      "category": "Tech"
-    },
-    {
-      "id": "245a3ccab67a7d11973d",
-      "source": "ars",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
-      "published_at": "2026-10-20T20:07:58Z",
-      "category": "AI"
-    },
-    {
-      "id": "de6371bda4c005ef85f4",
-      "source": "ars",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
-      "published_at": "2026-10-20T20:00:33Z",
-      "category": "AI"
     }
   ]
 }

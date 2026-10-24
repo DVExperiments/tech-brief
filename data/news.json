@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T18:10:26Z",
+  "updated_at": "2026-10-24T20:51:17Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T18:10:26Z",
+      "last_success_at": "2026-10-24T20:51:17Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T18:10:26Z",
+      "last_success_at": "2026-10-24T20:51:17Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-24T18:10:26Z",
+      "last_success_at": "2026-10-24T20:51:17Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T18:10:26Z",
+      "last_success_at": "2026-10-24T20:51:17Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "196f1e3cd3ff58f6aedf",
+      "source": "verge",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still…",
+      "image": "",
+      "published_at": "2026-10-24T18:32:21Z",
+      "category": "AI"
+    },
     {
       "id": "7b4720c247b3e6eceafc",
       "source": "verge",
@@ -881,16 +891,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
       "published_at": "2026-10-22T21:07:09Z",
       "category": "Policy"
-    },
-    {
-      "id": "aef8c67fe9be6db492e2",
-      "source": "verge",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their…",
-      "image": "",
-      "published_at": "2026-10-22T20:32:05Z",
-      "category": "AI"
     },
     {
       "id": "6660b5332958b6908398",

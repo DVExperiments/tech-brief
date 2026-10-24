@@ -1,37 +1,137 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T23:09:52Z",
+  "updated_at": "2026-10-24T11:39:42Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T23:09:51Z",
+      "last_success_at": "2026-10-24T11:39:42Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T23:09:51Z",
+      "last_success_at": "2026-10-24T11:39:42Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-23T23:09:51Z",
+      "last_success_at": "2026-10-24T11:39:42Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-23T23:09:52Z",
+      "last_success_at": "2026-10-24T11:39:42Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "edb1e01c222df1bf40f5",
+      "source": "wired",
+      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+      "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+      "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
+      "image": "https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg",
+      "published_at": "2026-10-24T11:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "acadac27e423dcfb69ac",
+      "source": "wired",
+      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "image": "https://media.wired.com/photos/6adb915b98f760e7b008b9de/master/pass/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-24T11:03:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "acfe42f9d6064ab7955f",
+      "source": "wired",
+      "title": "9 Unique Apps to Try on the iPhone Duo",
+      "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+      "image": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
+      "published_at": "2026-10-24T10:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "bdcf062214c469c2ca53",
+      "source": "wired",
+      "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+      "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+      "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
+      "image": "https://media.wired.com/photos/6adba966042fe07bfaca19da/master/pass/Joybird%20Deals%20Post%20102026%20top%20art%20SOURCE%20Joybird.jpg",
+      "published_at": "2026-10-24T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "718e226440da3d9cc785",
+      "source": "wired",
+      "title": "12 Absolutely Banging Proper Watches Under $400",
+      "url": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
+      "summary": "WIRED and its panel of watch experts hunted for real mechanical timepieces at rock-bottom prices and found a wealth of options. Here are our favorites.",
+      "image": "https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg",
+      "published_at": "2026-10-24T10:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8a83c07504606a3b82e9",
+      "source": "wired",
+      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
+      "url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+      "summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
+      "image": "https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-24T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a176a219780c7c3721bd",
+      "source": "wired",
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "image": "https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg",
+      "published_at": "2026-10-24T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3c8731c0796b09e5f668",
+      "source": "wired",
+      "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
+      "url": "https://www.wired.com/review/ray-ban-meta-audio/",
+      "summary": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with.",
+      "image": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/master/pass/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg",
+      "published_at": "2026-10-24T09:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e1f4eedbfd57ed43948d",
+      "source": "wired",
+      "title": "Garmin Vivoactive 5 and Forerunner 165 Are up to 30 Percent Off (2026)",
+      "url": "https://www.wired.com/story/garmin-deals-october-2026/",
+      "summary": "I’ve tested almost every Garmin watch—these entry-level favorites are steeply discounted right now.",
+      "image": "https://media.wired.com/photos/6adba70ca15e7091703dcd90/master/pass/Garmin%20Deals%20October%202026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-24T09:06:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d74b5cfab779c593eda0",
+      "source": "wired",
+      "title": "Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’",
+      "url": "https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/",
+      "summary": "The Webb telescope sees tiny red dots everywhere. Astronomers can’t agree on what they are, but some believe they may be enormous stars with black holes inside.",
+      "image": "https://media.wired.com/photos/6ad9cd6aded54679300f97ae/master/pass/Black-Hole-Star-cr-Mark-Belan-Lede.jpg",
+      "published_at": "2026-10-24T09:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "6af37384128175a1b075",
       "source": "ars",
@@ -1033,46 +1133,6 @@
       "category": "Business"
     },
     {
-      "id": "b18174583e813ebf4bc6",
-      "source": "wired",
-      "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
-      "url": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
-      "summary": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
-      "image": "https://media.wired.com/photos/6ad935fd8dbac9acb33aa1cc/master/pass/DSC_9943.jpg",
-      "published_at": "2026-10-22T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ddaae5192770e961f118",
-      "source": "wired",
-      "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
-      "url": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
-      "summary": "A host of election-denying candidates are running for attorney general in states across the country.",
-      "image": "https://media.wired.com/photos/6ad17dc0a804ead0a674cfcd/master/pass/Election-Deniers-Politics.jpg",
-      "published_at": "2026-10-22T10:15:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "9a048c4aa86ddf5fcd80",
-      "source": "wired",
-      "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
-      "url": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
-      "summary": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
-      "image": "https://media.wired.com/photos/6ad907aa141b637f559fb800/master/pass/Greenlight%20Family%20Hub%20102026%20top%20art%20SOURCE%20Greenlight.jpg",
-      "published_at": "2026-10-22T10:01:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e89def170505836f9e61",
-      "source": "wired",
-      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-      "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
-      "published_at": "2026-10-22T10:00:00Z",
-      "category": "Science"
-    },
-    {
       "id": "08b264e9072926c35d3f",
       "source": "mit",
       "title": "Making the case for context-aware AI",
@@ -1093,16 +1153,6 @@
       "category": "Climate change and energy"
     },
     {
-      "id": "4f63c753aba5bab1b4eb",
-      "source": "wired",
-      "title": "This Preamp Costs More Than a Fancy Sports Car",
-      "url": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
-      "summary": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
-      "image": "https://media.wired.com/photos/6ad8a5e5a9fa5fe98ee99914/master/pass/Mimesis%20Statement%20_%20Telos%209800%20_%20Theia%20Passive%20SOURCE%20Simon%20Lucas.jpeg",
-      "published_at": "2026-10-22T09:30:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "5bf42e8e5d32d29586be",
       "source": "mit",
       "title": "AI’s hidden storage bill: What inference leaves behind",
@@ -1111,26 +1161,6 @@
       "image": "",
       "published_at": "2026-10-22T08:41:18Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "d3e6f9317ff3113c22ea",
-      "source": "wired",
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "image": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif",
-      "published_at": "2026-10-22T02:24:17Z",
-      "category": "Security"
-    },
-    {
-      "id": "02124d94e82b89774642",
-      "source": "wired",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg",
-      "published_at": "2026-10-21T22:39:50Z",
-      "category": "Business"
     },
     {
       "id": "be9543be690bd4250c09",
@@ -1153,16 +1183,6 @@
       "category": "Gaming"
     },
     {
-      "id": "7465d57fde0d78f09134",
-      "source": "wired",
-      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
-      "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
-      "summary": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.",
-      "image": "https://media.wired.com/photos/6ad8f12cba3e5597384c89ad/master/pass/Business_Airbnb%20Hosts%20Are%20Furious%20They%20Can%20No%20Longer%20Make%20Guests%20Do%20Their%20Chores_v2.jpg",
-      "published_at": "2026-10-21T21:57:22Z",
-      "category": "Business"
-    },
-    {
       "id": "ada218f4b8d8246c6820",
       "source": "ars",
       "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -1171,26 +1191,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
       "published_at": "2026-10-21T21:48:52Z",
       "category": "Biz & IT"
-    },
-    {
-      "id": "b2ebd5edc1483b4d2c67",
-      "source": "wired",
-      "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
-      "url": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
-      "summary": "As the White House contemplates losing Congress, there has been an unusually early effort to find a Republican scapegoat.",
-      "image": "https://media.wired.com/photos/6ad7dddccd0792bc5939c725/master/pass/politics_republican_midterms_trump_blame.jpg",
-      "published_at": "2026-10-21T21:00:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "6df3184d0ac091fa5f6f",
-      "source": "wired",
-      "title": "Trump Isn’t Even Good at TV Anymore",
-      "url": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
-      "summary": "From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.",
-      "image": "https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg",
-      "published_at": "2026-10-21T20:38:01Z",
-      "category": "Culture"
     },
     {
       "id": "639c79b6b203efb18594",

@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T14:54:40Z",
+  "updated_at": "2026-10-24T18:10:26Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T14:54:40Z",
+      "last_success_at": "2026-10-24T18:10:26Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T14:54:40Z",
+      "last_success_at": "2026-10-24T18:10:26Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-24T14:54:40Z",
+      "last_success_at": "2026-10-24T18:10:26Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T14:54:40Z",
+      "last_success_at": "2026-10-24T18:10:26Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "7b4720c247b3e6eceafc",
+      "source": "verge",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise…",
+      "image": "",
+      "published_at": "2026-10-24T15:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "d91559d7673312a77790",
+      "source": "verge",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and…",
+      "image": "",
+      "published_at": "2026-10-24T15:00:00Z",
+      "category": "Deals"
+    },
     {
       "id": "0b4a7064525714a6e208",
       "source": "verge",
@@ -871,26 +891,6 @@
       "image": "",
       "published_at": "2026-10-22T20:32:05Z",
       "category": "AI"
-    },
-    {
-      "id": "3050c06b5efdb2534d18",
-      "source": "verge",
-      "title": "Meta turns Muse sharing back on",
-      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's…",
-      "image": "",
-      "published_at": "2026-10-22T20:24:04Z",
-      "category": "AI"
-    },
-    {
-      "id": "542cf5d7deac6fb88eb5",
-      "source": "verge",
-      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising…",
-      "image": "",
-      "published_at": "2026-10-22T20:23:48Z",
-      "category": "News"
     },
     {
       "id": "6660b5332958b6908398",

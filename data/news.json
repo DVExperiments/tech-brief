@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T20:51:17Z",
+  "updated_at": "2026-10-24T23:15:55Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T20:51:17Z",
+      "last_success_at": "2026-10-24T23:15:55Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T20:51:17Z",
+      "last_success_at": "2026-10-24T23:15:55Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-24T20:51:17Z",
+      "last_success_at": "2026-10-24T23:15:55Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-24T20:51:17Z",
+      "last_success_at": "2026-10-24T23:15:55Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "2e0d1f9a341ab0492b96",
+      "source": "verge",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed…",
+      "image": "",
+      "published_at": "2026-10-24T21:29:12Z",
+      "category": "AI"
+    },
     {
       "id": "196f1e3cd3ff58f6aedf",
       "source": "verge",
@@ -871,16 +881,6 @@
       "image": "",
       "published_at": "2026-10-22T21:17:29Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "0e54e6f10938bed6b1df",
-      "source": "verge",
-      "title": "Fall 2026 earnings watch",
-      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest…",
-      "image": "",
-      "published_at": "2026-10-22T21:15:16Z",
-      "category": "Tech"
     },
     {
       "id": "5e0ef8ec6203b068592d",

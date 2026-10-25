@@ -1,37 +1,67 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T18:24:43Z",
+  "updated_at": "2026-10-25T21:15:17Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T18:24:43Z",
+      "last_success_at": "2026-10-25T21:15:17Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T18:24:43Z",
+      "last_success_at": "2026-10-25T21:15:17Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-25T18:24:43Z",
+      "last_success_at": "2026-10-25T21:15:17Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T18:24:43Z",
+      "last_success_at": "2026-10-25T21:15:17Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0d33dc0411add29ecc4c",
+      "source": "verge",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying…",
+      "image": "",
+      "published_at": "2026-10-25T21:08:09Z",
+      "category": "Column"
+    },
+    {
+      "id": "f0ba0367076cc8869441",
+      "source": "verge",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to…",
+      "image": "",
+      "published_at": "2026-10-25T20:16:19Z",
+      "category": "Apple"
+    },
+    {
+      "id": "99568dc5380f125e96d1",
+      "source": "verge",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and…",
+      "image": "",
+      "published_at": "2026-10-25T19:24:50Z",
+      "category": "Apps"
+    },
     {
       "id": "83ac8327bf2792751142",
       "source": "verge",
@@ -793,16 +823,6 @@
       "category": "Gear"
     },
     {
-      "id": "b2ecca2d458b79c523a2",
-      "source": "verge",
-      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
-      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-      "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of…",
-      "image": "",
-      "published_at": "2026-10-23T10:58:03Z",
-      "category": "News"
-    },
-    {
       "id": "009602e339ab86b0aa24",
       "source": "wired",
       "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
@@ -841,16 +861,6 @@
       "image": "https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg",
       "published_at": "2026-10-23T10:08:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "659ee0c718acb1b8545f",
-      "source": "verge",
-      "title": "No, the iPhone Duo isn’t a small phone",
-      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-      "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a…",
-      "image": "",
-      "published_at": "2026-10-23T10:00:00Z",
-      "category": "Apple"
     },
     {
       "id": "e278906859003253fa0d",
@@ -901,16 +911,6 @@
       "image": "",
       "published_at": "2026-10-23T09:00:00Z",
       "category": "Biotechnology and health"
-    },
-    {
-      "id": "ec297d01d55cb8f4171d",
-      "source": "verge",
-      "title": "Etsy is cracking down on AI slop listings",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve…",
-      "image": "",
-      "published_at": "2026-10-23T00:09:58Z",
-      "category": "Creators"
     },
     {
       "id": "6439b5c159172b1bd426",

@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T21:15:17Z",
+  "updated_at": "2026-10-25T23:19:33Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T21:15:17Z",
+      "last_success_at": "2026-10-25T23:19:33Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T21:15:17Z",
+      "last_success_at": "2026-10-25T23:19:33Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 26,
-      "last_success_at": "2026-10-25T21:15:17Z",
+      "last_success_at": "2026-10-25T23:19:33Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T21:15:17Z",
+      "last_success_at": "2026-10-25T23:19:33Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "2378ca8fd90b2d9bf274",
+      "source": "verge",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a…",
+      "image": "",
+      "published_at": "2026-10-25T21:40:27Z",
+      "category": "Apple"
+    },
     {
       "id": "0d33dc0411add29ecc4c",
       "source": "verge",
@@ -761,16 +771,6 @@
       "image": "",
       "published_at": "2026-10-23T12:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "d057b69fd50ee36482df",
-      "source": "verge",
-      "title": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these…",
-      "image": "",
-      "published_at": "2026-10-23T12:00:00Z",
-      "category": "AI"
     },
     {
       "id": "bcabda54b799d8ba2e23",

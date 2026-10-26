@@ -1,37 +1,217 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T23:19:33Z",
+  "updated_at": "2026-10-26T14:17:15Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T23:19:33Z",
+      "last_success_at": "2026-10-26T14:17:14Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T23:19:33Z",
+      "last_success_at": "2026-10-26T14:17:14Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 26,
-      "last_success_at": "2026-10-25T23:19:33Z",
+      "count": 28,
+      "last_success_at": "2026-10-26T14:17:15Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-25T23:19:33Z",
+      "last_success_at": "2026-10-26T14:17:15Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "16578a812b36a4ed37a7",
+      "source": "wired",
+      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "summary": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
+      "image": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg",
+      "published_at": "2026-10-26T14:09:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "31a638aff26609305e77",
+      "source": "verge",
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter…",
+      "image": "",
+      "published_at": "2026-10-26T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "2b1e5f2b235fa0b6f469",
+      "source": "wired",
+      "title": "WIRED Ghost Stories",
+      "url": "https://www.wired.com/ghost-stories/",
+      "summary": "Five hauntings from the other side of technology.",
+      "image": "https://media.wired.com/photos/6adbf59adee148eb9cc5625f/master/pass/WIRED-ghost-stories-top-art.jpg",
+      "published_at": "2026-10-26T14:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "6ed0b5aa08e50d0061fe",
+      "source": "verge",
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to…",
+      "image": "",
+      "published_at": "2026-10-26T13:32:49Z",
+      "category": "AI"
+    },
+    {
+      "id": "ee754eaa676db73c624c",
+      "source": "verge",
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come…",
+      "image": "",
+      "published_at": "2026-10-26T13:15:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "1e3523f86a7593073ba5",
+      "source": "verge",
+      "title": "Apple updates the iPad Mini with a larger OLED display",
+      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+      "summary": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only…",
+      "image": "",
+      "published_at": "2026-10-26T13:05:03Z",
+      "category": "Apple"
+    },
+    {
+      "id": "8f4e9f5bf74c2895ad76",
+      "source": "wired",
+      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
+      "url": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
+      "summary": "The repair company iFixit released its repairability rating for Apple’s very first foldable iPhone. It comes as users report a wave of cracked-screen issues.",
+      "image": "https://media.wired.com/photos/6adf134c0a7918a0f61a89fd/master/pass/iPhone%20Duo_94.jpg",
+      "published_at": "2026-10-26T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5433f54e698c84bdfbd3",
+      "source": "mit",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner…",
+      "image": "",
+      "published_at": "2026-10-26T12:40:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "93445e437b96eea06a9b",
+      "source": "ars",
+      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT-1152x648.jpg",
+      "published_at": "2026-10-26T11:00:15Z",
+      "category": "Features"
+    },
+    {
+      "id": "c0887af07f66fe11a366",
+      "source": "wired",
+      "title": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It",
+      "url": "https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/",
+      "summary": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
+      "image": "https://media.wired.com/photos/6ada4995fd62e299be0487da/master/pass/Business_Meet%20The%20TikTokers%20Stripping%20Copper%20As%20a%20Side%20Hustle_v2.jpg",
+      "published_at": "2026-10-26T11:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "225206fefb0d55b38313",
+      "source": "wired",
+      "title": "LG B6 OLED TV Review (2026)",
+      "url": "https://www.wired.com/review/lg-b6/",
+      "summary": "The LG B6 has deep and rich blacks and a low price tag, but midrange performance elsewhere.",
+      "image": "https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-26T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8fbcd192017260d95727",
+      "source": "verge",
+      "title": "The city that fought Flock",
+      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat…",
+      "image": "",
+      "published_at": "2026-10-26T10:00:00Z",
+      "category": "Features"
+    },
+    {
+      "id": "e71860e5f7f4fa72e4f8",
+      "source": "wired",
+      "title": "Lykyn Review: A Mushroom Garden Worth Showing Off",
+      "url": "https://www.wired.com/review/lykyn-automated-mushroom-grow-box/",
+      "summary": "Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.",
+      "image": "https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg",
+      "published_at": "2026-10-26T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7fa4f3bd57d302792bae",
+      "source": "wired",
+      "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
+      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "summary": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
+      "image": "https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg",
+      "published_at": "2026-10-26T10:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "fb5554744e95656c696a",
+      "source": "wired",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg",
+      "published_at": "2026-10-26T09:30:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "6331ddc838dd4678e881",
+      "source": "wired",
+      "title": "Valve Steam Frame Review: Costly and Inconsistent",
+      "url": "https://www.wired.com/review/valve-steam-frame/",
+      "summary": "The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.",
+      "image": "https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg",
+      "published_at": "2026-10-26T09:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "97278abda9d2b3525c91",
+      "source": "mit",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are…",
+      "image": "",
+      "published_at": "2026-10-26T09:01:00Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "c054b5d3ce4bfca813d1",
+      "source": "wired",
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg",
+      "published_at": "2026-10-26T09:00:00Z",
+      "category": "Culture"
+    },
     {
       "id": "2378ca8fd90b2d9bf274",
       "source": "verge",
@@ -703,26 +883,6 @@
       "category": "Cameras"
     },
     {
-      "id": "f84852afd2f6456b6fb0",
-      "source": "verge",
-      "title": "Our best tips for using the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-      "summary": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built…",
-      "image": "",
-      "published_at": "2026-10-23T14:00:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "1da419839b402891b936",
-      "source": "verge",
-      "title": "Apple revives the original iPod as an Apple Music easter egg",
-      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-      "summary": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on…",
-      "image": "",
-      "published_at": "2026-10-23T13:58:43Z",
-      "category": "Apple"
-    },
-    {
       "id": "cc4a2d20146ca4ee527c",
       "source": "ars",
       "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
@@ -731,36 +891,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg",
       "published_at": "2026-10-23T13:43:21Z",
       "category": "Policy"
-    },
-    {
-      "id": "861d95ce4fc09389bf57",
-      "source": "verge",
-      "title": "People are vibe coding their way to better TVs",
-      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
-      "summary": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and…",
-      "image": "",
-      "published_at": "2026-10-23T13:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "f082de540d2c4954a8a3",
-      "source": "verge",
-      "title": "Netflix can’t fire its way out of this downward spiral",
-      "url": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
-      "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product, tech, and legal…",
-      "image": "",
-      "published_at": "2026-10-23T13:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "de8499ce6da15b7c8889",
-      "source": "verge",
-      "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
-      "url": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
-      "summary": "Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a…",
-      "image": "",
-      "published_at": "2026-10-23T12:50:17Z",
-      "category": "Gadgets"
     },
     {
       "id": "1ff530623011cbb37183",
@@ -823,86 +953,6 @@
       "category": "Gear"
     },
     {
-      "id": "009602e339ab86b0aa24",
-      "source": "wired",
-      "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
-      "url": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
-      "summary": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.",
-      "image": "https://media.wired.com/photos/6ada67244d7b986a1aaead4e/master/pass/Turtle%20Beach%20Vulcan%20XP%20II%20SOURCE%20Matt%20Kamen.jpg",
-      "published_at": "2026-10-23T10:45:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "cf55884522c6b11c8180",
-      "source": "wired",
-      "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
-      "url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
-      "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
-      "image": "https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/master/pass/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg",
-      "published_at": "2026-10-23T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1d9eeddd895fe84e0c17",
-      "source": "wired",
-      "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
-      "url": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
-      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
-      "image": "https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg",
-      "published_at": "2026-10-23T10:15:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "43e2c9feb8e50bc76444",
-      "source": "wired",
-      "title": "What Type of Mattress Is Right for You? (2026)",
-      "url": "https://www.wired.com/story/mattress-types-explained-2026/",
-      "summary": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
-      "image": "https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg",
-      "published_at": "2026-10-23T10:08:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e278906859003253fa0d",
-      "source": "wired",
-      "title": "Best Early Black Friday Smart Bird Feeder Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-smart-bird-feeder-deals-october-2026/",
-      "summary": "I’ve spent years testing smart bird feeders. These are the currently discounted models I’d buy for myself—or give as gifts.",
-      "image": "https://media.wired.com/photos/6ada52d9d1bc30ab6431c2b6/master/pass/My%20Favorite%20Smart%20Bird%20Feeders%20Are%20Already%20on%20Sale%20for%20Black%20Friday%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-23T09:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5f1c2273b60ddd9eaf64",
-      "source": "wired",
-      "title": "8 Things to Know About the iPhone Duo",
-      "url": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
-      "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
-      "image": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
-      "published_at": "2026-10-23T09:15:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f579aa24c847570068f9",
-      "source": "wired",
-      "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
-      "url": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
-      "summary": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
-      "image": "https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg",
-      "published_at": "2026-10-23T09:07:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "263e7a35a967644b3cca",
-      "source": "wired",
-      "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
-      "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
-      "summary": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
-      "image": "https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg",
-      "published_at": "2026-10-23T09:00:00Z",
-      "category": "Science"
-    },
-    {
       "id": "e31c778c32202511c5c5",
       "source": "mit",
       "title": "In the biotech world, you can’t see everything",
@@ -911,26 +961,6 @@
       "image": "",
       "published_at": "2026-10-23T09:00:00Z",
       "category": "Biotechnology and health"
-    },
-    {
-      "id": "6439b5c159172b1bd426",
-      "source": "wired",
-      "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
-      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-      "image": "https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg",
-      "published_at": "2026-10-22T23:15:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "45661805397f74757e35",
-      "source": "wired",
-      "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
-      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
-      "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
-      "image": "https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/master/pass/virus%20Shamonda%20Francia%201298348369.jpg",
-      "published_at": "2026-10-22T22:26:57Z",
-      "category": "Science"
     },
     {
       "id": "2f69b8a6020b3592ed7c",
@@ -1181,16 +1211,6 @@
       "image": "",
       "published_at": "2026-10-22T08:41:18Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "be9543be690bd4250c09",
-      "source": "ars",
-      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
-      "published_at": "2026-10-21T22:17:50Z",
-      "category": "Policy"
     },
     {
       "id": "639c79b6b203efb18594",

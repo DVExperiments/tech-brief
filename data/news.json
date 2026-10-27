@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T10:36:00Z",
+  "updated_at": "2026-10-27T16:01:50Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-27T10:35:59Z",
+      "last_success_at": "2026-10-27T16:01:50Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-27T10:36:00Z",
+      "last_success_at": "2026-10-27T16:01:50Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-10-27T10:36:00Z",
+      "count": 32,
+      "last_success_at": "2026-10-27T16:01:50Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-27T10:36:00Z",
+      "last_success_at": "2026-10-27T16:01:50Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "1474d2c0b5261361e252",
+      "source": "verge",
+      "title": "Apple’s latest AirTag is the cheapest it’s ever been",
+      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday…",
+      "image": "",
+      "published_at": "2026-10-27T15:34:16Z",
+      "category": "Deals"
+    },
+    {
+      "id": "7c1b478d963946f2fa66",
+      "source": "wired",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "image": "https://media.wired.com/photos/6ada70c6eb086323489423af/master/pass/GettyImages-2275955534.jpg",
+      "published_at": "2026-10-27T15:10:26Z",
+      "category": "Politics"
+    },
+    {
+      "id": "58a3e95945f7622a1d5f",
+      "source": "ars",
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
+      "published_at": "2026-10-27T14:20:26Z",
+      "category": "Apple"
+    },
+    {
+      "id": "713b2364f52881fd9d55",
+      "source": "ars",
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
+      "published_at": "2026-10-27T14:00:49Z",
+      "category": "Apple"
+    },
+    {
+      "id": "6c34faae46a902234f48",
+      "source": "verge",
+      "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
+      "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+      "summary": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\"…",
+      "image": "",
+      "published_at": "2026-10-27T14:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "5bc9abb01d43e39149bf",
+      "source": "verge",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to…",
+      "image": "",
+      "published_at": "2026-10-27T13:50:51Z",
+      "category": "AI"
+    },
+    {
+      "id": "92a7da12312327635107",
+      "source": "ars",
+      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
+      "published_at": "2026-10-27T13:32:35Z",
+      "category": "Science"
+    },
+    {
+      "id": "e62bbe49520197643593",
+      "source": "wired",
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "summary": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "image": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/master/pass/Big-Interview-UV-Solo-Illo-1027.jpg",
+      "published_at": "2026-10-27T13:29:41Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "84481e5facb2b5e557fa",
+      "source": "ars",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
+      "published_at": "2026-10-27T13:22:16Z",
+      "category": "Policy"
+    },
+    {
+      "id": "e11c3df945a353aaf410",
+      "source": "verge",
+      "title": "Apple refreshes the iMac with M6 chips",
+      "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+      "summary": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in…",
+      "image": "",
+      "published_at": "2026-10-27T13:05:26Z",
+      "category": "Apple"
+    },
+    {
+      "id": "1e95e1d7546018d4e374",
+      "source": "verge",
+      "title": "Apple updates the MacBook Pro with M6 chips",
+      "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+      "summary": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in…",
+      "image": "",
+      "published_at": "2026-10-27T13:04:28Z",
+      "category": "Apple"
+    },
+    {
+      "id": "5b249275a7c198937a70",
+      "source": "verge",
+      "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
+      "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
+      "summary": "Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones to devices that don't natively support Bluetooth. Instead of having to decode…",
+      "image": "",
+      "published_at": "2026-10-27T13:00:00Z",
+      "category": "Audio"
+    },
+    {
+      "id": "bc9a5728217297fa9d5e",
+      "source": "verge",
+      "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
+      "url": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
+      "summary": "We're still a few months away from the official reveal of the Ford Fathom, the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000…",
+      "image": "",
+      "published_at": "2026-10-27T13:00:00Z",
+      "category": "Cars"
+    },
+    {
+      "id": "23aa3bfc8d81d78c6a50",
+      "source": "verge",
+      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they’ll be American-made",
+      "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+      "summary": "Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is a ruggedized model using Arm-based Snapdragon X series chips and aimed at the US…",
+      "image": "",
+      "published_at": "2026-10-27T13:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "4eaea295c9d089a68171",
+      "source": "verge",
+      "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
+      "url": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
+      "summary": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital…",
+      "image": "",
+      "published_at": "2026-10-27T12:31:33Z",
+      "category": "Cameras"
+    },
+    {
+      "id": "afe8603d9e6101081fd7",
+      "source": "mit",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied…",
+      "image": "",
+      "published_at": "2026-10-27T12:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "8b6cd4bdd23b97dc406b",
+      "source": "mit",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover…",
+      "image": "",
+      "published_at": "2026-10-27T11:19:18Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "5161487682f34b6e1c6e",
+      "source": "verge",
+      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some…",
+      "image": "",
+      "published_at": "2026-10-27T11:00:00Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "00dafdf93bcdb48d0a2e",
+      "source": "wired",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "image": "https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg",
+      "published_at": "2026-10-27T11:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "00e0afe2c30d5a3327d5",
+      "source": "wired",
+      "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
+      "url": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
+      "summary": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
+      "image": "https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg",
+      "published_at": "2026-10-27T10:45:00Z",
+      "category": "Science"
+    },
     {
       "id": "dbafa869ee8c9ab8049e",
       "source": "wired",
@@ -363,16 +563,6 @@
       "category": "Fitness"
     },
     {
-      "id": "713b2364f52881fd9d55",
-      "source": "ars",
-      "title": "Some iPhone Duo screens are already failing",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
-      "published_at": "2026-10-26T16:51:49Z",
-      "category": "Apple"
-    },
-    {
       "id": "bbe7264bd3b804ddf6c3",
       "source": "verge",
       "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
@@ -683,16 +873,6 @@
       "category": "Apple"
     },
     {
-      "id": "df686bf7c1aaca097ca4",
-      "source": "verge",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended…",
-      "image": "",
-      "published_at": "2026-10-25T13:25:32Z",
-      "category": "AI"
-    },
-    {
       "id": "341f1f60de05c0325599",
       "source": "wired",
       "title": "Wallhack M-001 Review: When Fun Overrides Specs",
@@ -701,16 +881,6 @@
       "image": "https://media.wired.com/photos/6adbbc51f337c510e207c213/master/pass/Review%20Wallhack%20M-001%20Gaming%20Mouse%20102026%20top%20art%20SOURCE%20Wallhack.jpg",
       "published_at": "2026-10-25T12:30:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "319863c8794fddf3e9a7",
-      "source": "verge",
-      "title": "Google’s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday…",
-      "image": "",
-      "published_at": "2026-10-25T12:00:00Z",
-      "category": "AI"
     },
     {
       "id": "325c68f7e68a74277245",
@@ -793,96 +963,6 @@
       "category": "Gear"
     },
     {
-      "id": "2e0d1f9a341ab0492b96",
-      "source": "verge",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed…",
-      "image": "",
-      "published_at": "2026-10-24T21:29:12Z",
-      "category": "AI"
-    },
-    {
-      "id": "196f1e3cd3ff58f6aedf",
-      "source": "verge",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still…",
-      "image": "",
-      "published_at": "2026-10-24T18:32:21Z",
-      "category": "AI"
-    },
-    {
-      "id": "7b4720c247b3e6eceafc",
-      "source": "verge",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise…",
-      "image": "",
-      "published_at": "2026-10-24T15:00:00Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "d91559d7673312a77790",
-      "source": "verge",
-      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-      "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and…",
-      "image": "",
-      "published_at": "2026-10-24T15:00:00Z",
-      "category": "Deals"
-    },
-    {
-      "id": "0b4a7064525714a6e208",
-      "source": "verge",
-      "title": "What to expect from Apple’s ‘Pro and tell’ event",
-      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro…",
-      "image": "",
-      "published_at": "2026-10-24T14:15:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "b546a4927e68ef5ea596",
-      "source": "verge",
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of…",
-      "image": "",
-      "published_at": "2026-10-24T14:00:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "b840312596eec67b9962",
-      "source": "verge",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love…",
-      "image": "",
-      "published_at": "2026-10-24T12:30:00Z",
-      "category": "Column"
-    },
-    {
-      "id": "1903fb22fb76ada87dde",
-      "source": "verge",
-      "title": "Laika has spent 20 years building up to Wildwood",
-      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-      "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and…",
-      "image": "",
-      "published_at": "2026-10-24T12:00:00Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "f565e0d04e69945159c7",
-      "source": "wired",
-      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-      "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg",
-      "published_at": "2026-10-24T12:00:00Z",
-      "category": "Security"
-    },
-    {
       "id": "0c7a14ce764b019bd526",
       "source": "ars",
       "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -893,26 +973,6 @@
       "category": "Science"
     },
     {
-      "id": "edb1e01c222df1bf40f5",
-      "source": "wired",
-      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
-      "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
-      "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
-      "image": "https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg",
-      "published_at": "2026-10-24T11:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "acadac27e423dcfb69ac",
-      "source": "wired",
-      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
-      "url": "https://www.wired.com/gallery/best-pet-cameras/",
-      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
-      "image": "https://media.wired.com/photos/6adb915b98f760e7b008b9de/master/pass/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-24T11:03:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "9357ef5921c213923d73",
       "source": "ars",
       "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
@@ -921,16 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
       "published_at": "2026-10-24T11:00:09Z",
       "category": "Science"
-    },
-    {
-      "id": "acfe42f9d6064ab7955f",
-      "source": "wired",
-      "title": "9 Unique Apps to Try on the iPhone Duo",
-      "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
-      "image": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
-      "published_at": "2026-10-24T10:45:00Z",
-      "category": "Gear"
     },
     {
       "id": "6af37384128175a1b075",
@@ -1151,36 +1201,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
       "published_at": "2026-10-22T20:17:52Z",
       "category": "Biz & IT"
-    },
-    {
-      "id": "87071ed6c7847f970bc0",
-      "source": "ars",
-      "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-      "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-      "summary": "We can't have nice things, but at least we can get trailers for them.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-1152x648.png",
-      "published_at": "2026-10-22T19:59:37Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "c1208efc35fa5ce6089e",
-      "source": "ars",
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg",
-      "published_at": "2026-10-22T19:34:40Z",
-      "category": "Culture"
-    },
-    {
-      "id": "7486e9198cec65b97e15",
-      "source": "ars",
-      "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
-      "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
-      "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg",
-      "published_at": "2026-10-22T19:04:06Z",
-      "category": "Health"
     },
     {
       "id": "404e086325dfe4965199",

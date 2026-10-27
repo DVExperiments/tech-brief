@@ -1,37 +1,117 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:54:30Z",
+  "updated_at": "2026-10-27T10:36:00Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-26T23:54:30Z",
+      "last_success_at": "2026-10-27T10:35:59Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-26T23:54:30Z",
+      "last_success_at": "2026-10-27T10:36:00Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 29,
-      "last_success_at": "2026-10-26T23:54:30Z",
+      "count": 30,
+      "last_success_at": "2026-10-27T10:36:00Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-26T23:54:30Z",
+      "last_success_at": "2026-10-27T10:36:00Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "dbafa869ee8c9ab8049e",
+      "source": "wired",
+      "title": "Instagram Is a Streaming Service Now",
+      "url": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
+      "summary": "Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.",
+      "image": "https://media.wired.com/photos/6ae06babed02f1088a5b33a4/master/pass/GettyImages-2239130168.jpg",
+      "published_at": "2026-10-27T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c030c91a1b4f9bdaf327",
+      "source": "wired",
+      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
+      "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
+      "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
+      "image": "https://media.wired.com/photos/6adf98357bc34babe586eb7f/master/pass/GettyImages-2300207719.jpg",
+      "published_at": "2026-10-27T10:15:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "44cbffc6d60aa36b9e21",
+      "source": "verge",
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come…",
+      "image": "",
+      "published_at": "2026-10-27T10:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "d322cb7ab1cd6031162e",
+      "source": "wired",
+      "title": "How to Hide Your Baby From the Government",
+      "url": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
+      "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
+      "image": "https://media.wired.com/photos/6adf82fd71d0e77d563766d7/master/pass/WIRED-Ghost-Stories-sovereign-babies.jpg",
+      "published_at": "2026-10-27T10:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "49f63038355151eb006d",
+      "source": "verge",
+      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful…",
+      "image": "",
+      "published_at": "2026-10-27T09:54:22Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "a5491939945428fe122e",
+      "source": "wired",
+      "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
+      "url": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
+      "summary": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
+      "image": "https://media.wired.com/photos/6adfb30fcc0a6405c8bee722/master/pass/Waterdrop%20X12%20Under-Sink%20Tankless%20Reverse%20Osmosis%20System%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-27T09:35:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "cfb12d46090b5c9a0a02",
+      "source": "wired",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg",
+      "published_at": "2026-10-27T09:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c9cfb02dc492b140ef94",
+      "source": "mit",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t…",
+      "image": "",
+      "published_at": "2026-10-27T09:00:00Z",
+      "category": "Climate change and energy"
+    },
     {
       "id": "0d7354d6294fc526f750",
       "source": "verge",
@@ -793,16 +873,6 @@
       "category": "Entertainment"
     },
     {
-      "id": "d24dd42e4199d28da7bd",
-      "source": "verge",
-      "title": "It’s time to find a new browser",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you…",
-      "image": "",
-      "published_at": "2026-10-24T12:00:00Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "f565e0d04e69945159c7",
       "source": "wired",
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -863,56 +933,6 @@
       "category": "Gear"
     },
     {
-      "id": "bdcf062214c469c2ca53",
-      "source": "wired",
-      "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
-      "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
-      "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
-      "image": "https://media.wired.com/photos/6adba966042fe07bfaca19da/master/pass/Joybird%20Deals%20Post%20102026%20top%20art%20SOURCE%20Joybird.jpg",
-      "published_at": "2026-10-24T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "718e226440da3d9cc785",
-      "source": "wired",
-      "title": "12 Absolutely Banging Proper Watches Under $400",
-      "url": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
-      "summary": "WIRED and its panel of watch experts hunted for real mechanical timepieces at rock-bottom prices and found a wealth of options. Here are our favorites.",
-      "image": "https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg",
-      "published_at": "2026-10-24T10:15:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8a83c07504606a3b82e9",
-      "source": "wired",
-      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
-      "url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
-      "summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
-      "image": "https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-24T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a176a219780c7c3721bd",
-      "source": "wired",
-      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "url": "https://www.wired.com/story/best-laptops/",
-      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
-      "image": "https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg",
-      "published_at": "2026-10-24T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3c8731c0796b09e5f668",
-      "source": "wired",
-      "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
-      "url": "https://www.wired.com/review/ray-ban-meta-audio/",
-      "summary": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with.",
-      "image": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/master/pass/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg",
-      "published_at": "2026-10-24T09:15:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "6af37384128175a1b075",
       "source": "ars",
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -921,16 +941,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
       "published_at": "2026-10-23T22:48:25Z",
       "category": "Space"
-    },
-    {
-      "id": "fc44a606248062558eee",
-      "source": "verge",
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has…",
-      "image": "",
-      "published_at": "2026-10-23T21:39:26Z",
-      "category": "Entertainment"
     },
     {
       "id": "a0d2e406e5f04fcdac06",

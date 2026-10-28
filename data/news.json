@@ -1,37 +1,117 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T20:43:00Z",
+  "updated_at": "2026-10-28T00:03:27Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-27T20:43:00Z",
+      "last_success_at": "2026-10-28T00:03:27Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-27T20:43:00Z",
+      "last_success_at": "2026-10-28T00:03:27Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 32,
-      "last_success_at": "2026-10-27T20:43:00Z",
+      "last_success_at": "2026-10-28T00:03:27Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-27T20:43:00Z",
+      "last_success_at": "2026-10-28T00:03:27Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "cf8b0139fcc659fa4880",
+      "source": "verge",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some…",
+      "image": "",
+      "published_at": "2026-10-27T22:55:05Z",
+      "category": "Apple"
+    },
+    {
+      "id": "5b9f31f117372b7ecd71",
+      "source": "ars",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
+      "published_at": "2026-10-27T22:37:30Z",
+      "category": "Apple"
+    },
+    {
+      "id": "190b4af8e1bf7d722d4a",
+      "source": "ars",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+      "published_at": "2026-10-27T22:22:32Z",
+      "category": "Health"
+    },
+    {
+      "id": "9ff6f95169d1a0a7aa3d",
+      "source": "ars",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
+      "published_at": "2026-10-27T22:04:50Z",
+      "category": "Space"
+    },
+    {
+      "id": "d96e70fe49b40b8d9b39",
+      "source": "ars",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "published_at": "2026-10-27T21:50:04Z",
+      "category": "AI"
+    },
+    {
+      "id": "0f9d35bbadbda59424e1",
+      "source": "ars",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+      "published_at": "2026-10-27T21:31:14Z",
+      "category": "AI"
+    },
+    {
+      "id": "7f3a83fb558e316dc00b",
+      "source": "verge",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent…",
+      "image": "",
+      "published_at": "2026-10-27T20:48:58Z",
+      "category": "AI"
+    },
+    {
+      "id": "fd5db7bc03bf0f1336cf",
+      "source": "ars",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+      "published_at": "2026-10-27T20:25:55Z",
+      "category": "Biz & IT"
+    },
     {
       "id": "444455368ffb2a8a7b1d",
       "source": "wired",
@@ -45,7 +125,7 @@
     {
       "id": "221a3ee018183bd1d711",
       "source": "ars",
-      "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
       "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
       "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
@@ -823,16 +903,6 @@
       "category": "Business"
     },
     {
-      "id": "d7d5c4479be3bc95a7bc",
-      "source": "verge",
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members…",
-      "image": "",
-      "published_at": "2026-10-26T15:58:27Z",
-      "category": "AI"
-    },
-    {
       "id": "ad8c818a2e3d641f8e31",
       "source": "wired",
       "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
@@ -871,16 +941,6 @@
       "image": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg",
       "published_at": "2026-10-26T14:09:00Z",
       "category": "Security"
-    },
-    {
-      "id": "31a638aff26609305e77",
-      "source": "verge",
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter…",
-      "image": "",
-      "published_at": "2026-10-26T14:00:00Z",
-      "category": "AI"
     },
     {
       "id": "2b1e5f2b235fa0b6f469",
@@ -1113,46 +1173,6 @@
       "category": "AI"
     },
     {
-      "id": "505ed658a1279d17de40",
-      "source": "ars",
-      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg",
-      "published_at": "2026-10-23T16:58:39Z",
-      "category": "Health"
-    },
-    {
-      "id": "11ddf06e067acbbbc2b4",
-      "source": "ars",
-      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-      "url": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
-      "summary": "Corporate phishing tests are common, but this one was especially cruel.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg",
-      "published_at": "2026-10-23T16:51:59Z",
-      "category": "Policy"
-    },
-    {
-      "id": "0ad071004e9db947270e",
-      "source": "ars",
-      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
-      "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
-      "summary": "Sound designer lets Half Life-related codename slip at a conference.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
-      "published_at": "2026-10-23T16:35:00Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "cc4a2d20146ca4ee527c",
-      "source": "ars",
-      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-      "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg",
-      "published_at": "2026-10-23T13:43:21Z",
-      "category": "Policy"
-    },
-    {
       "id": "1ff530623011cbb37183",
       "source": "mit",
       "title": "The Download: testing six tech promises and biotech’s blind spots",
@@ -1161,26 +1181,6 @@
       "image": "",
       "published_at": "2026-10-23T12:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "bcabda54b799d8ba2e23",
-      "source": "ars",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg",
-      "published_at": "2026-10-23T11:30:22Z",
-      "category": "Tech"
-    },
-    {
-      "id": "eb3ba1b5219d80999e71",
-      "source": "ars",
-      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-      "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp",
-      "published_at": "2026-10-23T11:15:03Z",
-      "category": "Culture"
     },
     {
       "id": "e31c778c32202511c5c5",

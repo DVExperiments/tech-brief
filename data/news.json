@@ -1,37 +1,157 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T05:44:06Z",
+  "updated_at": "2026-10-28T11:40:11Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T05:44:06Z",
+      "last_success_at": "2026-10-28T11:40:10Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T05:44:06Z",
+      "last_success_at": "2026-10-28T11:40:11Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 32,
-      "last_success_at": "2026-10-28T05:44:06Z",
+      "last_success_at": "2026-10-28T11:40:11Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T05:44:06Z",
+      "last_success_at": "2026-10-28T11:40:11Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "5949e4331d00cedfc3c6",
+      "source": "verge",
+      "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+      "url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt…",
+      "image": "",
+      "published_at": "2026-10-28T11:30:00Z",
+      "category": "Meta"
+    },
+    {
+      "id": "947281933127bf768628",
+      "source": "verge",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the…",
+      "image": "",
+      "published_at": "2026-10-28T11:27:30Z",
+      "category": "AI"
+    },
+    {
+      "id": "cc57ebd0f6df1899d7b2",
+      "source": "ars",
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
+      "published_at": "2026-10-28T11:00:49Z",
+      "category": "Tech"
+    },
+    {
+      "id": "1cad605bb02b690775ca",
+      "source": "wired",
+      "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
+      "url": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
+      "summary": "The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.",
+      "image": "https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/master/pass/102726-Pickles!.jpg",
+      "published_at": "2026-10-28T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "19e220feeb6ebf1a9fbc",
+      "source": "wired",
+      "title": "Pornhub Stars Want to Teach You How to Make Dinner",
+      "url": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
+      "summary": "Faced with censorship and anti-porn laws, the adult site is encouraging creators to embrace cooking, gaming, podcasting, and other safe-for-work content.",
+      "image": "https://media.wired.com/photos/6adede77dbc6676891653f9d/master/pass/SFW%20pornhub.jpg",
+      "published_at": "2026-10-28T10:45:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "cc7095b56bf625ea9928",
+      "source": "wired",
+      "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
+      "url": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
+      "summary": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
+      "image": "https://media.wired.com/photos/6ae11d65f409d832a824126b/master/pass/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-28T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8257645b871ecc704e46",
+      "source": "wired",
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
+      "published_at": "2026-10-28T10:15:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "87c0bf696180cf137187",
+      "source": "wired",
+      "title": "Please Let the Internet Die",
+      "url": "https://www.wired.com/story/let-the-internet-die/",
+      "summary": "Online spaces are captured by oligarchs and saturated with slop—and they’re exacerbating humanity’s worst impulses. It’s time to start over.",
+      "image": "https://media.wired.com/photos/6adcb3a50f905f8d56c7065e/master/pass/WIRED-Ghost-Stories-Dead-Internet.jpg",
+      "published_at": "2026-10-28T10:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "a4d315e55442dddc807d",
+      "source": "wired",
+      "title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
+      "url": "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/",
+      "summary": "The base model—without thrusters or the flight system—will likely cost several times that amount to buy. “I’m going to do everything in my power to get the flying one,” says one customer.",
+      "image": "https://media.wired.com/photos/6ae10eb0f7e0fe592a7ec4f3/master/pass/Roadster_78.jpg",
+      "published_at": "2026-10-28T09:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fb9de799d4950293db01",
+      "source": "wired",
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "summary": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+      "image": "https://media.wired.com/photos/6adf8486990ea20354efad62/master/pass/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg",
+      "published_at": "2026-10-28T09:30:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "5892b601f23aa979fd9e",
+      "source": "wired",
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
+      "published_at": "2026-10-28T08:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "5dec90102228ae2d3fbc",
+      "source": "wired",
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
+      "published_at": "2026-10-28T06:00:00Z",
+      "category": "Business"
+    },
     {
       "id": "551c7c70d08fa6150abf",
       "source": "wired",
@@ -743,16 +863,6 @@
       "category": "AI"
     },
     {
-      "id": "8857fd60597d0de6bb6b",
-      "source": "wired",
-      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
-      "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
-      "published_at": "2026-10-26T22:40:37Z",
-      "category": "Culture"
-    },
-    {
       "id": "a853cc06baf979cebb5f",
       "source": "ars",
       "title": "Microsoft offers to buy out a quarter of its workforce",
@@ -783,26 +893,6 @@
       "category": "AI"
     },
     {
-      "id": "28569f795b81c3952963",
-      "source": "wired",
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "image": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg",
-      "published_at": "2026-10-26T21:27:15Z",
-      "category": "Business"
-    },
-    {
-      "id": "1958dfc2610c5db042fb",
-      "source": "wired",
-      "title": "Best Dyson Vacuum Deals for Dyson Week 2026",
-      "url": "https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/",
-      "summary": "The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.",
-      "image": "https://media.wired.com/photos/6a67cdb1173a7fcd3f13de82/master/pass/Review--Dyson-V16-Piston-Animal-Submarine.jpg",
-      "published_at": "2026-10-26T20:28:30Z",
-      "category": "Gear"
-    },
-    {
       "id": "e552e002a1b8b6eed156",
       "source": "ars",
       "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
@@ -823,16 +913,6 @@
       "category": "Culture"
     },
     {
-      "id": "1f160c7cb103acbec4f7",
-      "source": "wired",
-      "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
-      "url": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
-      "summary": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
-      "image": "https://media.wired.com/photos/6adfb111ce126e8759a8370d/master/pass/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg",
-      "published_at": "2026-10-26T20:13:46Z",
-      "category": "Gear"
-    },
-    {
       "id": "aba396f12be4769005fb",
       "source": "ars",
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -841,16 +921,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png",
       "published_at": "2026-10-26T20:04:16Z",
       "category": "AI"
-    },
-    {
-      "id": "74730a9425eb0245847b",
-      "source": "wired",
-      "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
-      "url": "https://www.wired.com/story/apple-airtag-deal-october-2026/",
-      "summary": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
-      "image": "https://media.wired.com/photos/6adfa712dae5c72239fced97/master/pass/AirTag%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-26T19:40:31Z",
-      "category": "Gear"
     },
     {
       "id": "7823b75600a5254d716c",
@@ -881,16 +951,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
       "published_at": "2026-10-26T18:50:41Z",
       "category": "AI"
-    },
-    {
-      "id": "18ccba3bcfe0f2ca6dd0",
-      "source": "wired",
-      "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
-      "url": "https://www.wired.com/review/google-fitbit-edge/",
-      "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.",
-      "image": "https://media.wired.com/photos/6adf55bb4342ac0de5548459/master/pass/Google%20Fitbit%20Edge%20Review%20102026%20top%20art%20SOURCE%20Google.jpg",
-      "published_at": "2026-10-26T18:49:49Z",
-      "category": "Gear"
     },
     {
       "id": "f5a9adcabaef207e6817",
@@ -983,46 +1043,6 @@
       "category": "Fitness"
     },
     {
-      "id": "bbe7264bd3b804ddf6c3",
-      "source": "verge",
-      "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
-      "url": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
-      "summary": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not…",
-      "image": "",
-      "published_at": "2026-10-26T16:45:00Z",
-      "category": "Headphone Reviews"
-    },
-    {
-      "id": "eab666ac1f7a0619bacd",
-      "source": "verge",
-      "title": "Instagram chases YouTube with a push for longer, widescreen videos",
-      "url": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
-      "summary": "Instagram is announcing a big push into longform horizontal video, which the platform is calling \"Features.\" Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he…",
-      "image": "",
-      "published_at": "2026-10-26T16:05:44Z",
-      "category": "Creators"
-    },
-    {
-      "id": "e146050a3b95e1900b42",
-      "source": "wired",
-      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "image": "https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg",
-      "published_at": "2026-10-26T16:01:55Z",
-      "category": "Business"
-    },
-    {
-      "id": "ad8c818a2e3d641f8e31",
-      "source": "wired",
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "image": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg",
-      "published_at": "2026-10-26T14:50:47Z",
-      "category": "Business"
-    },
-    {
       "id": "7e6f2febc2e6ce4ca178",
       "source": "ars",
       "title": "F1 in Texas: The American race that fans love to attend",
@@ -1041,16 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg",
       "published_at": "2026-10-26T14:30:27Z",
       "category": "AI"
-    },
-    {
-      "id": "16578a812b36a4ed37a7",
-      "source": "wired",
-      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "summary": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-      "image": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg",
-      "published_at": "2026-10-26T14:09:00Z",
-      "category": "Security"
     },
     {
       "id": "5433f54e698c84bdfbd3",
@@ -1161,16 +1171,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
       "published_at": "2026-10-23T17:32:58Z",
       "category": "Science"
-    },
-    {
-      "id": "02af730eea60a36bea51",
-      "source": "ars",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
-      "published_at": "2026-10-23T17:18:31Z",
-      "category": "AI"
     },
     {
       "id": "1ff530623011cbb37183",

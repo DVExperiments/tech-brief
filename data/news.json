@@ -1,37 +1,147 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T00:03:27Z",
+  "updated_at": "2026-10-28T05:44:06Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T00:03:27Z",
+      "last_success_at": "2026-10-28T05:44:06Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T00:03:27Z",
+      "last_success_at": "2026-10-28T05:44:06Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 32,
-      "last_success_at": "2026-10-28T00:03:27Z",
+      "last_success_at": "2026-10-28T05:44:06Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T00:03:27Z",
+      "last_success_at": "2026-10-28T05:44:06Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "551c7c70d08fa6150abf",
+      "source": "wired",
+      "title": "LG Promo Codes and Coupons for October 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b854d1cf87417218d0d0",
+      "source": "wired",
+      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "519ba6421b3f2608dbdb",
+      "source": "wired",
+      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
+      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4156a1c45a1890b513cd",
+      "source": "wired",
+      "title": "Peacock Promo Codes: 40% Off October 2026",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dcfaddb031a777b29327",
+      "source": "wired",
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0d2d73a69d1b8f0456ad",
+      "source": "wired",
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "565f705cf73f69492324",
+      "source": "wired",
+      "title": "Disney Plus Discount Codes: 52% Off October 2026",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "da7c921cdba559f7759b",
+      "source": "wired",
+      "title": "Squarespace Promo Codes: 20% Off in October 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f73f2ebb0d0db44aaa2a",
+      "source": "wired",
+      "title": "Dyson Promo Codes: 25% Off in October 2026",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8cbe1cc874cc33c835b8",
+      "source": "wired",
+      "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4fa2b481b6048ff8e82b",
+      "source": "wired",
+      "title": "20% Off Samsung Promo Code | October 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-10-28T05:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "cf8b0139fcc659fa4880",
       "source": "verge",
@@ -943,26 +1053,6 @@
       "category": "Security"
     },
     {
-      "id": "2b1e5f2b235fa0b6f469",
-      "source": "wired",
-      "title": "WIRED Ghost Stories",
-      "url": "https://www.wired.com/ghost-stories/",
-      "summary": "Five hauntings from the other side of technology.",
-      "image": "https://media.wired.com/photos/6adbf59adee148eb9cc5625f/master/pass/WIRED-ghost-stories-top-art.jpg",
-      "published_at": "2026-10-26T14:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "8f4e9f5bf74c2895ad76",
-      "source": "wired",
-      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
-      "url": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
-      "summary": "Apple confirmed a “small number” of iPhone Duo units have an issue impacting the inner display.",
-      "image": "https://media.wired.com/photos/6adf134c0a7918a0f61a89fd/master/pass/iPhone%20Duo_94.jpg",
-      "published_at": "2026-10-26T13:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "5433f54e698c84bdfbd3",
       "source": "mit",
       "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
@@ -983,66 +1073,6 @@
       "category": "Features"
     },
     {
-      "id": "c0887af07f66fe11a366",
-      "source": "wired",
-      "title": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It",
-      "url": "https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/",
-      "summary": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
-      "image": "https://media.wired.com/photos/6ada4995fd62e299be0487da/master/pass/Business_Meet%20The%20TikTokers%20Stripping%20Copper%20As%20a%20Side%20Hustle_v2.jpg",
-      "published_at": "2026-10-26T11:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "225206fefb0d55b38313",
-      "source": "wired",
-      "title": "LG B6 OLED TV Review (2026)",
-      "url": "https://www.wired.com/review/lg-b6/",
-      "summary": "The LG B6 has deep and rich blacks and a low price tag, but midrange performance elsewhere.",
-      "image": "https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-26T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e71860e5f7f4fa72e4f8",
-      "source": "wired",
-      "title": "Lykyn Review: A Mushroom Garden Worth Showing Off",
-      "url": "https://www.wired.com/review/lykyn-automated-mushroom-grow-box/",
-      "summary": "Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.",
-      "image": "https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg",
-      "published_at": "2026-10-26T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7fa4f3bd57d302792bae",
-      "source": "wired",
-      "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
-      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-      "summary": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
-      "image": "https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg",
-      "published_at": "2026-10-26T10:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "fb5554744e95656c696a",
-      "source": "wired",
-      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-      "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg",
-      "published_at": "2026-10-26T09:30:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "6331ddc838dd4678e881",
-      "source": "wired",
-      "title": "Valve Steam Frame Review: Costly and Inconsistent",
-      "url": "https://www.wired.com/review/valve-steam-frame/",
-      "summary": "The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.",
-      "image": "https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg",
-      "published_at": "2026-10-26T09:15:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "97278abda9d2b3525c91",
       "source": "mit",
       "title": "The focus on AI safety disasters ignores everyday harms",
@@ -1051,36 +1081,6 @@
       "image": "",
       "published_at": "2026-10-26T09:01:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "c054b5d3ce4bfca813d1",
-      "source": "wired",
-      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
-      "image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg",
-      "published_at": "2026-10-26T09:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "341f1f60de05c0325599",
-      "source": "wired",
-      "title": "Wallhack M-001 Review: When Fun Overrides Specs",
-      "url": "https://www.wired.com/review/wallhack-m-001/",
-      "summary": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.",
-      "image": "https://media.wired.com/photos/6adbbc51f337c510e207c213/master/pass/Review%20Wallhack%20M-001%20Gaming%20Mouse%20102026%20top%20art%20SOURCE%20Wallhack.jpg",
-      "published_at": "2026-10-25T12:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "325c68f7e68a74277245",
-      "source": "wired",
-      "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
-      "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
-      "summary": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
-      "image": "https://media.wired.com/photos/6adaaa0519e924cf3288639a/master/pass/1344013114",
-      "published_at": "2026-10-25T12:00:00Z",
-      "category": "Science"
     },
     {
       "id": "0c7a14ce764b019bd526",

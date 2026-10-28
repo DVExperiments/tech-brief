@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T11:40:11Z",
+  "updated_at": "2026-10-28T17:25:15Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T11:40:10Z",
+      "last_success_at": "2026-10-28T17:25:15Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T11:40:11Z",
+      "last_success_at": "2026-10-28T17:25:15Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 32,
-      "last_success_at": "2026-10-28T11:40:11Z",
+      "count": 34,
+      "last_success_at": "2026-10-28T17:25:15Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-28T11:40:11Z",
+      "last_success_at": "2026-10-28T17:25:15Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "781df0c6585df15060a4",
+      "source": "verge",
+      "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+      "summary": "Apple just announced its first touchscreen Macbook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited MacBook in a video during the event that you can watch right here to see the new display…",
+      "image": "",
+      "published_at": "2026-10-28T17:19:23Z",
+      "category": "Apple"
+    },
+    {
+      "id": "b1ce31d3022c06b77100",
+      "source": "verge",
+      "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+      "summary": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to…",
+      "image": "",
+      "published_at": "2026-10-28T17:16:55Z",
+      "category": "Apple"
+    },
+    {
+      "id": "e85bb2f31866c8b4af7b",
+      "source": "wired",
+      "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "summary": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
+      "image": "https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/master/pass/1027_AppleNF_Illustration_v1.jpg",
+      "published_at": "2026-10-28T17:15:16Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "30b17d68d2a35ba95f64",
+      "source": "verge",
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+      "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+      "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature…",
+      "image": "",
+      "published_at": "2026-10-28T17:12:47Z",
+      "category": "Apple"
+    },
+    {
+      "id": "2c13b6d06a236b17d0b9",
+      "source": "verge",
+      "title": "Instagram doesn’t have a plan to pay long-form video creators",
+      "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
+      "summary": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on…",
+      "image": "",
+      "published_at": "2026-10-28T17:10:46Z",
+      "category": "Creators"
+    },
+    {
+      "id": "3726f2f8205ea43b4000",
+      "source": "verge",
+      "title": "Apple announces its first touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
+      "summary": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to…",
+      "image": "",
+      "published_at": "2026-10-28T17:05:56Z",
+      "category": "Apple"
+    },
+    {
+      "id": "ec63c4ea0e7cd9d32af4",
+      "source": "verge",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet…",
+      "image": "",
+      "published_at": "2026-10-28T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "7d3876fe12091dc80ace",
+      "source": "verge",
+      "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+      "url": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+      "summary": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of…",
+      "image": "",
+      "published_at": "2026-10-28T16:33:32Z",
+      "category": "Apple"
+    },
+    {
+      "id": "5e77f9c9a6b2e7dcc341",
+      "source": "verge",
+      "title": "All the news from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+      "summary": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it…",
+      "image": "",
+      "published_at": "2026-10-28T16:30:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "1232650e480a39696fdc",
+      "source": "verge",
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said…",
+      "image": "",
+      "published_at": "2026-10-28T16:15:30Z",
+      "category": "AI"
+    },
+    {
+      "id": "ad51b0e81b7bca10c9f0",
+      "source": "verge",
+      "title": "Reddit is getting a For You feed",
+      "url": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+      "summary": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and…",
+      "image": "",
+      "published_at": "2026-10-28T16:00:00Z",
+      "category": "News"
+    },
+    {
+      "id": "a2a85a43d295f1b3a807",
+      "source": "ars",
+      "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+      "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+      "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg",
+      "published_at": "2026-10-28T15:48:12Z",
+      "category": "Culture"
+    },
+    {
+      "id": "b7afc4fa2035c8a3bec9",
+      "source": "wired",
+      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+      "url": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
+      "summary": "Sony has new, spiffy see-through controllers and covers for its PlayStation 5 that let you see the hardware guts inside.",
+      "image": "https://media.wired.com/photos/6ae09646dad85b6a01dd12fd/master/pass/PRISM-Collection_DSonly_3UP_16X6.jpg",
+      "published_at": "2026-10-28T15:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "af1cbff1bbfce5d940aa",
+      "source": "wired",
+      "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
+      "url": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+      "summary": "A far-right campaign claiming leftists are stealing votes from nursing home residents has centered on changing guidance from Mehmet Oz’s Centers for Medicare and Medicaid Services.",
+      "image": "https://media.wired.com/photos/6ae1f97f7b392d6b73757c0e/master/pass/GettyImages-2299832720.jpg",
+      "published_at": "2026-10-28T14:46:35Z",
+      "category": "Politics"
+    },
+    {
+      "id": "3809434455ea9c1eaeb6",
+      "source": "ars",
+      "title": "A hidden ocean change near Antarctica could have global consequences",
+      "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+      "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
+      "published_at": "2026-10-28T13:38:53Z",
+      "category": "Science"
+    },
+    {
+      "id": "fc765bdcdcddfc4f22f6",
+      "source": "wired",
+      "title": "What’s the Best Kindle of 2026 (So Far)?",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "summary": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.",
+      "image": "https://media.wired.com/photos/6ae10eb928ee41eb8014df31/master/pass/Update%20Best%20Kindles%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-28T13:02:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "40b61448b9c6bcd8dacc",
+      "source": "wired",
+      "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
+      "url": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
+      "summary": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?",
+      "image": "https://media.wired.com/photos/6ae11ac795de04d71913da53/master/pass/Review%20Kindle%20Paperwhite%20and%20Colorsoft%202026%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-28T13:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f50aae4f60ea2b7612e3",
+      "source": "mit",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan…",
+      "image": "",
+      "published_at": "2026-10-28T12:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "ce9f680fc2e58f80980e",
+      "source": "wired",
+      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+      "summary": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
+      "image": "https://media.wired.com/photos/6ae097bb45acc693d52eb8ba/master/pass/New%20Amazon%202026%20Echo%20Speakers%20SOURCE%20Julian%20Chokkattu.jpg.jpg",
+      "published_at": "2026-10-28T12:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "aa9f5df10b45ed3e6e13",
+      "source": "mit",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "summary": "",
+      "image": "",
+      "published_at": "2026-10-28T12:00:00Z",
+      "category": "Artificial intelligence"
+    },
     {
       "id": "5949e4331d00cedfc3c6",
       "source": "verge",
@@ -763,36 +963,6 @@
       "category": "Business"
     },
     {
-      "id": "00e0afe2c30d5a3327d5",
-      "source": "wired",
-      "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
-      "url": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
-      "summary": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
-      "image": "https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg",
-      "published_at": "2026-10-27T10:45:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "dbafa869ee8c9ab8049e",
-      "source": "wired",
-      "title": "Instagram Is a Streaming Service Now",
-      "url": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
-      "summary": "Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.",
-      "image": "https://media.wired.com/photos/6ae06babed02f1088a5b33a4/master/pass/GettyImages-2239130168.jpg",
-      "published_at": "2026-10-27T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c030c91a1b4f9bdaf327",
-      "source": "wired",
-      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
-      "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
-      "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
-      "image": "https://media.wired.com/photos/6adf98357bc34babe586eb7f/master/pass/GettyImages-2300207719.jpg",
-      "published_at": "2026-10-27T10:15:00Z",
-      "category": "Politics"
-    },
-    {
       "id": "44cbffc6d60aa36b9e21",
       "source": "verge",
       "title": "Data center backlash is uniting America",
@@ -801,16 +971,6 @@
       "image": "",
       "published_at": "2026-10-27T10:00:00Z",
       "category": "AI"
-    },
-    {
-      "id": "d322cb7ab1cd6031162e",
-      "source": "wired",
-      "title": "How to Hide Your Baby From the Government",
-      "url": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
-      "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
-      "image": "https://media.wired.com/photos/6adf82fd71d0e77d563766d7/master/pass/WIRED-Ghost-Stories-sovereign-babies.jpg",
-      "published_at": "2026-10-27T10:00:00Z",
-      "category": "The Big Story"
     },
     {
       "id": "49f63038355151eb006d",
@@ -823,26 +983,6 @@
       "category": "Gadgets"
     },
     {
-      "id": "a5491939945428fe122e",
-      "source": "wired",
-      "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
-      "url": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
-      "summary": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
-      "image": "https://media.wired.com/photos/6adfb30fcc0a6405c8bee722/master/pass/Waterdrop%20X12%20Under-Sink%20Tankless%20Reverse%20Osmosis%20System%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-27T09:35:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "cfb12d46090b5c9a0a02",
-      "source": "wired",
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-      "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg",
-      "published_at": "2026-10-27T09:30:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "c9cfb02dc492b140ef94",
       "source": "mit",
       "title": "How solid-state transformers could help power the AI boom",
@@ -853,16 +993,6 @@
       "category": "Climate change and energy"
     },
     {
-      "id": "0d7354d6294fc526f750",
-      "source": "verge",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer…",
-      "image": "",
-      "published_at": "2026-10-26T23:34:58Z",
-      "category": "AI"
-    },
-    {
       "id": "a853cc06baf979cebb5f",
       "source": "ars",
       "title": "Microsoft offers to buy out a quarter of its workforce",
@@ -871,26 +1001,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg",
       "published_at": "2026-10-26T22:36:06Z",
       "category": "Tech"
-    },
-    {
-      "id": "642a823da8f95f67175f",
-      "source": "verge",
-      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-      "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version…",
-      "image": "",
-      "published_at": "2026-10-26T21:56:36Z",
-      "category": "Deals"
-    },
-    {
-      "id": "9bb59363d482e18d3487",
-      "source": "verge",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power…",
-      "image": "",
-      "published_at": "2026-10-26T21:45:31Z",
-      "category": "AI"
     },
     {
       "id": "e552e002a1b8b6eed156",
@@ -933,16 +1043,6 @@
       "category": "Apple"
     },
     {
-      "id": "ab2eb8aee985c505ad53",
-      "source": "verge",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video…",
-      "image": "",
-      "published_at": "2026-10-26T18:51:06Z",
-      "category": "Apple"
-    },
-    {
       "id": "e5a9eb2f6fecef887946",
       "source": "ars",
       "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
@@ -951,16 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
       "published_at": "2026-10-26T18:50:41Z",
       "category": "AI"
-    },
-    {
-      "id": "f5a9adcabaef207e6817",
-      "source": "verge",
-      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-      "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843)…",
-      "image": "",
-      "published_at": "2026-10-26T18:22:06Z",
-      "category": "Business"
     },
     {
       "id": "17477d1cb399603e9c37",
@@ -983,26 +1073,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "e9479822d1bdcdcdcd84",
-      "source": "verge",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge…",
-      "image": "",
-      "published_at": "2026-10-26T17:30:55Z",
-      "category": "AI"
-    },
-    {
-      "id": "764fd7216d8ba0d48fc7",
-      "source": "verge",
-      "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of…",
-      "image": "",
-      "published_at": "2026-10-26T17:28:07Z",
-      "category": "Apple"
-    },
-    {
       "id": "bf5e79ead96d56d53e1f",
       "source": "ars",
       "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
@@ -1011,36 +1081,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg",
       "published_at": "2026-10-26T17:26:36Z",
       "category": "AI"
-    },
-    {
-      "id": "524c8dc7ca2b8d299d03",
-      "source": "verge",
-      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value…",
-      "image": "",
-      "published_at": "2026-10-26T17:25:34Z",
-      "category": "Deals"
-    },
-    {
-      "id": "00430cb5efc0313db50c",
-      "source": "verge",
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO…",
-      "image": "",
-      "published_at": "2026-10-26T17:10:23Z",
-      "category": "AI"
-    },
-    {
-      "id": "36034fc5e7d41078863b",
-      "source": "verge",
-      "title": "Everything old is new again with the Fitbit Edge",
-      "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-      "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle…",
-      "image": "",
-      "published_at": "2026-10-26T17:00:00Z",
-      "category": "Fitness"
     },
     {
       "id": "7e6f2febc2e6ce4ca178",
@@ -1150,26 +1190,6 @@
       "summary": "Space Force considering options: public-private, federal installation, state land.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg",
       "published_at": "2026-10-23T19:33:58Z",
-      "category": "Science"
-    },
-    {
-      "id": "6f5bcfd1d122434345a3",
-      "source": "ars",
-      "title": "Spotify ramps up policy enforcement on family plans",
-      "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-      "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
-      "published_at": "2026-10-23T19:20:27Z",
-      "category": "Tech"
-    },
-    {
-      "id": "dc5db32f3095fdaeb184",
-      "source": "ars",
-      "title": "Crows can evaluate visual info twice as fast as mammals",
-      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-      "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
-      "published_at": "2026-10-23T17:32:58Z",
       "category": "Science"
     },
     {

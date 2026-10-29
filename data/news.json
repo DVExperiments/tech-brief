@@ -1,37 +1,157 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T01:48:40Z",
+  "updated_at": "2026-10-29T08:30:18Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T01:48:40Z",
+      "last_success_at": "2026-10-29T08:30:18Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T01:48:40Z",
+      "last_success_at": "2026-10-29T08:30:18Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 35,
-      "last_success_at": "2026-10-29T01:48:40Z",
+      "last_success_at": "2026-10-29T08:30:18Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T01:48:40Z",
+      "last_success_at": "2026-10-29T08:30:18Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "6b20f817163097bd83a8",
+      "source": "wired",
+      "title": "Norton Coupon Codes: Up to 58% Off",
+      "url": "https://www.wired.com/story/norton-coupon-code/",
+      "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "416632ed5ad9a7981737",
+      "source": "wired",
+      "title": "Hungryroot Coupon Codes: 30% Off This November 2026",
+      "url": "https://www.wired.com/story/hungryroot-promo-code/",
+      "summary": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "60ad035bdf279ccc12e9",
+      "source": "wired",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2bcce98c18a65edce8c0",
+      "source": "wired",
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "url": "https://www.wired.com/story/govee-discount-code/",
+      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "525a5e645569d3e22b70",
+      "source": "wired",
+      "title": "NZXT Discount Codes: 50% Off in November 2026",
+      "url": "https://www.wired.com/story/nzxt-discount-code/",
+      "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fad596e904758e76d678",
+      "source": "wired",
+      "title": "Dermstore Coupons: 25% Off for November 2026",
+      "url": "https://www.wired.com/story/dermstore-promo-code/",
+      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8b3388f9c158b04d6997",
+      "source": "wired",
+      "title": "Pura Promo Codes: $20 Off November 2026",
+      "url": "https://www.wired.com/story/pura-promo-code/",
+      "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "cafcd932ee246ffcfd01",
+      "source": "wired",
+      "title": "Petlibro Offers: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/petlibro-discount-code/",
+      "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8e0818bcc64684f69f03",
+      "source": "wired",
+      "title": "30% Off Tempur-Pedic Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
+      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3d5f1ead40bf5c24b9de",
+      "source": "wired",
+      "title": "Skullcandy Discount Code: 30% Off | November 2026",
+      "url": "https://www.wired.com/story/skullcandy-discount-code/",
+      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ea8b31319d2132cd6bc5",
+      "source": "wired",
+      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+      "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+      "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
+      "image": "https://media.wired.com/photos/6ae2b697af20331957eab942/master/pass/2195830714",
+      "published_at": "2026-10-29T03:34:46Z",
+      "category": "Security"
+    },
+    {
+      "id": "0716cfb20dfd5c51a0bc",
+      "source": "verge",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of…",
+      "image": "",
+      "published_at": "2026-10-29T02:22:46Z",
+      "category": "Gadgets"
+    },
     {
       "id": "e4f1a024e213971b2d8a",
       "source": "verge",
@@ -703,76 +823,6 @@
       "category": "Gear"
     },
     {
-      "id": "dcfaddb031a777b29327",
-      "source": "wired",
-      "title": "Paramount+ Coupon Codes and Deals for 2026",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0d2d73a69d1b8f0456ad",
-      "source": "wired",
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "565f705cf73f69492324",
-      "source": "wired",
-      "title": "Disney Plus Discount Codes: 52% Off October 2026",
-      "url": "https://www.wired.com/story/disney-plus-discounts/",
-      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "da7c921cdba559f7759b",
-      "source": "wired",
-      "title": "Squarespace Promo Codes: 20% Off in October 2026",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f73f2ebb0d0db44aaa2a",
-      "source": "wired",
-      "title": "Dyson Promo Codes: 25% Off in October 2026",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8cbe1cc874cc33c835b8",
-      "source": "wired",
-      "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
-      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4fa2b481b6048ff8e82b",
-      "source": "wired",
-      "title": "20% Off Samsung Promo Code | October 2026",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "cf8b0139fcc659fa4880",
       "source": "verge",
       "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
@@ -853,16 +903,6 @@
       "category": "Biz & IT"
     },
     {
-      "id": "444455368ffb2a8a7b1d",
-      "source": "wired",
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg",
-      "published_at": "2026-10-27T19:39:04Z",
-      "category": "Science"
-    },
-    {
       "id": "221a3ee018183bd1d711",
       "source": "ars",
       "title": "Google begins certifying Registered App Stores for Android, but not in the US",
@@ -883,16 +923,6 @@
       "category": "Elon Musk"
     },
     {
-      "id": "ee4ec9edf5d7c3f79b93",
-      "source": "wired",
-      "title": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)",
-      "url": "https://www.wired.com/story/everblog-homecal-deal-october-2026/",
-      "summary": "The Everblog HomeCal delivers a similar experience, including a digital photo frame and meal planning at no extra cost.",
-      "image": "https://media.wired.com/photos/6a35a476fb39402b67c3b903/master/pass/Are-Digital-Wall-Calendars-Worth-It-.jpg",
-      "published_at": "2026-10-27T18:51:17Z",
-      "category": "Gear"
-    },
-    {
       "id": "f91a69ac9c274ada8ee5",
       "source": "ars",
       "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
@@ -903,16 +933,6 @@
       "category": "AI"
     },
     {
-      "id": "7bda09dcf32b73bb17f6",
-      "source": "wired",
-      "title": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr",
-      "url": "https://www.wired.com/story/motorola-razr-deal-october-2026/",
-      "summary": "The Razr is our favorite budget foldable phone. While it isn’t on sale yet, Motorola is adding extras to sweeten this October deal.",
-      "image": "https://media.wired.com/photos/6ae0eec7a5839fc652c5a3e9/master/pass/Motorola%20October%202026%20Deal%20102026%20top%20art%20SOURCE%20motorola.jpg",
-      "published_at": "2026-10-27T18:41:41Z",
-      "category": "Gear"
-    },
-    {
       "id": "7d7f0f7115a78c9b1dc6",
       "source": "verge",
       "title": "Trump is making it easier for fossil fuel companies to leak methane",
@@ -921,16 +941,6 @@
       "image": "",
       "published_at": "2026-10-27T18:25:13Z",
       "category": "Energy"
-    },
-    {
-      "id": "6adf727833086be610d0",
-      "source": "wired",
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-      "image": "https://media.wired.com/photos/6ae0a917b092bac6ae652e82/master/pass/102626_Anthropic%20Gas%20S1.jpg",
-      "published_at": "2026-10-27T18:20:28Z",
-      "category": "Science"
     },
     {
       "id": "8af2f7c2db5360af94cd",
@@ -1031,16 +1041,6 @@
       "image": "",
       "published_at": "2026-10-27T16:00:00Z",
       "category": "AI"
-    },
-    {
-      "id": "c93e69c41baa65677f69",
-      "source": "verge",
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "summary": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised…",
-      "image": "",
-      "published_at": "2026-10-27T16:00:00Z",
-      "category": "News"
     },
     {
       "id": "fcc0a9c73d29a09cc7b0",

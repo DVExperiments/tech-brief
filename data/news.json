@@ -1,37 +1,247 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T15:35:03Z",
+  "updated_at": "2026-10-29T20:38:37Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T15:35:02Z",
+      "last_success_at": "2026-10-29T20:38:37Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T15:35:02Z",
+      "last_success_at": "2026-10-29T20:38:37Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T15:35:03Z",
+      "last_success_at": "2026-10-29T20:38:37Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T15:35:03Z",
+      "last_success_at": "2026-10-29T20:38:37Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "02333afb3f428985f6d9",
+      "source": "ars",
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
+      "published_at": "2026-10-29T20:18:49Z",
+      "category": "Tech"
+    },
+    {
+      "id": "0cd8377ef35c3da973f0",
+      "source": "verge",
+      "title": "Patrick Stewart has died at age 86",
+      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and…",
+      "image": "",
+      "published_at": "2026-10-29T20:10:02Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "2072d47a1083b68136a9",
+      "source": "ars",
+      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+      "summary": "Inspector general rejected request from Democratic and Republican senators.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
+      "published_at": "2026-10-29T20:08:10Z",
+      "category": "Policy"
+    },
+    {
+      "id": "5798692f82deee92db50",
+      "source": "verge",
+      "title": "Reddit will force everyone to log in",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information…",
+      "image": "",
+      "published_at": "2026-10-29T20:07:00Z",
+      "category": "News"
+    },
+    {
+      "id": "8b651007b946de88b77e",
+      "source": "verge",
+      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first…",
+      "image": "",
+      "published_at": "2026-10-29T20:02:00Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "3d06f603c932b361d5dc",
+      "source": "wired",
+      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
+      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+      "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
+      "image": "https://media.wired.com/photos/6ae3a1d0b3ee5efdf6d00c9f/master/pass/GettyImages-2259602081.jpg",
+      "published_at": "2026-10-29T19:51:56Z",
+      "category": "Business"
+    },
+    {
+      "id": "d74fc455a92cb4215cda",
+      "source": "wired",
+      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
+      "url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
+      "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
+      "image": "https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
+      "published_at": "2026-10-29T19:41:36Z",
+      "category": "Gear"
+    },
+    {
+      "id": "99f377426c2e1df0d459",
+      "source": "verge",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from…",
+      "image": "",
+      "published_at": "2026-10-29T19:19:28Z",
+      "category": "GM"
+    },
+    {
+      "id": "e47d1e46fad23808ad2b",
+      "source": "ars",
+      "title": "Trump declares robot imports a national security threat",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
+      "published_at": "2026-10-29T19:07:53Z",
+      "category": "AI"
+    },
+    {
+      "id": "573cb910a740b3f93045",
+      "source": "verge",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting…",
+      "image": "",
+      "published_at": "2026-10-29T18:45:31Z",
+      "category": "AI"
+    },
+    {
+      "id": "5ebb1c4f3ba80053e544",
+      "source": "wired",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "image": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif",
+      "published_at": "2026-10-29T18:39:43Z",
+      "category": "Politics"
+    },
+    {
+      "id": "e03f50003d7bf3f1b201",
+      "source": "ars",
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg",
+      "published_at": "2026-10-29T18:29:12Z",
+      "category": "Policy"
+    },
+    {
+      "id": "4e83097f5df9e547f732",
+      "source": "verge",
+      "title": "Ikea’s colorful donut-shaped smart lamp is $20 off",
+      "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+      "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April…",
+      "image": "",
+      "published_at": "2026-10-29T18:18:36Z",
+      "category": "Deals"
+    },
+    {
+      "id": "743b31d51e648ce097f2",
+      "source": "ars",
+      "title": "Turning a solar power system into its own backup",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg",
+      "published_at": "2026-10-29T18:02:26Z",
+      "category": "Science"
+    },
+    {
+      "id": "bc98f6a85b4633a3821c",
+      "source": "verge",
+      "title": "Apple’s new laptop supports one of the coolest features for color pros",
+      "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident…",
+      "image": "",
+      "published_at": "2026-10-29T17:48:09Z",
+      "category": "Apple"
+    },
+    {
+      "id": "8135d759033c908064a8",
+      "source": "wired",
+      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
+      "url": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
+      "summary": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try it risk-free for 99 days.",
+      "image": "https://media.wired.com/photos/6ae37394a4dff0c29ced940a/master/pass/Ridge%20Wallet%20sale%20deal%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
+      "published_at": "2026-10-29T17:41:36Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9f516d6eccbfbb6d2868",
+      "source": "verge",
+      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+      "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+      "summary": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed…",
+      "image": "",
+      "published_at": "2026-10-29T17:40:23Z",
+      "category": "Apps"
+    },
+    {
+      "id": "62bac42727e58d99af54",
+      "source": "ars",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+      "published_at": "2026-10-29T17:21:33Z",
+      "category": "Policy"
+    },
+    {
+      "id": "5e2df1964017e2ef0f05",
+      "source": "verge",
+      "title": "Data centers could send US climate pollution skyrocketing",
+      "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+      "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand…",
+      "image": "",
+      "published_at": "2026-10-29T17:10:46Z",
+      "category": "Climate"
+    },
+    {
+      "id": "f390199d94155b7eb3ed",
+      "source": "ars",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "published_at": "2026-10-29T16:24:55Z",
+      "category": "AI"
+    },
+    {
+      "id": "b4f2a113b42e94dcf2e8",
+      "source": "verge",
+      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
+      "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+      "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was…",
+      "image": "",
+      "published_at": "2026-10-29T16:14:06Z",
+      "category": "Gadgets"
+    },
     {
       "id": "0c1ff74774c9f6ac05d4",
       "source": "wired",
@@ -593,16 +803,6 @@
       "category": "Policy"
     },
     {
-      "id": "62bac42727e58d99af54",
-      "source": "ars",
-      "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
-      "published_at": "2026-10-28T19:30:33Z",
-      "category": "Policy"
-    },
-    {
       "id": "dfb3175527a19addd9b4",
       "source": "ars",
       "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
@@ -783,66 +983,6 @@
       "category": "Creators"
     },
     {
-      "id": "3726f2f8205ea43b4000",
-      "source": "verge",
-      "title": "Apple announces its first touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-      "summary": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to…",
-      "image": "",
-      "published_at": "2026-10-28T17:05:56Z",
-      "category": "Apple"
-    },
-    {
-      "id": "ec63c4ea0e7cd9d32af4",
-      "source": "verge",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet…",
-      "image": "",
-      "published_at": "2026-10-28T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "7d3876fe12091dc80ace",
-      "source": "verge",
-      "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
-      "url": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
-      "summary": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of…",
-      "image": "",
-      "published_at": "2026-10-28T16:33:32Z",
-      "category": "Apple"
-    },
-    {
-      "id": "5e77f9c9a6b2e7dcc341",
-      "source": "verge",
-      "title": "All the news from Apple’s ‘Pro and tell’ event",
-      "url": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
-      "summary": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it…",
-      "image": "",
-      "published_at": "2026-10-28T16:30:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "1232650e480a39696fdc",
-      "source": "verge",
-      "title": "Meta says it’ll probably delay its controversial new business terms again",
-      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said…",
-      "image": "",
-      "published_at": "2026-10-28T16:15:30Z",
-      "category": "AI"
-    },
-    {
-      "id": "ad51b0e81b7bca10c9f0",
-      "source": "verge",
-      "title": "Reddit is getting a For You feed",
-      "url": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
-      "summary": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and…",
-      "image": "",
-      "published_at": "2026-10-28T16:00:00Z",
-      "category": "News"
-    },
-    {
       "id": "a2a85a43d295f1b3a807",
       "source": "ars",
       "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
@@ -863,16 +1003,6 @@
       "category": "Gear"
     },
     {
-      "id": "af1cbff1bbfce5d940aa",
-      "source": "wired",
-      "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
-      "url": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
-      "summary": "A far-right campaign claiming leftists are stealing votes from nursing home residents has centered on changing guidance from Mehmet Oz’s Centers for Medicare and Medicaid Services.",
-      "image": "https://media.wired.com/photos/6ae1f97f7b392d6b73757c0e/master/pass/GettyImages-2299832720.jpg",
-      "published_at": "2026-10-28T14:46:35Z",
-      "category": "Politics"
-    },
-    {
       "id": "3809434455ea9c1eaeb6",
       "source": "ars",
       "title": "A hidden ocean change near Antarctica could have global consequences",
@@ -881,26 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
       "published_at": "2026-10-28T13:38:53Z",
       "category": "Science"
-    },
-    {
-      "id": "fc765bdcdcddfc4f22f6",
-      "source": "wired",
-      "title": "What’s the Best Kindle of 2026 (So Far)?",
-      "url": "https://www.wired.com/gallery/best-kindle/",
-      "summary": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.",
-      "image": "https://media.wired.com/photos/6ae10eb928ee41eb8014df31/master/pass/Update%20Best%20Kindles%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-28T13:02:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "40b61448b9c6bcd8dacc",
-      "source": "wired",
-      "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-      "url": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
-      "summary": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?",
-      "image": "https://media.wired.com/photos/6ae11ac795de04d71913da53/master/pass/Review%20Kindle%20Paperwhite%20and%20Colorsoft%202026%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-28T13:01:00Z",
-      "category": "Gear"
     },
     {
       "id": "f50aae4f60ea2b7612e3",
@@ -913,16 +1023,6 @@
       "category": "The Download"
     },
     {
-      "id": "ce9f680fc2e58f80980e",
-      "source": "wired",
-      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-      "summary": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
-      "image": "https://media.wired.com/photos/6ae097bb45acc693d52eb8ba/master/pass/New%20Amazon%202026%20Echo%20Speakers%20SOURCE%20Julian%20Chokkattu.jpg.jpg",
-      "published_at": "2026-10-28T12:01:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "aa9f5df10b45ed3e6e13",
       "source": "mit",
       "title": "Pairing industrial AI autonomy and human control",
@@ -933,26 +1033,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "5949e4331d00cedfc3c6",
-      "source": "verge",
-      "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
-      "url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
-      "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt…",
-      "image": "",
-      "published_at": "2026-10-28T11:30:00Z",
-      "category": "Meta"
-    },
-    {
-      "id": "947281933127bf768628",
-      "source": "verge",
-      "title": "Meta quietly launched an ‘AI pet journal’ app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the…",
-      "image": "",
-      "published_at": "2026-10-28T11:27:30Z",
-      "category": "AI"
-    },
-    {
       "id": "cc57ebd0f6df1899d7b2",
       "source": "ars",
       "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
@@ -961,16 +1041,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
       "published_at": "2026-10-28T11:00:49Z",
       "category": "Tech"
-    },
-    {
-      "id": "cf8b0139fcc659fa4880",
-      "source": "verge",
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some…",
-      "image": "",
-      "published_at": "2026-10-27T22:55:05Z",
-      "category": "Apple"
     },
     {
       "id": "5b9f31f117372b7ecd71",
@@ -1020,16 +1090,6 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
       "published_at": "2026-10-27T21:31:14Z",
-      "category": "AI"
-    },
-    {
-      "id": "7f3a83fb558e316dc00b",
-      "source": "verge",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent…",
-      "image": "",
-      "published_at": "2026-10-27T20:48:58Z",
       "category": "AI"
     },
     {
@@ -1113,36 +1173,6 @@
       "category": "Apple"
     },
     {
-      "id": "713b2364f52881fd9d55",
-      "source": "ars",
-      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
-      "published_at": "2026-10-27T14:00:49Z",
-      "category": "Apple"
-    },
-    {
-      "id": "92a7da12312327635107",
-      "source": "ars",
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
-      "published_at": "2026-10-27T13:32:35Z",
-      "category": "Science"
-    },
-    {
-      "id": "84481e5facb2b5e557fa",
-      "source": "ars",
-      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
-      "published_at": "2026-10-27T13:22:16Z",
-      "category": "Policy"
-    },
-    {
       "id": "afe8603d9e6101081fd7",
       "source": "mit",
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
@@ -1171,36 +1201,6 @@
       "image": "",
       "published_at": "2026-10-27T09:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "a853cc06baf979cebb5f",
-      "source": "ars",
-      "title": "Microsoft offers to buy out a quarter of its workforce",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg",
-      "published_at": "2026-10-26T22:36:06Z",
-      "category": "Tech"
-    },
-    {
-      "id": "e552e002a1b8b6eed156",
-      "source": "ars",
-      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-      "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg",
-      "published_at": "2026-10-26T20:27:00Z",
-      "category": "Health"
-    },
-    {
-      "id": "dbef28b8d9020672cc49",
-      "source": "ars",
-      "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-      "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes .",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-1152x648-1792956138.jpg",
-      "published_at": "2026-10-26T20:15:07Z",
-      "category": "Culture"
     },
     {
       "id": "00a3d791c2b56ed05fec",

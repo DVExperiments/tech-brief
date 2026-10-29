@@ -1,37 +1,307 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T08:30:18Z",
+  "updated_at": "2026-10-29T15:35:03Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T08:30:18Z",
+      "last_success_at": "2026-10-29T15:35:02Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T08:30:18Z",
+      "last_success_at": "2026-10-29T15:35:02Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 35,
-      "last_success_at": "2026-10-29T08:30:18Z",
+      "count": 36,
+      "last_success_at": "2026-10-29T15:35:03Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T08:30:18Z",
+      "last_success_at": "2026-10-29T15:35:03Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0c1ff74774c9f6ac05d4",
+      "source": "wired",
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "image": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
+      "published_at": "2026-10-29T15:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "9fb9a14e1d5e789a395d",
+      "source": "verge",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last…",
+      "image": "",
+      "published_at": "2026-10-29T14:39:37Z",
+      "category": "AI"
+    },
+    {
+      "id": "e84a580667ad63de33e4",
+      "source": "verge",
+      "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
+      "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
+      "summary": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10…",
+      "image": "",
+      "published_at": "2026-10-29T14:24:45Z",
+      "category": "Deals"
+    },
+    {
+      "id": "578a9caa7e651463bd6f",
+      "source": "verge",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1…",
+      "image": "",
+      "published_at": "2026-10-29T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "fc8c6fb65b81d29486ec",
+      "source": "wired",
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
+      "published_at": "2026-10-29T14:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "7a8af7aa48b319d8b23a",
+      "source": "verge",
+      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+      "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+      "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for…",
+      "image": "",
+      "published_at": "2026-10-29T13:52:48Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "a040346dec9533537f70",
+      "source": "wired",
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "url": "https://www.wired.com/story/petkit-sale-october-2026/",
+      "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
+      "image": "https://media.wired.com/photos/6ae2af53aad2e56b125912cc/master/pass/Petkit%20Deals%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
+      "published_at": "2026-10-29T13:41:26Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9f59f5bb75813ac7312a",
+      "source": "verge",
+      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+      "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+      "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a…",
+      "image": "",
+      "published_at": "2026-10-29T13:37:56Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "e4196aa0ad8667d80390",
+      "source": "verge",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to…",
+      "image": "",
+      "published_at": "2026-10-29T13:30:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "3b244d5cb0ae2987ccac",
+      "source": "verge",
+      "title": "Apple finally combined a toaster and a refrigerator",
+      "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+      "summary": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe…",
+      "image": "",
+      "published_at": "2026-10-29T13:21:02Z",
+      "category": "Apple"
+    },
+    {
+      "id": "0179504f0cd761be3ae2",
+      "source": "ars",
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg",
+      "published_at": "2026-10-29T12:58:34Z",
+      "category": "Security"
+    },
+    {
+      "id": "ac9b7a5528caa98c352a",
+      "source": "mit",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time…",
+      "image": "",
+      "published_at": "2026-10-29T12:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "a0c96ae58b8d172323a9",
+      "source": "verge",
+      "title": "DoorDash is acquiring Instacart for $17 billion",
+      "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+      "summary": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established…",
+      "image": "",
+      "published_at": "2026-10-29T11:56:35Z",
+      "category": "Business"
+    },
+    {
+      "id": "a8dfeed0929c813c4bab",
+      "source": "wired",
+      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "url": "https://www.wired.com/story/best-kindle-accessories/",
+      "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and stickers, this is the guide for you.",
+      "image": "https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg",
+      "published_at": "2026-10-29T11:03:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "453f90b5cd5e9508976c",
+      "source": "ars",
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg",
+      "published_at": "2026-10-29T11:00:08Z",
+      "category": "Features"
+    },
+    {
+      "id": "61ec7774a8a78cf4dde3",
+      "source": "wired",
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "image": "https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg",
+      "published_at": "2026-10-29T10:45:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "4ee207e5cdb3578b8cd8",
+      "source": "wired",
+      "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
+      "url": "https://www.wired.com/review/review-hisense-ur8/",
+      "summary": "The Hisense UR8 RGB MiniLED is more affordable than competitors and offers exceptional color accuracy, but is otherwise just OK.",
+      "image": "https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
+      "published_at": "2026-10-29T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6b86fe19d14eaece9e80",
+      "source": "wired",
+      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+      "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+      "summary": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
+      "image": "https://media.wired.com/photos/6adfb9e14342ac0de5548666/master/pass/Security_A%20Hacker%20Snuck%20Malware%20Onto%20Online%20Poker%20Players%E2%80%99%20Computers%20That%20Let%20Him%20See%20Their%20Cards_v1.jpg",
+      "published_at": "2026-10-29T10:30:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "1e04a1d95017b1d30a37",
+      "source": "wired",
+      "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+      "url": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
+      "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
+      "image": "https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg",
+      "published_at": "2026-10-29T10:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7832b8fd7d714399c210",
+      "source": "mit",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be…",
+      "image": "",
+      "published_at": "2026-10-29T10:11:12Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "f8d4fe5acdc532372cde",
+      "source": "verge",
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and…",
+      "image": "",
+      "published_at": "2026-10-29T10:00:04Z",
+      "category": "AI"
+    },
+    {
+      "id": "29c13867f2cc26afb034",
+      "source": "wired",
+      "title": "Reencle Essential Review: Same Scraps, Lower Price",
+      "url": "https://www.wired.com/review/reencle-essential-electric-composter/",
+      "summary": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
+      "image": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-29T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e7762e717214c311c772",
+      "source": "wired",
+      "title": "I Gave My Blood to the AI Death Clock",
+      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "image": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
+      "published_at": "2026-10-29T10:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "28d4f25d9f9736de5510",
+      "source": "mit",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for…",
+      "image": "",
+      "published_at": "2026-10-29T10:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "7062fe80dd6925b96f42",
+      "source": "wired",
+      "title": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
+      "url": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
+      "summary": "The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.",
+      "image": "https://media.wired.com/photos/6adf9665ae47ffa8435ebbf6/master/pass/GettyImages-2207247570.jpg",
+      "published_at": "2026-10-29T09:45:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "aaad1e7702512226611b",
+      "source": "wired",
+      "title": "Liquid Glass Finally Makes Sense on the iPhone Duo",
+      "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
+      "summary": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.",
+      "image": "https://media.wired.com/photos/6ad79403fc73d5bd28140aac/master/pass/DSC_9897.jpg",
+      "published_at": "2026-10-29T09:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5d834cbe2607d6793c53",
+      "source": "wired",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "summary": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "image": "https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg",
+      "published_at": "2026-10-29T09:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "6b20f817163097bd83a8",
       "source": "wired",
@@ -177,7 +447,7 @@
       "source": "ars",
       "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
       "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-      "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
       "published_at": "2026-10-28T22:51:15Z",
       "category": "Science"
@@ -693,136 +963,6 @@
       "category": "Tech"
     },
     {
-      "id": "1cad605bb02b690775ca",
-      "source": "wired",
-      "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
-      "url": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
-      "summary": "The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.",
-      "image": "https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/master/pass/102726-Pickles!.jpg",
-      "published_at": "2026-10-28T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "19e220feeb6ebf1a9fbc",
-      "source": "wired",
-      "title": "Pornhub Stars Want to Teach You How to Make Dinner",
-      "url": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
-      "summary": "Faced with censorship and anti-porn laws, the adult site is encouraging creators to embrace cooking, gaming, podcasting, and other safe-for-work content.",
-      "image": "https://media.wired.com/photos/6adede77dbc6676891653f9d/master/pass/SFW%20pornhub.jpg",
-      "published_at": "2026-10-28T10:45:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "cc7095b56bf625ea9928",
-      "source": "wired",
-      "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-      "url": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-      "summary": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
-      "image": "https://media.wired.com/photos/6ae11d65f409d832a824126b/master/pass/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-28T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8257645b871ecc704e46",
-      "source": "wired",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
-      "published_at": "2026-10-28T10:15:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "87c0bf696180cf137187",
-      "source": "wired",
-      "title": "Please Let the Internet Die",
-      "url": "https://www.wired.com/story/let-the-internet-die/",
-      "summary": "Online spaces are captured by oligarchs and saturated with slop—and they’re exacerbating humanity’s worst impulses. It’s time to start over.",
-      "image": "https://media.wired.com/photos/6adcb3a50f905f8d56c7065e/master/pass/WIRED-Ghost-Stories-Dead-Internet.jpg",
-      "published_at": "2026-10-28T10:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "a4d315e55442dddc807d",
-      "source": "wired",
-      "title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
-      "url": "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/",
-      "summary": "The base model—without thrusters or the flight system—will likely cost several times that amount to buy. “I’m going to do everything in my power to get the flying one,” says one customer.",
-      "image": "https://media.wired.com/photos/6ae10eb0f7e0fe592a7ec4f3/master/pass/Roadster_78.jpg",
-      "published_at": "2026-10-28T09:45:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "fb9de799d4950293db01",
-      "source": "wired",
-      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
-      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-      "summary": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
-      "image": "https://media.wired.com/photos/6adf8486990ea20354efad62/master/pass/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg",
-      "published_at": "2026-10-28T09:30:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "5892b601f23aa979fd9e",
-      "source": "wired",
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
-      "published_at": "2026-10-28T08:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "5dec90102228ae2d3fbc",
-      "source": "wired",
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
-      "published_at": "2026-10-28T06:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "551c7c70d08fa6150abf",
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b854d1cf87417218d0d0",
-      "source": "wired",
-      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "519ba6421b3f2608dbdb",
-      "source": "wired",
-      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4156a1c45a1890b513cd",
-      "source": "wired",
-      "title": "Peacock Promo Codes: 40% Off October 2026",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-10-28T05:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "cf8b0139fcc659fa4880",
       "source": "verge",
       "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
@@ -913,16 +1053,6 @@
       "category": "Google"
     },
     {
-      "id": "26efb0a4f6d15cad4919",
-      "source": "verge",
-      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
-      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-      "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for…",
-      "image": "",
-      "published_at": "2026-10-27T19:24:06Z",
-      "category": "Elon Musk"
-    },
-    {
       "id": "f91a69ac9c274ada8ee5",
       "source": "ars",
       "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
@@ -931,16 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
       "published_at": "2026-10-27T18:49:08Z",
       "category": "AI"
-    },
-    {
-      "id": "7d7f0f7115a78c9b1dc6",
-      "source": "verge",
-      "title": "Trump is making it easier for fossil fuel companies to leak methane",
-      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-      "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful…",
-      "image": "",
-      "published_at": "2026-10-27T18:25:13Z",
-      "category": "Energy"
     },
     {
       "id": "8af2f7c2db5360af94cd",
@@ -953,46 +1073,6 @@
       "category": "Culture"
     },
     {
-      "id": "c978c9d259d34355181e",
-      "source": "verge",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a…",
-      "image": "",
-      "published_at": "2026-10-27T17:30:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "4583d163dba2ee4f25ec",
-      "source": "verge",
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your…",
-      "image": "",
-      "published_at": "2026-10-27T17:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "375c253fe3dc904e1043",
-      "source": "verge",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the…",
-      "image": "",
-      "published_at": "2026-10-27T16:51:22Z",
-      "category": "AI"
-    },
-    {
-      "id": "d55f67f3f4f50d5ccca0",
-      "source": "verge",
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The…",
-      "image": "",
-      "published_at": "2026-10-27T16:44:40Z",
-      "category": "Analysis"
-    },
-    {
       "id": "c96a0cd7631f58209a93",
       "source": "ars",
       "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
@@ -1003,26 +1083,6 @@
       "category": "Cars"
     },
     {
-      "id": "82d6adc99b76fde48879",
-      "source": "verge",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull…",
-      "image": "",
-      "published_at": "2026-10-27T16:14:18Z",
-      "category": "AI"
-    },
-    {
-      "id": "2b96c0da7928bf4a3df8",
-      "source": "verge",
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-      "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured…",
-      "image": "",
-      "published_at": "2026-10-27T16:02:43Z",
-      "category": "Creators"
-    },
-    {
       "id": "96fddc3f952ce0f845b0",
       "source": "ars",
       "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
@@ -1030,16 +1090,6 @@
       "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
       "published_at": "2026-10-27T16:00:22Z",
-      "category": "AI"
-    },
-    {
-      "id": "583373f8319bced03da6",
-      "source": "verge",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience…",
-      "image": "",
-      "published_at": "2026-10-27T16:00:00Z",
       "category": "AI"
     },
     {
@@ -1151,26 +1201,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-1152x648-1792956138.jpg",
       "published_at": "2026-10-26T20:15:07Z",
       "category": "Culture"
-    },
-    {
-      "id": "aba396f12be4769005fb",
-      "source": "ars",
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png",
-      "published_at": "2026-10-26T20:04:16Z",
-      "category": "AI"
-    },
-    {
-      "id": "7823b75600a5254d716c",
-      "source": "ars",
-      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-      "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-      "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg",
-      "published_at": "2026-10-26T19:04:40Z",
-      "category": "Apple"
     },
     {
       "id": "00a3d791c2b56ed05fec",
@@ -1438,26 +1468,6 @@
       "title": "Nebraska native explores galaxies far, far away",
       "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
       "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "5b6e0798a2d1e7f06d32",
-      "source": "mit",
-      "title": "A champion for brain injury patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
-      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "29288e44919efc8f4d08",
-      "source": "mit",
-      "title": "A cleaner path to rare earth metals",
-      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
-      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he…",
       "image": "",
       "published_at": "2026-10-20T21:00:00Z",
       "category": "Uncategorized"

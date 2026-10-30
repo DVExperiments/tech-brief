@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T18:52:52Z",
+  "updated_at": "2026-10-30T22:58:38Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T18:52:51Z",
+      "last_success_at": "2026-10-30T22:58:38Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T18:52:51Z",
+      "last_success_at": "2026-10-30T22:58:38Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T18:52:51Z",
+      "last_success_at": "2026-10-30T22:58:38Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T18:52:52Z",
+      "last_success_at": "2026-10-30T22:58:38Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "31894a82e7532114b6db",
+      "source": "ars",
+      "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
+      "published_at": "2026-10-30T22:36:41Z",
+      "category": "Health"
+    },
+    {
+      "id": "2e4f9b70485c08f10ce6",
+      "source": "verge",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3…",
+      "image": "",
+      "published_at": "2026-10-30T22:32:53Z",
+      "category": "AI"
+    },
+    {
+      "id": "0645cf82fc74f657189f",
+      "source": "ars",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
+      "published_at": "2026-10-30T22:21:05Z",
+      "category": "Culture"
+    },
+    {
+      "id": "b4a5b11bf9e3cea4748c",
+      "source": "wired",
+      "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+      "url": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
+      "summary": "Google’s latest smartwatch packs great new health and fitness features, and it’s already on sale ahead of Black Friday.",
+      "image": "https://media.wired.com/photos/6ae50ed40af6dcf295d6abe7/master/pass/Google%20Pixel%20Watch%205%20Deals%20Post%2010206%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-30T22:15:06Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7ec9c1f124759245a365",
+      "source": "ars",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg",
+      "published_at": "2026-10-30T21:41:54Z",
+      "category": "AI"
+    },
+    {
+      "id": "3dc335f036876c6b87fa",
+      "source": "wired",
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "image": "https://media.wired.com/photos/6ae29474af20331957eab922/master/pass/business-Uncanny-Valley-anthropic-ipo.jpg",
+      "published_at": "2026-10-30T21:19:26Z",
+      "category": "Business"
+    },
+    {
+      "id": "2ddb8d0124cb99d7e3e0",
+      "source": "ars",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "published_at": "2026-10-30T21:09:54Z",
+      "category": "AI"
+    },
+    {
+      "id": "17d825d6277d97844590",
+      "source": "verge",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the…",
+      "image": "",
+      "published_at": "2026-10-30T21:01:32Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "8d98aee20f1194bc575f",
+      "source": "verge",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the…",
+      "image": "",
+      "published_at": "2026-10-30T20:48:43Z",
+      "category": "AI"
+    },
+    {
+      "id": "a37abd6398269a2977b3",
+      "source": "ars",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "summary": "People who love AI don't always love telling others they used it.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg",
+      "published_at": "2026-10-30T20:40:13Z",
+      "category": "AI"
+    },
+    {
+      "id": "1a0a520909fddfb5bada",
+      "source": "wired",
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+      "image": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg",
+      "published_at": "2026-10-30T20:38:46Z",
+      "category": "Security"
+    },
+    {
+      "id": "d85f9c24f09ff8caef0d",
+      "source": "verge",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers…",
+      "image": "",
+      "published_at": "2026-10-30T20:26:10Z",
+      "category": "AI"
+    },
+    {
+      "id": "694e39baa179fc72037a",
+      "source": "ars",
+      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg",
+      "published_at": "2026-10-30T20:17:50Z",
+      "category": "Health"
+    },
+    {
+      "id": "bb193bbf1ebab380e31c",
+      "source": "ars",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
+      "published_at": "2026-10-30T19:30:52Z",
+      "category": "AI"
+    },
     {
       "id": "9040b48ba9285760a353",
       "source": "verge",
@@ -41,6 +181,16 @@
       "image": "",
       "published_at": "2026-10-30T18:21:38Z",
       "category": "AI"
+    },
+    {
+      "id": "70e22394b0b78c2c90d1",
+      "source": "ars",
+      "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+      "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg",
+      "published_at": "2026-10-30T18:13:42Z",
+      "category": "Science"
     },
     {
       "id": "6972453959d8c9c8dc79",
@@ -733,16 +883,6 @@
       "category": "Deals"
     },
     {
-      "id": "578a9caa7e651463bd6f",
-      "source": "verge",
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1…",
-      "image": "",
-      "published_at": "2026-10-29T14:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "fc8c6fb65b81d29486ec",
       "source": "wired",
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
@@ -753,16 +893,6 @@
       "category": "Business"
     },
     {
-      "id": "7a8af7aa48b319d8b23a",
-      "source": "verge",
-      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
-      "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-      "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for…",
-      "image": "",
-      "published_at": "2026-10-29T13:52:48Z",
-      "category": "Amazon"
-    },
-    {
       "id": "a040346dec9533537f70",
       "source": "wired",
       "title": "Petkit Automatic Cat Litter Box Sale (2026)",
@@ -771,26 +901,6 @@
       "image": "https://media.wired.com/photos/6ae2af53aad2e56b125912cc/master/pass/Petkit%20Deals%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
       "published_at": "2026-10-29T13:41:26Z",
       "category": "Gear"
-    },
-    {
-      "id": "9f59f5bb75813ac7312a",
-      "source": "verge",
-      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-      "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-      "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a…",
-      "image": "",
-      "published_at": "2026-10-29T13:37:56Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "e4196aa0ad8667d80390",
-      "source": "verge",
-      "title": "Anthropic’s business plan: Build God or die trying",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to…",
-      "image": "",
-      "published_at": "2026-10-29T13:30:00Z",
-      "category": "AI"
     },
     {
       "id": "0179504f0cd761be3ae2",
@@ -953,36 +1063,6 @@
       "category": "Gear"
     },
     {
-      "id": "416632ed5ad9a7981737",
-      "source": "wired",
-      "title": "Hungryroot Coupon Codes: 30% Off This November 2026",
-      "url": "https://www.wired.com/story/hungryroot-promo-code/",
-      "summary": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "60ad035bdf279ccc12e9",
-      "source": "wired",
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2bcce98c18a65edce8c0",
-      "source": "wired",
-      "title": "Govee Discount Codes and Deals: 30% Off",
-      "url": "https://www.wired.com/story/govee-discount-code/",
-      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "ed87c4564ab5c47415b6",
       "source": "ars",
       "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
@@ -1093,36 +1173,6 @@
       "category": "Policy"
     },
     {
-      "id": "c35d12363107c2338c79",
-      "source": "ars",
-      "title": "Apple announces touchscreen MacBook Pro with OLED display",
-      "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
-      "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg",
-      "published_at": "2026-10-28T17:25:04Z",
-      "category": "Apple"
-    },
-    {
-      "id": "a2a85a43d295f1b3a807",
-      "source": "ars",
-      "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
-      "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
-      "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg",
-      "published_at": "2026-10-28T15:48:12Z",
-      "category": "Culture"
-    },
-    {
-      "id": "3809434455ea9c1eaeb6",
-      "source": "ars",
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-      "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
-      "published_at": "2026-10-28T13:38:53Z",
-      "category": "Science"
-    },
-    {
       "id": "f50aae4f60ea2b7612e3",
       "source": "mit",
       "title": "The Download: dead startups fueling AI and interspecies communication",
@@ -1141,56 +1191,6 @@
       "image": "",
       "published_at": "2026-10-28T12:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "cc57ebd0f6df1899d7b2",
-      "source": "ars",
-      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
-      "published_at": "2026-10-28T11:00:49Z",
-      "category": "Tech"
-    },
-    {
-      "id": "5b9f31f117372b7ecd71",
-      "source": "ars",
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
-      "published_at": "2026-10-27T22:37:30Z",
-      "category": "Apple"
-    },
-    {
-      "id": "190b4af8e1bf7d722d4a",
-      "source": "ars",
-      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-      "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
-      "published_at": "2026-10-27T22:22:32Z",
-      "category": "Health"
-    },
-    {
-      "id": "9ff6f95169d1a0a7aa3d",
-      "source": "ars",
-      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-      "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
-      "published_at": "2026-10-27T22:04:50Z",
-      "category": "Space"
-    },
-    {
-      "id": "d96e70fe49b40b8d9b39",
-      "source": "ars",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-      "published_at": "2026-10-27T21:50:04Z",
-      "category": "AI"
     },
     {
       "id": "afe8603d9e6101081fd7",

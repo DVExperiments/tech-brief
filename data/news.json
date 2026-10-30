@@ -1,37 +1,207 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T13:37:04Z",
+  "updated_at": "2026-10-30T18:52:52Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T13:37:04Z",
+      "last_success_at": "2026-10-30T18:52:51Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T13:37:04Z",
+      "last_success_at": "2026-10-30T18:52:51Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T13:37:04Z",
+      "last_success_at": "2026-10-30T18:52:51Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T13:37:04Z",
+      "last_success_at": "2026-10-30T18:52:52Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "9040b48ba9285760a353",
+      "source": "verge",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board…",
+      "image": "",
+      "published_at": "2026-10-30T18:21:38Z",
+      "category": "AI"
+    },
+    {
+      "id": "6972453959d8c9c8dc79",
+      "source": "ars",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg",
+      "published_at": "2026-10-30T17:38:19Z",
+      "category": "AI"
+    },
+    {
+      "id": "68bcc8c35ff1d0de59c6",
+      "source": "verge",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences…",
+      "image": "",
+      "published_at": "2026-10-30T17:38:04Z",
+      "category": "AI"
+    },
+    {
+      "id": "8aba390f4726d29d4288",
+      "source": "verge",
+      "title": "The delightfully messy state of Apple gadgets",
+      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results…",
+      "image": "",
+      "published_at": "2026-10-30T17:25:20Z",
+      "category": "Apple"
+    },
+    {
+      "id": "d8f24f49acfbc78dfb25",
+      "source": "verge",
+      "title": "Rivian’s autonomy gamble faces its first real test",
+      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle…",
+      "image": "",
+      "published_at": "2026-10-30T17:16:09Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "19eb6eef4eb752a925e9",
+      "source": "verge",
+      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the…",
+      "image": "",
+      "published_at": "2026-10-30T17:01:07Z",
+      "category": "Deals"
+    },
+    {
+      "id": "8685c720c0fc1bf2c068",
+      "source": "ars",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg",
+      "published_at": "2026-10-30T16:53:49Z",
+      "category": "AI"
+    },
+    {
+      "id": "89f40a129e1ad1ba1573",
+      "source": "ars",
+      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg",
+      "published_at": "2026-10-30T16:12:59Z",
+      "category": "Space"
+    },
+    {
+      "id": "27b4734f02c262df8953",
+      "source": "wired",
+      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
+      "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
+      "summary": "The fanfic site could be down for weeks due to a “security incident.” Users are not taking it well.",
+      "image": "https://media.wired.com/photos/6ae3d487c091c8b8d1ebfb9c/master/pass/culture_ao3_crash_fanfic_meltdown.jpg",
+      "published_at": "2026-10-30T15:57:35Z",
+      "category": "Culture"
+    },
+    {
+      "id": "7a6f1699998d81581d3d",
+      "source": "verge",
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at…",
+      "image": "",
+      "published_at": "2026-10-30T15:29:02Z",
+      "category": "Deals"
+    },
+    {
+      "id": "a99605ccb56ca529a458",
+      "source": "wired",
+      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "summary": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
+      "image": "https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/master/pass/Backchannel-Top-Art-10302026.jpg",
+      "published_at": "2026-10-30T15:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "b9e551d4e93ced389bd3",
+      "source": "verge",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United…",
+      "image": "",
+      "published_at": "2026-10-30T14:58:06Z",
+      "category": "AI"
+    },
+    {
+      "id": "981ac02e71e39f39c0e3",
+      "source": "verge",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the…",
+      "image": "",
+      "published_at": "2026-10-30T14:23:26Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "852236cb85e5f987ddfb",
+      "source": "ars",
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg",
+      "published_at": "2026-10-30T13:53:20Z",
+      "category": "Cars"
+    },
+    {
+      "id": "1a5589cbc3355aa0ec43",
+      "source": "verge",
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was…",
+      "image": "",
+      "published_at": "2026-10-30T13:52:14Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "d3654bb0e7a59cf62c82",
+      "source": "ars",
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
+      "published_at": "2026-10-30T13:46:39Z",
+      "category": "Security"
+    },
+    {
+      "id": "d012d8956aeb93bfbe10",
+      "source": "wired",
+      "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+      "url": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
+      "summary": "Even though Black Friday isn’t for a few more weeks, we’ve found early discounts on our favorite WIRED-tested mattresses and sleep accessories.",
+      "image": "https://media.wired.com/photos/6a96089130fad2f3a55f8e20/master/pass/The-Best-Early-Labor-Day-Mattress-Deals.jpg",
+      "published_at": "2026-10-30T13:34:00Z",
+      "category": "Gear"
+    },
     {
       "id": "0a87586ca2e4ab0b26f0",
       "source": "verge",
@@ -117,7 +287,7 @@
       "source": "ars",
       "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
       "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "summary": "Elizabeth Holmes has some people falling for her act all over again.",
+      "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg",
       "published_at": "2026-10-30T11:30:01Z",
       "category": "Culture"
@@ -137,7 +307,7 @@
       "source": "ars",
       "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
       "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-      "summary": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.",
+      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
       "published_at": "2026-10-30T11:00:35Z",
       "category": "Science"
@@ -208,7 +378,7 @@
       "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
       "url": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
       "summary": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
-      "image": "https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg",
+      "image": "https://media.wired.com/photos/6ae4b5c0d55a0e2bc0a8d62b/master/pass/GettyImages-567391969.jpg",
       "published_at": "2026-10-30T10:00:00Z",
       "category": "Science"
     },
@@ -623,16 +793,6 @@
       "category": "AI"
     },
     {
-      "id": "3b244d5cb0ae2987ccac",
-      "source": "verge",
-      "title": "Apple finally combined a toaster and a refrigerator",
-      "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
-      "summary": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe…",
-      "image": "",
-      "published_at": "2026-10-29T13:21:02Z",
-      "category": "Apple"
-    },
-    {
       "id": "0179504f0cd761be3ae2",
       "source": "ars",
       "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
@@ -651,16 +811,6 @@
       "image": "",
       "published_at": "2026-10-29T12:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "a0c96ae58b8d172323a9",
-      "source": "verge",
-      "title": "DoorDash is acquiring Instacart for $17 billion",
-      "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
-      "summary": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established…",
-      "image": "",
-      "published_at": "2026-10-29T11:56:35Z",
-      "category": "Business"
     },
     {
       "id": "a8dfeed0929c813c4bab",
@@ -731,16 +881,6 @@
       "image": "",
       "published_at": "2026-10-29T10:11:12Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "f8d4fe5acdc532372cde",
-      "source": "verge",
-      "title": "AI has come for Arizona’s water",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and…",
-      "image": "",
-      "published_at": "2026-10-29T10:00:04Z",
-      "category": "AI"
     },
     {
       "id": "29c13867f2cc26afb034",
@@ -843,56 +983,6 @@
       "category": "Gear"
     },
     {
-      "id": "525a5e645569d3e22b70",
-      "source": "wired",
-      "title": "NZXT Discount Codes: 50% Off in November 2026",
-      "url": "https://www.wired.com/story/nzxt-discount-code/",
-      "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "fad596e904758e76d678",
-      "source": "wired",
-      "title": "Dermstore Coupons: 25% Off for November 2026",
-      "url": "https://www.wired.com/story/dermstore-promo-code/",
-      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8b3388f9c158b04d6997",
-      "source": "wired",
-      "title": "Pura Promo Codes: $20 Off November 2026",
-      "url": "https://www.wired.com/story/pura-promo-code/",
-      "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0716cfb20dfd5c51a0bc",
-      "source": "verge",
-      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of…",
-      "image": "",
-      "published_at": "2026-10-29T02:22:46Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "e4f1a024e213971b2d8a",
-      "source": "verge",
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just…",
-      "image": "",
-      "published_at": "2026-10-28T23:05:39Z",
-      "category": "AI"
-    },
-    {
       "id": "ed87c4564ab5c47415b6",
       "source": "ars",
       "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
@@ -923,36 +1013,6 @@
       "category": "Health"
     },
     {
-      "id": "34e31ad649b662409058",
-      "source": "verge",
-      "title": "A hacker stole more than 40,000 DHS employee records",
-      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
-      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000…",
-      "image": "",
-      "published_at": "2026-10-28T21:57:45Z",
-      "category": "News"
-    },
-    {
-      "id": "880b35e4f6c81f7fb947",
-      "source": "verge",
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom…",
-      "image": "",
-      "published_at": "2026-10-28T21:34:04Z",
-      "category": "AI"
-    },
-    {
-      "id": "20f80c5256e1a423e33d",
-      "source": "verge",
-      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
-      "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
-      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read…",
-      "image": "",
-      "published_at": "2026-10-28T21:16:18Z",
-      "category": "Apps"
-    },
-    {
       "id": "e7c64dbfb1acce4d34db",
       "source": "mit",
       "title": "Creating AI value with enterprise context",
@@ -961,16 +1021,6 @@
       "image": "",
       "published_at": "2026-10-28T20:32:02Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "adfe6634d1ce07072f49",
-      "source": "verge",
-      "title": "Google says its investments in AI are driving more searches",
-      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query…",
-      "image": "",
-      "published_at": "2026-10-28T20:22:26Z",
-      "category": "Google"
     },
     {
       "id": "dfb3175527a19addd9b4",
@@ -1141,56 +1191,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
       "published_at": "2026-10-27T21:50:04Z",
       "category": "AI"
-    },
-    {
-      "id": "0f9d35bbadbda59424e1",
-      "source": "ars",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
-      "published_at": "2026-10-27T21:31:14Z",
-      "category": "AI"
-    },
-    {
-      "id": "fd5db7bc03bf0f1336cf",
-      "source": "ars",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
-      "published_at": "2026-10-27T20:25:55Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "221a3ee018183bd1d711",
-      "source": "ars",
-      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-      "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
-      "published_at": "2026-10-27T19:32:07Z",
-      "category": "Google"
-    },
-    {
-      "id": "f91a69ac9c274ada8ee5",
-      "source": "ars",
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
-      "published_at": "2026-10-27T18:49:08Z",
-      "category": "AI"
-    },
-    {
-      "id": "8af2f7c2db5360af94cd",
-      "source": "ars",
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg",
-      "published_at": "2026-10-27T18:05:55Z",
-      "category": "Culture"
     },
     {
       "id": "afe8603d9e6101081fd7",

@@ -1,41 +1,91 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T20:38:37Z",
+  "updated_at": "2026-10-30T00:25:30Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T20:38:37Z",
+      "last_success_at": "2026-10-30T00:25:30Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T20:38:37Z",
+      "last_success_at": "2026-10-30T00:25:30Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T20:38:37Z",
+      "last_success_at": "2026-10-30T00:25:30Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-29T20:38:37Z",
+      "last_success_at": "2026-10-30T00:25:30Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
     {
+      "id": "6cef9e2b5d55a036fe56",
+      "source": "verge",
+      "title": "The director of Obsession put a new horror short on YouTube",
+      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair…",
+      "image": "",
+      "published_at": "2026-10-29T23:57:18Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "2c6cb6b67709d26ba795",
+      "source": "verge",
+      "title": "Intel says it’s selling every affordable laptop chip it can make",
+      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said…",
+      "image": "",
+      "published_at": "2026-10-29T23:42:21Z",
+      "category": "Business"
+    },
+    {
+      "id": "bea2c8b1cf8f1b33fad6",
+      "source": "verge",
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026…",
+      "image": "",
+      "published_at": "2026-10-29T22:19:32Z",
+      "category": "News"
+    },
+    {
+      "id": "9dfd659a1f159ac41c57",
+      "source": "ars",
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+      "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
+      "published_at": "2026-10-29T21:47:57Z",
+      "category": "Tech"
+    },
+    {
+      "id": "a038863a9016515d1d1e",
+      "source": "wired",
+      "title": "What to Know About China’s Top-Secret Spaceplane",
+      "url": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
+      "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
+      "image": "https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg",
+      "published_at": "2026-10-29T20:45:36Z",
+      "category": "Science"
+    },
+    {
       "id": "02333afb3f428985f6d9",
       "source": "ars",
-      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
       "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
       "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
@@ -943,16 +993,6 @@
       "category": "Apple"
     },
     {
-      "id": "b1ce31d3022c06b77100",
-      "source": "verge",
-      "title": "Hands-on with Apple’s touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
-      "summary": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to…",
-      "image": "",
-      "published_at": "2026-10-28T17:16:55Z",
-      "category": "Apple"
-    },
-    {
       "id": "e85bb2f31866c8b4af7b",
       "source": "wired",
       "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
@@ -963,26 +1003,6 @@
       "category": "The Big Story"
     },
     {
-      "id": "30b17d68d2a35ba95f64",
-      "source": "verge",
-      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-      "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-      "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature…",
-      "image": "",
-      "published_at": "2026-10-28T17:12:47Z",
-      "category": "Apple"
-    },
-    {
-      "id": "2c13b6d06a236b17d0b9",
-      "source": "verge",
-      "title": "Instagram doesn’t have a plan to pay long-form video creators",
-      "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
-      "summary": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on…",
-      "image": "",
-      "published_at": "2026-10-28T17:10:46Z",
-      "category": "Creators"
-    },
-    {
       "id": "a2a85a43d295f1b3a807",
       "source": "ars",
       "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
@@ -991,16 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg",
       "published_at": "2026-10-28T15:48:12Z",
       "category": "Culture"
-    },
-    {
-      "id": "b7afc4fa2035c8a3bec9",
-      "source": "wired",
-      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
-      "url": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
-      "summary": "Sony has new, spiffy see-through controllers and covers for its PlayStation 5 that let you see the hardware guts inside.",
-      "image": "https://media.wired.com/photos/6ae09646dad85b6a01dd12fd/master/pass/PRISM-Collection_DSonly_3UP_16X6.jpg",
-      "published_at": "2026-10-28T15:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "3809434455ea9c1eaeb6",
@@ -1161,16 +1171,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
       "published_at": "2026-10-27T15:50:19Z",
       "category": "Tech"
-    },
-    {
-      "id": "58a3e95945f7622a1d5f",
-      "source": "ars",
-      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
-      "published_at": "2026-10-27T14:20:26Z",
-      "category": "Apple"
     },
     {
       "id": "afe8603d9e6101081fd7",

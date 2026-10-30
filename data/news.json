@@ -1,37 +1,277 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T00:25:30Z",
+  "updated_at": "2026-10-30T13:37:04Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T00:25:30Z",
+      "last_success_at": "2026-10-30T13:37:04Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T00:25:30Z",
+      "last_success_at": "2026-10-30T13:37:04Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T00:25:30Z",
+      "last_success_at": "2026-10-30T13:37:04Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T00:25:30Z",
+      "last_success_at": "2026-10-30T13:37:04Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0a87586ca2e4ab0b26f0",
+      "source": "verge",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose…",
+      "image": "",
+      "published_at": "2026-10-30T13:11:05Z",
+      "category": "AI"
+    },
+    {
+      "id": "4af10071c1f6a74243ba",
+      "source": "verge",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of…",
+      "image": "",
+      "published_at": "2026-10-30T13:01:14Z",
+      "category": "AI"
+    },
+    {
+      "id": "3382aea9386023dae0e8",
+      "source": "verge",
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and…",
+      "image": "",
+      "published_at": "2026-10-30T13:00:00Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "06d6f79878406f736f7c",
+      "source": "verge",
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it…",
+      "image": "",
+      "published_at": "2026-10-30T12:30:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "92e7658673b57da08ae1",
+      "source": "ars",
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
+      "published_at": "2026-10-30T12:00:18Z",
+      "category": "Cars"
+    },
+    {
+      "id": "ccdec560afe73b0a1d96",
+      "source": "verge",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro…",
+      "image": "",
+      "published_at": "2026-10-30T12:00:00Z",
+      "category": "Analysis"
+    },
+    {
+      "id": "d8702fcddeeaf0d26181",
+      "source": "verge",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto…",
+      "image": "",
+      "published_at": "2026-10-30T11:44:53Z",
+      "category": "Crypto"
+    },
+    {
+      "id": "88ad0a33509d8674401b",
+      "source": "wired",
+      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
+      "image": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg",
+      "published_at": "2026-10-30T11:36:52Z",
+      "category": "Security"
+    },
+    {
+      "id": "d88113ea02c1f70b6a33",
+      "source": "ars",
+      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+      "summary": "Elizabeth Holmes has some people falling for her act all over again.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg",
+      "published_at": "2026-10-30T11:30:01Z",
+      "category": "Culture"
+    },
+    {
+      "id": "04a3c7909a947379543d",
+      "source": "mit",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1…",
+      "image": "",
+      "published_at": "2026-10-30T11:30:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "ef1911f939f6775f1cf4",
+      "source": "ars",
+      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "summary": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
+      "published_at": "2026-10-30T11:00:35Z",
+      "category": "Science"
+    },
+    {
+      "id": "0a41ef4fd05365f1d73c",
+      "source": "verge",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are…",
+      "image": "",
+      "published_at": "2026-10-30T11:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "4ca1a20a4edd784dd564",
+      "source": "wired",
+      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
+      "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+      "image": "https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/master/pass/GettyImages-2240550047.jpg",
+      "published_at": "2026-10-30T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "80f52ba675bd803b2bf7",
+      "source": "wired",
+      "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+      "summary": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
+      "image": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg",
+      "published_at": "2026-10-30T10:45:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "8ee6c84a377679202056",
+      "source": "wired",
+      "title": "The Best Handheld Translators for Work and Travel (2026)",
+      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "summary": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
+      "image": "https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg",
+      "published_at": "2026-10-30T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7dac491974b056067a82",
+      "source": "wired",
+      "title": "Male Insecurity Over Penis Size Is a Booming Business",
+      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
+      "image": "https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg",
+      "published_at": "2026-10-30T10:30:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "d2537d760fcc61f63788",
+      "source": "wired",
+      "title": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
+      "url": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
+      "summary": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore.",
+      "image": "https://media.wired.com/photos/6ae3a2964c40b236572925e2/master/pass/Culture_It%20Sure%20Looks%20Like%20the%20Department%20of%20Education%20Is%20Promoting%20a%20Right-Wing%20Harry%20Potter%20Meme_v1.jpg",
+      "published_at": "2026-10-30T10:15:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "4c359b0a2728ef7c0f8c",
+      "source": "wired",
+      "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
+      "url": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
+      "summary": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
+      "image": "https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg",
+      "published_at": "2026-10-30T10:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "8ac6cf64f0b659103d2e",
+      "source": "wired",
+      "title": "Samsung S95H OLED TV Review (2026)",
+      "url": "https://www.wired.com/review/samsung-s95h/",
+      "summary": "It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.",
+      "image": "https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
+      "published_at": "2026-10-30T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0d8898804ccfd0706d19",
+      "source": "wired",
+      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+      "url": "https://www.wired.com/story/gifts-for-friends/",
+      "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
+      "image": "https://media.wired.com/photos/6ae3c65712651ae6c2d7998a/master/pass/Best%20Gifts%20for%20Friends%20102026%20top%20art%20SOURCE%20shop.com.jpg",
+      "published_at": "2026-10-30T09:33:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "bbb9c19f580d73faaf23",
+      "source": "wired",
+      "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
+      "url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
+      "summary": "Our top Ego pick is discounted, and our resident leaf blower expert demonstrates how to make a TP cannon.",
+      "image": "https://media.wired.com/photos/6ae2b955645fdd4f7481a1a0/master/pass/Leaf%20Blower%20Power+%20880%20CFM%20sale%20102026%20top%20art%20SOURCE%20Lowes.jpg",
+      "published_at": "2026-10-30T09:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "04ac778885bf52a4e9c8",
+      "source": "verge",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
+      "image": "",
+      "published_at": "2026-10-30T09:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "a2bae18880e18f59b9d3",
+      "source": "wired",
+      "title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
+      "url": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
+      "summary": "Democrats are using the high price of diesel, heating oil, and fertilizer to tie Republicans to President Donald Trump’s unpopular, costly war in Iran.",
+      "image": "https://media.wired.com/photos/6ae3489ed0f1304b56163b28/master/pass/102916-Iran%20War%20US.jpg",
+      "published_at": "2026-10-30T09:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "ea921774908b36fe4cac",
+      "source": "mit",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A…",
+      "image": "",
+      "published_at": "2026-10-30T09:00:00Z",
+      "category": "Biotechnology and health"
+    },
     {
       "id": "6cef9e2b5d55a036fe56",
       "source": "verge",
@@ -633,46 +873,6 @@
       "category": "Gear"
     },
     {
-      "id": "cafcd932ee246ffcfd01",
-      "source": "wired",
-      "title": "Petlibro Offers: 30% Off in November 2026",
-      "url": "https://www.wired.com/story/petlibro-discount-code/",
-      "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8e0818bcc64684f69f03",
-      "source": "wired",
-      "title": "30% Off Tempur-Pedic Promo Codes | November 2026",
-      "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
-      "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
-      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3d5f1ead40bf5c24b9de",
-      "source": "wired",
-      "title": "Skullcandy Discount Code: 30% Off | November 2026",
-      "url": "https://www.wired.com/story/skullcandy-discount-code/",
-      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ea8b31319d2132cd6bc5",
-      "source": "wired",
-      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-      "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-      "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
-      "image": "https://media.wired.com/photos/6ae2b697af20331957eab942/master/pass/2195830714",
-      "published_at": "2026-10-29T03:34:46Z",
-      "category": "Security"
-    },
-    {
       "id": "0716cfb20dfd5c51a0bc",
       "source": "verge",
       "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
@@ -691,16 +891,6 @@
       "image": "",
       "published_at": "2026-10-28T23:05:39Z",
       "category": "AI"
-    },
-    {
-      "id": "fc6e869b2fda60ac9081",
-      "source": "wired",
-      "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
-      "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
-      "summary": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here’s why it’s unlike anything else you can currently buy.",
-      "image": "https://media.wired.com/photos/6ae27b1cbef604c6ee2089e7/master/pass/APPLE_OLED.jpg",
-      "published_at": "2026-10-28T22:54:16Z",
-      "category": "Gear"
     },
     {
       "id": "ed87c4564ab5c47415b6",
@@ -763,16 +953,6 @@
       "category": "Apps"
     },
     {
-      "id": "29e7f6a26d036cc7c734",
-      "source": "wired",
-      "title": "This Is What the GOP’s Final Midterms Push Looks Like",
-      "url": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
-      "summary": "Republicans are spending their time and money on Senate races in historically red states—a sign they’re more nervous than ever as Election Day looms.",
-      "image": "https://media.wired.com/photos/6ae117bf28ee41eb8014dfa9/master/pass/politics_republicans_midterms_spending.jpg",
-      "published_at": "2026-10-28T21:00:00Z",
-      "category": "Politics"
-    },
-    {
       "id": "e7c64dbfb1acce4d34db",
       "source": "mit",
       "title": "Creating AI value with enterprise context",
@@ -781,16 +961,6 @@
       "image": "",
       "published_at": "2026-10-28T20:32:02Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "c5aead50a0b77d4988d9",
-      "source": "wired",
-      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-      "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-      "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
-      "image": "https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif",
-      "published_at": "2026-10-28T20:30:00Z",
-      "category": "Security"
     },
     {
       "id": "adfe6634d1ce07072f49",
@@ -803,56 +973,6 @@
       "category": "Google"
     },
     {
-      "id": "8c6eb413649b374572fa",
-      "source": "verge",
-      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-      "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income…",
-      "image": "",
-      "published_at": "2026-10-28T20:20:00Z",
-      "category": "Microsoft"
-    },
-    {
-      "id": "ec9440ead2824a8fb216",
-      "source": "verge",
-      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
-      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that…",
-      "image": "",
-      "published_at": "2026-10-28T20:12:44Z",
-      "category": "Apple"
-    },
-    {
-      "id": "7d127a10bee3438fb0ae",
-      "source": "verge",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the…",
-      "image": "",
-      "published_at": "2026-10-28T20:03:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "3b6e8915dc5dda915fdb",
-      "source": "wired",
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-      "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/master/pass/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
-      "published_at": "2026-10-28T20:00:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "dbdca07c3366ca25a751",
-      "source": "verge",
-      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-      "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-      "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US…",
-      "image": "",
-      "published_at": "2026-10-28T19:37:31Z",
-      "category": "Policy"
-    },
-    {
       "id": "dfb3175527a19addd9b4",
       "source": "ars",
       "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
@@ -861,16 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg",
       "published_at": "2026-10-28T19:20:36Z",
       "category": "Space"
-    },
-    {
-      "id": "f4fdfd1c7af3eb17e5d7",
-      "source": "verge",
-      "title": "Hands-on with the new OLED iPad Mini",
-      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and…",
-      "image": "",
-      "published_at": "2026-10-28T19:18:58Z",
-      "category": "Apple"
     },
     {
       "id": "39d040e7ba973044115d",
@@ -883,26 +993,6 @@
       "category": "Apple"
     },
     {
-      "id": "39d02d5202bc3034ecb7",
-      "source": "wired",
-      "title": "The New M6 MacBook Pro Has a Serious Price Problem",
-      "url": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
-      "summary": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now.",
-      "image": "https://media.wired.com/photos/6ae217bc6d6203230c9f52b5/master/pass/macbook%20pro%20m6%20deals%20post%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-28T18:57:22Z",
-      "category": "Gear"
-    },
-    {
-      "id": "510a5a2e3961609269f4",
-      "source": "verge",
-      "title": "Brendan Carr plans to let prisons jam cellphone signals",
-      "url": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-      "summary": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the…",
-      "image": "",
-      "published_at": "2026-10-28T18:57:02Z",
-      "category": "News"
-    },
-    {
       "id": "fce8793b5920f0072580",
       "source": "ars",
       "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
@@ -911,26 +1001,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
       "published_at": "2026-10-28T18:47:27Z",
       "category": "AI"
-    },
-    {
-      "id": "166bc78bfba5691e03c0",
-      "source": "verge",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs…",
-      "image": "",
-      "published_at": "2026-10-28T18:36:26Z",
-      "category": "AI"
-    },
-    {
-      "id": "05e8f2dc1aeb1ae90fc3",
-      "source": "wired",
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "image": "https://media.wired.com/photos/6ae108712ec9b10c531020d9/master/pass/business_ai_predict_future.jpg",
-      "published_at": "2026-10-28T18:30:00Z",
-      "category": "Business"
     },
     {
       "id": "dddd616666ad80cb0be8",
@@ -981,26 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg",
       "published_at": "2026-10-28T17:25:04Z",
       "category": "Apple"
-    },
-    {
-      "id": "781df0c6585df15060a4",
-      "source": "verge",
-      "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
-      "summary": "Apple just announced its first touchscreen Macbook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited MacBook in a video during the event that you can watch right here to see the new display…",
-      "image": "",
-      "published_at": "2026-10-28T17:19:23Z",
-      "category": "Apple"
-    },
-    {
-      "id": "e85bb2f31866c8b4af7b",
-      "source": "wired",
-      "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
-      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "summary": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
-      "image": "https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/master/pass/1027_AppleNF_Illustration_v1.jpg",
-      "published_at": "2026-10-28T17:15:16Z",
-      "category": "The Big Story"
     },
     {
       "id": "a2a85a43d295f1b3a807",
@@ -1141,36 +1191,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg",
       "published_at": "2026-10-27T18:05:55Z",
       "category": "Culture"
-    },
-    {
-      "id": "c96a0cd7631f58209a93",
-      "source": "ars",
-      "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-      "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-      "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg",
-      "published_at": "2026-10-27T16:17:58Z",
-      "category": "Cars"
-    },
-    {
-      "id": "96fddc3f952ce0f845b0",
-      "source": "ars",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
-      "published_at": "2026-10-27T16:00:22Z",
-      "category": "AI"
-    },
-    {
-      "id": "fcc0a9c73d29a09cc7b0",
-      "source": "ars",
-      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-      "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
-      "published_at": "2026-10-27T15:50:19Z",
-      "category": "Tech"
     },
     {
       "id": "afe8603d9e6101081fd7",
@@ -1448,26 +1468,6 @@
       "title": "Taking a swing at a pickleball startup",
       "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
       "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to get recruited into gangs, getting…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "1b66938579727f6976ae",
-      "source": "mit",
-      "title": "A good TA: priceless",
-      "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
-      "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "11536ae12e719c4ca7d9",
-      "source": "mit",
-      "title": "Nebraska native explores galaxies far, far away",
-      "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-      "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters…",
       "image": "",
       "published_at": "2026-10-20T21:00:00Z",
       "category": "Uncategorized"

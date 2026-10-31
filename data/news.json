@@ -1,37 +1,217 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T08:54:22Z",
+  "updated_at": "2026-10-31T15:20:53Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T08:54:21Z",
+      "last_success_at": "2026-10-31T15:20:53Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T08:54:21Z",
+      "last_success_at": "2026-10-31T15:20:53Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T08:54:22Z",
+      "last_success_at": "2026-10-31T15:20:53Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T08:54:22Z",
+      "last_success_at": "2026-10-31T15:20:53Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "e485089124263f0dfae2",
+      "source": "verge",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to…",
+      "image": "",
+      "published_at": "2026-10-31T15:12:19Z",
+      "category": "Microsoft"
+    },
+    {
+      "id": "d6f5c4ed5ee2bf2f4abc",
+      "source": "verge",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be…",
+      "image": "",
+      "published_at": "2026-10-31T15:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "1f82b0a03610eba037cb",
+      "source": "verge",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services…",
+      "image": "",
+      "published_at": "2026-10-31T15:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "462a98adc7d3d9d162e5",
+      "source": "verge",
+      "title": "Touchscreens everywhere!",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer…",
+      "image": "",
+      "published_at": "2026-10-31T12:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "88207fae933769cd4508",
+      "source": "verge",
+      "title": "Here’s why you can’t shake those unhinged political texts",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We…",
+      "image": "",
+      "published_at": "2026-10-31T12:00:00Z",
+      "category": "Policy"
+    },
+    {
+      "id": "19ce96f1f35844b7d837",
+      "source": "wired",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+      "published_at": "2026-10-31T12:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "9e8d1e6e78fc2837a5cb",
+      "source": "ars",
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
+      "published_at": "2026-10-31T11:15:26Z",
+      "category": "Science"
+    },
+    {
+      "id": "a829a36aafe5b4957bed",
+      "source": "ars",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
+      "published_at": "2026-10-31T11:02:34Z",
+      "category": "Science"
+    },
+    {
+      "id": "33275131be7d455a9ab5",
+      "source": "wired",
+      "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "summary": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
+      "image": "https://media.wired.com/photos/6ae4f146e0310df801ec3341/master/pass/My%20Favorite%20Affordable%20Smart%20String%20Lights%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-31T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4828b7608e079cf79277",
+      "source": "wired",
+      "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+      "summary": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
+      "image": "https://media.wired.com/photos/6ae3636efade877474b75a13/master/pass/102926-Egg%20Whisky.jpg",
+      "published_at": "2026-10-31T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "28f02685e8abb4cecf66",
+      "source": "wired",
+      "title": "Backup by Biolite Review: A Cool Idea",
+      "url": "https://www.wired.com/review/backup-by-biolite/",
+      "summary": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
+      "image": "https://media.wired.com/photos/6ae2c94850875d11b16a4a53/master/pass/Review%20Backup%20by%20BioLite%20102026%20top%20art%20SOURCE%20BioLite.jpg",
+      "published_at": "2026-10-31T10:33:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b7bd4924fd8a97e17c37",
+      "source": "wired",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
+      "published_at": "2026-10-31T10:30:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "74120385707a7d19f63d",
+      "source": "wired",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+      "published_at": "2026-10-31T10:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "e64cde0a52ffc02c42dd",
+      "source": "wired",
+      "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "url": "https://www.wired.com/story/bose-deals-october-2026/",
+      "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
+      "image": "https://media.wired.com/photos/6ae4c869b2b1587e7c6da348/master/pass/Bose%20Headphone%20Deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-10-31T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8f805d6f0ece1190c7b2",
+      "source": "wired",
+      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "url": "https://www.wired.com/review/keurig-alta-brewer/",
+      "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+      "image": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/master/pass/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
+      "published_at": "2026-10-31T09:35:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ca7471baee65ddb5c7f9",
+      "source": "wired",
+      "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+      "url": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+      "summary": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
+      "image": "https://media.wired.com/photos/6ae09b5cfd6437553a9fb6ee/master/pass/Qualia%20Eating%20Memory%20cr-Lisett%20Ledo%CC%81n-Lede.jpg",
+      "published_at": "2026-10-31T09:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "4254799e7d9712f80dde",
+      "source": "wired",
+      "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+      "url": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+      "summary": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+      "image": "https://media.wired.com/photos/6ae4fa24ff45389e1b5f1706/master/pass/Sunrise%20Alarms%20102026%20top%20art%20SOURCE%20Hatch-Amazon.jpg",
+      "published_at": "2026-10-31T09:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dac269ff51ba4eb9ed88",
+      "source": "wired",
+      "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+      "summary": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
+      "image": "https://media.wired.com/photos/6ae4f2b6964b916949bd5905/master/pass/2026-10-16T090008Z_1895378929_RC2IYNATEQ2X_RTRMADP_3_SPACE-STAR.jpg",
+      "published_at": "2026-10-31T09:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "56a2e4d6a03304104069",
       "source": "wired",
@@ -823,16 +1003,6 @@
       "category": "Gear"
     },
     {
-      "id": "9f516d6eccbfbb6d2868",
-      "source": "verge",
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-      "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-      "summary": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed…",
-      "image": "",
-      "published_at": "2026-10-29T17:40:23Z",
-      "category": "Apps"
-    },
-    {
       "id": "62bac42727e58d99af54",
       "source": "ars",
       "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
@@ -841,16 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
       "published_at": "2026-10-29T17:21:33Z",
       "category": "Policy"
-    },
-    {
-      "id": "5e2df1964017e2ef0f05",
-      "source": "verge",
-      "title": "Data centers could send US climate pollution skyrocketing",
-      "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-      "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand…",
-      "image": "",
-      "published_at": "2026-10-29T17:10:46Z",
-      "category": "Climate"
     },
     {
       "id": "f390199d94155b7eb3ed",
@@ -863,16 +1023,6 @@
       "category": "AI"
     },
     {
-      "id": "b4f2a113b42e94dcf2e8",
-      "source": "verge",
-      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-      "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-      "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was…",
-      "image": "",
-      "published_at": "2026-10-29T16:14:06Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "0c1ff74774c9f6ac05d4",
       "source": "wired",
       "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
@@ -883,26 +1033,6 @@
       "category": "Business"
     },
     {
-      "id": "9fb9a14e1d5e789a395d",
-      "source": "verge",
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last…",
-      "image": "",
-      "published_at": "2026-10-29T14:39:37Z",
-      "category": "AI"
-    },
-    {
-      "id": "e84a580667ad63de33e4",
-      "source": "verge",
-      "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
-      "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
-      "summary": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10…",
-      "image": "",
-      "published_at": "2026-10-29T14:24:45Z",
-      "category": "Deals"
-    },
-    {
       "id": "fc8c6fb65b81d29486ec",
       "source": "wired",
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
@@ -911,16 +1041,6 @@
       "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
       "published_at": "2026-10-29T14:00:00Z",
       "category": "Business"
-    },
-    {
-      "id": "a040346dec9533537f70",
-      "source": "wired",
-      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
-      "url": "https://www.wired.com/story/petkit-sale-october-2026/",
-      "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
-      "image": "https://media.wired.com/photos/6ae2af53aad2e56b125912cc/master/pass/Petkit%20Deals%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "published_at": "2026-10-29T13:41:26Z",
-      "category": "Gear"
     },
     {
       "id": "0179504f0cd761be3ae2",
@@ -943,16 +1063,6 @@
       "category": "The Download"
     },
     {
-      "id": "a8dfeed0929c813c4bab",
-      "source": "wired",
-      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
-      "url": "https://www.wired.com/story/best-kindle-accessories/",
-      "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and stickers, this is the guide for you.",
-      "image": "https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg",
-      "published_at": "2026-10-29T11:03:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "453f90b5cd5e9508976c",
       "source": "ars",
       "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
@@ -961,46 +1071,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg",
       "published_at": "2026-10-29T11:00:08Z",
       "category": "Features"
-    },
-    {
-      "id": "61ec7774a8a78cf4dde3",
-      "source": "wired",
-      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
-      "image": "https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg",
-      "published_at": "2026-10-29T10:45:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "4ee207e5cdb3578b8cd8",
-      "source": "wired",
-      "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
-      "url": "https://www.wired.com/review/review-hisense-ur8/",
-      "summary": "The Hisense UR8 RGB MiniLED is more affordable than competitors and offers exceptional color accuracy, but is otherwise just OK.",
-      "image": "https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
-      "published_at": "2026-10-29T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6b86fe19d14eaece9e80",
-      "source": "wired",
-      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
-      "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
-      "summary": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
-      "image": "https://media.wired.com/photos/6adfb9e14342ac0de5548666/master/pass/Security_A%20Hacker%20Snuck%20Malware%20Onto%20Online%20Poker%20Players%E2%80%99%20Computers%20That%20Let%20Him%20See%20Their%20Cards_v1.jpg",
-      "published_at": "2026-10-29T10:30:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "1e04a1d95017b1d30a37",
-      "source": "wired",
-      "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-      "url": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
-      "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
-      "image": "https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg",
-      "published_at": "2026-10-29T10:15:00Z",
-      "category": "Gear"
     },
     {
       "id": "7832b8fd7d714399c210",
@@ -1013,26 +1083,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "29c13867f2cc26afb034",
-      "source": "wired",
-      "title": "Reencle Essential Review: Same Scraps, Lower Price",
-      "url": "https://www.wired.com/review/reencle-essential-electric-composter/",
-      "summary": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
-      "image": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-29T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e7762e717214c311c772",
-      "source": "wired",
-      "title": "I Gave My Blood to the AI Death Clock",
-      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-      "image": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
-      "published_at": "2026-10-29T10:00:00Z",
-      "category": "The Big Story"
-    },
-    {
       "id": "28d4f25d9f9736de5510",
       "source": "mit",
       "title": "Our climate models have a big, dangerous blind spot",
@@ -1041,36 +1091,6 @@
       "image": "",
       "published_at": "2026-10-29T10:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "7062fe80dd6925b96f42",
-      "source": "wired",
-      "title": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
-      "url": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
-      "summary": "The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.",
-      "image": "https://media.wired.com/photos/6adf9665ae47ffa8435ebbf6/master/pass/GettyImages-2207247570.jpg",
-      "published_at": "2026-10-29T09:45:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "aaad1e7702512226611b",
-      "source": "wired",
-      "title": "Liquid Glass Finally Makes Sense on the iPhone Duo",
-      "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
-      "summary": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.",
-      "image": "https://media.wired.com/photos/6ad79403fc73d5bd28140aac/master/pass/DSC_9897.jpg",
-      "published_at": "2026-10-29T09:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5d834cbe2607d6793c53",
-      "source": "wired",
-      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
-      "summary": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
-      "image": "https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg",
-      "published_at": "2026-10-29T09:00:00Z",
-      "category": "Science"
     },
     {
       "id": "ed87c4564ab5c47415b6",
@@ -1151,26 +1171,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
       "published_at": "2026-10-28T18:05:22Z",
       "category": "Tech"
-    },
-    {
-      "id": "591275498558afb1b824",
-      "source": "ars",
-      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-      "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
-      "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg",
-      "published_at": "2026-10-28T17:55:45Z",
-      "category": "Cars"
-    },
-    {
-      "id": "023f9797414f208d054c",
-      "source": "ars",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "summary": "But the AI responses get more forthright when asked outside the US.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
-      "published_at": "2026-10-28T17:46:32Z",
-      "category": "AI"
     },
     {
       "id": "f50aae4f60ea2b7612e3",

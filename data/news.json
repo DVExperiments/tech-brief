@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T19:33:48Z",
+  "updated_at": "2026-10-31T22:50:37Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T19:33:47Z",
+      "last_success_at": "2026-10-31T22:50:37Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T19:33:47Z",
+      "last_success_at": "2026-10-31T22:50:37Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T19:33:48Z",
+      "last_success_at": "2026-10-31T22:50:37Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T19:33:48Z",
+      "last_success_at": "2026-10-31T22:50:37Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "45a6758cdab429d49aa7",
+      "source": "verge",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from…",
+      "image": "",
+      "published_at": "2026-10-31T21:06:58Z",
+      "category": "Column"
+    },
     {
       "id": "21d35d9c694b890eb782",
       "source": "verge",
@@ -921,16 +931,6 @@
       "image": "",
       "published_at": "2026-10-29T20:07:00Z",
       "category": "News"
-    },
-    {
-      "id": "8b651007b946de88b77e",
-      "source": "verge",
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first…",
-      "image": "",
-      "published_at": "2026-10-29T20:02:00Z",
-      "category": "Electric Cars"
     },
     {
       "id": "3d06f603c932b361d5dc",

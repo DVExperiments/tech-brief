@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T02:24:11Z",
+  "updated_at": "2026-10-31T08:54:22Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T02:24:11Z",
+      "last_success_at": "2026-10-31T08:54:21Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T02:24:11Z",
+      "last_success_at": "2026-10-31T08:54:21Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T02:24:11Z",
+      "last_success_at": "2026-10-31T08:54:22Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T02:24:11Z",
+      "last_success_at": "2026-10-31T08:54:22Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "56a2e4d6a03304104069",
+      "source": "wired",
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "published_at": "2026-10-31T05:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "a5c87a3d8dc72e774037",
       "source": "ars",
@@ -1061,16 +1071,6 @@
       "image": "https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg",
       "published_at": "2026-10-29T09:00:00Z",
       "category": "Science"
-    },
-    {
-      "id": "6b20f817163097bd83a8",
-      "source": "wired",
-      "title": "Norton Coupon Codes: Up to 58% Off",
-      "url": "https://www.wired.com/story/norton-coupon-code/",
-      "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-      "published_at": "2026-10-29T05:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "ed87c4564ab5c47415b6",

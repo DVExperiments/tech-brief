@@ -1,41 +1,51 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T22:58:38Z",
+  "updated_at": "2026-10-31T02:24:11Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T22:58:38Z",
+      "last_success_at": "2026-10-31T02:24:11Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T22:58:38Z",
+      "last_success_at": "2026-10-31T02:24:11Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T22:58:38Z",
+      "last_success_at": "2026-10-31T02:24:11Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-30T22:58:38Z",
+      "last_success_at": "2026-10-31T02:24:11Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
     {
+      "id": "a5c87a3d8dc72e774037",
+      "source": "ars",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
+      "published_at": "2026-10-31T00:07:22Z",
+      "category": "Space"
+    },
+    {
       "id": "31894a82e7532114b6db",
       "source": "ars",
-      "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
       "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
       "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
@@ -1161,16 +1171,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
       "published_at": "2026-10-28T17:46:32Z",
       "category": "AI"
-    },
-    {
-      "id": "c1195e61e7b394312a15",
-      "source": "ars",
-      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-      "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-      "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg",
-      "published_at": "2026-10-28T17:37:49Z",
-      "category": "Policy"
     },
     {
       "id": "f50aae4f60ea2b7612e3",

@@ -1,37 +1,77 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T15:20:53Z",
+  "updated_at": "2026-10-31T19:33:48Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T15:20:53Z",
+      "last_success_at": "2026-10-31T19:33:47Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T15:20:53Z",
+      "last_success_at": "2026-10-31T19:33:47Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T15:20:53Z",
+      "last_success_at": "2026-10-31T19:33:48Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T15:20:53Z",
+      "last_success_at": "2026-10-31T19:33:48Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "21d35d9c694b890eb782",
+      "source": "verge",
+      "title": "Keyboards of The Verge",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're…",
+      "image": "",
+      "published_at": "2026-10-31T19:30:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "4748c0d7163fed27f2f3",
+      "source": "verge",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the…",
+      "image": "",
+      "published_at": "2026-10-31T18:40:32Z",
+      "category": "Crypto"
+    },
+    {
+      "id": "b93a19950f20c2b6c3dc",
+      "source": "verge",
+      "title": "Happy Pikmin Day Eve",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well…",
+      "image": "",
+      "published_at": "2026-10-31T17:50:12Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "b62b0a2f2941412c37dc",
+      "source": "verge",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi…",
+      "image": "",
+      "published_at": "2026-10-31T16:05:00Z",
+      "category": "AI"
+    },
     {
       "id": "e485089124263f0dfae2",
       "source": "verge",
@@ -913,16 +953,6 @@
       "category": "Gear"
     },
     {
-      "id": "99f377426c2e1df0d459",
-      "source": "verge",
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from…",
-      "image": "",
-      "published_at": "2026-10-29T19:19:28Z",
-      "category": "GM"
-    },
-    {
       "id": "e47d1e46fad23808ad2b",
       "source": "ars",
       "title": "Trump declares robot imports a national security threat",
@@ -930,16 +960,6 @@
       "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
       "published_at": "2026-10-29T19:07:53Z",
-      "category": "AI"
-    },
-    {
-      "id": "573cb910a740b3f93045",
-      "source": "verge",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting…",
-      "image": "",
-      "published_at": "2026-10-29T18:45:31Z",
       "category": "AI"
     },
     {
@@ -963,16 +983,6 @@
       "category": "Policy"
     },
     {
-      "id": "4e83097f5df9e547f732",
-      "source": "verge",
-      "title": "Ikea’s colorful donut-shaped smart lamp is $20 off",
-      "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-      "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April…",
-      "image": "",
-      "published_at": "2026-10-29T18:18:36Z",
-      "category": "Deals"
-    },
-    {
       "id": "743b31d51e648ce097f2",
       "source": "ars",
       "title": "Turning a solar power system into its own backup",
@@ -981,16 +991,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg",
       "published_at": "2026-10-29T18:02:26Z",
       "category": "Science"
-    },
-    {
-      "id": "bc98f6a85b4633a3821c",
-      "source": "verge",
-      "title": "Apple’s new laptop supports one of the coolest features for color pros",
-      "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-      "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident…",
-      "image": "",
-      "published_at": "2026-10-29T17:48:09Z",
-      "category": "Apple"
     },
     {
       "id": "8135d759033c908064a8",

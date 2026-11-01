@@ -1,41 +1,191 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T22:50:37Z",
+  "updated_at": "2026-11-01T16:24:43Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T22:50:37Z",
+      "last_success_at": "2026-11-01T16:24:43Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T22:50:37Z",
+      "last_success_at": "2026-11-01T16:24:43Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T22:50:37Z",
+      "last_success_at": "2026-11-01T16:24:43Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-10-31T22:50:37Z",
+      "last_success_at": "2026-11-01T16:24:43Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
     {
+      "id": "7b892c6c9ea3e9261985",
+      "source": "verge",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code…",
+      "image": "",
+      "published_at": "2026-11-01T16:19:21Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "cec48a5be64f22c46501",
+      "source": "verge",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack…",
+      "image": "",
+      "published_at": "2026-11-01T14:33:11Z",
+      "category": "Crypto"
+    },
+    {
+      "id": "d710fb3f581b5bf5b0c7",
+      "source": "verge",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the…",
+      "image": "",
+      "published_at": "2026-11-01T14:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "bb1526c811486cff1198",
+      "source": "verge",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers'…",
+      "image": "",
+      "published_at": "2026-11-01T13:00:00Z",
+      "category": "Column"
+    },
+    {
+      "id": "c5b4010e5861657d2059",
+      "source": "verge",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn…",
+      "image": "",
+      "published_at": "2026-11-01T13:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "id": "30dc77977831a2745651",
+      "source": "wired",
+      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "summary": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
+      "image": "https://media.wired.com/photos/6ac3f7f587319ffac19f963c/master/pass/Star%20Wars%20Gift%20Guide%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-01T12:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7f41de4545d0209a61d4",
+      "source": "wired",
+      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+      "image": "https://media.wired.com/photos/6adf47c4094d0f0ff2dda226/master/pass/102626-Google%20Vids.jpg",
+      "published_at": "2026-11-01T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9be6008022790911c845",
+      "source": "wired",
+      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+      "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "image": "https://media.wired.com/photos/6ae4d8cd63df19eea97af1ce/master/pass/GettyImages-2247231598.jpg",
+      "published_at": "2026-11-01T12:00:00Z",
+      "category": "Gear / Gear News and Events"
+    },
+    {
+      "id": "ef79b87884f0df73b923",
+      "source": "wired",
+      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+      "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+      "summary": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
+      "image": "https://media.wired.com/photos/6ae50db5ba91943b4382fb11/master/pass/Lenovo%20LOQ%2015%20deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-01T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "11ab780fa5fa0f980015",
+      "source": "wired",
+      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "url": "https://www.wired.com/gallery/the-best-space-heaters/",
+      "summary": "These portable heaters will heat a room quickly, quietly, and safely.",
+      "image": "https://media.wired.com/photos/6ae2d79dacdbd1412b01b73b/master/pass/Update%20Best%20Space%20Heaters%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-01T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6ae4de4ad8f2e1d99fbf",
+      "source": "wired",
+      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
+      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+      "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
+      "image": "https://media.wired.com/photos/6ae4fee12ed4c5e1df28fc74/master/pass/103126-Power%20Play-v1jpg.jpg",
+      "published_at": "2026-11-01T11:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "22ff898d15c40f9c0068",
+      "source": "wired",
+      "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+      "url": "https://www.wired.com/story/the-best-travel-mugs/",
+      "summary": "These top picks from brands like Ember, Owala, and Hydro Flask are built to last, keeping your drinks hot and your mornings smooth.",
+      "image": "https://media.wired.com/photos/6ae2d290168dfe749932cd09/master/pass/The%20Best%20Travel%20Mugs%20102026%20top%20art%20SOURCE%20Fellow-Amazon.jpg",
+      "published_at": "2026-11-01T10:31:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "86bc1cba30c03f00dd6b",
+      "source": "wired",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
+      "published_at": "2026-11-01T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "5e2a22916e3064dfa629",
+      "source": "wired",
+      "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
+      "url": "https://www.wired.com/story/best-chromebooks/",
+      "summary": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
+      "image": "https://media.wired.com/photos/6ae4f7cdc47e8737f5c92342/master/pass/Update%20Best%20Chromebooks%20102026%20top%20art%20SOURCE%20Amazon-Best%20Buy.jpg",
+      "published_at": "2026-11-01T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "36c4fd907dd5aa8512c0",
+      "source": "wired",
+      "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
+      "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+      "summary": "A dying star 1,600 light-years from Earth is surrounded by two rings of gas and dust that astronomers believe are the remnants of the planetary bodies it once hosted.",
+      "image": "https://media.wired.com/photos/6ae377e1cbf5d13e90635178/master/pass/eso2613a.jpg",
+      "published_at": "2026-11-01T10:00:00Z",
+      "category": "Science"
+    },
+    {
       "id": "45a6758cdab429d49aa7",
       "source": "verge",
-      "title": "Get in the spirit with these horrors from YouTube",
+      "title": "Get in the spooky spirit with these horrors from YouTube",
       "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from…",
       "image": "",
@@ -793,26 +943,6 @@
       "category": "Gear"
     },
     {
-      "id": "0d8898804ccfd0706d19",
-      "source": "wired",
-      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "url": "https://www.wired.com/story/gifts-for-friends/",
-      "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "image": "https://media.wired.com/photos/6ae3c65712651ae6c2d7998a/master/pass/Best%20Gifts%20for%20Friends%20102026%20top%20art%20SOURCE%20shop.com.jpg",
-      "published_at": "2026-10-30T09:33:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "bbb9c19f580d73faaf23",
-      "source": "wired",
-      "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
-      "url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
-      "summary": "Our top Ego pick is discounted, and our resident leaf blower expert demonstrates how to make a TP cannon.",
-      "image": "https://media.wired.com/photos/6ae2b955645fdd4f7481a1a0/master/pass/Leaf%20Blower%20Power+%20880%20CFM%20sale%20102026%20top%20art%20SOURCE%20Lowes.jpg",
-      "published_at": "2026-10-30T09:01:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "04ac778885bf52a4e9c8",
       "source": "verge",
       "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
@@ -821,16 +951,6 @@
       "image": "",
       "published_at": "2026-10-30T09:00:00Z",
       "category": "AI"
-    },
-    {
-      "id": "a2bae18880e18f59b9d3",
-      "source": "wired",
-      "title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
-      "url": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
-      "summary": "Democrats are using the high price of diesel, heating oil, and fertilizer to tie Republicans to President Donald Trump’s unpopular, costly war in Iran.",
-      "image": "https://media.wired.com/photos/6ae3489ed0f1304b56163b28/master/pass/102916-Iran%20War%20US.jpg",
-      "published_at": "2026-10-30T09:00:00Z",
-      "category": "Science"
     },
     {
       "id": "ea921774908b36fe4cac",
@@ -843,36 +963,6 @@
       "category": "Biotechnology and health"
     },
     {
-      "id": "6cef9e2b5d55a036fe56",
-      "source": "verge",
-      "title": "The director of Obsession put a new horror short on YouTube",
-      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair…",
-      "image": "",
-      "published_at": "2026-10-29T23:57:18Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "2c6cb6b67709d26ba795",
-      "source": "verge",
-      "title": "Intel says it’s selling every affordable laptop chip it can make",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said…",
-      "image": "",
-      "published_at": "2026-10-29T23:42:21Z",
-      "category": "Business"
-    },
-    {
-      "id": "bea2c8b1cf8f1b33fad6",
-      "source": "verge",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026…",
-      "image": "",
-      "published_at": "2026-10-29T22:19:32Z",
-      "category": "News"
-    },
-    {
       "id": "9dfd659a1f159ac41c57",
       "source": "ars",
       "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
@@ -881,16 +971,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
       "published_at": "2026-10-29T21:47:57Z",
       "category": "Tech"
-    },
-    {
-      "id": "a038863a9016515d1d1e",
-      "source": "wired",
-      "title": "What to Know About China’s Top-Secret Spaceplane",
-      "url": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-      "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-      "image": "https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg",
-      "published_at": "2026-10-29T20:45:36Z",
-      "category": "Science"
     },
     {
       "id": "02333afb3f428985f6d9",
@@ -903,16 +983,6 @@
       "category": "Tech"
     },
     {
-      "id": "0cd8377ef35c3da973f0",
-      "source": "verge",
-      "title": "Patrick Stewart has died at age 86",
-      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and…",
-      "image": "",
-      "published_at": "2026-10-29T20:10:02Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "2072d47a1083b68136a9",
       "source": "ars",
       "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
@@ -923,36 +993,6 @@
       "category": "Policy"
     },
     {
-      "id": "5798692f82deee92db50",
-      "source": "verge",
-      "title": "Reddit will force everyone to log in",
-      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information…",
-      "image": "",
-      "published_at": "2026-10-29T20:07:00Z",
-      "category": "News"
-    },
-    {
-      "id": "3d06f603c932b361d5dc",
-      "source": "wired",
-      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "image": "https://media.wired.com/photos/6ae3a1d0b3ee5efdf6d00c9f/master/pass/GettyImages-2259602081.jpg",
-      "published_at": "2026-10-29T19:51:56Z",
-      "category": "Business"
-    },
-    {
-      "id": "d74fc455a92cb4215cda",
-      "source": "wired",
-      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-      "image": "https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "published_at": "2026-10-29T19:41:36Z",
-      "category": "Gear"
-    },
-    {
       "id": "e47d1e46fad23808ad2b",
       "source": "ars",
       "title": "Trump declares robot imports a national security threat",
@@ -961,16 +1001,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
       "published_at": "2026-10-29T19:07:53Z",
       "category": "AI"
-    },
-    {
-      "id": "5ebb1c4f3ba80053e544",
-      "source": "wired",
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "image": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif",
-      "published_at": "2026-10-29T18:39:43Z",
-      "category": "Politics"
     },
     {
       "id": "e03f50003d7bf3f1b201",
@@ -993,16 +1023,6 @@
       "category": "Science"
     },
     {
-      "id": "8135d759033c908064a8",
-      "source": "wired",
-      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
-      "url": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
-      "summary": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try it risk-free for 99 days.",
-      "image": "https://media.wired.com/photos/6ae37394a4dff0c29ced940a/master/pass/Ridge%20Wallet%20sale%20deal%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "published_at": "2026-10-29T17:41:36Z",
-      "category": "Gear"
-    },
-    {
       "id": "62bac42727e58d99af54",
       "source": "ars",
       "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
@@ -1021,26 +1041,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
       "published_at": "2026-10-29T16:24:55Z",
       "category": "AI"
-    },
-    {
-      "id": "0c1ff74774c9f6ac05d4",
-      "source": "wired",
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "image": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
-      "published_at": "2026-10-29T15:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "fc8c6fb65b81d29486ec",
-      "source": "wired",
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
-      "published_at": "2026-10-29T14:00:00Z",
-      "category": "Business"
     },
     {
       "id": "0179504f0cd761be3ae2",

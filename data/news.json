@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T16:24:43Z",
+  "updated_at": "2026-11-01T20:50:48Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T16:24:43Z",
+      "last_success_at": "2026-11-01T20:50:47Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T16:24:43Z",
+      "last_success_at": "2026-11-01T20:50:47Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T16:24:43Z",
+      "last_success_at": "2026-11-01T20:50:48Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T16:24:43Z",
+      "last_success_at": "2026-11-01T20:50:48Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "61a2ac7051749c256499",
+      "source": "verge",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with…",
+      "image": "",
+      "published_at": "2026-11-01T19:58:02Z",
+      "category": "Law"
+    },
+    {
+      "id": "b7f23839e93a8a907859",
+      "source": "verge",
+      "title": "Apple’s HomeView could add security camera features",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live…",
+      "image": "",
+      "published_at": "2026-11-01T17:16:07Z",
+      "category": "Apple"
+    },
     {
       "id": "7b892c6c9ea3e9261985",
       "source": "verge",
@@ -863,16 +883,6 @@
       "category": "Science"
     },
     {
-      "id": "0a41ef4fd05365f1d73c",
-      "source": "verge",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are…",
-      "image": "",
-      "published_at": "2026-10-30T11:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "4ca1a20a4edd784dd564",
       "source": "wired",
       "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
@@ -941,16 +951,6 @@
       "image": "https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
       "published_at": "2026-10-30T10:00:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "04ac778885bf52a4e9c8",
-      "source": "verge",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
-      "image": "",
-      "published_at": "2026-10-30T09:00:00Z",
-      "category": "AI"
     },
     {
       "id": "ea921774908b36fe4cac",

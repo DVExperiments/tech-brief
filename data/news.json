@@ -1,37 +1,247 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T17:05:26Z",
+  "updated_at": "2026-11-02T23:53:01Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T17:05:26Z",
+      "last_success_at": "2026-11-02T23:53:01Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T17:05:26Z",
+      "last_success_at": "2026-11-02T23:53:01Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T17:05:26Z",
+      "last_success_at": "2026-11-02T23:53:01Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T17:05:26Z",
+      "last_success_at": "2026-11-02T23:53:01Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "2f69969e31454b69b765",
+      "source": "wired",
+      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+      "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
+      "summary": "With Democrats poised to make significant gains in Tuesday’s midterm elections, Trump supporters have been reduced to posting bizarre Star Wars fan fiction.",
+      "image": "https://media.wired.com/photos/6ae8cc86fdca8a2bb1f7b391/master/pass/Right-Wingers-Embracing-Anakin-Skywalker-Culture-MCDSTWA_FE048.jpg",
+      "published_at": "2026-11-02T23:17:27Z",
+      "category": "Culture"
+    },
+    {
+      "id": "74ee5065fdb46f76f3e5",
+      "source": "verge",
+      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly…",
+      "image": "",
+      "published_at": "2026-11-02T22:56:11Z",
+      "category": "Apple"
+    },
+    {
+      "id": "7a360675730da84ed8b9",
+      "source": "verge",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion…",
+      "image": "",
+      "published_at": "2026-11-02T22:02:36Z",
+      "category": "Apple"
+    },
+    {
+      "id": "ff2ec5717228ba063d27",
+      "source": "wired",
+      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
+      "url": "https://www.wired.com/story/burga-sale-november-2026/",
+      "summary": "Whether you need a phone case, magnetic ring, Apple Watch band, or power bank, now’s a great time to save $25 on orders over $50.",
+      "image": "https://media.wired.com/photos/6ae8f6cf1d7504f7ba2ae9cb/master/pass/Burga%20Phone%20Case%20Sale%20112026%20top%20art%20SOURCE%20Shop.jpg",
+      "published_at": "2026-11-02T21:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7ccfa4087c36f4503c6c",
+      "source": "ars",
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "summary": "The threat is still considered to be low, but the virus continues to spread.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg",
+      "published_at": "2026-11-02T21:21:43Z",
+      "category": "Health"
+    },
+    {
+      "id": "0de581da9742695fdb23",
+      "source": "verge",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta…",
+      "image": "",
+      "published_at": "2026-11-02T21:04:20Z",
+      "category": "Meta"
+    },
+    {
+      "id": "575eb04fd2920889b069",
+      "source": "wired",
+      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
+      "summary": "Black Friday is still weeks away, but you don’t have to wait for a good sale on Dyson vacuums.",
+      "image": "https://media.wired.com/photos/6ae8f21332b07efa953f9e48/master/pass/The%20Best%20Dyson%20Vacuum%20Deals%20You%20Can%20Shop%20Right%20Now%20112026%20top%20art%20SOURCE%20Dyson.jpg",
+      "published_at": "2026-11-02T21:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a8cb449db3ac1847ec8c",
+      "source": "verge",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the…",
+      "image": "",
+      "published_at": "2026-11-02T20:37:49Z",
+      "category": "Google"
+    },
+    {
+      "id": "061bcda22ca7278173b2",
+      "source": "verge",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can…",
+      "image": "",
+      "published_at": "2026-11-02T20:03:52Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "4a7e763ccfe54ef989f7",
+      "source": "ars",
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "summary": "\"The flow of time is always cruel.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
+      "published_at": "2026-11-02T19:52:23Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "17db228a2d3f8094a95f",
+      "source": "wired",
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
+      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
+      "image": "https://media.wired.com/photos/6ae8f4512c694a2e141b3db1/master/pass/The%20Best%20Early%20Black%20Friday%20Espresso%20Machine%20Deals%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-02T19:38:06Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c4683ace99f93e2fbb6b",
+      "source": "verge",
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on…",
+      "image": "",
+      "published_at": "2026-11-02T19:24:09Z",
+      "category": "Deals"
+    },
+    {
+      "id": "417312494108578d29d0",
+      "source": "ars",
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "summary": "A big study with very little beyond negative results still gets published.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg",
+      "published_at": "2026-11-02T19:13:26Z",
+      "category": "Science"
+    },
+    {
+      "id": "65dbe9ecadfa75453301",
+      "source": "verge",
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for…",
+      "image": "",
+      "published_at": "2026-11-02T19:05:46Z",
+      "category": "Cars"
+    },
+    {
+      "id": "ee3db9e50078ec816832",
+      "source": "verge",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made…",
+      "image": "",
+      "published_at": "2026-11-02T18:56:02Z",
+      "category": "AI"
+    },
+    {
+      "id": "d437d232859bd1e45a69",
+      "source": "verge",
+      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird…",
+      "image": "",
+      "published_at": "2026-11-02T18:43:24Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "87b3913701edb2a605af",
+      "source": "ars",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg",
+      "published_at": "2026-11-02T18:32:21Z",
+      "category": "AI"
+    },
+    {
+      "id": "08dd0dd7702dea6a7301",
+      "source": "ars",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
+      "published_at": "2026-11-02T18:05:31Z",
+      "category": "AI"
+    },
+    {
+      "id": "557ff897d399e80193cd",
+      "source": "verge",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power…",
+      "image": "",
+      "published_at": "2026-11-02T18:01:30Z",
+      "category": "AI"
+    },
+    {
+      "id": "56854f44f78dcd059e18",
+      "source": "wired",
+      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
+      "summary": "The influential Center for Renewing America says that “neo-Marxist progressives and anti-Western Muslims” can’t sincerely swear to protect the Constitution—and shouldn’t be allowed to assume office.",
+      "image": "https://media.wired.com/photos/6ae8c12c94f342d037f8cab5/master/pass/GettyImages-1158416151.jpg",
+      "published_at": "2026-11-02T17:29:17Z",
+      "category": "Politics"
+    },
+    {
+      "id": "5c7d08f4c0c76b32ce55",
+      "source": "ars",
+      "title": "China publicly discloses plan for a lunar landing within three years",
+      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg",
+      "published_at": "2026-11-02T17:09:13Z",
+      "category": "Space"
+    },
     {
       "id": "24ac5c4363900a42344a",
       "source": "wired",
@@ -41,6 +251,16 @@
       "image": "https://media.wired.com/photos/6ae89ae5afa0c5a307ee27e2/master/pass/Security_Meet%20the%20Activists%20Doxing%20Elon%20Musk%20and%20Other%20Billionaire%20%E2%80%98Oligarchs%E2%80%99_v1.jpg",
       "published_at": "2026-11-02T17:00:00Z",
       "category": "Security"
+    },
+    {
+      "id": "44e98bd1c45c56a9a99c",
+      "source": "mit",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire…",
+      "image": "",
+      "published_at": "2026-11-02T17:00:00Z",
+      "category": "Artificial intelligence"
     },
     {
       "id": "41a5271014e4d0fe4d59",
@@ -73,6 +293,16 @@
       "category": "Business"
     },
     {
+      "id": "515a15d363aef77391cf",
+      "source": "ars",
+      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
+      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg",
+      "published_at": "2026-11-02T15:57:24Z",
+      "category": "Cars"
+    },
+    {
       "id": "d53efef2c0e450c8b490",
       "source": "verge",
       "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
@@ -85,7 +315,7 @@
     {
       "id": "9e59b45188ba9fa5c2c3",
       "source": "wired",
-      "title": "Here's How the Trump Administration Is Trying to Undermine the Election",
+      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
       "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
       "summary": "So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.",
       "image": "https://media.wired.com/photos/6ae4d8d720f72a39b1a4480e/master/pass/GettyImages-2290193242.jpg",
@@ -553,26 +783,6 @@
       "category": "Entertainment"
     },
     {
-      "id": "462a98adc7d3d9d162e5",
-      "source": "verge",
-      "title": "Touchscreens everywhere!",
-      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer…",
-      "image": "",
-      "published_at": "2026-10-31T12:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "88207fae933769cd4508",
-      "source": "verge",
-      "title": "Here’s why you can’t shake those unhinged political texts",
-      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We…",
-      "image": "",
-      "published_at": "2026-10-31T12:00:00Z",
-      "category": "Policy"
-    },
-    {
       "id": "19ce96f1f35844b7d837",
       "source": "wired",
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
@@ -693,26 +903,6 @@
       "category": "Gear"
     },
     {
-      "id": "dac269ff51ba4eb9ed88",
-      "source": "wired",
-      "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
-      "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
-      "summary": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
-      "image": "https://media.wired.com/photos/6ae4f2b6964b916949bd5905/master/pass/2026-10-16T090008Z_1895378929_RC2IYNATEQ2X_RTRMADP_3_SPACE-STAR.jpg",
-      "published_at": "2026-10-31T09:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "56a2e4d6a03304104069",
-      "source": "wired",
-      "title": "Wayfair Coupons: Up to 80% Off November 2026",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "published_at": "2026-10-31T05:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "a5c87a3d8dc72e774037",
       "source": "ars",
       "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
@@ -733,16 +923,6 @@
       "category": "Health"
     },
     {
-      "id": "2e4f9b70485c08f10ce6",
-      "source": "verge",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3…",
-      "image": "",
-      "published_at": "2026-10-30T22:32:53Z",
-      "category": "AI"
-    },
-    {
       "id": "0645cf82fc74f657189f",
       "source": "ars",
       "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
@@ -751,16 +931,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
       "published_at": "2026-10-30T22:21:05Z",
       "category": "Culture"
-    },
-    {
-      "id": "b4a5b11bf9e3cea4748c",
-      "source": "wired",
-      "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
-      "url": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
-      "summary": "Google’s latest smartwatch packs great new health and fitness features, and it’s already on sale ahead of Black Friday.",
-      "image": "https://media.wired.com/photos/6ae50ed40af6dcf295d6abe7/master/pass/Google%20Pixel%20Watch%205%20Deals%20Post%2010206%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-10-30T22:15:06Z",
-      "category": "Gear"
     },
     {
       "id": "7ec9c1f124759245a365",
@@ -773,16 +943,6 @@
       "category": "AI"
     },
     {
-      "id": "3dc335f036876c6b87fa",
-      "source": "wired",
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-      "image": "https://media.wired.com/photos/6ae29474af20331957eab922/master/pass/business-Uncanny-Valley-anthropic-ipo.jpg",
-      "published_at": "2026-10-30T21:19:26Z",
-      "category": "Business"
-    },
-    {
       "id": "2ddb8d0124cb99d7e3e0",
       "source": "ars",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -793,26 +953,6 @@
       "category": "AI"
     },
     {
-      "id": "17d825d6277d97844590",
-      "source": "verge",
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the…",
-      "image": "",
-      "published_at": "2026-10-30T21:01:32Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "8d98aee20f1194bc575f",
-      "source": "verge",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the…",
-      "image": "",
-      "published_at": "2026-10-30T20:48:43Z",
-      "category": "AI"
-    },
-    {
       "id": "a37abd6398269a2977b3",
       "source": "ars",
       "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
@@ -820,26 +960,6 @@
       "summary": "People who love AI don't always love telling others they used it.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg",
       "published_at": "2026-10-30T20:40:13Z",
-      "category": "AI"
-    },
-    {
-      "id": "1a0a520909fddfb5bada",
-      "source": "wired",
-      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
-      "image": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg",
-      "published_at": "2026-10-30T20:38:46Z",
-      "category": "Security"
-    },
-    {
-      "id": "d85f9c24f09ff8caef0d",
-      "source": "verge",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers…",
-      "image": "",
-      "published_at": "2026-10-30T20:26:10Z",
       "category": "AI"
     },
     {
@@ -863,16 +983,6 @@
       "category": "AI"
     },
     {
-      "id": "9040b48ba9285760a353",
-      "source": "verge",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board…",
-      "image": "",
-      "published_at": "2026-10-30T18:21:38Z",
-      "category": "AI"
-    },
-    {
       "id": "70e22394b0b78c2c90d1",
       "source": "ars",
       "title": "Rare meteorite from Mars gives us a view into its ancient crust",
@@ -891,36 +1001,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg",
       "published_at": "2026-10-30T17:38:19Z",
       "category": "AI"
-    },
-    {
-      "id": "68bcc8c35ff1d0de59c6",
-      "source": "verge",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences…",
-      "image": "",
-      "published_at": "2026-10-30T17:38:04Z",
-      "category": "AI"
-    },
-    {
-      "id": "8aba390f4726d29d4288",
-      "source": "verge",
-      "title": "The delightfully messy state of Apple gadgets",
-      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results…",
-      "image": "",
-      "published_at": "2026-10-30T17:25:20Z",
-      "category": "Apple"
-    },
-    {
-      "id": "d8f24f49acfbc78dfb25",
-      "source": "verge",
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle…",
-      "image": "",
-      "published_at": "2026-10-30T17:16:09Z",
-      "category": "Autonomous Cars"
     },
     {
       "id": "8685c720c0fc1bf2c068",
@@ -1093,16 +1173,6 @@
       "category": "AI"
     },
     {
-      "id": "0179504f0cd761be3ae2",
-      "source": "ars",
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg",
-      "published_at": "2026-10-29T12:58:34Z",
-      "category": "Security"
-    },
-    {
       "id": "ac9b7a5528caa98c352a",
       "source": "mit",
       "title": "The Download: AI agent tracking and climate feedback loops",
@@ -1111,16 +1181,6 @@
       "image": "",
       "published_at": "2026-10-29T12:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "453f90b5cd5e9508976c",
-      "source": "ars",
-      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-      "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg",
-      "published_at": "2026-10-29T11:00:08Z",
-      "category": "Features"
     },
     {
       "id": "7832b8fd7d714399c210",
@@ -1143,36 +1203,6 @@
       "category": "Climate change and energy"
     },
     {
-      "id": "ed87c4564ab5c47415b6",
-      "source": "ars",
-      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-      "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
-      "published_at": "2026-10-28T22:51:15Z",
-      "category": "Science"
-    },
-    {
-      "id": "1a46fe19ae04d3a55eea",
-      "source": "ars",
-      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-      "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-      "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg",
-      "published_at": "2026-10-28T22:35:50Z",
-      "category": "Tech"
-    },
-    {
-      "id": "5b8d763b2cb9c686efbd",
-      "source": "ars",
-      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-      "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-      "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
-      "published_at": "2026-10-28T22:17:15Z",
-      "category": "Health"
-    },
-    {
       "id": "e7c64dbfb1acce4d34db",
       "source": "mit",
       "title": "Creating AI value with enterprise context",
@@ -1181,26 +1211,6 @@
       "image": "",
       "published_at": "2026-10-28T20:32:02Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "dfb3175527a19addd9b4",
-      "source": "ars",
-      "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-      "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-      "summary": "It has been nearly a year since any space tourism flights occurred.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg",
-      "published_at": "2026-10-28T19:20:36Z",
-      "category": "Space"
-    },
-    {
-      "id": "39d040e7ba973044115d",
-      "source": "ars",
-      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-      "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-      "summary": "It's not as different from the previous model as you might have expected.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg",
-      "published_at": "2026-10-28T19:10:29Z",
-      "category": "Apple"
     },
     {
       "id": "f50aae4f60ea2b7612e3",
@@ -1458,16 +1468,6 @@
       "title": "Here’s the tea",
       "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
       "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "ad57d1b8a2b177921567",
-      "source": "mit",
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic…",
       "image": "",
       "published_at": "2026-10-20T21:00:00Z",
       "category": "Uncategorized"

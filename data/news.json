@@ -1,37 +1,287 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T06:54:29Z",
+  "updated_at": "2026-11-02T17:05:26Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T06:54:29Z",
+      "last_success_at": "2026-11-02T17:05:26Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T06:54:29Z",
+      "last_success_at": "2026-11-02T17:05:26Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T06:54:29Z",
+      "last_success_at": "2026-11-02T17:05:26Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T06:54:29Z",
+      "last_success_at": "2026-11-02T17:05:26Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "24ac5c4363900a42344a",
+      "source": "wired",
+      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
+      "summary": "The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board. Members argue that those who buy political power deserve the scrutiny they’ll impose.",
+      "image": "https://media.wired.com/photos/6ae89ae5afa0c5a307ee27e2/master/pass/Security_Meet%20the%20Activists%20Doxing%20Elon%20Musk%20and%20Other%20Billionaire%20%E2%80%98Oligarchs%E2%80%99_v1.jpg",
+      "published_at": "2026-11-02T17:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "41a5271014e4d0fe4d59",
+      "source": "verge",
+      "title": "Squarespace is laying off 19 percent of employees",
+      "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+      "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts…",
+      "image": "",
+      "published_at": "2026-11-02T16:50:47Z",
+      "category": "Labor"
+    },
+    {
+      "id": "478b1aff5a83d2ad9297",
+      "source": "wired",
+      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
+      "url": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
+      "summary": "The first Wi-Fi 8 router has arrived. This quad-band gaming beast from Asus is fabulously fast and feature-packed.",
+      "image": "https://media.wired.com/photos/6ae4fef2f23583b9520fe64b/master/pass/Asus%20ROG%20Rapture%20GT-BN98%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-02T16:44:20Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e78743180c3572f26084",
+      "source": "verge",
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at…",
+      "image": "",
+      "published_at": "2026-11-02T16:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "d53efef2c0e450c8b490",
+      "source": "verge",
+      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+      "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+      "summary": "When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most…",
+      "image": "",
+      "published_at": "2026-11-02T15:15:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "9e59b45188ba9fa5c2c3",
+      "source": "wired",
+      "title": "Here's How the Trump Administration Is Trying to Undermine the Election",
+      "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
+      "summary": "So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.",
+      "image": "https://media.wired.com/photos/6ae4d8d720f72a39b1a4480e/master/pass/GettyImages-2290193242.jpg",
+      "published_at": "2026-11-02T15:13:39Z",
+      "category": "Politics"
+    },
+    {
+      "id": "ba4da492631a43332f6d",
+      "source": "verge",
+      "title": "Could data center backlash flip Florida?",
+      "url": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+      "summary": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all…",
+      "image": "",
+      "published_at": "2026-11-02T15:05:00Z",
+      "category": "Policy"
+    },
+    {
+      "id": "7ba7daf046c0972f2bc8",
+      "source": "verge",
+      "title": "YouTuber Druski is going to make exclusive content for Netflix",
+      "url": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
+      "summary": "Netflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content \"exclusively\" for the streaming service. The announcement is the latest in Netflix's…",
+      "image": "",
+      "published_at": "2026-11-02T15:00:00Z",
+      "category": "Creators"
+    },
+    {
+      "id": "984dcac6d2fb5fdf7c41",
+      "source": "ars",
+      "title": "The world has a new plan to save nature, but it still needs the money",
+      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+      "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg",
+      "published_at": "2026-11-02T14:56:52Z",
+      "category": "Science"
+    },
+    {
+      "id": "75c04eb25707102d8129",
+      "source": "wired",
+      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
+      "url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
+      "summary": "These gorgeous, renter-friendly storage lockers are hardly ever discounted.",
+      "image": "https://media.wired.com/photos/6ae4efc2b2333ffd87904225/master/pass/Mustard%20Made%20Sitewide%20Sale%20102026%20top%20art%20SOURCE%20Mustard%20Made.jpg",
+      "published_at": "2026-11-02T14:15:29Z",
+      "category": "Gear"
+    },
+    {
+      "id": "974a1e8a2b00b5a89bbe",
+      "source": "verge",
+      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+      "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+      "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple…",
+      "image": "",
+      "published_at": "2026-11-02T14:07:22Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "66b09a6fb2a3c8a5d4d7",
+      "source": "verge",
+      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a…",
+      "image": "",
+      "published_at": "2026-11-02T14:05:34Z",
+      "category": "Elon Musk"
+    },
+    {
+      "id": "300f953a076102acf97f",
+      "source": "verge",
+      "title": "Affinity’s creative studio is now available on iPad for free",
+      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop…",
+      "image": "",
+      "published_at": "2026-11-02T14:00:00Z",
+      "category": "Apps"
+    },
+    {
+      "id": "41a253a9b480cf110e84",
+      "source": "wired",
+      "title": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
+      "url": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
+      "summary": "I tested Birdbuddy’s Nook and Birdfy’s Rookie in my backyard. Saving money comes with compromises, but some are easier to live with.",
+      "image": "https://media.wired.com/photos/6ae8a6050f4d264d864a7ac6/master/pass/Birdbuddy%20Nook%20vs.%20Birdfy%20Rookie%20102026%20top%20art%20Updated%20SOURCE%20Birdbuddy-Amazon.jpg",
+      "published_at": "2026-11-02T14:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6ce5e05eabba48f400ea",
+      "source": "mit",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more…",
+      "image": "",
+      "published_at": "2026-11-02T13:10:32Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "8324ae2ab310716daecf",
+      "source": "mit",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide…",
+      "image": "",
+      "published_at": "2026-11-02T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "9d422d2a0519a7a7af56",
+      "source": "verge",
+      "title": "More European supermarkets are getting their freezers hacked",
+      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "summary": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden…",
+      "image": "",
+      "published_at": "2026-11-02T13:00:35Z",
+      "category": "News"
+    },
+    {
+      "id": "6fe41e532beac7a11df2",
+      "source": "ars",
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
+      "published_at": "2026-11-02T12:00:07Z",
+      "category": "Features"
+    },
+    {
+      "id": "8489b8c6d1c1f4b4da3d",
+      "source": "wired",
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg",
+      "published_at": "2026-11-02T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "383066c72741d6c499ff",
+      "source": "wired",
+      "title": "18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors",
+      "url": "https://www.wired.com/gallery/gift-ideas-for-pc-gamers/",
+      "summary": "Shopping for a PC gamer? This is the gear we use ourselves, starting at prices as low as $12.",
+      "image": "https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-02T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8d843d9b6f6893dd86c9",
+      "source": "wired",
+      "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+      "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+      "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
+      "image": "https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg",
+      "published_at": "2026-11-02T11:30:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "96a7dbe9e7ed82b7e2fd",
+      "source": "wired",
+      "title": "My Journey to the Center of America’s Political Spam Text Hell",
+      "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
+      "summary": "I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else. I tried to find out why—and uncovered a labyrinth of politicians, data brokers, and shady tactics.",
+      "image": "https://media.wired.com/photos/6ae766c35f52202fa32c5fb1/master/pass/Final_SamIsland.gif",
+      "published_at": "2026-11-02T11:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "9988c9366b4813a6abbb",
+      "source": "wired",
+      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
+      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
+      "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
+      "image": "https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-02T10:07:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d0a85b01c0167bafc625",
+      "source": "wired",
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+      "published_at": "2026-11-02T10:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "52b239de0b1395889851",
+      "source": "mit",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what…",
+      "image": "",
+      "published_at": "2026-11-02T09:35:19Z",
+      "category": "Artificial intelligence"
+    },
     {
       "id": "02292be3274267a37f6d",
       "source": "verge",
@@ -147,10 +397,10 @@
       "source": "wired",
       "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
       "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
-      "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "summary": "The Chromagraph Camera app costs $13 and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
       "image": "https://media.wired.com/photos/6ae4d8cd63df19eea97af1ce/master/pass/GettyImages-2247231598.jpg",
       "published_at": "2026-11-01T12:00:00Z",
-      "category": "Gear / Gear News and Events"
+      "category": "Gear"
     },
     {
       "id": "ef79b87884f0df73b923",
@@ -673,16 +923,6 @@
       "category": "Autonomous Cars"
     },
     {
-      "id": "19eb6eef4eb752a925e9",
-      "source": "verge",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the…",
-      "image": "",
-      "published_at": "2026-10-30T17:01:07Z",
-      "category": "Deals"
-    },
-    {
       "id": "8685c720c0fc1bf2c068",
       "source": "ars",
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
@@ -703,56 +943,6 @@
       "category": "Space"
     },
     {
-      "id": "27b4734f02c262df8953",
-      "source": "wired",
-      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
-      "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
-      "summary": "The fanfic site could be down for weeks due to a “security incident.” Users are not taking it well.",
-      "image": "https://media.wired.com/photos/6ae3d487c091c8b8d1ebfb9c/master/pass/culture_ao3_crash_fanfic_meltdown.jpg",
-      "published_at": "2026-10-30T15:57:35Z",
-      "category": "Culture"
-    },
-    {
-      "id": "7a6f1699998d81581d3d",
-      "source": "verge",
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at…",
-      "image": "",
-      "published_at": "2026-10-30T15:29:02Z",
-      "category": "Deals"
-    },
-    {
-      "id": "a99605ccb56ca529a458",
-      "source": "wired",
-      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "summary": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
-      "image": "https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/master/pass/Backchannel-Top-Art-10302026.jpg",
-      "published_at": "2026-10-30T15:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "b9e551d4e93ced389bd3",
-      "source": "verge",
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United…",
-      "image": "",
-      "published_at": "2026-10-30T14:58:06Z",
-      "category": "AI"
-    },
-    {
-      "id": "981ac02e71e39f39c0e3",
-      "source": "verge",
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the…",
-      "image": "",
-      "published_at": "2026-10-30T14:23:26Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "852236cb85e5f987ddfb",
       "source": "ars",
       "title": "GM to pay $220 million after selling customer Smart Driver data",
@@ -761,16 +951,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg",
       "published_at": "2026-10-30T13:53:20Z",
       "category": "Cars"
-    },
-    {
-      "id": "1a5589cbc3355aa0ec43",
-      "source": "verge",
-      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was…",
-      "image": "",
-      "published_at": "2026-10-30T13:52:14Z",
-      "category": "Autonomous Cars"
     },
     {
       "id": "d3654bb0e7a59cf62c82",
@@ -783,56 +963,6 @@
       "category": "Security"
     },
     {
-      "id": "d012d8956aeb93bfbe10",
-      "source": "wired",
-      "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
-      "url": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
-      "summary": "Even though Black Friday isn’t for a few more weeks, we’ve found early discounts on our favorite WIRED-tested mattresses and sleep accessories.",
-      "image": "https://media.wired.com/photos/6a96089130fad2f3a55f8e20/master/pass/The-Best-Early-Labor-Day-Mattress-Deals.jpg",
-      "published_at": "2026-10-30T13:34:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0a87586ca2e4ab0b26f0",
-      "source": "verge",
-      "title": "Silicon Valley wants you to invest in miracles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose…",
-      "image": "",
-      "published_at": "2026-10-30T13:11:05Z",
-      "category": "AI"
-    },
-    {
-      "id": "4af10071c1f6a74243ba",
-      "source": "verge",
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of…",
-      "image": "",
-      "published_at": "2026-10-30T13:01:14Z",
-      "category": "AI"
-    },
-    {
-      "id": "3382aea9386023dae0e8",
-      "source": "verge",
-      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and…",
-      "image": "",
-      "published_at": "2026-10-30T13:00:00Z",
-      "category": "Amazon"
-    },
-    {
-      "id": "06d6f79878406f736f7c",
-      "source": "verge",
-      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it…",
-      "image": "",
-      "published_at": "2026-10-30T12:30:00Z",
-      "category": "Apple"
-    },
-    {
       "id": "92e7658673b57da08ae1",
       "source": "ars",
       "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
@@ -841,16 +971,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
       "published_at": "2026-10-30T12:00:18Z",
       "category": "Cars"
-    },
-    {
-      "id": "88ad0a33509d8674401b",
-      "source": "wired",
-      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "summary": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
-      "image": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg",
-      "published_at": "2026-10-30T11:36:52Z",
-      "category": "Security"
     },
     {
       "id": "d88113ea02c1f70b6a33",
@@ -881,76 +1001,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
       "published_at": "2026-10-30T11:00:35Z",
       "category": "Science"
-    },
-    {
-      "id": "4ca1a20a4edd784dd564",
-      "source": "wired",
-      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
-      "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
-      "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
-      "image": "https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/master/pass/GettyImages-2240550047.jpg",
-      "published_at": "2026-10-30T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "80f52ba675bd803b2bf7",
-      "source": "wired",
-      "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
-      "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
-      "summary": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
-      "image": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg",
-      "published_at": "2026-10-30T10:45:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "8ee6c84a377679202056",
-      "source": "wired",
-      "title": "The Best Handheld Translators for Work and Travel (2026)",
-      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
-      "summary": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
-      "image": "https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg",
-      "published_at": "2026-10-30T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7dac491974b056067a82",
-      "source": "wired",
-      "title": "Male Insecurity Over Penis Size Is a Booming Business",
-      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
-      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
-      "image": "https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg",
-      "published_at": "2026-10-30T10:30:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "d2537d760fcc61f63788",
-      "source": "wired",
-      "title": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
-      "url": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
-      "summary": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore.",
-      "image": "https://media.wired.com/photos/6ae3a2964c40b236572925e2/master/pass/Culture_It%20Sure%20Looks%20Like%20the%20Department%20of%20Education%20Is%20Promoting%20a%20Right-Wing%20Harry%20Potter%20Meme_v1.jpg",
-      "published_at": "2026-10-30T10:15:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "4c359b0a2728ef7c0f8c",
-      "source": "wired",
-      "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
-      "url": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
-      "summary": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
-      "image": "https://media.wired.com/photos/6ae4b5c0d55a0e2bc0a8d62b/master/pass/GettyImages-567391969.jpg",
-      "published_at": "2026-10-30T10:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "8ac6cf64f0b659103d2e",
-      "source": "wired",
-      "title": "Samsung S95H OLED TV Review (2026)",
-      "url": "https://www.wired.com/review/samsung-s95h/",
-      "summary": "It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.",
-      "image": "https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
-      "published_at": "2026-10-30T10:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "ea921774908b36fe4cac",
@@ -1151,26 +1201,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg",
       "published_at": "2026-10-28T19:10:29Z",
       "category": "Apple"
-    },
-    {
-      "id": "fce8793b5920f0072580",
-      "source": "ars",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-      "published_at": "2026-10-28T18:47:27Z",
-      "category": "AI"
-    },
-    {
-      "id": "dddd616666ad80cb0be8",
-      "source": "ars",
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-      "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-      "published_at": "2026-10-28T18:05:22Z",
-      "category": "Tech"
     },
     {
       "id": "f50aae4f60ea2b7612e3",
@@ -1438,36 +1468,6 @@
       "title": "Melt it, spin it, use it again",
       "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
       "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "d8e4842999abe58e520e",
-      "source": "mit",
-      "title": "A reason to eat carbs",
-      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "17745cc2fa337b5ce244",
-      "source": "mit",
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
-    },
-    {
-      "id": "c69647a4e914eefddf07",
-      "source": "mit",
-      "title": "Taking a swing at a pickleball startup",
-      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-      "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to get recruited into gangs, getting…",
       "image": "",
       "published_at": "2026-10-20T21:00:00Z",
       "category": "Uncategorized"

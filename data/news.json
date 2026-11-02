@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T20:50:48Z",
+  "updated_at": "2026-11-02T00:45:48Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T20:50:47Z",
+      "last_success_at": "2026-11-02T00:45:48Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T20:50:47Z",
+      "last_success_at": "2026-11-02T00:45:48Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T20:50:48Z",
+      "last_success_at": "2026-11-02T00:45:48Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-01T20:50:48Z",
+      "last_success_at": "2026-11-02T00:45:48Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "7c48b5baf17de3d8a54a",
+      "source": "verge",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run…",
+      "image": "",
+      "published_at": "2026-11-01T21:09:21Z",
+      "category": "NASA"
+    },
     {
       "id": "61a2ac7051749c256499",
       "source": "verge",
@@ -831,16 +841,6 @@
       "image": "",
       "published_at": "2026-10-30T12:00:00Z",
       "category": "Analysis"
-    },
-    {
-      "id": "d8702fcddeeaf0d26181",
-      "source": "verge",
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto…",
-      "image": "",
-      "published_at": "2026-10-30T11:44:53Z",
-      "category": "Crypto"
     },
     {
       "id": "88ad0a33509d8674401b",

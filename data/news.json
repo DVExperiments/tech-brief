@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T00:45:48Z",
+  "updated_at": "2026-11-02T06:54:29Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T00:45:48Z",
+      "last_success_at": "2026-11-02T06:54:29Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T00:45:48Z",
+      "last_success_at": "2026-11-02T06:54:29Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T00:45:48Z",
+      "last_success_at": "2026-11-02T06:54:29Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-02T00:45:48Z",
+      "last_success_at": "2026-11-02T06:54:29Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "02292be3274267a37f6d",
+      "source": "verge",
+      "title": "Jackery made its portable power stations even smaller",
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is…",
+      "image": "",
+      "published_at": "2026-11-02T05:00:00Z",
+      "category": "Gadgets"
+    },
     {
       "id": "7c48b5baf17de3d8a54a",
       "source": "verge",
@@ -831,16 +841,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
       "published_at": "2026-10-30T12:00:18Z",
       "category": "Cars"
-    },
-    {
-      "id": "ccdec560afe73b0a1d96",
-      "source": "verge",
-      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-      "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro…",
-      "image": "",
-      "published_at": "2026-10-30T12:00:00Z",
-      "category": "Analysis"
     },
     {
       "id": "88ad0a33509d8674401b",

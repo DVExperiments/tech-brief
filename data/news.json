@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T15:09:21Z",
+  "updated_at": "2026-11-03T20:59:59Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T15:09:20Z",
+      "last_success_at": "2026-11-03T20:59:58Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T15:09:20Z",
+      "last_success_at": "2026-11-03T20:59:58Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T15:09:21Z",
+      "last_success_at": "2026-11-03T20:59:59Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T15:09:21Z",
+      "last_success_at": "2026-11-03T20:59:59Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "c7cb57796a74add1048a",
+      "source": "verge",
+      "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
+      "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the…",
+      "image": "",
+      "published_at": "2026-11-03T20:29:26Z",
+      "category": "Deals"
+    },
+    {
+      "id": "ddbb3f44898f6a427919",
+      "source": "verge",
+      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the…",
+      "image": "",
+      "published_at": "2026-11-03T20:16:54Z",
+      "category": "Apple"
+    },
+    {
+      "id": "212b1999688b45c8f227",
+      "source": "verge",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing…",
+      "image": "",
+      "published_at": "2026-11-03T20:16:17Z",
+      "category": "AI"
+    },
+    {
+      "id": "520a797eb9cee3767a92",
+      "source": "verge",
+      "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
+      "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
+      "summary": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or…",
+      "image": "",
+      "published_at": "2026-11-03T19:48:41Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "9701aed0ec16ef32cb2c",
+      "source": "verge",
+      "title": "This Election Day, remember which party ran against EVs and tethered us all to the gas pump",
+      "url": "https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms",
+      "summary": "It's the midterms! Here's a fun fact for you as you head to the polls: Gas prices today are the highest ever recorded for a US Election Day. The national average for a gallon of gasoline is $4.12 and $6.28 for a…",
+      "image": "",
+      "published_at": "2026-11-03T19:44:46Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "987e9dbeae9786207c48",
+      "source": "wired",
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
+      "image": "https://media.wired.com/photos/6aea142af41713bdfbadc480/master/pass/Security_Suspected%20North%20Korean%20Hackers%20Stole%20$6.3%20Billion%20From%20Binance%20Using%20the%20Oldest%20Tricks%20in%20the%20Book_v1.jpg",
+      "published_at": "2026-11-03T19:04:58Z",
+      "category": "Security"
+    },
+    {
+      "id": "c84b44a0fc85476c76c9",
+      "source": "verge",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses…",
+      "image": "",
+      "published_at": "2026-11-03T18:31:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "9d67d0a6ae136207de71",
+      "source": "verge",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google…",
+      "image": "",
+      "published_at": "2026-11-03T18:30:42Z",
+      "category": "AI"
+    },
+    {
+      "id": "fce0775fdb07b610654b",
+      "source": "ars",
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg",
+      "published_at": "2026-11-03T18:30:27Z",
+      "category": "Policy"
+    },
+    {
+      "id": "de398050a059fc9c4220",
+      "source": "verge",
+      "title": "Reddit is adding more ads",
+      "url": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
+      "summary": "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search query,\" according…",
+      "image": "",
+      "published_at": "2026-11-03T18:26:36Z",
+      "category": "Apps"
+    },
+    {
+      "id": "13d7923fcc1a072a228a",
+      "source": "ars",
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg",
+      "published_at": "2026-11-03T18:19:31Z",
+      "category": "Cars"
+    },
+    {
+      "id": "dd9445d90a5d44cdab18",
+      "source": "verge",
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned…",
+      "image": "",
+      "published_at": "2026-11-03T18:14:50Z",
+      "category": "AI"
+    },
+    {
+      "id": "bbd377bb490ed864c117",
+      "source": "verge",
+      "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
+      "url": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
+      "summary": "If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That’s the best price we’ve seen for the Gemini-powered…",
+      "image": "",
+      "published_at": "2026-11-03T18:11:49Z",
+      "category": "Deals"
+    },
+    {
+      "id": "3e5abb49054313e836ca",
+      "source": "wired",
+      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
+      "image": "https://media.wired.com/photos/6aea017a597f4e1cbf9d9730/master/pass/Air%20Purifiers%20Deal%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-03T18:04:07Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e42bb72922591e3261f0",
+      "source": "ars",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+      "published_at": "2026-11-03T17:54:43Z",
+      "category": "AI"
+    },
+    {
+      "id": "5c1a064a6a53160dc092",
+      "source": "ars",
+      "title": "Another child dies of measles as CDC reportedly holds up health alert",
+      "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+      "summary": "NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
+      "published_at": "2026-11-03T17:21:29Z",
+      "category": "Health"
+    },
+    {
+      "id": "35989b26a42d64462eb9",
+      "source": "ars",
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "summary": "Google has cut ties with the company behind the botnet campaign.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg",
+      "published_at": "2026-11-03T17:08:21Z",
+      "category": "Google"
+    },
+    {
+      "id": "ada35729bb05d067cdd2",
+      "source": "ars",
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
+      "published_at": "2026-11-03T16:50:32Z",
+      "category": "Space"
+    },
+    {
+      "id": "803628d645eb5549f2ec",
+      "source": "ars",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+      "published_at": "2026-11-03T16:03:13Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "434e3087c05d52b69f47",
+      "source": "ars",
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
+      "published_at": "2026-11-03T15:39:30Z",
+      "category": "Features"
+    },
     {
       "id": "f0af8afb9e71d30767d1",
       "source": "verge",
@@ -53,9 +253,19 @@
       "category": "AI"
     },
     {
+      "id": "0eaba7c257a0f10d4ebc",
+      "source": "ars",
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg",
+      "published_at": "2026-11-03T14:49:00Z",
+      "category": "Policy"
+    },
+    {
       "id": "740ff0524bd1a06ef298",
       "source": "wired",
-      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
       "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
       "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
       "image": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg",
@@ -247,7 +457,7 @@
       "source": "wired",
       "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
       "url": "https://www.wired.com/story/best-white-noise-machines/",
-      "summary": "Catch more Z’s with soothing background noise from our favorite sound machines.",
+      "summary": "Catch more z’s with soothing background noise from our favorite sound machines.",
       "image": "https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg",
       "published_at": "2026-11-03T10:35:00Z",
       "category": "Gear"
@@ -743,26 +953,6 @@
       "category": "Gadgets"
     },
     {
-      "id": "66b09a6fb2a3c8a5d4d7",
-      "source": "verge",
-      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
-      "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a…",
-      "image": "",
-      "published_at": "2026-11-02T14:05:34Z",
-      "category": "Elon Musk"
-    },
-    {
-      "id": "300f953a076102acf97f",
-      "source": "verge",
-      "title": "Affinity’s creative studio is now available on iPad for free",
-      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop…",
-      "image": "",
-      "published_at": "2026-11-02T14:00:00Z",
-      "category": "Apps"
-    },
-    {
       "id": "41a253a9b480cf110e84",
       "source": "wired",
       "title": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
@@ -791,16 +981,6 @@
       "image": "",
       "published_at": "2026-11-02T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "9d422d2a0519a7a7af56",
-      "source": "verge",
-      "title": "More European supermarkets are getting their freezers hacked",
-      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
-      "summary": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden…",
-      "image": "",
-      "published_at": "2026-11-02T13:00:35Z",
-      "category": "News"
     },
     {
       "id": "6fe41e532beac7a11df2",
@@ -843,26 +1023,6 @@
       "category": "Culture"
     },
     {
-      "id": "96a7dbe9e7ed82b7e2fd",
-      "source": "wired",
-      "title": "My Journey to the Center of America’s Political Spam Text Hell",
-      "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
-      "summary": "I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else. I tried to find out why—and uncovered a labyrinth of politicians, data brokers, and shady tactics.",
-      "image": "https://media.wired.com/photos/6ae766c35f52202fa32c5fb1/master/pass/Final_SamIsland.gif",
-      "published_at": "2026-11-02T11:00:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "9988c9366b4813a6abbb",
-      "source": "wired",
-      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
-      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
-      "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
-      "image": "https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-02T10:07:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "52b239de0b1395889851",
       "source": "mit",
       "title": "The agentic web is here",
@@ -871,76 +1031,6 @@
       "image": "",
       "published_at": "2026-11-02T09:35:19Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "02292be3274267a37f6d",
-      "source": "verge",
-      "title": "Jackery made its portable power stations even smaller",
-      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is…",
-      "image": "",
-      "published_at": "2026-11-02T05:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "7c48b5baf17de3d8a54a",
-      "source": "verge",
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run…",
-      "image": "",
-      "published_at": "2026-11-01T21:09:21Z",
-      "category": "NASA"
-    },
-    {
-      "id": "61a2ac7051749c256499",
-      "source": "verge",
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with…",
-      "image": "",
-      "published_at": "2026-11-01T19:58:02Z",
-      "category": "Law"
-    },
-    {
-      "id": "b7f23839e93a8a907859",
-      "source": "verge",
-      "title": "Apple’s HomeView could add security camera features",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live…",
-      "image": "",
-      "published_at": "2026-11-01T17:16:07Z",
-      "category": "Apple"
-    },
-    {
-      "id": "7b892c6c9ea3e9261985",
-      "source": "verge",
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code…",
-      "image": "",
-      "published_at": "2026-11-01T16:19:21Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "cec48a5be64f22c46501",
-      "source": "verge",
-      "title": "North Korea linked to massive Binance crypto heist",
-      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack…",
-      "image": "",
-      "published_at": "2026-11-01T14:33:11Z",
-      "category": "Crypto"
-    },
-    {
-      "id": "d710fb3f581b5bf5b0c7",
-      "source": "verge",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the…",
-      "image": "",
-      "published_at": "2026-11-01T14:00:00Z",
-      "category": "Apple"
     },
     {
       "id": "9e8d1e6e78fc2837a5cb",
@@ -1093,36 +1183,6 @@
       "category": "Cars"
     },
     {
-      "id": "d3654bb0e7a59cf62c82",
-      "source": "ars",
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
-      "published_at": "2026-10-30T13:46:39Z",
-      "category": "Security"
-    },
-    {
-      "id": "92e7658673b57da08ae1",
-      "source": "ars",
-      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
-      "published_at": "2026-10-30T12:00:18Z",
-      "category": "Cars"
-    },
-    {
-      "id": "d88113ea02c1f70b6a33",
-      "source": "ars",
-      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg",
-      "published_at": "2026-10-30T11:30:01Z",
-      "category": "Culture"
-    },
-    {
       "id": "04a3c7909a947379543d",
       "source": "mit",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -1133,16 +1193,6 @@
       "category": "The Download"
     },
     {
-      "id": "ef1911f939f6775f1cf4",
-      "source": "ars",
-      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
-      "published_at": "2026-10-30T11:00:35Z",
-      "category": "Science"
-    },
-    {
       "id": "ea921774908b36fe4cac",
       "source": "mit",
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -1151,56 +1201,6 @@
       "image": "",
       "published_at": "2026-10-30T09:00:00Z",
       "category": "Biotechnology and health"
-    },
-    {
-      "id": "9dfd659a1f159ac41c57",
-      "source": "ars",
-      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-      "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
-      "published_at": "2026-10-29T21:47:57Z",
-      "category": "Tech"
-    },
-    {
-      "id": "02333afb3f428985f6d9",
-      "source": "ars",
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
-      "published_at": "2026-10-29T20:18:49Z",
-      "category": "Tech"
-    },
-    {
-      "id": "2072d47a1083b68136a9",
-      "source": "ars",
-      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "summary": "Inspector general rejected request from Democratic and Republican senators.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
-      "published_at": "2026-10-29T20:08:10Z",
-      "category": "Policy"
-    },
-    {
-      "id": "e47d1e46fad23808ad2b",
-      "source": "ars",
-      "title": "Trump declares robot imports a national security threat",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-      "published_at": "2026-10-29T19:07:53Z",
-      "category": "AI"
-    },
-    {
-      "id": "e03f50003d7bf3f1b201",
-      "source": "ars",
-      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg",
-      "published_at": "2026-10-29T18:29:12Z",
-      "category": "Policy"
     },
     {
       "id": "ac9b7a5528caa98c352a",

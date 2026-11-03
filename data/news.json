@@ -1,37 +1,277 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T06:49:34Z",
+  "updated_at": "2026-11-03T15:09:21Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T06:49:33Z",
+      "last_success_at": "2026-11-03T15:09:20Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T06:49:34Z",
+      "last_success_at": "2026-11-03T15:09:20Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T06:49:34Z",
+      "last_success_at": "2026-11-03T15:09:21Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T06:49:34Z",
+      "last_success_at": "2026-11-03T15:09:21Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "f0af8afb9e71d30767d1",
+      "source": "verge",
+      "title": "The Elder Scrolls VI officially has a name: Sentinel",
+      "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
+      "summary": "Bethesda is officially confirming today that the next Elder Scrolls game will be called The Elder Scrolls VI Sentinel. The confirmation came in a less than 10-minute video celebrating 40 years of Bethesda game…",
+      "image": "",
+      "published_at": "2026-11-03T15:07:39Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "00437f63fbc19b0fed6d",
+      "source": "verge",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan…",
+      "image": "",
+      "published_at": "2026-11-03T15:00:44Z",
+      "category": "AI"
+    },
+    {
+      "id": "740ff0524bd1a06ef298",
+      "source": "wired",
+      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "image": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg",
+      "published_at": "2026-11-03T14:45:08Z",
+      "category": "Politics"
+    },
+    {
+      "id": "15392c229810251929cd",
+      "source": "verge",
+      "title": "A truck-sized NASA space telescope is about to crash to Earth",
+      "url": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
+      "summary": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space…",
+      "image": "",
+      "published_at": "2026-11-03T14:17:55Z",
+      "category": "NASA"
+    },
+    {
+      "id": "fcda854c7c85d1fc589a",
+      "source": "wired",
+      "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+      "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+      "summary": "The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.",
+      "image": "https://media.wired.com/photos/6ae8f529e0d52c3a137c9f19/master/pass/LUMI%20Top.jpg",
+      "published_at": "2026-11-03T14:00:34Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7526947b32a4ad05b2e1",
+      "source": "ars",
+      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+      "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg",
+      "published_at": "2026-11-03T14:00:07Z",
+      "category": "Cars"
+    },
+    {
+      "id": "3b4952a77aa7b2f8dc83",
+      "source": "verge",
+      "title": "Peak Design expands its collection of wireless charging accessories",
+      "url": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
+      "summary": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pairing premium…",
+      "image": "",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "57fb0edb56cd1442389b",
+      "source": "verge",
+      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
+      "url": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
+      "summary": "Three years ago, I told you how home 3D printers had evolved for speed, producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between materials on the…",
+      "image": "",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "6a5d3c9ca82b189d23b4",
+      "source": "verge",
+      "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
+      "url": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
+      "summary": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming…",
+      "image": "",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "1281ab90e5f7f3a631c1",
+      "source": "verge",
+      "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
+      "url": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
+      "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this…",
+      "image": "",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "Adobe"
+    },
+    {
+      "id": "49bf735393c8738d4d68",
+      "source": "wired",
+      "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
+      "url": "https://www.wired.com/review/ipad-mini-2026/",
+      "summary": "The iPad Mini’s impressive new features make it a better tablet than ever—only to be betrayed by its higher price.",
+      "image": "https://media.wired.com/photos/6ae914d0db4305d8f2ef46a8/master/pass/Review%20iPad%20Mini%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ee2208687cce3de20a00",
+      "source": "verge",
+      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+      "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
+      "summary": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced…",
+      "image": "",
+      "published_at": "2026-11-03T13:22:38Z",
+      "category": "Apple"
+    },
+    {
+      "id": "95dea697598324707880",
+      "source": "mit",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known…",
+      "image": "",
+      "published_at": "2026-11-03T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "f77eda6696c81c35c548",
+      "source": "verge",
+      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+      "url": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+      "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do…",
+      "image": "",
+      "published_at": "2026-11-03T12:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "e910c51cc67a558ab019",
+      "source": "verge",
+      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+      "url": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+      "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics…",
+      "image": "",
+      "published_at": "2026-11-03T12:00:00Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "39a00861fb58025249d2",
+      "source": "wired",
+      "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
+      "url": "https://www.wired.com/story/steve-kornacki-user-behavior/",
+      "summary": "NBC’s go-to data guru also isn’t quite sure what a subreddit is.",
+      "image": "https://media.wired.com/photos/6ae8cd01497f748d50242e88/master/pass/user-behavior-steve-kornacki.jpg",
+      "published_at": "2026-11-03T12:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "92f0541bc87e97617f47",
+      "source": "wired",
+      "title": "Apple AirPods 5 Review: Better Than Before but Not Quite Pro",
+      "url": "https://www.wired.com/review/apple-airpods-5/",
+      "summary": "Apple finally made ANC standard across the AirPods lineup. But should you still spring for the AirPods Pro 3?",
+      "image": "https://media.wired.com/photos/6ae7ceda7ef4ba44e2d4570c/master/pass/New%20AirPods%205%20Review%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-03T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c3224ad1beaaa0a03647",
+      "source": "wired",
+      "title": "ICE Is Inspiring Latinos to Vote in Historic Numbers",
+      "url": "https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/",
+      "summary": "“I did a Latino community event [and said] we have to actually fucking vote to tell these motherfuckers to fuck off,” Nevada secretary of state Cisco Aguilar tells WIRED.",
+      "image": "https://media.wired.com/photos/6ae4ddda8bae4a3ff3d62f04/master/pass/GettyImages-2299691372.jpg",
+      "published_at": "2026-11-03T11:30:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "caab2e4dcc5541295658",
+      "source": "wired",
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg",
+      "published_at": "2026-11-03T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "2100648822d88a491dcb",
+      "source": "wired",
+      "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+      "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+      "summary": "The 3,200-pound satellite is expected to reenter Earth’s atmosphere later this week with a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America.",
+      "image": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/master/pass/swiftnasa.jpg",
+      "published_at": "2026-11-03T10:45:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "d3b7d273259bae7984b3",
+      "source": "mit",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling…",
+      "image": "",
+      "published_at": "2026-11-03T10:43:41Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "3923ae4fcfe810cd18a0",
+      "source": "wired",
+      "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
+      "url": "https://www.wired.com/story/best-white-noise-machines/",
+      "summary": "Catch more Z’s with soothing background noise from our favorite sound machines.",
+      "image": "https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-03T10:35:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ddc255ac4cee363344f6",
+      "source": "wired",
+      "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+      "url": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
+      "summary": "The 4.1-billion-year-old meteorite is a “Rosetta Stone for Mars,” preserving clues about how the Martian environment has changed since the solar system formed.",
+      "image": "https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/master/pass/505137454",
+      "published_at": "2026-11-03T10:15:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "647323c7605ee4df76fb",
+      "source": "wired",
+      "title": "Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It",
+      "url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/",
+      "summary": "On Reddit and Discord, people addicted to opioids say SR-17018 can remove withdrawal symptoms. Despite its potential, the DEA has placed it in the same category as heroin.",
+      "image": "https://media.wired.com/photos/6ae8f97d779df3a2b1d25e49/master/pass/Culture_Opioid%20Users%20Found%20a%20%E2%80%98Miracle%20Drug%E2%80%99%20To%20Help%20Them%20Quit.%20Then%20the%20DEA%20Banned%20It_v1.jpg",
+      "published_at": "2026-11-03T10:00:00Z",
+      "category": "Culture"
+    },
     {
       "id": "195a3ff89573b33c6ef5",
       "source": "wired",
@@ -623,16 +863,6 @@
       "category": "Gear"
     },
     {
-      "id": "d0a85b01c0167bafc625",
-      "source": "wired",
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-      "published_at": "2026-11-02T10:00:00Z",
-      "category": "Security"
-    },
-    {
       "id": "52b239de0b1395889851",
       "source": "mit",
       "title": "The agentic web is here",
@@ -711,206 +941,6 @@
       "image": "",
       "published_at": "2026-11-01T14:00:00Z",
       "category": "Apple"
-    },
-    {
-      "id": "bb1526c811486cff1198",
-      "source": "verge",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers'…",
-      "image": "",
-      "published_at": "2026-11-01T13:00:00Z",
-      "category": "Column"
-    },
-    {
-      "id": "c5b4010e5861657d2059",
-      "source": "verge",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn…",
-      "image": "",
-      "published_at": "2026-11-01T13:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "id": "30dc77977831a2745651",
-      "source": "wired",
-      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
-      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
-      "summary": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
-      "image": "https://media.wired.com/photos/6ac3f7f587319ffac19f963c/master/pass/Star%20Wars%20Gift%20Guide%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-01T12:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7f41de4545d0209a61d4",
-      "source": "wired",
-      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-      "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-      "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
-      "image": "https://media.wired.com/photos/6adf47c4094d0f0ff2dda226/master/pass/102626-Google%20Vids.jpg",
-      "published_at": "2026-11-01T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9be6008022790911c845",
-      "source": "wired",
-      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
-      "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
-      "summary": "The Chromagraph Camera app costs $13 and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
-      "image": "https://media.wired.com/photos/6ae4d8cd63df19eea97af1ce/master/pass/GettyImages-2247231598.jpg",
-      "published_at": "2026-11-01T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ef79b87884f0df73b923",
-      "source": "wired",
-      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
-      "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-      "summary": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
-      "image": "https://media.wired.com/photos/6ae50db5ba91943b4382fb11/master/pass/Lenovo%20LOQ%2015%20deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-01T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "11ab780fa5fa0f980015",
-      "source": "wired",
-      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
-      "url": "https://www.wired.com/gallery/the-best-space-heaters/",
-      "summary": "These portable heaters will heat a room quickly, quietly, and safely.",
-      "image": "https://media.wired.com/photos/6ae2d79dacdbd1412b01b73b/master/pass/Update%20Best%20Space%20Heaters%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-01T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6ae4de4ad8f2e1d99fbf",
-      "source": "wired",
-      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
-      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
-      "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
-      "image": "https://media.wired.com/photos/6ae4fee12ed4c5e1df28fc74/master/pass/103126-Power%20Play-v1jpg.jpg",
-      "published_at": "2026-11-01T11:00:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "22ff898d15c40f9c0068",
-      "source": "wired",
-      "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
-      "url": "https://www.wired.com/story/the-best-travel-mugs/",
-      "summary": "These top picks from brands like Ember, Owala, and Hydro Flask are built to last, keeping your drinks hot and your mornings smooth.",
-      "image": "https://media.wired.com/photos/6ae2d290168dfe749932cd09/master/pass/The%20Best%20Travel%20Mugs%20102026%20top%20art%20SOURCE%20Fellow-Amazon.jpg",
-      "published_at": "2026-11-01T10:31:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "86bc1cba30c03f00dd6b",
-      "source": "wired",
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
-      "published_at": "2026-11-01T10:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "5e2a22916e3064dfa629",
-      "source": "wired",
-      "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
-      "url": "https://www.wired.com/story/best-chromebooks/",
-      "summary": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
-      "image": "https://media.wired.com/photos/6ae4f7cdc47e8737f5c92342/master/pass/Update%20Best%20Chromebooks%20102026%20top%20art%20SOURCE%20Amazon-Best%20Buy.jpg",
-      "published_at": "2026-11-01T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "36c4fd907dd5aa8512c0",
-      "source": "wired",
-      "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
-      "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
-      "summary": "A dying star 1,600 light-years from Earth is surrounded by two rings of gas and dust that astronomers believe are the remnants of the planetary bodies it once hosted.",
-      "image": "https://media.wired.com/photos/6ae377e1cbf5d13e90635178/master/pass/eso2613a.jpg",
-      "published_at": "2026-11-01T10:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "45a6758cdab429d49aa7",
-      "source": "verge",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from…",
-      "image": "",
-      "published_at": "2026-10-31T21:06:58Z",
-      "category": "Column"
-    },
-    {
-      "id": "21d35d9c694b890eb782",
-      "source": "verge",
-      "title": "Keyboards of The Verge",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're…",
-      "image": "",
-      "published_at": "2026-10-31T19:30:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "4748c0d7163fed27f2f3",
-      "source": "verge",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the…",
-      "image": "",
-      "published_at": "2026-10-31T18:40:32Z",
-      "category": "Crypto"
-    },
-    {
-      "id": "b93a19950f20c2b6c3dc",
-      "source": "verge",
-      "title": "Happy Pikmin Day Eve",
-      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well…",
-      "image": "",
-      "published_at": "2026-10-31T17:50:12Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "b62b0a2f2941412c37dc",
-      "source": "verge",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi…",
-      "image": "",
-      "published_at": "2026-10-31T16:05:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "e485089124263f0dfae2",
-      "source": "verge",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to…",
-      "image": "",
-      "published_at": "2026-10-31T15:12:19Z",
-      "category": "Microsoft"
-    },
-    {
-      "id": "d6f5c4ed5ee2bf2f4abc",
-      "source": "verge",
-      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be…",
-      "image": "",
-      "published_at": "2026-10-31T15:00:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "1f82b0a03610eba037cb",
-      "source": "verge",
-      "title": "Vic Mensa can’t live without the Voice Memos app",
-      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-      "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services…",
-      "image": "",
-      "published_at": "2026-10-31T15:00:00Z",
-      "category": "Entertainment"
     },
     {
       "id": "9e8d1e6e78fc2837a5cb",
@@ -1171,16 +1201,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg",
       "published_at": "2026-10-29T18:29:12Z",
       "category": "Policy"
-    },
-    {
-      "id": "743b31d51e648ce097f2",
-      "source": "ars",
-      "title": "Turning a solar power system into its own backup",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg",
-      "published_at": "2026-10-29T18:02:26Z",
-      "category": "Science"
     },
     {
       "id": "ac9b7a5528caa98c352a",
@@ -1451,26 +1471,6 @@
       "image": "",
       "published_at": "2026-10-21T09:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "42c9f9a7b7231b7f8438",
-      "source": "mit",
-      "title": "Eliminating traffic deaths",
-      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "dd716bff741a8b7c3dda",
-      "source": "mit",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater…",
-      "image": "",
-      "published_at": "2026-10-20T21:00:00Z",
-      "category": "Uncategorized"
     }
   ]
 }

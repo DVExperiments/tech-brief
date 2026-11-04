@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T01:22:52Z",
+  "updated_at": "2026-11-04T08:02:32Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T01:22:52Z",
+      "last_success_at": "2026-11-04T08:02:31Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T01:22:52Z",
+      "last_success_at": "2026-11-04T08:02:32Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T01:22:52Z",
+      "last_success_at": "2026-11-04T08:02:32Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T01:22:52Z",
+      "last_success_at": "2026-11-04T08:02:32Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "62dbba02251e08ab8e30",
+      "source": "wired",
+      "title": "50% Off DoorDash Promo Code | November 2026",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fedebf0cdaf219f861d5",
+      "source": "wired",
+      "title": "Columbia Promo Codes: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a60394cde7e828bb0d2c",
+      "source": "wired",
+      "title": "Hoka Coupon Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
+      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "421798814b3686cf3948",
+      "source": "wired",
+      "title": "SteelSeries Coupon Codes: 15% Off in November 2026",
+      "url": "https://www.wired.com/story/steelseries-coupon-code/",
+      "summary": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
+      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8f61b74ad57364bcd55e",
+      "source": "wired",
+      "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
+      "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "052fdfde12ca374ebea7",
+      "source": "wired",
+      "title": "25% Off Adidas Promo Code | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "84184ea6993d9b009beb",
+      "source": "wired",
+      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "559c313e50395334cb0a",
+      "source": "wired",
+      "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/hulu-promo-code/",
+      "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
+      "image": "https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9d5281de5fde520293c5",
+      "source": "wired",
+      "title": "Hostinger Promo Code: 79% Off for November 2026",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5278d4c094ac7262369c",
+      "source": "wired",
+      "title": "Shark Promo Codes for November 2026",
+      "url": "https://www.wired.com/story/shark-promo-code/",
+      "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3b16f44023252999ad43",
+      "source": "wired",
+      "title": "Whoop Promo Codes: 20% Off This November 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0e26c4a3b1452acc7f97",
+      "source": "wired",
+      "title": "Alo Discount Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-04T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "bc413d395bd9a7ef50d1",
+      "source": "wired",
+      "title": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+      "summary": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
+      "image": "https://media.wired.com/photos/6ae8e5568f654d90749164d0/master/pass/GettyImages-2303174995.jpg",
+      "published_at": "2026-11-04T04:42:46Z",
+      "category": "Politics"
+    },
+    {
+      "id": "d5dbf01beddc13a1322c",
+      "source": "verge",
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's…",
+      "image": "",
+      "published_at": "2026-11-04T01:15:34Z",
+      "category": "AMD"
+    },
     {
       "id": "742a16343336e3940e36",
       "source": "verge",
@@ -693,36 +833,6 @@
       "category": "Gear"
     },
     {
-      "id": "29f755319f7ee3404fc3",
-      "source": "wired",
-      "title": "KitchenAid Promo Codes: Save Up to 20%",
-      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0c9eeb31e65ce64a9d61",
-      "source": "wired",
-      "title": "Newegg Promo Codes and Coupons for November 2026",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d9003daea344d6b1605e",
-      "source": "wired",
-      "title": "eBay Coupons: 20% Off in November 2026",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "3170ed2d247a44a85d3b",
       "source": "mit",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -741,16 +851,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
       "published_at": "2026-11-02T23:30:16Z",
       "category": "Space"
-    },
-    {
-      "id": "2f69969e31454b69b765",
-      "source": "wired",
-      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
-      "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
-      "summary": "With Democrats poised to make significant gains in Tuesday’s midterm elections, Trump supporters have been reduced to posting bizarre Star Wars fan fiction.",
-      "image": "https://media.wired.com/photos/6ae8cc86fdca8a2bb1f7b391/master/pass/Right-Wingers-Embracing-Anakin-Skywalker-Culture-MCDSTWA_FE048.jpg",
-      "published_at": "2026-11-02T23:17:27Z",
-      "category": "Culture"
     },
     {
       "id": "74ee5065fdb46f76f3e5",
@@ -783,16 +883,6 @@
       "category": "Apple"
     },
     {
-      "id": "ff2ec5717228ba063d27",
-      "source": "wired",
-      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
-      "url": "https://www.wired.com/story/burga-sale-november-2026/",
-      "summary": "Whether you need a phone case, magnetic ring, Apple Watch band, or power bank, now’s a great time to save $25 on orders over $50.",
-      "image": "https://media.wired.com/photos/6ae8f6cf1d7504f7ba2ae9cb/master/pass/Burga%20Phone%20Case%20Sale%20112026%20top%20art%20SOURCE%20Shop.jpg",
-      "published_at": "2026-11-02T21:30:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "7ccfa4087c36f4503c6c",
       "source": "ars",
       "title": "Third person dies of bird flu since virus started jumping to livestock",
@@ -811,16 +901,6 @@
       "image": "",
       "published_at": "2026-11-02T21:04:20Z",
       "category": "Meta"
-    },
-    {
-      "id": "575eb04fd2920889b069",
-      "source": "wired",
-      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-      "summary": "Black Friday is still weeks away, but you don’t have to wait for a good sale on Dyson vacuums.",
-      "image": "https://media.wired.com/photos/6ae8f21332b07efa953f9e48/master/pass/The%20Best%20Dyson%20Vacuum%20Deals%20You%20Can%20Shop%20Right%20Now%20112026%20top%20art%20SOURCE%20Dyson.jpg",
-      "published_at": "2026-11-02T21:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "a8cb449db3ac1847ec8c",
@@ -853,16 +933,6 @@
       "category": "Gaming"
     },
     {
-      "id": "17db228a2d3f8094a95f",
-      "source": "wired",
-      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
-      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
-      "image": "https://media.wired.com/photos/6ae8f4512c694a2e141b3db1/master/pass/The%20Best%20Early%20Black%20Friday%20Espresso%20Machine%20Deals%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-02T19:38:06Z",
-      "category": "Gear"
-    },
-    {
       "id": "c4683ace99f93e2fbb6b",
       "source": "verge",
       "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
@@ -881,16 +951,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg",
       "published_at": "2026-11-02T19:13:26Z",
       "category": "Science"
-    },
-    {
-      "id": "65dbe9ecadfa75453301",
-      "source": "verge",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for…",
-      "image": "",
-      "published_at": "2026-11-02T19:05:46Z",
-      "category": "Cars"
     },
     {
       "id": "87b3913701edb2a605af",
@@ -913,16 +973,6 @@
       "category": "AI"
     },
     {
-      "id": "56854f44f78dcd059e18",
-      "source": "wired",
-      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
-      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
-      "summary": "The influential Center for Renewing America says that “neo-Marxist progressives and anti-Western Muslims” can’t sincerely swear to protect the Constitution—and shouldn’t be allowed to assume office.",
-      "image": "https://media.wired.com/photos/6ae8c12c94f342d037f8cab5/master/pass/GettyImages-1158416151.jpg",
-      "published_at": "2026-11-02T17:29:17Z",
-      "category": "Politics"
-    },
-    {
       "id": "5c7d08f4c0c76b32ce55",
       "source": "ars",
       "title": "China publicly discloses plan for a lunar landing within three years",
@@ -931,16 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg",
       "published_at": "2026-11-02T17:09:13Z",
       "category": "Space"
-    },
-    {
-      "id": "24ac5c4363900a42344a",
-      "source": "wired",
-      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
-      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
-      "summary": "The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board. Members argue that those who buy political power deserve the scrutiny they’ll impose.",
-      "image": "https://media.wired.com/photos/6ae89ae5afa0c5a307ee27e2/master/pass/Security_Meet%20the%20Activists%20Doxing%20Elon%20Musk%20and%20Other%20Billionaire%20%E2%80%98Oligarchs%E2%80%99_v1.jpg",
-      "published_at": "2026-11-02T17:00:00Z",
-      "category": "Security"
     },
     {
       "id": "44e98bd1c45c56a9a99c",
@@ -953,16 +993,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "478b1aff5a83d2ad9297",
-      "source": "wired",
-      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
-      "url": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
-      "summary": "The first Wi-Fi 8 router has arrived. This quad-band gaming beast from Asus is fabulously fast and feature-packed.",
-      "image": "https://media.wired.com/photos/6ae4fef2f23583b9520fe64b/master/pass/Asus%20ROG%20Rapture%20GT-BN98%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-02T16:44:20Z",
-      "category": "Gear"
-    },
-    {
       "id": "515a15d363aef77391cf",
       "source": "ars",
       "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
@@ -973,16 +1003,6 @@
       "category": "Cars"
     },
     {
-      "id": "9e59b45188ba9fa5c2c3",
-      "source": "wired",
-      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
-      "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
-      "summary": "So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.",
-      "image": "https://media.wired.com/photos/6ae4d8d720f72a39b1a4480e/master/pass/GettyImages-2290193242.jpg",
-      "published_at": "2026-11-02T15:13:39Z",
-      "category": "Politics"
-    },
-    {
       "id": "984dcac6d2fb5fdf7c41",
       "source": "ars",
       "title": "The world has a new plan to save nature, but it still needs the money",
@@ -991,26 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg",
       "published_at": "2026-11-02T14:56:52Z",
       "category": "Science"
-    },
-    {
-      "id": "75c04eb25707102d8129",
-      "source": "wired",
-      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
-      "url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
-      "summary": "These gorgeous, renter-friendly storage lockers are hardly ever discounted.",
-      "image": "https://media.wired.com/photos/6ae4efc2b2333ffd87904225/master/pass/Mustard%20Made%20Sitewide%20Sale%20102026%20top%20art%20SOURCE%20Mustard%20Made.jpg",
-      "published_at": "2026-11-02T14:15:29Z",
-      "category": "Gear"
-    },
-    {
-      "id": "41a253a9b480cf110e84",
-      "source": "wired",
-      "title": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
-      "url": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
-      "summary": "I tested Birdbuddy’s Nook and Birdfy’s Rookie in my backyard. Saving money comes with compromises, but some are easier to live with.",
-      "image": "https://media.wired.com/photos/6ae8a6050f4d264d864a7ac6/master/pass/Birdbuddy%20Nook%20vs.%20Birdfy%20Rookie%20102026%20top%20art%20Updated%20SOURCE%20Birdbuddy-Amazon.jpg",
-      "published_at": "2026-11-02T14:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "6ce5e05eabba48f400ea",

@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T20:59:59Z",
+  "updated_at": "2026-11-04T01:22:52Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T20:59:58Z",
+      "last_success_at": "2026-11-04T01:22:52Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T20:59:58Z",
+      "last_success_at": "2026-11-04T01:22:52Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T20:59:59Z",
+      "last_success_at": "2026-11-04T01:22:52Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-03T20:59:59Z",
+      "last_success_at": "2026-11-04T01:22:52Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "742a16343336e3940e36",
+      "source": "verge",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after…",
+      "image": "",
+      "published_at": "2026-11-04T01:02:53Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "4e0044132c5da58cfb4b",
+      "source": "verge",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced…",
+      "image": "",
+      "published_at": "2026-11-04T00:42:10Z",
+      "category": "AI"
+    },
+    {
+      "id": "bccefcfae2b02ea95d1b",
+      "source": "verge",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on…",
+      "image": "",
+      "published_at": "2026-11-03T23:37:45Z",
+      "category": "AI"
+    },
+    {
+      "id": "8979571e5f014da2fcbb",
+      "source": "verge",
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being…",
+      "image": "",
+      "published_at": "2026-11-03T22:59:36Z",
+      "category": "Creators"
+    },
+    {
+      "id": "3262712f87e3d8e51db4",
+      "source": "wired",
+      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+      "summary": "Laptop prices keep going up, but this discount on the Lenovo IdeaPad Slim 5x is one of the best deals I’ve seen in months.",
+      "image": "https://media.wired.com/photos/6aea5ab56c2140d939cde5aa/master/pass/Ideapad%20Slim%205x%20deals%20post%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-03T22:44:01Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5d9026e72cd42d57cfe8",
+      "source": "ars",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg",
+      "published_at": "2026-11-03T22:39:37Z",
+      "category": "Policy"
+    },
+    {
+      "id": "20b99dec398f42246fe1",
+      "source": "verge",
+      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly…",
+      "image": "",
+      "published_at": "2026-11-03T22:20:50Z",
+      "category": "Apps"
+    },
+    {
+      "id": "6ebf5ef8a0ec8faa97ac",
+      "source": "verge",
+      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+      "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\"…",
+      "image": "",
+      "published_at": "2026-11-03T22:15:33Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "8e5e5ef61d0f542712b4",
+      "source": "verge",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June…",
+      "image": "",
+      "published_at": "2026-11-03T22:04:02Z",
+      "category": "Crypto"
+    },
+    {
+      "id": "9515b20c59e27b094a58",
+      "source": "wired",
+      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+      "url": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+      "summary": "T-Mobile, AT&T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.",
+      "image": "https://media.wired.com/photos/6aea4b96e416db7de4d0d053/master/pass/iPhone%20Duo%20Deal%20112026%20top%20art%20SOURCE%20Apple.jpg",
+      "published_at": "2026-11-03T21:25:25Z",
+      "category": "Gear"
+    },
+    {
+      "id": "10d18f34fbc9ae00f4e0",
+      "source": "verge",
+      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+      "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features…",
+      "image": "",
+      "published_at": "2026-11-03T21:21:04Z",
+      "category": "Apple"
+    },
+    {
+      "id": "46bb7f61a56c5a435ba0",
+      "source": "wired",
+      "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+      "url": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+      "summary": "Influencers, watchdogs, and MAGA pundits are convinced that election fraud is everywhere today, despite a lack of apparent evidence.",
+      "image": "https://media.wired.com/photos/6ae50b80941f4f67ee5f2a88/master/pass/GettyImages-2300813713.jpg",
+      "published_at": "2026-11-03T21:11:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "cf7e9e541adea6af0d32",
+      "source": "verge",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two…",
+      "image": "",
+      "published_at": "2026-11-03T21:01:07Z",
+      "category": "AI"
+    },
+    {
+      "id": "b02d2b44c06bbfc8aac0",
+      "source": "ars",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg",
+      "published_at": "2026-11-03T20:39:55Z",
+      "category": "AI"
+    },
     {
       "id": "c7cb57796a74add1048a",
       "source": "verge",
@@ -187,7 +327,7 @@
       "source": "ars",
       "title": "Another child dies of measles as CDC reportedly holds up health alert",
       "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-      "summary": "NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+      "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
       "published_at": "2026-11-03T17:21:29Z",
       "category": "Health"
@@ -753,26 +893,6 @@
       "category": "Cars"
     },
     {
-      "id": "ee3db9e50078ec816832",
-      "source": "verge",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made…",
-      "image": "",
-      "published_at": "2026-11-02T18:56:02Z",
-      "category": "AI"
-    },
-    {
-      "id": "d437d232859bd1e45a69",
-      "source": "verge",
-      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
-      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird…",
-      "image": "",
-      "published_at": "2026-11-02T18:43:24Z",
-      "category": "Gaming"
-    },
-    {
       "id": "87b3913701edb2a605af",
       "source": "ars",
       "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
@@ -790,16 +910,6 @@
       "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
       "published_at": "2026-11-02T18:05:31Z",
-      "category": "AI"
-    },
-    {
-      "id": "557ff897d399e80193cd",
-      "source": "verge",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power…",
-      "image": "",
-      "published_at": "2026-11-02T18:01:30Z",
       "category": "AI"
     },
     {
@@ -843,16 +953,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "41a5271014e4d0fe4d59",
-      "source": "verge",
-      "title": "Squarespace is laying off 19 percent of employees",
-      "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-      "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts…",
-      "image": "",
-      "published_at": "2026-11-02T16:50:47Z",
-      "category": "Labor"
-    },
-    {
       "id": "478b1aff5a83d2ad9297",
       "source": "wired",
       "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
@@ -861,16 +961,6 @@
       "image": "https://media.wired.com/photos/6ae4fef2f23583b9520fe64b/master/pass/Asus%20ROG%20Rapture%20GT-BN98%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg",
       "published_at": "2026-11-02T16:44:20Z",
       "category": "Gear"
-    },
-    {
-      "id": "e78743180c3572f26084",
-      "source": "verge",
-      "title": "Why Peacock is making a huge bet on YouTube",
-      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
-      "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at…",
-      "image": "",
-      "published_at": "2026-11-02T16:00:00Z",
-      "category": "Business"
     },
     {
       "id": "515a15d363aef77391cf",
@@ -883,16 +973,6 @@
       "category": "Cars"
     },
     {
-      "id": "d53efef2c0e450c8b490",
-      "source": "verge",
-      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
-      "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
-      "summary": "When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most…",
-      "image": "",
-      "published_at": "2026-11-02T15:15:00Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "9e59b45188ba9fa5c2c3",
       "source": "wired",
       "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
@@ -901,26 +981,6 @@
       "image": "https://media.wired.com/photos/6ae4d8d720f72a39b1a4480e/master/pass/GettyImages-2290193242.jpg",
       "published_at": "2026-11-02T15:13:39Z",
       "category": "Politics"
-    },
-    {
-      "id": "ba4da492631a43332f6d",
-      "source": "verge",
-      "title": "Could data center backlash flip Florida?",
-      "url": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
-      "summary": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all…",
-      "image": "",
-      "published_at": "2026-11-02T15:05:00Z",
-      "category": "Policy"
-    },
-    {
-      "id": "7ba7daf046c0972f2bc8",
-      "source": "verge",
-      "title": "YouTuber Druski is going to make exclusive content for Netflix",
-      "url": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
-      "summary": "Netflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content \"exclusively\" for the streaming service. The announcement is the latest in Netflix's…",
-      "image": "",
-      "published_at": "2026-11-02T15:00:00Z",
-      "category": "Creators"
     },
     {
       "id": "984dcac6d2fb5fdf7c41",
@@ -941,16 +1001,6 @@
       "image": "https://media.wired.com/photos/6ae4efc2b2333ffd87904225/master/pass/Mustard%20Made%20Sitewide%20Sale%20102026%20top%20art%20SOURCE%20Mustard%20Made.jpg",
       "published_at": "2026-11-02T14:15:29Z",
       "category": "Gear"
-    },
-    {
-      "id": "974a1e8a2b00b5a89bbe",
-      "source": "verge",
-      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-      "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
-      "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple…",
-      "image": "",
-      "published_at": "2026-11-02T14:07:22Z",
-      "category": "Gadgets"
     },
     {
       "id": "41a253a9b480cf110e84",
@@ -991,36 +1041,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
       "published_at": "2026-11-02T12:00:07Z",
       "category": "Features"
-    },
-    {
-      "id": "8489b8c6d1c1f4b4da3d",
-      "source": "wired",
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg",
-      "published_at": "2026-11-02T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "383066c72741d6c499ff",
-      "source": "wired",
-      "title": "18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors",
-      "url": "https://www.wired.com/gallery/gift-ideas-for-pc-gamers/",
-      "summary": "Shopping for a PC gamer? This is the gear we use ourselves, starting at prices as low as $12.",
-      "image": "https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-02T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8d843d9b6f6893dd86c9",
-      "source": "wired",
-      "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-      "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
-      "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
-      "image": "https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg",
-      "published_at": "2026-11-02T11:30:00Z",
-      "category": "Culture"
     },
     {
       "id": "52b239de0b1395889851",
@@ -1161,26 +1181,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg",
       "published_at": "2026-10-30T16:53:49Z",
       "category": "AI"
-    },
-    {
-      "id": "89f40a129e1ad1ba1573",
-      "source": "ars",
-      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
-      "summary": "There's no evidence that Starship will launch traditional satellites, either.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg",
-      "published_at": "2026-10-30T16:12:59Z",
-      "category": "Space"
-    },
-    {
-      "id": "852236cb85e5f987ddfb",
-      "source": "ars",
-      "title": "GM to pay $220 million after selling customer Smart Driver data",
-      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-      "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg",
-      "published_at": "2026-10-30T13:53:20Z",
-      "category": "Cars"
     },
     {
       "id": "04a3c7909a947379543d",

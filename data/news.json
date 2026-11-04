@@ -1,37 +1,287 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T08:02:32Z",
+  "updated_at": "2026-11-04T16:20:26Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T08:02:31Z",
+      "last_success_at": "2026-11-04T16:20:25Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T08:02:32Z",
+      "last_success_at": "2026-11-04T16:20:25Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 36,
-      "last_success_at": "2026-11-04T08:02:32Z",
+      "count": 31,
+      "last_success_at": "2026-11-04T16:20:26Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T08:02:32Z",
+      "last_success_at": "2026-11-04T16:20:26Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "fadc1685b8e80f605171",
+      "source": "verge",
+      "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+      "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+      "summary": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier…",
+      "image": "",
+      "published_at": "2026-11-04T16:10:05Z",
+      "category": "Apps"
+    },
+    {
+      "id": "867509b3859370da7e75",
+      "source": "wired",
+      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+      "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+      "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
+      "image": "https://media.wired.com/photos/6ae8ece0dbe70363e491398f/master/pass/110226-elon-musk-midterm-races.jpg",
+      "published_at": "2026-11-04T16:06:12Z",
+      "category": "Politics"
+    },
+    {
+      "id": "1709c56d4c9b2e8dc197",
+      "source": "ars",
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
+      "published_at": "2026-11-04T16:06:03Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "bb7835f4c56810ccf5da",
+      "source": "verge",
+      "title": "Data centers lost the midterms",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their…",
+      "image": "",
+      "published_at": "2026-11-04T16:05:39Z",
+      "category": "AI"
+    },
+    {
+      "id": "b8acf660addf5d438afb",
+      "source": "verge",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The…",
+      "image": "",
+      "published_at": "2026-11-04T15:58:45Z",
+      "category": "AI"
+    },
+    {
+      "id": "0dfb5d28a21182737e05",
+      "source": "verge",
+      "title": "My favorite 25W wireless power bank is down to $35",
+      "url": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
+      "summary": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top…",
+      "image": "",
+      "published_at": "2026-11-04T15:57:55Z",
+      "category": "Deals"
+    },
+    {
+      "id": "889b63664088bb56f258",
+      "source": "ars",
+      "title": "What I learned driving the Slate electric truck prototype",
+      "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+      "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg",
+      "published_at": "2026-11-04T15:42:18Z",
+      "category": "Cars"
+    },
+    {
+      "id": "ba8ab3790d462765955f",
+      "source": "verge",
+      "title": "Not even $200 million could help Elon Musk buy Texas",
+      "url": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
+      "summary": "James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was spent on…",
+      "image": "",
+      "published_at": "2026-11-04T15:33:59Z",
+      "category": "Analysis"
+    },
+    {
+      "id": "1d26028e4b8496e0fb0c",
+      "source": "wired",
+      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
+      "url": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
+      "summary": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
+      "image": "https://media.wired.com/photos/6aea37fa21be717333c5244d/master/pass/110326-midterms-election-deniers.jpg",
+      "published_at": "2026-11-04T15:30:18Z",
+      "category": "Politics"
+    },
+    {
+      "id": "56fffb73237a644fa849",
+      "source": "verge",
+      "title": "Bluetooth is getting a big boost to data transfer speeds",
+      "url": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
+      "summary": "The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgrade the…",
+      "image": "",
+      "published_at": "2026-11-04T15:19:54Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "f3b6b971d758eff7886d",
+      "source": "ars",
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+      "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg",
+      "published_at": "2026-11-04T15:08:48Z",
+      "category": "Health"
+    },
+    {
+      "id": "74494824a9105455096a",
+      "source": "verge",
+      "title": "The fight for tech accountability starts now",
+      "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+      "summary": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his…",
+      "image": "",
+      "published_at": "2026-11-04T15:02:25Z",
+      "category": "Analysis"
+    },
+    {
+      "id": "1d6a7ba5095fca8231b6",
+      "source": "verge",
+      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have…",
+      "image": "",
+      "published_at": "2026-11-04T14:46:01Z",
+      "category": "AI"
+    },
+    {
+      "id": "19f00cb8886eccf2062d",
+      "source": "verge",
+      "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+      "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+      "summary": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to \"tens of thousands\" of 5G cell sites across the US…",
+      "image": "",
+      "published_at": "2026-11-04T14:38:20Z",
+      "category": "Mobile"
+    },
+    {
+      "id": "efa96e34aa1234e31c6f",
+      "source": "wired",
+      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
+      "image": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg",
+      "published_at": "2026-11-04T14:15:21Z",
+      "category": "Culture"
+    },
+    {
+      "id": "997cfd28609ec66dffe1",
+      "source": "verge",
+      "title": "Does opting out of TV tracking work?",
+      "url": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
+      "summary": "The fact our TVs are gathering our information isn't new, but what and how they're tracking - and if we can stop it - is hard to figure out. Researchers at Northeastern University monitored 12 TVs from 10…",
+      "image": "",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "049173b849c85fe0c520",
+      "source": "wired",
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption",
+      "image": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg",
+      "published_at": "2026-11-04T13:49:51Z",
+      "category": "Business"
+    },
+    {
+      "id": "f9d465c905d8da0d541b",
+      "source": "wired",
+      "title": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
+      "url": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
+      "summary": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
+      "image": "https://media.wired.com/photos/6ae50a5c21bfda08f54b3e88/master/pass/GettyImages-2266022222.jpg",
+      "published_at": "2026-11-04T13:48:28Z",
+      "category": "Politics"
+    },
+    {
+      "id": "7ad180b24a8165af43b8",
+      "source": "mit",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the…",
+      "image": "",
+      "published_at": "2026-11-04T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "f1c694393a98b7d5b877",
+      "source": "mit",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to…",
+      "image": "",
+      "published_at": "2026-11-04T13:00:00Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "5a94a4ccf9903ed55bab",
+      "source": "wired",
+      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+      "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+      "summary": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.",
+      "image": "https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-04T11:36:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3b9b3a613955b42a659c",
+      "source": "wired",
+      "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
+      "url": "https://www.wired.com/story/best-wireless-earbuds/",
+      "summary": "I tested over a hundred options—my top picks from Apple, Bose, and Beats stood out from the rest.",
+      "image": "https://media.wired.com/photos/6aea036065269e4ac1456c7d/master/pass/Wireless%20earbuds%20update%20Nov%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-04T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f3dfb78161a796ecc17e",
+      "source": "wired",
+      "title": "What’s the Difference Between an Ebike and an E-Moto?",
+      "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
+      "summary": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.",
+      "image": "https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg",
+      "published_at": "2026-11-04T10:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "385dfbf6753cf2c958a0",
+      "source": "wired",
+      "title": "New Jersey’s New Ebike Law Is Causing Chaos",
+      "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+      "summary": "Since early 2026, the law has required electric bike owners to get licenses—and in some cases, insurance—to ride. It has left many stranded and confused.",
+      "image": "https://media.wired.com/photos/6ae4e94d4bc4fc3930909772/master/pass/Gear_New%20Jersey%E2%80%99s%20New%20Ebike%20Law%20Is%20Causing%20Confusion%20and%20Chaos.jpg",
+      "published_at": "2026-11-04T10:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ab2c0864088ebe7afe90",
+      "source": "wired",
+      "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
+      "url": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+      "summary": "A new study found evidence of natural selection in the dogs of Chernobyl, but it’s still unclear what drove these genetic differences and what evolutionary advantages they may provide.",
+      "image": "https://media.wired.com/photos/6ae8fedf93d0a10b8d7f1f42/master/pass/492210506",
+      "published_at": "2026-11-04T10:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "62dbba02251e08ab8e30",
       "source": "wired",
@@ -613,16 +863,6 @@
       "category": "Apple"
     },
     {
-      "id": "1281ab90e5f7f3a631c1",
-      "source": "verge",
-      "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
-      "url": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
-      "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this…",
-      "image": "",
-      "published_at": "2026-11-03T14:00:00Z",
-      "category": "Adobe"
-    },
-    {
       "id": "49bf735393c8738d4d68",
       "source": "wired",
       "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
@@ -633,16 +873,6 @@
       "category": "Gear"
     },
     {
-      "id": "ee2208687cce3de20a00",
-      "source": "verge",
-      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
-      "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
-      "summary": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced…",
-      "image": "",
-      "published_at": "2026-11-03T13:22:38Z",
-      "category": "Apple"
-    },
-    {
       "id": "95dea697598324707880",
       "source": "mit",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
@@ -651,26 +881,6 @@
       "image": "",
       "published_at": "2026-11-03T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "f77eda6696c81c35c548",
-      "source": "verge",
-      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
-      "url": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
-      "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do…",
-      "image": "",
-      "published_at": "2026-11-03T12:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "e910c51cc67a558ab019",
-      "source": "verge",
-      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
-      "url": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
-      "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics…",
-      "image": "",
-      "published_at": "2026-11-03T12:00:00Z",
-      "category": "Autonomous Cars"
     },
     {
       "id": "39a00861fb58025249d2",
@@ -733,106 +943,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "3923ae4fcfe810cd18a0",
-      "source": "wired",
-      "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
-      "url": "https://www.wired.com/story/best-white-noise-machines/",
-      "summary": "Catch more z’s with soothing background noise from our favorite sound machines.",
-      "image": "https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-03T10:35:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ddc255ac4cee363344f6",
-      "source": "wired",
-      "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
-      "url": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
-      "summary": "The 4.1-billion-year-old meteorite is a “Rosetta Stone for Mars,” preserving clues about how the Martian environment has changed since the solar system formed.",
-      "image": "https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/master/pass/505137454",
-      "published_at": "2026-11-03T10:15:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "647323c7605ee4df76fb",
-      "source": "wired",
-      "title": "Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It",
-      "url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/",
-      "summary": "On Reddit and Discord, people addicted to opioids say SR-17018 can remove withdrawal symptoms. Despite its potential, the DEA has placed it in the same category as heroin.",
-      "image": "https://media.wired.com/photos/6ae8f97d779df3a2b1d25e49/master/pass/Culture_Opioid%20Users%20Found%20a%20%E2%80%98Miracle%20Drug%E2%80%99%20To%20Help%20Them%20Quit.%20Then%20the%20DEA%20Banned%20It_v1.jpg",
-      "published_at": "2026-11-03T10:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "195a3ff89573b33c6ef5",
-      "source": "wired",
-      "title": "Uber Eats Promo Codes: $15 Off│November 2026",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ee62ca3cc42d97979aa6",
-      "source": "wired",
-      "title": "Hotels.com Coupon Codes for November 2026",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1a2d02470ad0f74408f5",
-      "source": "wired",
-      "title": "20% Off Brooks Promo Code | November 2026",
-      "url": "https://www.wired.com/story/brooks-promo-code/",
-      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4b426cf7a03849354e86",
-      "source": "wired",
-      "title": "Chewy Promo Codes: $20 Off November 2026",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f567793312fcf248c3b0",
-      "source": "wired",
-      "title": "Dell Coupon Codes: 20% Off for November 2026",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b85c67f0c41fcf2beee1",
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | November 2026",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a955aeeaf7b6e6f17608",
-      "source": "wired",
-      "title": "AT&T Promo Codes: $50 Off This November 2026",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-11-03T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "3170ed2d247a44a85d3b",
       "source": "mit",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -853,16 +963,6 @@
       "category": "Space"
     },
     {
-      "id": "74ee5065fdb46f76f3e5",
-      "source": "verge",
-      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly…",
-      "image": "",
-      "published_at": "2026-11-02T22:56:11Z",
-      "category": "Apple"
-    },
-    {
       "id": "c422972dd9ffb669deb5",
       "source": "ars",
       "title": "Why large dogs age faster than small ones, and other October research highlights",
@@ -871,16 +971,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg",
       "published_at": "2026-11-02T22:54:35Z",
       "category": "Science"
-    },
-    {
-      "id": "7a360675730da84ed8b9",
-      "source": "verge",
-      "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion…",
-      "image": "",
-      "published_at": "2026-11-02T22:02:36Z",
-      "category": "Apple"
     },
     {
       "id": "7ccfa4087c36f4503c6c",
@@ -893,36 +983,6 @@
       "category": "Health"
     },
     {
-      "id": "0de581da9742695fdb23",
-      "source": "verge",
-      "title": "Meta will end Quest 2 OS updates in 2027",
-      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta…",
-      "image": "",
-      "published_at": "2026-11-02T21:04:20Z",
-      "category": "Meta"
-    },
-    {
-      "id": "a8cb449db3ac1847ec8c",
-      "source": "verge",
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the…",
-      "image": "",
-      "published_at": "2026-11-02T20:37:49Z",
-      "category": "Google"
-    },
-    {
-      "id": "061bcda22ca7278173b2",
-      "source": "verge",
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can…",
-      "image": "",
-      "published_at": "2026-11-02T20:03:52Z",
-      "category": "Autonomous Cars"
-    },
-    {
       "id": "4a7e763ccfe54ef989f7",
       "source": "ars",
       "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
@@ -931,16 +991,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
       "published_at": "2026-11-02T19:52:23Z",
       "category": "Gaming"
-    },
-    {
-      "id": "c4683ace99f93e2fbb6b",
-      "source": "verge",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on…",
-      "image": "",
-      "published_at": "2026-11-02T19:24:09Z",
-      "category": "Deals"
     },
     {
       "id": "417312494108578d29d0",
@@ -1150,36 +1200,6 @@
       "summary": "But it's still early days for the relatively new e-commerce use case.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
       "published_at": "2026-10-30T19:30:52Z",
-      "category": "AI"
-    },
-    {
-      "id": "70e22394b0b78c2c90d1",
-      "source": "ars",
-      "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-      "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg",
-      "published_at": "2026-10-30T18:13:42Z",
-      "category": "Science"
-    },
-    {
-      "id": "6972453959d8c9c8dc79",
-      "source": "ars",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "summary": "Low costs and offline security mean magnetic tape still has a job.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg",
-      "published_at": "2026-10-30T17:38:19Z",
-      "category": "AI"
-    },
-    {
-      "id": "8685c720c0fc1bf2c068",
-      "source": "ars",
-      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg",
-      "published_at": "2026-10-30T16:53:49Z",
       "category": "AI"
     },
     {
@@ -1401,76 +1421,6 @@
       "image": "",
       "published_at": "2026-10-22T08:41:18Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "639c79b6b203efb18594",
-      "source": "mit",
-      "title": "The Download: introducing the Impossible issue",
-      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026…",
-      "image": "",
-      "published_at": "2026-10-21T12:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "ea9842a86133ea721d45",
-      "source": "mit",
-      "title": "We can do impossible things",
-      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "849357e115380585b32f",
-      "source": "mit",
-      "title": "Nuclear-powered spaceships",
-      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Space"
-    },
-    {
-      "id": "dae01e7e532f8cc813fa",
-      "source": "mit",
-      "title": "Exercise in a pill",
-      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Biotechnology and health"
-    },
-    {
-      "id": "a31b418a77cf79b07a43",
-      "source": "mit",
-      "title": "Interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "2fd13aaefe727c23992b",
-      "source": "mit",
-      "title": "Cleaning up PFAS",
-      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Climate change and energy"
-    },
-    {
-      "id": "00e264be6dfe12013f50",
-      "source": "mit",
-      "title": "Solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane…",
-      "image": "",
-      "published_at": "2026-10-21T09:00:00Z",
-      "category": "Climate change and energy"
     }
   ]
 }

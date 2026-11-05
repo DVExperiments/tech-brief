@@ -1,37 +1,97 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T22:14:57Z",
+  "updated_at": "2026-11-05T02:31:59Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T22:14:57Z",
+      "last_success_at": "2026-11-05T02:31:59Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T22:14:57Z",
+      "last_success_at": "2026-11-05T02:31:59Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 34,
-      "last_success_at": "2026-11-04T22:14:57Z",
+      "last_success_at": "2026-11-05T02:31:59Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-04T22:14:57Z",
+      "last_success_at": "2026-11-05T02:31:59Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "13dc45f41ccfc64dcf94",
+      "source": "verge",
+      "title": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow…",
+      "image": "",
+      "published_at": "2026-11-05T00:25:12Z",
+      "category": "News"
+    },
+    {
+      "id": "cb44dc30a12ef9624b87",
+      "source": "wired",
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "image": "https://media.wired.com/photos/6aeb63c850bcf3a7a3f979b5/master/pass/Business_TechBrosCrying.gif",
+      "published_at": "2026-11-04T23:13:14Z",
+      "category": "Business"
+    },
+    {
+      "id": "944aad6d3fe24844217d",
+      "source": "ars",
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "summary": "And what that could mean for physical Switch game costs.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
+      "published_at": "2026-11-04T22:47:51Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "c5e0cc8062c201c33f96",
+      "source": "verge",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a…",
+      "image": "",
+      "published_at": "2026-11-04T22:42:15Z",
+      "category": "AI"
+    },
+    {
+      "id": "8341b0e5a0bb2c8e5a9c",
+      "source": "ars",
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
+      "published_at": "2026-11-04T22:26:49Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "75e55b3e89294b55f5a0",
+      "source": "ars",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
+      "published_at": "2026-11-04T21:56:29Z",
+      "category": "Science"
+    },
     {
       "id": "a6b8491553cce31ab0e4",
       "source": "verge",
@@ -483,6 +543,16 @@
       "category": "Culture"
     },
     {
+      "id": "ca8c5c11ea8de817e01a",
+      "source": "wired",
+      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/",
+      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
+      "image": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg",
+      "published_at": "2026-11-04T14:15:21Z",
+      "category": "Culture"
+    },
+    {
       "id": "997cfd28609ec66dffe1",
       "source": "verge",
       "title": "Does opting out of TV tracking work?",
@@ -763,16 +833,6 @@
       "category": "Creators"
     },
     {
-      "id": "3262712f87e3d8e51db4",
-      "source": "wired",
-      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
-      "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
-      "summary": "Laptop prices keep going up, but this discount on the Lenovo IdeaPad Slim 5x is one of the best deals I’ve seen in months.",
-      "image": "https://media.wired.com/photos/6aea5ab56c2140d939cde5aa/master/pass/Ideapad%20Slim%205x%20deals%20post%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-03T22:44:01Z",
-      "category": "Gear"
-    },
-    {
       "id": "5d9026e72cd42d57cfe8",
       "source": "ars",
       "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
@@ -811,16 +871,6 @@
       "image": "",
       "published_at": "2026-11-03T22:04:02Z",
       "category": "Crypto"
-    },
-    {
-      "id": "9515b20c59e27b094a58",
-      "source": "wired",
-      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
-      "url": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
-      "summary": "T-Mobile, AT&T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.",
-      "image": "https://media.wired.com/photos/6aea4b96e416db7de4d0d053/master/pass/iPhone%20Duo%20Deal%20112026%20top%20art%20SOURCE%20Apple.jpg",
-      "published_at": "2026-11-03T21:25:25Z",
-      "category": "Gear"
     },
     {
       "id": "10d18f34fbc9ae00f4e0",
@@ -891,26 +941,6 @@
       "image": "",
       "published_at": "2026-11-03T19:48:41Z",
       "category": "Gadgets"
-    },
-    {
-      "id": "9701aed0ec16ef32cb2c",
-      "source": "verge",
-      "title": "This Election Day, remember which party ran against EVs and tethered us all to the gas pump",
-      "url": "https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms",
-      "summary": "It's the midterms! Here's a fun fact for you as you head to the polls: Gas prices today are the highest ever recorded for a US Election Day. The national average for a gallon of gasoline is $4.12 and $6.28 for a…",
-      "image": "",
-      "published_at": "2026-11-03T19:44:46Z",
-      "category": "Electric Cars"
-    },
-    {
-      "id": "c84b44a0fc85476c76c9",
-      "source": "verge",
-      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses…",
-      "image": "",
-      "published_at": "2026-11-03T18:31:00Z",
-      "category": "AI"
     },
     {
       "id": "fce0775fdb07b610654b",
@@ -1201,36 +1231,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
       "published_at": "2026-10-31T11:15:26Z",
       "category": "Science"
-    },
-    {
-      "id": "a829a36aafe5b4957bed",
-      "source": "ars",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
-      "published_at": "2026-10-31T11:02:34Z",
-      "category": "Science"
-    },
-    {
-      "id": "a5c87a3d8dc72e774037",
-      "source": "ars",
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-      "published_at": "2026-10-31T00:07:22Z",
-      "category": "Space"
-    },
-    {
-      "id": "31894a82e7532114b6db",
-      "source": "ars",
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-      "published_at": "2026-10-30T22:36:41Z",
-      "category": "Health"
     },
     {
       "id": "04a3c7909a947379543d",

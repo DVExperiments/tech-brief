@@ -1,37 +1,327 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T09:51:15Z",
+  "updated_at": "2026-11-05T18:02:01Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T09:51:15Z",
+      "last_success_at": "2026-11-05T18:02:01Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T09:51:15Z",
+      "last_success_at": "2026-11-05T18:02:01Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 33,
-      "last_success_at": "2026-11-05T09:51:15Z",
+      "count": 32,
+      "last_success_at": "2026-11-05T18:02:01Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T09:51:15Z",
+      "last_success_at": "2026-11-05T18:02:01Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "bce6364a12f73a23f619",
+      "source": "verge",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in…",
+      "image": "",
+      "published_at": "2026-11-05T17:51:52Z",
+      "category": "AI"
+    },
+    {
+      "id": "4b8db346fc04794fba4e",
+      "source": "verge",
+      "title": "Ember’s smallest self-heating mug is on sale for just $33",
+      "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+      "summary": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you’ve been looking for a more affordable option…",
+      "image": "",
+      "published_at": "2026-11-05T17:34:23Z",
+      "category": "Deals"
+    },
+    {
+      "id": "fc06f3156bb6f9ab3693",
+      "source": "verge",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks…",
+      "image": "",
+      "published_at": "2026-11-05T17:27:36Z",
+      "category": "Apps"
+    },
+    {
+      "id": "4701ff36d276916b3757",
+      "source": "verge",
+      "title": "Nintendo says it’s not planning another Switch 2 price hike",
+      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+      "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier…",
+      "image": "",
+      "published_at": "2026-11-05T17:24:39Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "7574a3f3d7d26abed6e0",
+      "source": "verge",
+      "title": "The FAA is finally ditching floppy disks",
+      "url": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
+      "summary": "It's the year 2026 and the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks. But those technology artifacts could be headed for the dustbin…",
+      "image": "",
+      "published_at": "2026-11-05T17:13:42Z",
+      "category": "Aviation"
+    },
+    {
+      "id": "bc3808bc3a827ee4aa9b",
+      "source": "verge",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a…",
+      "image": "",
+      "published_at": "2026-11-05T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "7ec9281354b2b62c2530",
+      "source": "verge",
+      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
+      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+      "summary": "Microsoft is unveiling a new Xbox PC app that launches \"up to 60 percent faster\" than before, with an overhauled design to match new updates to Xbox Cloud Gaming on the web and smart TVs. Xbox Insiders will be able…",
+      "image": "",
+      "published_at": "2026-11-05T17:00:00Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "723ba59b0037a12936ab",
+      "source": "verge",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says…",
+      "image": "",
+      "published_at": "2026-11-05T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "dbe42822074bd1a7c3ee",
+      "source": "verge",
+      "title": "Where is Windows 12?",
+      "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
+      "summary": "While I wasn't expecting Microsoft to announce Windows 12 during its RTX Spark launch event last month, more than a few people were hoping to see something truly new. Between the growing frustration with Windows 11…",
+      "image": "",
+      "published_at": "2026-11-05T17:00:00Z",
+      "category": "Microsoft"
+    },
+    {
+      "id": "91db3f749982148e2f69",
+      "source": "wired",
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+      "image": "https://media.wired.com/photos/6aeb6340d999be8b2afde39b/master/pass/WWF-Placeholder-Alexis-Ohanian.jpg",
+      "published_at": "2026-11-05T16:26:57Z",
+      "category": "Business"
+    },
+    {
+      "id": "5b42ca0570e2df9cc1e5",
+      "source": "verge",
+      "title": "Sony’s retro headphones brought me back to my childhood in the best way",
+      "url": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
+      "summary": "Many of my childhood summer afternoons were spent riding around my hometown on my Huffy bike or, in later years, taking the bus into Harvard Square to walk around and hang out at The Garage. My Sony Walkman was…",
+      "image": "",
+      "published_at": "2026-11-05T16:00:00Z",
+      "category": "Headphone Reviews"
+    },
+    {
+      "id": "4055d5e322632edeffd4",
+      "source": "wired",
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
+      "image": "https://media.wired.com/photos/6aeb61753ab4125d7da22781/master/pass/WWF-Placeholder-Ben-Collins.jpg",
+      "published_at": "2026-11-05T15:38:07Z",
+      "category": "Culture"
+    },
+    {
+      "id": "e787acd618adf002d15e",
+      "source": "wired",
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
+      "published_at": "2026-11-05T14:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0f45aa7ab195ab68dcf9",
+      "source": "wired",
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+      "image": "https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg",
+      "published_at": "2026-11-05T14:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8c94fb253f71f6f6d463",
+      "source": "mit",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be…",
+      "image": "",
+      "published_at": "2026-11-05T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "758d52ca86969bb6fab9",
+      "source": "ars",
+      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+      "summary": "It has all the bells and whistles (and cameras).",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg",
+      "published_at": "2026-11-05T13:00:56Z",
+      "category": "Tech"
+    },
+    {
+      "id": "55c5671dc6e2a2e1a2e6",
+      "source": "wired",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "image": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
+      "published_at": "2026-11-05T13:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "f7c3b6090a0246b920ba",
+      "source": "wired",
+      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+      "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+      "summary": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
+      "image": "https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg",
+      "published_at": "2026-11-05T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c582119d1d69ffed5503",
+      "source": "ars",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
+      "published_at": "2026-11-05T12:00:41Z",
+      "category": "AI"
+    },
+    {
+      "id": "fc93f8e2589de783c088",
+      "source": "ars",
+      "title": "2026 iPad mini review: Maximizing the mini",
+      "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+      "summary": "It's more compelling than ever, but also more expensive.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg",
+      "published_at": "2026-11-05T12:00:01Z",
+      "category": "Apple"
+    },
+    {
+      "id": "123aaa2fba41e9234a03",
+      "source": "wired",
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "image": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
+      "published_at": "2026-11-05T12:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "e2a1d67f7e34f08782c4",
+      "source": "wired",
+      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "image": "https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg",
+      "published_at": "2026-11-05T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d371f8fd356de7278acd",
+      "source": "wired",
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "image": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
+      "published_at": "2026-11-05T11:45:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "ad9778816c53bed89107",
+      "source": "wired",
+      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+      "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+      "summary": "Nintendo has prepped its classic game for a rerelease with a slew of aesthetic upgrades—none more extreme than the protagonist’s curled-eyelash, glossed-lip glow-up.",
+      "image": "https://media.wired.com/photos/6aea2201d4fbda5167120fc6/master/pass/SM_NS2_TheLegendofZeldaOcarinaofTime_scrn_15.jpg",
+      "published_at": "2026-11-05T11:30:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "a60d315664e16e4ea7cb",
+      "source": "wired",
+      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+      "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+      "summary": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
+      "image": "https://media.wired.com/photos/6aeb99b5fd4267963caa47b0/master/pass/2182148343",
+      "published_at": "2026-11-05T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "0b8d7c01f8829aa1c9fa",
+      "source": "wired",
+      "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+      "url": "https://www.wired.com/story/best-smart-ring/",
+      "summary": "Turns out, your finger is prime real estate for health tracking. Here are the smart rings that impressed me the most.",
+      "image": "https://media.wired.com/photos/6aea0aa67e8b0dd825e7acc4/master/pass/Relaunch%20Best%20Smart%20Ring%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-05T10:09:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9b9b61d01421e44c28ac",
+      "source": "wired",
+      "title": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
+      "url": "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/",
+      "summary": "Israeli strikes on construction equipment and water infrastructure in South Lebanon have blocked recovery efforts, keeping displaced families away from their homes.",
+      "image": "https://media.wired.com/photos/6aea74119ac1e5208715af4b/master/pass/Lebanon_lead.jpg",
+      "published_at": "2026-11-05T10:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "71bd87393cd7bf4cd711",
+      "source": "mit",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on…",
+      "image": "",
+      "published_at": "2026-11-05T10:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "0735695105796e8dff00",
+      "source": "ars",
+      "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+      "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg",
+      "published_at": "2026-11-05T09:00:13Z",
+      "category": "Cars"
+    },
     {
       "id": "8dfb30c6107bed7ec0bf",
       "source": "wired",
@@ -513,26 +803,6 @@
       "category": "Climate change and energy"
     },
     {
-      "id": "aa0a3c2779a0441e6d80",
-      "source": "wired",
-      "title": "The Results Are In: Voters Hate Data Centers",
-      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
-      "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
-      "image": "https://media.wired.com/photos/6aea38de5f9acfda4c7c80b9/master/pass/110326-midterms-data-centres-ballot.jpg",
-      "published_at": "2026-11-04T16:56:17Z",
-      "category": "Politics"
-    },
-    {
-      "id": "693dd082aea0ab14ee38",
-      "source": "wired",
-      "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
-      "summary": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
-      "image": "https://media.wired.com/photos/6aeb5f0ab57e802a8d80379d/master/pass/WWF-Ben-Lamm-3.jpg",
-      "published_at": "2026-11-04T16:43:35Z",
-      "category": "Science"
-    },
-    {
       "id": "fadc1685b8e80f605171",
       "source": "verge",
       "title": "Rian Johnson explains why he had to build his own iPhone camera app",
@@ -541,16 +811,6 @@
       "image": "",
       "published_at": "2026-11-04T16:10:05Z",
       "category": "Apps"
-    },
-    {
-      "id": "867509b3859370da7e75",
-      "source": "wired",
-      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
-      "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
-      "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
-      "image": "https://media.wired.com/photos/6ae8ece0dbe70363e491398f/master/pass/110226-elon-musk-midterm-races.jpg",
-      "published_at": "2026-11-04T16:06:12Z",
-      "category": "Politics"
     },
     {
       "id": "1709c56d4c9b2e8dc197",
@@ -613,16 +873,6 @@
       "category": "Analysis"
     },
     {
-      "id": "1d26028e4b8496e0fb0c",
-      "source": "wired",
-      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
-      "url": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
-      "summary": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
-      "image": "https://media.wired.com/photos/6aea37fa21be717333c5244d/master/pass/110326-midterms-election-deniers.jpg",
-      "published_at": "2026-11-04T15:30:18Z",
-      "category": "Politics"
-    },
-    {
       "id": "56fffb73237a644fa849",
       "source": "verge",
       "title": "Bluetooth is getting a big boost to data transfer speeds",
@@ -673,26 +923,6 @@
       "category": "Mobile"
     },
     {
-      "id": "efa96e34aa1234e31c6f",
-      "source": "wired",
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
-      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
-      "image": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg",
-      "published_at": "2026-11-04T14:15:21Z",
-      "category": "Culture"
-    },
-    {
-      "id": "ca8c5c11ea8de817e01a",
-      "source": "wired",
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/",
-      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
-      "image": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg",
-      "published_at": "2026-11-04T14:15:21Z",
-      "category": "Culture"
-    },
-    {
       "id": "997cfd28609ec66dffe1",
       "source": "verge",
       "title": "Does opting out of TV tracking work?",
@@ -701,26 +931,6 @@
       "image": "",
       "published_at": "2026-11-04T14:00:00Z",
       "category": "Gadgets"
-    },
-    {
-      "id": "049173b849c85fe0c520",
-      "source": "wired",
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "image": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg",
-      "published_at": "2026-11-04T13:49:51Z",
-      "category": "Business"
-    },
-    {
-      "id": "f9d465c905d8da0d541b",
-      "source": "wired",
-      "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
-      "url": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
-      "summary": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
-      "image": "https://media.wired.com/photos/6ae50a5c21bfda08f54b3e88/master/pass/GettyImages-2266022222.jpg",
-      "published_at": "2026-11-04T13:48:28Z",
-      "category": "Politics"
     },
     {
       "id": "7ad180b24a8165af43b8",
@@ -741,56 +951,6 @@
       "image": "",
       "published_at": "2026-11-04T13:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "5a94a4ccf9903ed55bab",
-      "source": "wired",
-      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
-      "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
-      "summary": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.",
-      "image": "https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-04T11:36:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3b9b3a613955b42a659c",
-      "source": "wired",
-      "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
-      "url": "https://www.wired.com/story/best-wireless-earbuds/",
-      "summary": "I tested over a hundred options—my top picks from Apple, Bose, and Beats stood out from the rest.",
-      "image": "https://media.wired.com/photos/6aea036065269e4ac1456c7d/master/pass/Wireless%20earbuds%20update%20Nov%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-04T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f3dfb78161a796ecc17e",
-      "source": "wired",
-      "title": "What’s the Difference Between an Ebike and an E-Moto?",
-      "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
-      "summary": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.",
-      "image": "https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg",
-      "published_at": "2026-11-04T10:45:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "385dfbf6753cf2c958a0",
-      "source": "wired",
-      "title": "New Jersey’s New Ebike Law Is Causing Chaos",
-      "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
-      "summary": "Since early 2026, the law has required electric bike owners to get licenses—and in some cases, insurance—to ride. It has left many stranded and confused.",
-      "image": "https://media.wired.com/photos/6ae4e94d4bc4fc3930909772/master/pass/Gear_New%20Jersey%E2%80%99s%20New%20Ebike%20Law%20Is%20Causing%20Confusion%20and%20Chaos.jpg",
-      "published_at": "2026-11-04T10:45:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ab2c0864088ebe7afe90",
-      "source": "wired",
-      "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
-      "url": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
-      "summary": "A new study found evidence of natural selection in the dogs of Chernobyl, but it’s still unclear what drove these genetic differences and what evolutionary advantages they may provide.",
-      "image": "https://media.wired.com/photos/6ae8fedf93d0a10b8d7f1f42/master/pass/492210506",
-      "published_at": "2026-11-04T10:00:00Z",
-      "category": "Science"
     },
     {
       "id": "d5dbf01beddc13a1322c",
@@ -823,26 +983,6 @@
       "category": "AI"
     },
     {
-      "id": "bccefcfae2b02ea95d1b",
-      "source": "verge",
-      "title": "Please stop asking me when the AI bubble will pop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on…",
-      "image": "",
-      "published_at": "2026-11-03T23:37:45Z",
-      "category": "AI"
-    },
-    {
-      "id": "8979571e5f014da2fcbb",
-      "source": "verge",
-      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being…",
-      "image": "",
-      "published_at": "2026-11-03T22:59:36Z",
-      "category": "Creators"
-    },
-    {
       "id": "5d9026e72cd42d57cfe8",
       "source": "ars",
       "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
@@ -853,56 +993,6 @@
       "category": "Policy"
     },
     {
-      "id": "20b99dec398f42246fe1",
-      "source": "verge",
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly…",
-      "image": "",
-      "published_at": "2026-11-03T22:20:50Z",
-      "category": "Apps"
-    },
-    {
-      "id": "6ebf5ef8a0ec8faa97ac",
-      "source": "verge",
-      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-      "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\"…",
-      "image": "",
-      "published_at": "2026-11-03T22:15:33Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "8e5e5ef61d0f542712b4",
-      "source": "verge",
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June…",
-      "image": "",
-      "published_at": "2026-11-03T22:04:02Z",
-      "category": "Crypto"
-    },
-    {
-      "id": "10d18f34fbc9ae00f4e0",
-      "source": "verge",
-      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-      "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features…",
-      "image": "",
-      "published_at": "2026-11-03T21:21:04Z",
-      "category": "Apple"
-    },
-    {
-      "id": "cf7e9e541adea6af0d32",
-      "source": "verge",
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two…",
-      "image": "",
-      "published_at": "2026-11-03T21:01:07Z",
-      "category": "AI"
-    },
-    {
       "id": "b02d2b44c06bbfc8aac0",
       "source": "ars",
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
@@ -910,36 +1000,6 @@
       "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg",
       "published_at": "2026-11-03T20:39:55Z",
-      "category": "AI"
-    },
-    {
-      "id": "c7cb57796a74add1048a",
-      "source": "verge",
-      "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
-      "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the…",
-      "image": "",
-      "published_at": "2026-11-03T20:29:26Z",
-      "category": "Deals"
-    },
-    {
-      "id": "ddbb3f44898f6a427919",
-      "source": "verge",
-      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
-      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
-      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the…",
-      "image": "",
-      "published_at": "2026-11-03T20:16:54Z",
-      "category": "Apple"
-    },
-    {
-      "id": "212b1999688b45c8f227",
-      "source": "verge",
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing…",
-      "image": "",
-      "published_at": "2026-11-03T20:16:17Z",
       "category": "AI"
     },
     {
@@ -1163,26 +1223,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "515a15d363aef77391cf",
-      "source": "ars",
-      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg",
-      "published_at": "2026-11-02T15:57:24Z",
-      "category": "Cars"
-    },
-    {
-      "id": "984dcac6d2fb5fdf7c41",
-      "source": "ars",
-      "title": "The world has a new plan to save nature, but it still needs the money",
-      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-      "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg",
-      "published_at": "2026-11-02T14:56:52Z",
-      "category": "Science"
-    },
-    {
       "id": "6ce5e05eabba48f400ea",
       "source": "mit",
       "title": "Stop counting tokens, start counting what ships",
@@ -1203,16 +1243,6 @@
       "category": "The Download"
     },
     {
-      "id": "6fe41e532beac7a11df2",
-      "source": "ars",
-      "title": "This $48 e-paper display can be whatever you want it to be",
-      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
-      "published_at": "2026-11-02T12:00:07Z",
-      "category": "Features"
-    },
-    {
       "id": "52b239de0b1395889851",
       "source": "mit",
       "title": "The agentic web is here",
@@ -1221,16 +1251,6 @@
       "image": "",
       "published_at": "2026-11-02T09:35:19Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "9e8d1e6e78fc2837a5cb",
-      "source": "ars",
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
-      "published_at": "2026-10-31T11:15:26Z",
-      "category": "Science"
     },
     {
       "id": "04a3c7909a947379543d",
@@ -1411,36 +1431,6 @@
       "image": "",
       "published_at": "2026-10-22T18:48:04Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "8216b37b172b934ece60",
-      "source": "mit",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist…",
-      "image": "",
-      "published_at": "2026-10-22T12:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "08b264e9072926c35d3f",
-      "source": "mit",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the…",
-      "image": "",
-      "published_at": "2026-10-22T10:00:00Z",
-      "category": "Artificial intelligence"
-    },
-    {
-      "id": "a5d26374cd82ce7a73d1",
-      "source": "mit",
-      "title": "Three things you should know about permafrost",
-      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it…",
-      "image": "",
-      "published_at": "2026-10-22T10:00:00Z",
-      "category": "Climate change and energy"
     }
   ]
 }

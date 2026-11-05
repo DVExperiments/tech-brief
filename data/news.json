@@ -1,37 +1,257 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T18:02:01Z",
+  "updated_at": "2026-11-05T23:38:50Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T18:02:01Z",
+      "last_success_at": "2026-11-05T23:38:50Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T18:02:01Z",
+      "last_success_at": "2026-11-05T23:38:50Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 32,
-      "last_success_at": "2026-11-05T18:02:01Z",
+      "count": 30,
+      "last_success_at": "2026-11-05T23:38:50Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T18:02:01Z",
+      "last_success_at": "2026-11-05T23:38:50Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "4206ee321cfe49b5b72c",
+      "source": "verge",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the…",
+      "image": "",
+      "published_at": "2026-11-05T23:17:10Z",
+      "category": "Mobile"
+    },
+    {
+      "id": "a8898c3824d568da4649",
+      "source": "wired",
+      "title": "6 Best VPN Services (2026), Tested and Reviewed",
+      "url": "https://www.wired.com/gallery/best-vpn/",
+      "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
+      "image": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png",
+      "published_at": "2026-11-05T23:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d66f369100d6a9b392d4",
+      "source": "wired",
+      "title": "The 7 Best Early Black Friday TV Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
+      "summary": "I found discounts of up to half off some of the top WIRED-tested TVs.",
+      "image": "https://media.wired.com/photos/6aed023aaada98abfcc694d5/master/pass/The-Best-Early-Black-Friday-TV-Deals.jpg",
+      "published_at": "2026-11-05T22:28:43Z",
+      "category": "Gear"
+    },
+    {
+      "id": "44b46bc901a2d6d4d3cb",
+      "source": "verge",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and…",
+      "image": "",
+      "published_at": "2026-11-05T22:26:50Z",
+      "category": "AI"
+    },
+    {
+      "id": "4f80c6684e1029975175",
+      "source": "wired",
+      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
+      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
+      "image": "https://media.wired.com/photos/6ae91976d809b451458cb25a/master/pass/Uncanny-Valley-Midterms-Politics-138711413.jpg",
+      "published_at": "2026-11-05T22:18:42Z",
+      "category": "Politics"
+    },
+    {
+      "id": "149528948ba61fec617a",
+      "source": "verge",
+      "title": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of…",
+      "image": "",
+      "published_at": "2026-11-05T22:08:14Z",
+      "category": "News"
+    },
+    {
+      "id": "bd70e304588ee5511b18",
+      "source": "ars",
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "summary": "Orange ear cushions included.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
+      "published_at": "2026-11-05T21:56:36Z",
+      "category": "Tech"
+    },
+    {
+      "id": "c0738207173e792a1f7b",
+      "source": "verge",
+      "title": "The midterms proved once and for all that X is not real life",
+      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state…",
+      "image": "",
+      "published_at": "2026-11-05T21:55:00Z",
+      "category": "Analysis"
+    },
+    {
+      "id": "7f2d52b2b158b8986954",
+      "source": "ars",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "published_at": "2026-11-05T21:40:36Z",
+      "category": "AI"
+    },
+    {
+      "id": "96d3e3b45ef0bfaedd57",
+      "source": "ars",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
+      "published_at": "2026-11-05T21:39:40Z",
+      "category": "AI"
+    },
+    {
+      "id": "4ddd6ddde40636ec6ebe",
+      "source": "wired",
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "image": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
+      "published_at": "2026-11-05T21:37:18Z",
+      "category": "Business"
+    },
+    {
+      "id": "d24a9fdbc97fc469d887",
+      "source": "verge",
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad…",
+      "image": "",
+      "published_at": "2026-11-05T20:47:14Z",
+      "category": "Blue Origin"
+    },
+    {
+      "id": "beaa84ebf0e8703b1e59",
+      "source": "ars",
+      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+      "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg",
+      "published_at": "2026-11-05T20:45:50Z",
+      "category": "Cars"
+    },
+    {
+      "id": "c2b8df791c7364aac1ac",
+      "source": "wired",
+      "title": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
+      "summary": "Get a head start on holiday shopping with discounts on WIRED-tested headphones, laptops, and TVs.",
+      "image": "https://media.wired.com/photos/6aeccae2d6b6f235d0bba953/master/pass/The-Best-Early-Black-Friday-Tech-Deals-at-Best-Buy.jpg",
+      "published_at": "2026-11-05T20:00:29Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0a7543a677f6b41bfdc4",
+      "source": "ars",
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png",
+      "published_at": "2026-11-05T19:59:22Z",
+      "category": "Science"
+    },
+    {
+      "id": "4b1014d02f509f05d418",
+      "source": "wired",
+      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
+      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+      "summary": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+      "image": "https://media.wired.com/photos/6aeba7714d3eef846d2fda1e/master/pass/110426-elect-more-scientists-midterms.jpg",
+      "published_at": "2026-11-05T19:55:24Z",
+      "category": "Science"
+    },
+    {
+      "id": "62356fa6932cf6241cb9",
+      "source": "ars",
+      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+      "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
+      "published_at": "2026-11-05T19:46:37Z",
+      "category": "Policy"
+    },
+    {
+      "id": "d49f010dacd2195aaa33",
+      "source": "verge",
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the…",
+      "image": "",
+      "published_at": "2026-11-05T19:12:58Z",
+      "category": "Deals"
+    },
+    {
+      "id": "c0c77093f4d2840a79dd",
+      "source": "verge",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this…",
+      "image": "",
+      "published_at": "2026-11-05T19:03:04Z",
+      "category": "AI"
+    },
+    {
+      "id": "0f56fb398a519dc1adc0",
+      "source": "ars",
+      "title": "MAHA lost bigly in the midterms—is it at death's door?",
+      "url": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
+      "summary": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-1024x648.jpg",
+      "published_at": "2026-11-05T18:49:41Z",
+      "category": "Health"
+    },
+    {
+      "id": "3860f1ef704750e54641",
+      "source": "verge",
+      "title": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel…",
+      "image": "",
+      "published_at": "2026-11-05T18:30:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "00307157198bdf65c5f4",
+      "source": "verge",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You…",
+      "image": "",
+      "published_at": "2026-11-05T18:00:00Z",
+      "category": "AI"
+    },
     {
       "id": "bce6364a12f73a23f619",
       "source": "verge",
@@ -41,6 +261,16 @@
       "image": "",
       "published_at": "2026-11-05T17:51:52Z",
       "category": "AI"
+    },
+    {
+      "id": "b329bdcffc2603cd2eb7",
+      "source": "ars",
+      "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+      "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png",
+      "published_at": "2026-11-05T17:40:27Z",
+      "category": "Gaming"
     },
     {
       "id": "4b8db346fc04794fba4e",
@@ -141,6 +371,16 @@
       "image": "",
       "published_at": "2026-11-05T16:00:00Z",
       "category": "Headphone Reviews"
+    },
+    {
+      "id": "18e994bf0d9db91936ee",
+      "source": "ars",
+      "title": "Statehouse wins give Democrats new power to push clean energy",
+      "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+      "summary": "Democrats erased the GOP’s trifecta edge and gained new power over energy policy.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
+      "published_at": "2026-11-05T15:59:51Z",
+      "category": "Science"
     },
     {
       "id": "4055d5e322632edeffd4",
@@ -618,7 +858,7 @@
       "title": "‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover",
       "url": "https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/",
       "summary": "Showrunner Silka Luisa and star Hunter Schafer want their series, Blade Runner 2099, to show the benefits of a post-revolution world.",
-      "image": "https://media.wired.com/photos/6aeb9abcdcebe052cc0d1797/master/pass/WWF-Hunter-Schafer-1.jpg",
+      "image": "https://media.wired.com/photos/6aece2bcf60a69bda5265da3/master/pass/ALTA2223_8phy0Rp0.jpeg",
       "published_at": "2026-11-04T20:24:14Z",
       "category": "Culture"
     },
@@ -631,36 +871,6 @@
       "image": "",
       "published_at": "2026-11-04T20:23:24Z",
       "category": "AI"
-    },
-    {
-      "id": "bbae9a789670e01a92f5",
-      "source": "wired",
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "image": "https://media.wired.com/photos/6aeb7c5b7b2c9d5f35a29177/master/pass/110426-google-search-schools.jpg",
-      "published_at": "2026-11-04T20:06:21Z",
-      "category": "Business"
-    },
-    {
-      "id": "e557c5685208a202591b",
-      "source": "wired",
-      "title": "Knives Are Out in the White House",
-      "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
-      "summary": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republicans’ catastrophic losses.",
-      "image": "https://media.wired.com/photos/6aeb8123ed104370bc61fc5a/master/pass/politics_inner_loop_midterms_takeaways-2.jpg",
-      "published_at": "2026-11-04T19:32:01Z",
-      "category": "Politics"
-    },
-    {
-      "id": "e327ca625caa991378b3",
-      "source": "wired",
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "image": "https://media.wired.com/photos/6aeb930828f7263543de4332/master/pass/WWF-Clement-Delangue-2.jpg",
-      "published_at": "2026-11-04T19:16:25Z",
-      "category": "Business"
     },
     {
       "id": "cf1950e9c89c4172e1a2",
@@ -703,16 +913,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "8f857bd47ee50f29b252",
-      "source": "wired",
-      "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
-      "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
-      "summary": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
-      "image": "https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg",
-      "published_at": "2026-11-04T18:27:19Z",
-      "category": "Gear"
-    },
-    {
       "id": "ac9ec1ad68b29bd0949c",
       "source": "verge",
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
@@ -743,16 +943,6 @@
       "category": "Biotechnology and health"
     },
     {
-      "id": "2f83e0c065b8509bb10f",
-      "source": "wired",
-      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
-      "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
-      "image": "https://media.wired.com/photos/6aeb85db291739b7e29cde23/master/pass/WWF-Mark-Lanier-1.jpg",
-      "published_at": "2026-11-04T18:21:26Z",
-      "category": "Business"
-    },
-    {
       "id": "f32f8f75b6108a6faa13",
       "source": "ars",
       "title": "People say they want small smartphones—the Enough Phone will put that to the test",
@@ -781,16 +971,6 @@
       "image": "",
       "published_at": "2026-11-04T18:00:00Z",
       "category": "AI"
-    },
-    {
-      "id": "8208c854ea0687977b45",
-      "source": "wired",
-      "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
-      "url": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
-      "summary": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
-      "image": "https://media.wired.com/photos/6aea29a12d2498ce2ece47a8/master/pass/Enough%20Phone%20Red%20Background.jpg",
-      "published_at": "2026-11-04T18:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "28a7d896a8cfeb0d7cf4",
@@ -863,26 +1043,6 @@
       "category": "Cars"
     },
     {
-      "id": "ba8ab3790d462765955f",
-      "source": "verge",
-      "title": "Not even $200 million could help Elon Musk buy Texas",
-      "url": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
-      "summary": "James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was spent on…",
-      "image": "",
-      "published_at": "2026-11-04T15:33:59Z",
-      "category": "Analysis"
-    },
-    {
-      "id": "56fffb73237a644fa849",
-      "source": "verge",
-      "title": "Bluetooth is getting a big boost to data transfer speeds",
-      "url": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
-      "summary": "The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgrade the…",
-      "image": "",
-      "published_at": "2026-11-04T15:19:54Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "f3b6b971d758eff7886d",
       "source": "ars",
       "title": "The DEA banned a drug some opioid users called a miracle",
@@ -891,46 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg",
       "published_at": "2026-11-04T15:08:48Z",
       "category": "Health"
-    },
-    {
-      "id": "74494824a9105455096a",
-      "source": "verge",
-      "title": "The fight for tech accountability starts now",
-      "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
-      "summary": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his…",
-      "image": "",
-      "published_at": "2026-11-04T15:02:25Z",
-      "category": "Analysis"
-    },
-    {
-      "id": "1d6a7ba5095fca8231b6",
-      "source": "verge",
-      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have…",
-      "image": "",
-      "published_at": "2026-11-04T14:46:01Z",
-      "category": "AI"
-    },
-    {
-      "id": "19f00cb8886eccf2062d",
-      "source": "verge",
-      "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-      "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-      "summary": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to \"tens of thousands\" of 5G cell sites across the US…",
-      "image": "",
-      "published_at": "2026-11-04T14:38:20Z",
-      "category": "Mobile"
-    },
-    {
-      "id": "997cfd28609ec66dffe1",
-      "source": "verge",
-      "title": "Does opting out of TV tracking work?",
-      "url": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
-      "summary": "The fact our TVs are gathering our information isn't new, but what and how they're tracking - and if we can stop it - is hard to figure out. Researchers at Northeastern University monitored 12 TVs from 10…",
-      "image": "",
-      "published_at": "2026-11-04T14:00:00Z",
-      "category": "Gadgets"
     },
     {
       "id": "7ad180b24a8165af43b8",
@@ -951,36 +1071,6 @@
       "image": "",
       "published_at": "2026-11-04T13:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "d5dbf01beddc13a1322c",
-      "source": "verge",
-      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's…",
-      "image": "",
-      "published_at": "2026-11-04T01:15:34Z",
-      "category": "AMD"
-    },
-    {
-      "id": "742a16343336e3940e36",
-      "source": "verge",
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after…",
-      "image": "",
-      "published_at": "2026-11-04T01:02:53Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "4e0044132c5da58cfb4b",
-      "source": "verge",
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced…",
-      "image": "",
-      "published_at": "2026-11-04T00:42:10Z",
-      "category": "AI"
     },
     {
       "id": "5d9026e72cd42d57cfe8",
@@ -1093,16 +1183,6 @@
       "category": "Policy"
     },
     {
-      "id": "7526947b32a4ad05b2e1",
-      "source": "ars",
-      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
-      "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
-      "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg",
-      "published_at": "2026-11-03T14:00:07Z",
-      "category": "Cars"
-    },
-    {
       "id": "95dea697598324707880",
       "source": "mit",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
@@ -1131,86 +1211,6 @@
       "image": "",
       "published_at": "2026-11-03T04:18:47Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "58814164b93d0105b303",
-      "source": "ars",
-      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
-      "published_at": "2026-11-02T23:30:16Z",
-      "category": "Space"
-    },
-    {
-      "id": "c422972dd9ffb669deb5",
-      "source": "ars",
-      "title": "Why large dogs age faster than small ones, and other October research highlights",
-      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg",
-      "published_at": "2026-11-02T22:54:35Z",
-      "category": "Science"
-    },
-    {
-      "id": "7ccfa4087c36f4503c6c",
-      "source": "ars",
-      "title": "Third person dies of bird flu since virus started jumping to livestock",
-      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
-      "summary": "The threat is still considered to be low, but the virus continues to spread.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg",
-      "published_at": "2026-11-02T21:21:43Z",
-      "category": "Health"
-    },
-    {
-      "id": "4a7e763ccfe54ef989f7",
-      "source": "ars",
-      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-      "summary": "\"The flow of time is always cruel.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
-      "published_at": "2026-11-02T19:52:23Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "417312494108578d29d0",
-      "source": "ars",
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "summary": "A big study with very little beyond negative results still gets published.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg",
-      "published_at": "2026-11-02T19:13:26Z",
-      "category": "Science"
-    },
-    {
-      "id": "87b3913701edb2a605af",
-      "source": "ars",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg",
-      "published_at": "2026-11-02T18:32:21Z",
-      "category": "AI"
-    },
-    {
-      "id": "08dd0dd7702dea6a7301",
-      "source": "ars",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
-      "published_at": "2026-11-02T18:05:31Z",
-      "category": "AI"
-    },
-    {
-      "id": "5c7d08f4c0c76b32ce55",
-      "source": "ars",
-      "title": "China publicly discloses plan for a lunar landing within three years",
-      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg",
-      "published_at": "2026-11-02T17:09:13Z",
-      "category": "Space"
     },
     {
       "id": "44e98bd1c45c56a9a99c",
@@ -1411,26 +1411,6 @@
       "image": "",
       "published_at": "2026-10-23T09:00:00Z",
       "category": "Biotechnology and health"
-    },
-    {
-      "id": "dbc55f36dde114bb66b4",
-      "source": "mit",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has…",
-      "image": "",
-      "published_at": "2026-10-22T21:17:29Z",
-      "category": "Artificial intelligence"
-    },
-    {
-      "id": "404e086325dfe4965199",
-      "source": "mit",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference…",
-      "image": "",
-      "published_at": "2026-10-22T18:48:04Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

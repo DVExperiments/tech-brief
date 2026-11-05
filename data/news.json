@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T02:31:59Z",
+  "updated_at": "2026-11-05T09:51:15Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T02:31:59Z",
+      "last_success_at": "2026-11-05T09:51:15Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T02:31:59Z",
+      "last_success_at": "2026-11-05T09:51:15Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 34,
-      "last_success_at": "2026-11-05T02:31:59Z",
+      "count": 33,
+      "last_success_at": "2026-11-05T09:51:15Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T02:31:59Z",
+      "last_success_at": "2026-11-05T09:51:15Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "8dfb30c6107bed7ec0bf",
+      "source": "wired",
+      "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+      "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+      "summary": "Adult content creators and free speech advocates are sounding the alarm over a new law about to take effect in the United Kingdom banning simulated incest and some depictions of oral sex.",
+      "image": "https://media.wired.com/photos/6ada535b90bbef8397f3e78c/master/pass/culture-uk-incest-porn-ban-fanfic.jpg",
+      "published_at": "2026-11-05T07:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "87bc148944938f201dc5",
+      "source": "wired",
+      "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
+      "url": "https://www.wired.com/story/ray-ban-promo-code/",
+      "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d191891cce37a7031688",
+      "source": "wired",
+      "title": "Meta Quest Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4a21dcf688ed71da4d22",
+      "source": "wired",
+      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
+      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0dc87ccbbccc94f6d09a",
+      "source": "wired",
+      "title": "B&H Photo Promo Codes and Deals This November 2026",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "abfb78cb779acd179ec3",
+      "source": "wired",
+      "title": "Booking.com Promo Codes: 20% Off | November 2026",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "567d1b48fbaa56355cfe",
+      "source": "wired",
+      "title": "Corsair Discount Code: Up to 50% Off for November 2026",
+      "url": "https://www.wired.com/story/corsair-coupon/",
+      "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ce4b29e12ad2a4415cbd",
+      "source": "wired",
+      "title": "Udemy Coupon Codes: 20% Off November 2026",
+      "url": "https://www.wired.com/story/udemy-promo-code/",
+      "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2110335493358b70a6aa",
+      "source": "wired",
+      "title": "Zoro Coupon Codes: 20% Off November 2026",
+      "url": "https://www.wired.com/story/zoro-promo-code/",
+      "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0bce2bf761934644ff18",
+      "source": "wired",
+      "title": "Herman Miller Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in November 2026.",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "af7aa7365f9e1e28ba3c",
+      "source": "wired",
+      "title": "HP Coupon Codes and Deals November 2026",
+      "url": "https://www.wired.com/story/hp-coupon-code/",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "37f002868ef0db533ab7",
+      "source": "wired",
+      "title": "Altra Running Promo Codes: 10% Off November 2026",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "48eb1254324c712f505f",
+      "source": "wired",
+      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+      "url": "https://www.wired.com/story/hostgator-coupon/",
+      "summary": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
+      "published_at": "2026-11-05T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b9d848af47f8deca4c46",
+      "source": "verge",
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel…",
+      "image": "",
+      "published_at": "2026-11-05T05:00:00Z",
+      "category": "Entertainment"
+    },
     {
       "id": "13dc45f41ccfc64dcf94",
       "source": "verge",
@@ -653,136 +793,6 @@
       "category": "Science"
     },
     {
-      "id": "62dbba02251e08ab8e30",
-      "source": "wired",
-      "title": "50% Off DoorDash Promo Code | November 2026",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "fedebf0cdaf219f861d5",
-      "source": "wired",
-      "title": "Columbia Promo Codes: 15% Off | November 2026",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a60394cde7e828bb0d2c",
-      "source": "wired",
-      "title": "Hoka Coupon Codes: 30% Off in November 2026",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
-      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "421798814b3686cf3948",
-      "source": "wired",
-      "title": "SteelSeries Coupon Codes: 15% Off in November 2026",
-      "url": "https://www.wired.com/story/steelseries-coupon-code/",
-      "summary": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
-      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8f61b74ad57364bcd55e",
-      "source": "wired",
-      "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
-      "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
-      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "052fdfde12ca374ebea7",
-      "source": "wired",
-      "title": "25% Off Adidas Promo Code | November 2026",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "84184ea6993d9b009beb",
-      "source": "wired",
-      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-      "url": "https://www.wired.com/story/legalzoom-promo-code/",
-      "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
-      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "559c313e50395334cb0a",
-      "source": "wired",
-      "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
-      "url": "https://www.wired.com/story/hulu-promo-code/",
-      "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-      "image": "https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9d5281de5fde520293c5",
-      "source": "wired",
-      "title": "Hostinger Promo Code: 79% Off for November 2026",
-      "url": "https://www.wired.com/story/hostinger-coupon-code/",
-      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5278d4c094ac7262369c",
-      "source": "wired",
-      "title": "Shark Promo Codes for November 2026",
-      "url": "https://www.wired.com/story/shark-promo-code/",
-      "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3b16f44023252999ad43",
-      "source": "wired",
-      "title": "Whoop Promo Codes: 20% Off This November 2026",
-      "url": "https://www.wired.com/story/whoop-promo-code/",
-      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0e26c4a3b1452acc7f97",
-      "source": "wired",
-      "title": "Alo Discount Code: 20% Off November 2026",
-      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-04T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "bc413d395bd9a7ef50d1",
-      "source": "wired",
-      "title": "Democrats Sweep Republicans in Nearly Every Race That Matters",
-      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
-      "summary": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
-      "image": "https://media.wired.com/photos/6ae8e5568f654d90749164d0/master/pass/GettyImages-2303174995.jpg",
-      "published_at": "2026-11-04T04:42:46Z",
-      "category": "Politics"
-    },
-    {
       "id": "d5dbf01beddc13a1322c",
       "source": "verge",
       "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
@@ -931,16 +941,6 @@
       "image": "",
       "published_at": "2026-11-03T20:16:17Z",
       "category": "AI"
-    },
-    {
-      "id": "520a797eb9cee3767a92",
-      "source": "verge",
-      "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
-      "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
-      "summary": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or…",
-      "image": "",
-      "published_at": "2026-11-03T19:48:41Z",
-      "category": "Gadgets"
     },
     {
       "id": "fce0775fdb07b610654b",
@@ -1441,16 +1441,6 @@
       "image": "",
       "published_at": "2026-10-22T10:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "5bf42e8e5d32d29586be",
-      "source": "mit",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What…",
-      "image": "",
-      "published_at": "2026-10-22T08:41:18Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

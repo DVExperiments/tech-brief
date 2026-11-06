@@ -1,37 +1,77 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T23:38:50Z",
+  "updated_at": "2026-11-06T03:40:19Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T23:38:50Z",
+      "last_success_at": "2026-11-06T03:40:19Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T23:38:50Z",
+      "last_success_at": "2026-11-06T03:40:19Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-05T23:38:50Z",
+      "last_success_at": "2026-11-06T03:40:19Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-05T23:38:50Z",
+      "last_success_at": "2026-11-06T03:40:19Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "95ffd68b98b76cd7ea19",
+      "source": "verge",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects…",
+      "image": "",
+      "published_at": "2026-11-06T00:37:56Z",
+      "category": "AI"
+    },
+    {
+      "id": "4a6eb7662549901b52a3",
+      "source": "ars",
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "summary": "\"This is going to be a game-changer.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+      "published_at": "2026-11-06T00:17:06Z",
+      "category": "Space"
+    },
+    {
+      "id": "ed83d4b3da9ef8ccfeab",
+      "source": "verge",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at…",
+      "image": "",
+      "published_at": "2026-11-06T00:06:12Z",
+      "category": "AI"
+    },
+    {
+      "id": "84cd8ce9e756cf6dc58b",
+      "source": "verge",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures…",
+      "image": "",
+      "published_at": "2026-11-05T23:45:10Z",
+      "category": "Apps"
+    },
     {
       "id": "4206ee321cfe49b5b72c",
       "source": "verge",
@@ -43,6 +83,16 @@
       "category": "Mobile"
     },
     {
+      "id": "06e7e8290fc301da5a17",
+      "source": "ars",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+      "published_at": "2026-11-05T23:09:36Z",
+      "category": "Biz & IT"
+    },
+    {
       "id": "a8898c3824d568da4649",
       "source": "wired",
       "title": "6 Best VPN Services (2026), Tested and Reviewed",
@@ -51,6 +101,16 @@
       "image": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png",
       "published_at": "2026-11-05T23:00:00Z",
       "category": "Gear"
+    },
+    {
+      "id": "235304103852ba432673",
+      "source": "ars",
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+      "published_at": "2026-11-05T22:49:03Z",
+      "category": "Tech"
     },
     {
       "id": "d66f369100d6a9b392d4",
@@ -358,7 +418,7 @@
       "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
       "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
       "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-      "image": "https://media.wired.com/photos/6aeb6340d999be8b2afde39b/master/pass/WWF-Placeholder-Alexis-Ohanian.jpg",
+      "image": "https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg",
       "published_at": "2026-11-05T16:26:57Z",
       "category": "Business"
     },
@@ -388,7 +448,7 @@
       "title": "Area Man Feels Joy Online for First Time in Years",
       "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
       "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
-      "image": "https://media.wired.com/photos/6aeb61753ab4125d7da22781/master/pass/WWF-Placeholder-Ben-Collins.jpg",
+      "image": "https://media.wired.com/photos/6aed237b13b5fee77ce1398c/master/pass/WWF-Ben-Collins-10522.jpg",
       "published_at": "2026-11-05T15:38:07Z",
       "category": "Culture"
     },
@@ -1003,36 +1063,6 @@
       "category": "Biz & IT"
     },
     {
-      "id": "bb7835f4c56810ccf5da",
-      "source": "verge",
-      "title": "Data centers lost the midterms",
-      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their…",
-      "image": "",
-      "published_at": "2026-11-04T16:05:39Z",
-      "category": "AI"
-    },
-    {
-      "id": "b8acf660addf5d438afb",
-      "source": "verge",
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The…",
-      "image": "",
-      "published_at": "2026-11-04T15:58:45Z",
-      "category": "AI"
-    },
-    {
-      "id": "0dfb5d28a21182737e05",
-      "source": "verge",
-      "title": "My favorite 25W wireless power bank is down to $35",
-      "url": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
-      "summary": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top…",
-      "image": "",
-      "published_at": "2026-11-04T15:57:55Z",
-      "category": "Deals"
-    },
-    {
       "id": "889b63664088bb56f258",
       "source": "ars",
       "title": "What I learned driving the Slate electric truck prototype",
@@ -1151,36 +1181,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
       "published_at": "2026-11-03T16:50:32Z",
       "category": "Space"
-    },
-    {
-      "id": "803628d645eb5549f2ec",
-      "source": "ars",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-      "published_at": "2026-11-03T16:03:13Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "434e3087c05d52b69f47",
-      "source": "ars",
-      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-      "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
-      "published_at": "2026-11-03T15:39:30Z",
-      "category": "Features"
-    },
-    {
-      "id": "0eaba7c257a0f10d4ebc",
-      "source": "ars",
-      "title": "EPA throws in the towel on policing air pollution from factory farms",
-      "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
-      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg",
-      "published_at": "2026-11-03T14:49:00Z",
-      "category": "Policy"
     },
     {
       "id": "95dea697598324707880",

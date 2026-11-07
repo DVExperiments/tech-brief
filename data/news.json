@@ -1,37 +1,227 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T10:16:31Z",
+  "updated_at": "2026-11-07T16:30:35Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T10:16:31Z",
+      "last_success_at": "2026-11-07T16:30:35Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T10:16:31Z",
+      "last_success_at": "2026-11-07T16:30:35Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-07T10:16:31Z",
+      "last_success_at": "2026-11-07T16:30:35Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T10:16:31Z",
+      "last_success_at": "2026-11-07T16:30:35Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "ba4590f5859f8a4b4913",
+      "source": "verge",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version…",
+      "image": "",
+      "published_at": "2026-11-07T16:00:00Z",
+      "category": "Deals"
+    },
+    {
+      "id": "84368f3f473e434c75b2",
+      "source": "verge",
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records…",
+      "image": "",
+      "published_at": "2026-11-07T16:00:00Z",
+      "category": "Interview"
+    },
+    {
+      "id": "a75c1a92d08e12ffcd5b",
+      "source": "verge",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so…",
+      "image": "",
+      "published_at": "2026-11-07T15:50:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "93f542d8ede83423d0eb",
+      "source": "verge",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New…",
+      "image": "",
+      "published_at": "2026-11-07T15:43:45Z",
+      "category": "AI"
+    },
+    {
+      "id": "859e063e0596bd5d7794",
+      "source": "verge",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI…",
+      "image": "",
+      "published_at": "2026-11-07T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "aa4394cef26b3e7f31db",
+      "source": "verge",
+      "title": "Good riddance, Cybertruck!",
+      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating…",
+      "image": "",
+      "published_at": "2026-11-07T14:40:06Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "93991e7bb28aebb25532",
+      "source": "verge",
+      "title": "Zelda is back and better than ever",
+      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read…",
+      "image": "",
+      "published_at": "2026-11-07T13:49:01Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "6ddd60d7a1734c53673f",
+      "source": "wired",
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "image": "https://media.wired.com/photos/6aecfb1b276d9711716c8ef8/master/pass/KernelPanic_10312026_v1-ezgif.com-video-to-gif-converter.gif",
+      "published_at": "2026-11-07T13:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "46b6ffd36493ab7c6ad6",
+      "source": "verge",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down…",
+      "image": "",
+      "published_at": "2026-11-07T12:30:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "7d9dc0bc468c0e91bb2b",
+      "source": "ars",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
+      "published_at": "2026-11-07T12:15:55Z",
+      "category": "Science"
+    },
+    {
+      "id": "bd1ab07746cea1321430",
+      "source": "wired",
+      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+      "url": "https://www.wired.com/gallery/best-wifi-routers/",
+      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "image": "https://media.wired.com/photos/6ae7c95facba2861e5fb22fa/master/pass/Best%20Routers%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-07T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0f1f9b197e6bf9ea743e",
+      "source": "wired",
+      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
+      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
+      "image": "https://media.wired.com/photos/6aee6de94daae82016170876/master/pass/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
+      "published_at": "2026-11-07T11:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8522da1dd28c806630a4",
+      "source": "wired",
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "image": "https://media.wired.com/photos/6a8007d2a5a41ea93847b302/master/pass/I-Tested-the-Best-Cat-Water-Fountains%E2%80%94These-Are-Worth-Buying.jpg",
+      "published_at": "2026-11-07T11:37:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "49e39cb6689b62514c85",
+      "source": "wired",
+      "title": "This Totally Free App Can Free Up Space on Your Mac",
+      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
+      "image": "https://media.wired.com/photos/69acccf77f50a7b6628a7193/master/pass/macbook-neo-07.png",
+      "published_at": "2026-11-07T11:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "04fe2fbe3c3c9f71b3d6",
+      "source": "ars",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+      "published_at": "2026-11-07T11:00:34Z",
+      "category": "Security"
+    },
+    {
+      "id": "43785147a1cbd7fbdc09",
+      "source": "wired",
+      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
+      "url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
+      "summary": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
+      "image": "https://media.wired.com/photos/6aee7389276d9711716c9d08/master/pass/My-Favorite-GoRuck-Packs-and-Weighted-Vests-Are-on-Sale-for-Black-Friday.jpg",
+      "published_at": "2026-11-07T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "245f547dccf4b04fe41c",
+      "source": "wired",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg",
+      "published_at": "2026-11-07T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1543a6f9c1b514f417f0",
+      "source": "wired",
+      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "image": "https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg",
+      "published_at": "2026-11-07T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fa05a4e4097dff048f04",
+      "source": "wired",
+      "title": "The 19 Best Early Black Friday Deals 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.",
+      "image": "https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png",
+      "published_at": "2026-11-07T10:16:00Z",
+      "category": "Gear"
+    },
     {
       "id": "13154509821e3565e75a",
       "source": "wired",
@@ -803,26 +993,6 @@
       "category": "Entertainment"
     },
     {
-      "id": "00307157198bdf65c5f4",
-      "source": "verge",
-      "title": "Claude AI can plug directly into your bank account",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You…",
-      "image": "",
-      "published_at": "2026-11-05T18:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "bce6364a12f73a23f619",
-      "source": "verge",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in…",
-      "image": "",
-      "published_at": "2026-11-05T17:51:52Z",
-      "category": "AI"
-    },
-    {
       "id": "b329bdcffc2603cd2eb7",
       "source": "ars",
       "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
@@ -830,66 +1000,6 @@
       "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png",
       "published_at": "2026-11-05T17:40:27Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "4b8db346fc04794fba4e",
-      "source": "verge",
-      "title": "Ember’s smallest self-heating mug is on sale for just $33",
-      "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
-      "summary": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you’ve been looking for a more affordable option…",
-      "image": "",
-      "published_at": "2026-11-05T17:34:23Z",
-      "category": "Deals"
-    },
-    {
-      "id": "fc06f3156bb6f9ab3693",
-      "source": "verge",
-      "title": "TikTok launched a dedicated TikTok Shop app",
-      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks…",
-      "image": "",
-      "published_at": "2026-11-05T17:27:36Z",
-      "category": "Apps"
-    },
-    {
-      "id": "4701ff36d276916b3757",
-      "source": "verge",
-      "title": "Nintendo says it’s not planning another Switch 2 price hike",
-      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-      "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier…",
-      "image": "",
-      "published_at": "2026-11-05T17:24:39Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "7574a3f3d7d26abed6e0",
-      "source": "verge",
-      "title": "The FAA is finally ditching floppy disks",
-      "url": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
-      "summary": "It's the year 2026 and the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks. But those technology artifacts could be headed for the dustbin…",
-      "image": "",
-      "published_at": "2026-11-05T17:13:42Z",
-      "category": "Aviation"
-    },
-    {
-      "id": "bc3808bc3a827ee4aa9b",
-      "source": "verge",
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a…",
-      "image": "",
-      "published_at": "2026-11-05T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "7ec9281354b2b62c2530",
-      "source": "verge",
-      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
-      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
-      "summary": "Microsoft is unveiling a new Xbox PC app that launches \"up to 60 percent faster\" than before, with an overhauled design to match new updates to Xbox Cloud Gaming on the web and smart TVs. Xbox Insiders will be able…",
-      "image": "",
-      "published_at": "2026-11-05T17:00:00Z",
       "category": "Gaming"
     },
     {
@@ -1013,66 +1123,6 @@
       "category": "Science"
     },
     {
-      "id": "e2a1d67f7e34f08782c4",
-      "source": "wired",
-      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
-      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
-      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
-      "image": "https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg",
-      "published_at": "2026-11-05T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d371f8fd356de7278acd",
-      "source": "wired",
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "image": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
-      "published_at": "2026-11-05T11:45:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "ad9778816c53bed89107",
-      "source": "wired",
-      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
-      "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
-      "summary": "Nintendo has prepped its classic game for a rerelease with a slew of aesthetic upgrades—none more extreme than the protagonist’s curled-eyelash, glossed-lip glow-up.",
-      "image": "https://media.wired.com/photos/6aea2201d4fbda5167120fc6/master/pass/SM_NS2_TheLegendofZeldaOcarinaofTime_scrn_15.jpg",
-      "published_at": "2026-11-05T11:30:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "a60d315664e16e4ea7cb",
-      "source": "wired",
-      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
-      "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
-      "summary": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
-      "image": "https://media.wired.com/photos/6aeb99b5fd4267963caa47b0/master/pass/2182148343",
-      "published_at": "2026-11-05T10:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "0b8d7c01f8829aa1c9fa",
-      "source": "wired",
-      "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
-      "url": "https://www.wired.com/story/best-smart-ring/",
-      "summary": "Turns out, your finger is prime real estate for health tracking. Here are the smart rings that impressed me the most.",
-      "image": "https://media.wired.com/photos/6aea0aa67e8b0dd825e7acc4/master/pass/Relaunch%20Best%20Smart%20Ring%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-05T10:09:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9b9b61d01421e44c28ac",
-      "source": "wired",
-      "title": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
-      "url": "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/",
-      "summary": "Israeli strikes on construction equipment and water infrastructure in South Lebanon have blocked recovery efforts, keeping displaced families away from their homes.",
-      "image": "https://media.wired.com/photos/6aea74119ac1e5208715af4b/master/pass/Lebanon_lead.jpg",
-      "published_at": "2026-11-05T10:00:00Z",
-      "category": "Politics"
-    },
-    {
       "id": "71bd87393cd7bf4cd711",
       "source": "mit",
       "title": "A new bill could change how the US builds energy infrastructure",
@@ -1093,36 +1143,6 @@
       "category": "Cars"
     },
     {
-      "id": "8dfb30c6107bed7ec0bf",
-      "source": "wired",
-      "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
-      "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-      "summary": "Adult content creators and free speech advocates are sounding the alarm over a new law about to take effect in the United Kingdom banning simulated incest and some depictions of oral sex.",
-      "image": "https://media.wired.com/photos/6ada535b90bbef8397f3e78c/master/pass/culture-uk-incest-porn-ban-fanfic.jpg",
-      "published_at": "2026-11-05T07:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "87bc148944938f201dc5",
-      "source": "wired",
-      "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
-      "url": "https://www.wired.com/story/ray-ban-promo-code/",
-      "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-05T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d191891cce37a7031688",
-      "source": "wired",
-      "title": "Meta Quest Promo Codes and Coupons for November 2026",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-05T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "944aad6d3fe24844217d",
       "source": "ars",
       "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
@@ -1131,26 +1151,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
       "published_at": "2026-11-04T22:47:51Z",
       "category": "Gaming"
-    },
-    {
-      "id": "8341b0e5a0bb2c8e5a9c",
-      "source": "ars",
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
-      "published_at": "2026-11-04T22:26:49Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "75e55b3e89294b55f5a0",
-      "source": "ars",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
-      "published_at": "2026-11-04T21:56:29Z",
-      "category": "Science"
     },
     {
       "id": "9bf75cf5c82d874d5fa8",

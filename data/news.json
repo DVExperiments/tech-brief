@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T23:31:47Z",
+  "updated_at": "2026-11-07T03:13:34Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-06T23:31:46Z",
+      "last_success_at": "2026-11-07T03:13:33Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-06T23:31:46Z",
+      "last_success_at": "2026-11-07T03:13:33Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-06T23:31:47Z",
+      "last_success_at": "2026-11-07T03:13:33Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-06T23:31:47Z",
+      "last_success_at": "2026-11-07T03:13:34Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "36c7a63f1119daa42209",
+      "source": "verge",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising…",
+      "image": "",
+      "published_at": "2026-11-06T23:46:18Z",
+      "category": "AI"
+    },
+    {
+      "id": "a85995d4eca944db08eb",
+      "source": "ars",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
+      "published_at": "2026-11-06T23:09:45Z",
+      "category": "Health"
+    },
     {
       "id": "f53d56122dd343611881",
       "source": "verge",
@@ -53,6 +73,16 @@
       "category": "Elon Musk"
     },
     {
+      "id": "085dcaafb09bbe935ade",
+      "source": "ars",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
+      "published_at": "2026-11-06T22:41:37Z",
+      "category": "Tech"
+    },
+    {
       "id": "dfa81e0f7843e02bffc7",
       "source": "wired",
       "title": "The Cybertruck’s Death Is Actually Great News for EVs",
@@ -61,6 +91,16 @@
       "image": "https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg",
       "published_at": "2026-11-06T22:31:15Z",
       "category": "Science"
+    },
+    {
+      "id": "b44da470ad0d0d6d4179",
+      "source": "ars",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
+      "published_at": "2026-11-06T22:08:47Z",
+      "category": "Gaming"
     },
     {
       "id": "461cdd93b482b000c2b2",
@@ -88,7 +128,7 @@
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
       "published_at": "2026-11-06T20:56:41Z",
       "category": "Biz & IT"
     },
@@ -843,16 +883,6 @@
       "category": "Gaming"
     },
     {
-      "id": "723ba59b0037a12936ab",
-      "source": "verge",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says…",
-      "image": "",
-      "published_at": "2026-11-05T17:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "91db3f749982148e2f69",
       "source": "wired",
       "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
@@ -1121,36 +1151,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
       "published_at": "2026-11-04T21:56:29Z",
       "category": "Science"
-    },
-    {
-      "id": "c4a843101228756351ba",
-      "source": "ars",
-      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-      "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg",
-      "published_at": "2026-11-04T21:38:49Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "03fc2940784af6a26472",
-      "source": "ars",
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-1152x540.webp",
-      "published_at": "2026-11-04T21:29:46Z",
-      "category": "Tech"
-    },
-    {
-      "id": "7a72fef28d83a9a1076c",
-      "source": "ars",
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg",
-      "published_at": "2026-11-04T20:55:50Z",
-      "category": "AI"
     },
     {
       "id": "9bf75cf5c82d874d5fa8",

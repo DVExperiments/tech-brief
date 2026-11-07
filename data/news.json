@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T03:13:34Z",
+  "updated_at": "2026-11-07T10:16:31Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T03:13:33Z",
+      "last_success_at": "2026-11-07T10:16:31Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T03:13:33Z",
+      "last_success_at": "2026-11-07T10:16:31Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-07T03:13:33Z",
+      "last_success_at": "2026-11-07T10:16:31Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T03:13:34Z",
+      "last_success_at": "2026-11-07T10:16:31Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "13154509821e3565e75a",
+      "source": "wired",
+      "title": "The American Dream Wasn’t Built for Climate Change",
+      "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+      "summary": "Owning a home is billed as a way to build wealth, but amid climate-related disasters, for many, it's beginning to feel like a trap.",
+      "image": "https://media.wired.com/photos/6aee19e08c38504c1a2ffc8b/master/pass/110626-american-dream-climate-change.jpg",
+      "published_at": "2026-11-07T10:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "36c7a63f1119daa42209",
       "source": "verge",
@@ -87,7 +97,7 @@
       "source": "wired",
       "title": "The Cybertruck’s Death Is Actually Great News for EVs",
       "url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
-      "summary": "Tesla’s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+      "summary": "Tesla’s biggest failure is the second massive EV to get the axe within the last year, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
       "image": "https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg",
       "published_at": "2026-11-06T22:31:15Z",
       "category": "Science"
@@ -1109,16 +1119,6 @@
       "url": "https://www.wired.com/story/meta-quest-promo-code/",
       "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
       "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-05T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4a21dcf688ed71da4d22",
-      "source": "wired",
-      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
       "published_at": "2026-11-05T06:00:00Z",
       "category": "Gear"
     },

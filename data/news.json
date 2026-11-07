@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T20:31:04Z",
+  "updated_at": "2026-11-07T23:59:03Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T20:31:04Z",
+      "last_success_at": "2026-11-07T23:59:03Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T20:31:04Z",
+      "last_success_at": "2026-11-07T23:59:03Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-07T20:31:04Z",
+      "last_success_at": "2026-11-07T23:59:03Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T20:31:04Z",
+      "last_success_at": "2026-11-07T23:59:03Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
@@ -221,6 +221,16 @@
       "image": "https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg",
       "published_at": "2026-11-07T11:00:00Z",
       "category": "Gear"
+    },
+    {
+      "id": "60b2fd40af972128252c",
+      "source": "wired",
+      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
+      "image": "https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg",
+      "published_at": "2026-11-07T11:00:00Z",
+      "category": "Politics"
     },
     {
       "id": "fa05a4e4097dff048f04",
@@ -1111,16 +1121,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg",
       "published_at": "2026-11-05T12:00:01Z",
       "category": "Apple"
-    },
-    {
-      "id": "123aaa2fba41e9234a03",
-      "source": "wired",
-      "title": "AI’s Next Trick? Speaking Dolphin",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-      "image": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
-      "published_at": "2026-11-05T12:00:00Z",
-      "category": "Science"
     },
     {
       "id": "71bd87393cd7bf4cd711",

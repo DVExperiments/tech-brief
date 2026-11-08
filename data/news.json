@@ -1,37 +1,67 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T13:26:00Z",
+  "updated_at": "2026-11-08T18:30:21Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-08T13:26:00Z",
+      "last_success_at": "2026-11-08T18:30:21Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-08T13:26:00Z",
+      "last_success_at": "2026-11-08T18:30:21Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-08T13:26:00Z",
+      "last_success_at": "2026-11-08T18:30:21Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-08T13:26:00Z",
+      "last_success_at": "2026-11-08T18:30:21Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "680f0de343643e1f8027",
+      "source": "verge",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates…",
+      "image": "",
+      "published_at": "2026-11-08T17:23:19Z",
+      "category": "AI"
+    },
+    {
+      "id": "347b1169b4451dc44980",
+      "source": "verge",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model —…",
+      "image": "",
+      "published_at": "2026-11-08T16:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "de6b08fb0ef18c092c04",
+      "source": "verge",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall…",
+      "image": "",
+      "published_at": "2026-11-08T15:00:30Z",
+      "category": "Apple"
+    },
     {
       "id": "644d76c8842c782fd37b",
       "source": "verge",
@@ -973,16 +1003,6 @@
       "category": "Tech"
     },
     {
-      "id": "c0738207173e792a1f7b",
-      "source": "verge",
-      "title": "The midterms proved once and for all that X is not real life",
-      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state…",
-      "image": "",
-      "published_at": "2026-11-05T21:55:00Z",
-      "category": "Analysis"
-    },
-    {
       "id": "7f2d52b2b158b8986954",
       "source": "ars",
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -1013,16 +1033,6 @@
       "category": "Business"
     },
     {
-      "id": "d24a9fdbc97fc469d887",
-      "source": "verge",
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-      "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad…",
-      "image": "",
-      "published_at": "2026-11-05T20:47:14Z",
-      "category": "Blue Origin"
-    },
-    {
       "id": "beaa84ebf0e8703b1e59",
       "source": "ars",
       "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
@@ -1051,16 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
       "published_at": "2026-11-05T19:46:37Z",
       "category": "Policy"
-    },
-    {
-      "id": "d49f010dacd2195aaa33",
-      "source": "verge",
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the…",
-      "image": "",
-      "published_at": "2026-11-05T19:12:58Z",
-      "category": "Deals"
     },
     {
       "id": "0f56fb398a519dc1adc0",

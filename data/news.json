@@ -1,37 +1,137 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T23:59:03Z",
+  "updated_at": "2026-11-08T13:26:00Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T23:59:03Z",
+      "last_success_at": "2026-11-08T13:26:00Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T23:59:03Z",
+      "last_success_at": "2026-11-08T13:26:00Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-07T23:59:03Z",
+      "last_success_at": "2026-11-08T13:26:00Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-07T23:59:03Z",
+      "last_success_at": "2026-11-08T13:26:00Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "644d76c8842c782fd37b",
+      "source": "verge",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our…",
+      "image": "",
+      "published_at": "2026-11-08T13:00:00Z",
+      "category": "Column"
+    },
+    {
+      "id": "6ecc306aadbe9b103166",
+      "source": "ars",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+      "published_at": "2026-11-08T12:15:31Z",
+      "category": "Science"
+    },
+    {
+      "id": "eaf9d4039599ce008b70",
+      "source": "wired",
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "url": "https://www.wired.com/gallery/best-computer-speakers/",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "image": "https://media.wired.com/photos/6aea49805aac4b5e71c0c066/master/pass/Best%20Computer%20Speakers%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-08T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "48ad53b8191a6b3dbba6",
+      "source": "wired",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "image": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
+      "published_at": "2026-11-08T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ab4c0a30f69c3036b0a4",
+      "source": "wired",
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "summary": "More evidence that magnets are magical.",
+      "image": "https://media.wired.com/photos/6aee3d12f8a94dfe58ce6d81/master/pass/SM_MagneticCameraStrap30mm_WANDRD%20SOURCE%20Wandrd.jpg",
+      "published_at": "2026-11-08T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "db4443743a5e52e4e80d",
+      "source": "wired",
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "image": "https://media.wired.com/photos/6aee6acf106dc5c6dc0c08d0/master/pass/gear-remind-boss-work-pto.jpg",
+      "published_at": "2026-11-08T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "034b84e5c30157501a8f",
+      "source": "wired",
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "image": "https://media.wired.com/photos/6aece579f9b9f1f7ef48cd46/master/pass/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg",
+      "published_at": "2026-11-08T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "7e968dc4b2f7a70430f7",
+      "source": "wired",
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "image": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg",
+      "published_at": "2026-11-08T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "60b811310e05b2b552dd",
+      "source": "wired",
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "image": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
+      "published_at": "2026-11-08T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e5a5440ffd298a9246b6",
+      "source": "wired",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "image": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/master/pass/gear-ai-world-models-3d.jpg",
+      "published_at": "2026-11-08T10:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "f76baa91c0e327ba4fef",
       "source": "verge",
@@ -933,16 +1033,6 @@
       "category": "Cars"
     },
     {
-      "id": "c2b8df791c7364aac1ac",
-      "source": "wired",
-      "title": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
-      "summary": "Get a head start on holiday shopping with discounts on WIRED-tested headphones, laptops, and TVs.",
-      "image": "https://media.wired.com/photos/6aeccae2d6b6f235d0bba953/master/pass/The-Best-Early-Black-Friday-Tech-Deals-at-Best-Buy.jpg",
-      "published_at": "2026-11-05T20:00:29Z",
-      "category": "Gear"
-    },
-    {
       "id": "0a7543a677f6b41bfdc4",
       "source": "ars",
       "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
@@ -950,16 +1040,6 @@
       "summary": "Software optimizes a physical model of the telescope to reduce noise.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png",
       "published_at": "2026-11-05T19:59:22Z",
-      "category": "Science"
-    },
-    {
-      "id": "4b1014d02f509f05d418",
-      "source": "wired",
-      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
-      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
-      "summary": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
-      "image": "https://media.wired.com/photos/6aeba7714d3eef846d2fda1e/master/pass/110426-elect-more-scientists-midterms.jpg",
-      "published_at": "2026-11-05T19:55:24Z",
       "category": "Science"
     },
     {
@@ -983,16 +1063,6 @@
       "category": "Deals"
     },
     {
-      "id": "c0c77093f4d2840a79dd",
-      "source": "verge",
-      "title": "Muse has a voice mode now",
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this…",
-      "image": "",
-      "published_at": "2026-11-05T19:03:04Z",
-      "category": "AI"
-    },
-    {
       "id": "0f56fb398a519dc1adc0",
       "source": "ars",
       "title": "MAHA lost bigly in the midterms—is it at death's door?",
@@ -1013,16 +1083,6 @@
       "category": "Gaming"
     },
     {
-      "id": "91db3f749982148e2f69",
-      "source": "wired",
-      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
-      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-      "image": "https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg",
-      "published_at": "2026-11-05T16:26:57Z",
-      "category": "Business"
-    },
-    {
       "id": "18e994bf0d9db91936ee",
       "source": "ars",
       "title": "Statehouse wins give Democrats new power to push clean energy",
@@ -1031,36 +1091,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
       "published_at": "2026-11-05T15:59:51Z",
       "category": "Science"
-    },
-    {
-      "id": "4055d5e322632edeffd4",
-      "source": "wired",
-      "title": "Area Man Feels Joy Online for First Time in Years",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
-      "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
-      "image": "https://media.wired.com/photos/6aed237b13b5fee77ce1398c/master/pass/WWF-Ben-Collins-10522.jpg",
-      "published_at": "2026-11-05T15:38:07Z",
-      "category": "Culture"
-    },
-    {
-      "id": "e787acd618adf002d15e",
-      "source": "wired",
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-      "image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
-      "published_at": "2026-11-05T14:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0f45aa7ab195ab68dcf9",
-      "source": "wired",
-      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
-      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
-      "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
-      "image": "https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg",
-      "published_at": "2026-11-05T14:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "8c94fb253f71f6f6d463",
@@ -1081,26 +1111,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg",
       "published_at": "2026-11-05T13:00:56Z",
       "category": "Tech"
-    },
-    {
-      "id": "55c5671dc6e2a2e1a2e6",
-      "source": "wired",
-      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-      "image": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
-      "published_at": "2026-11-05T13:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "f7c3b6090a0246b920ba",
-      "source": "wired",
-      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
-      "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
-      "summary": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
-      "image": "https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg",
-      "published_at": "2026-11-05T13:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "c582119d1d69ffed5503",
@@ -1141,16 +1151,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg",
       "published_at": "2026-11-05T09:00:13Z",
       "category": "Cars"
-    },
-    {
-      "id": "944aad6d3fe24844217d",
-      "source": "ars",
-      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "summary": "And what that could mean for physical Switch game costs.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-      "published_at": "2026-11-04T22:47:51Z",
-      "category": "Gaming"
     },
     {
       "id": "9bf75cf5c82d874d5fa8",

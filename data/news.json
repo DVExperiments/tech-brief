@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T01:59:33Z",
+  "updated_at": "2026-11-09T09:49:26Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-09T01:59:33Z",
+      "last_success_at": "2026-11-09T09:49:26Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-09T01:59:33Z",
+      "last_success_at": "2026-11-09T09:49:26Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-11-09T01:59:33Z",
+      "count": 29,
+      "last_success_at": "2026-11-09T09:49:26Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-09T01:59:33Z",
+      "last_success_at": "2026-11-09T09:49:26Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "3849e38296fa77d026f0",
+      "source": "wired",
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "image": "https://media.wired.com/photos/6aecab4af3a6c68d60864f57/master/pass/Bugs%20and%20bikes%20revise.jpg",
+      "published_at": "2026-11-09T08:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "e3fe617cc964fa5e314d",
+      "source": "wired",
+      "title": "Welcome to Weed Island",
+      "url": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
+      "summary": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
+      "image": "https://media.wired.com/photos/6aba9754b8c27fd4adca81cc/master/pass/092426-Jersey%20Weed%20Island.jpg",
+      "published_at": "2026-11-09T07:00:00Z",
+      "category": "The Big Story"
+    },
     {
       "id": "906c7f4f97315405c974",
       "source": "verge",
@@ -415,7 +435,7 @@
     {
       "id": "fa05a4e4097dff048f04",
       "source": "wired",
-      "title": "The 19 Best Early Black Friday Deals 2026",
+      "title": "The 18 Best Early Black Friday Deals 2026",
       "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
       "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.",
       "image": "https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png",
@@ -983,16 +1003,6 @@
       "category": "Gear"
     },
     {
-      "id": "4f80c6684e1029975175",
-      "source": "wired",
-      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
-      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
-      "image": "https://media.wired.com/photos/6ae91976d809b451458cb25a/master/pass/Uncanny-Valley-Midterms-Politics-138711413.jpg",
-      "published_at": "2026-11-05T22:18:42Z",
-      "category": "Politics"
-    },
-    {
       "id": "bd70e304588ee5511b18",
       "source": "ars",
       "title": "Sony revives the original Walkman headphones, adds USB-C",
@@ -1021,16 +1031,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
       "published_at": "2026-11-05T21:39:40Z",
       "category": "AI"
-    },
-    {
-      "id": "4ddd6ddde40636ec6ebe",
-      "source": "wired",
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "image": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
-      "published_at": "2026-11-05T21:37:18Z",
-      "category": "Business"
     },
     {
       "id": "beaa84ebf0e8703b1e59",
@@ -1401,16 +1401,6 @@
       "image": "",
       "published_at": "2026-10-26T12:40:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "97278abda9d2b3525c91",
-      "source": "mit",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are…",
-      "image": "",
-      "published_at": "2026-10-26T09:01:00Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

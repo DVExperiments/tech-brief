@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T22:30:04Z",
+  "updated_at": "2026-11-09T01:59:33Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-08T22:30:04Z",
+      "last_success_at": "2026-11-09T01:59:33Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-08T22:30:04Z",
+      "last_success_at": "2026-11-09T01:59:33Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-08T22:30:04Z",
+      "last_success_at": "2026-11-09T01:59:33Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-08T22:30:04Z",
+      "last_success_at": "2026-11-09T01:59:33Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "906c7f4f97315405c974",
+      "source": "verge",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors…",
+      "image": "",
+      "published_at": "2026-11-08T22:54:50Z",
+      "category": "AI"
+    },
+    {
+      "id": "dab60032f45b47eb7936",
+      "source": "verge",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to…",
+      "image": "",
+      "published_at": "2026-11-08T22:37:22Z",
+      "category": "Column"
+    },
     {
       "id": "6e856ef4532bf7373f8e",
       "source": "verge",
@@ -921,26 +941,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
       "published_at": "2026-11-06T00:17:06Z",
       "category": "Space"
-    },
-    {
-      "id": "ed83d4b3da9ef8ccfeab",
-      "source": "verge",
-      "title": "Airbnb is working on an AI travel agent",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at…",
-      "image": "",
-      "published_at": "2026-11-06T00:06:12Z",
-      "category": "AI"
-    },
-    {
-      "id": "84cd8ce9e756cf6dc58b",
-      "source": "verge",
-      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures…",
-      "image": "",
-      "published_at": "2026-11-05T23:45:10Z",
-      "category": "Apps"
     },
     {
       "id": "06e7e8290fc301da5a17",

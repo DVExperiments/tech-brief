@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T20:44:49Z",
+  "updated_at": "2026-11-10T02:57:36Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-09T20:44:48Z",
+      "last_success_at": "2026-11-10T02:57:36Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-09T20:44:49Z",
+      "last_success_at": "2026-11-10T02:57:36Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 32,
-      "last_success_at": "2026-11-09T20:44:49Z",
+      "last_success_at": "2026-11-10T02:57:36Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-09T20:44:49Z",
+      "last_success_at": "2026-11-10T02:57:36Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "6d775db4f668751338dc",
+      "source": "verge",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for…",
+      "image": "",
+      "published_at": "2026-11-10T00:28:49Z",
+      "category": "AI"
+    },
+    {
+      "id": "97257abfe1bbdf91b1ed",
+      "source": "wired",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "image": "https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg",
+      "published_at": "2026-11-10T00:18:19Z",
+      "category": "Business"
+    },
+    {
+      "id": "206bc593defc141eed6c",
+      "source": "verge",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for…",
+      "image": "",
+      "published_at": "2026-11-09T23:51:58Z",
+      "category": "AI"
+    },
+    {
+      "id": "60da2f89473661d09066",
+      "source": "verge",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that…",
+      "image": "",
+      "published_at": "2026-11-09T23:47:46Z",
+      "category": "AI"
+    },
+    {
+      "id": "e414a21b3c4aba4494aa",
+      "source": "verge",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that…",
+      "image": "",
+      "published_at": "2026-11-09T23:07:59Z",
+      "category": "AI"
+    },
+    {
+      "id": "85efc793deea74128f63",
+      "source": "wired",
+      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "image": "https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg",
+      "published_at": "2026-11-09T22:40:10Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4094566c96935ccad809",
+      "source": "wired",
+      "title": "The Home Depot Best Early Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
+      "summary": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
+      "image": "https://media.wired.com/photos/6af24323a64aa182bab7b6c8/master/pass/The-Best-Deals-to-Shop-During-The-Home-Depot%E2%80%99s-Early-Black-Friday-Sale.jpg",
+      "published_at": "2026-11-09T22:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "74ef7019448635e8fd9d",
+      "source": "wired",
+      "title": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
+      "summary": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
+      "image": "https://media.wired.com/photos/6af23df6e40bff41e001e2c8/master/pass/frames8-solid.jpg",
+      "published_at": "2026-11-09T22:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "93de426100719375f8d0",
+      "source": "ars",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
+      "published_at": "2026-11-09T21:55:35Z",
+      "category": "Culture"
+    },
+    {
+      "id": "28e5932bcff6243f9802",
+      "source": "verge",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty…",
+      "image": "",
+      "published_at": "2026-11-09T21:43:41Z",
+      "category": "Deals"
+    },
+    {
+      "id": "eb076f784a53c8cf8f0f",
+      "source": "ars",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
+      "published_at": "2026-11-09T21:13:39Z",
+      "category": "Policy"
+    },
+    {
+      "id": "23ed837a3317ffc108c1",
+      "source": "verge",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love…",
+      "image": "",
+      "published_at": "2026-11-09T21:13:16Z",
+      "category": "Climate"
+    },
+    {
+      "id": "cd2ddbd9ee965aea25da",
+      "source": "ars",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+      "published_at": "2026-11-09T20:49:09Z",
+      "category": "Tech"
+    },
+    {
+      "id": "92ee5c7fe3fc972e581a",
+      "source": "wired",
+      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
+      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "summary": "Black Doves, The Lord of the Rings: The Rings of Power, and Blade Runner 2099 are just a few of the shows you should be watching right now.",
+      "image": "https://media.wired.com/photos/6af20c07edee43782ec1ab6a/master/pass/Show-Guide-Blade-Runner-2099-TCDBLRU_ZU006.jpg",
+      "published_at": "2026-11-09T20:47:28Z",
+      "category": "Culture"
+    },
     {
       "id": "57449cd7a3dd22faf088",
       "source": "ars",
@@ -803,16 +943,6 @@
       "category": "AI"
     },
     {
-      "id": "54f0e31b72de096f9a3f",
-      "source": "verge",
-      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building…",
-      "image": "",
-      "published_at": "2026-11-06T22:45:43Z",
-      "category": "Elon Musk"
-    },
-    {
       "id": "085dcaafb09bbe935ade",
       "source": "ars",
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -823,16 +953,6 @@
       "category": "Tech"
     },
     {
-      "id": "dfa81e0f7843e02bffc7",
-      "source": "wired",
-      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
-      "url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
-      "summary": "Tesla’s biggest failure is the second massive EV to get the axe within the last year, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
-      "image": "https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg",
-      "published_at": "2026-11-06T22:31:15Z",
-      "category": "Science"
-    },
-    {
       "id": "b44da470ad0d0d6d4179",
       "source": "ars",
       "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
@@ -841,26 +961,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
       "published_at": "2026-11-06T22:08:47Z",
       "category": "Gaming"
-    },
-    {
-      "id": "461cdd93b482b000c2b2",
-      "source": "verge",
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit…",
-      "image": "",
-      "published_at": "2026-11-06T21:50:32Z",
-      "category": "Deals"
-    },
-    {
-      "id": "e9550f3eeb45b4eef616",
-      "source": "wired",
-      "title": "How Stephen Miller Schemed His Way to the Top",
-      "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
-      "summary": "The architect of the Trump administration’s brutal crackdowns on immigration and dissent was already known as “the prime minister.” Now he’ll work as the chief of staff.",
-      "image": "https://media.wired.com/photos/6aee33acd48df2adb8635683/master/pass/GettyImages-2289377528.jpg",
-      "published_at": "2026-11-06T21:10:02Z",
-      "category": "Politics"
     },
     {
       "id": "c3d3373dd78ad9bfb8e2",
@@ -893,16 +993,6 @@
       "category": "Tech"
     },
     {
-      "id": "5746f3ada9e098adad94",
-      "source": "verge",
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over…",
-      "image": "",
-      "published_at": "2026-11-06T20:02:22Z",
-      "category": "AI"
-    },
-    {
       "id": "45dc2dbdfb9064fb8e12",
       "source": "ars",
       "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
@@ -913,16 +1003,6 @@
       "category": "Tech"
     },
     {
-      "id": "2902078d1aba938f41e5",
-      "source": "verge",
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers…",
-      "image": "",
-      "published_at": "2026-11-06T19:47:02Z",
-      "category": "Deals"
-    },
-    {
       "id": "5d675c3a3abbd18f9384",
       "source": "ars",
       "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
@@ -931,46 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sean-duffy-faa-tech-1152x648-1793989923.jpg",
       "published_at": "2026-11-06T19:12:28Z",
       "category": "Policy"
-    },
-    {
-      "id": "e8465e8facce3008175f",
-      "source": "wired",
-      "title": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
-      "url": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
-      "summary": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
-      "image": "https://media.wired.com/photos/6aed0761375da0f92ae1f348/master/pass/Rocco%E2%80%99s-Biggest-Sale-of-the-Year-Is-Here-for-Black-Friday.jpg",
-      "published_at": "2026-11-06T18:54:21Z",
-      "category": "Gear"
-    },
-    {
-      "id": "897151f2ab24e87a851e",
-      "source": "wired",
-      "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
-      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-      "image": "https://media.wired.com/photos/6ae49deb5cf673ee98624b17/master/pass/Deal%20Post%20Early%20BFCM%20Mattress%20deals%20102026%20top%20art%20SOURCE%20Helix.jpg",
-      "published_at": "2026-11-06T18:51:27Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e133fcad98eebf6431d0",
-      "source": "wired",
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "image": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
-      "published_at": "2026-11-06T18:43:43Z",
-      "category": "Security"
-    },
-    {
-      "id": "6321ab392516862865e6",
-      "source": "verge",
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots…",
-      "image": "",
-      "published_at": "2026-11-06T18:42:30Z",
-      "category": "Climate"
     },
     {
       "id": "80810b478ed31df36bbe",
@@ -991,16 +1031,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-1152x648.jpg",
       "published_at": "2026-11-06T18:20:47Z",
       "category": "Space"
-    },
-    {
-      "id": "9b4810f38bd6569f23ab",
-      "source": "verge",
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia…",
-      "image": "",
-      "published_at": "2026-11-06T18:10:10Z",
-      "category": "AI"
     },
     {
       "id": "b5ed54f2703518d7c087",
@@ -1151,36 +1181,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
       "published_at": "2026-11-05T21:39:40Z",
       "category": "AI"
-    },
-    {
-      "id": "beaa84ebf0e8703b1e59",
-      "source": "ars",
-      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
-      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
-      "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg",
-      "published_at": "2026-11-05T20:45:50Z",
-      "category": "Cars"
-    },
-    {
-      "id": "0a7543a677f6b41bfdc4",
-      "source": "ars",
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png",
-      "published_at": "2026-11-05T19:59:22Z",
-      "category": "Science"
-    },
-    {
-      "id": "62356fa6932cf6241cb9",
-      "source": "ars",
-      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-      "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
-      "published_at": "2026-11-05T19:46:37Z",
-      "category": "Policy"
     },
     {
       "id": "8c94fb253f71f6f6d463",

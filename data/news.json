@@ -1,37 +1,217 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T18:41:22Z",
+  "updated_at": "2026-11-10T23:44:29Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-10T18:41:22Z",
+      "last_success_at": "2026-11-10T23:44:28Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-10T18:41:22Z",
+      "last_success_at": "2026-11-10T23:44:28Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 31,
-      "last_success_at": "2026-11-10T18:41:22Z",
+      "last_success_at": "2026-11-10T23:44:29Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-10T18:41:22Z",
+      "last_success_at": "2026-11-10T23:44:29Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "5baf04a9dad006af4ebf",
+      "source": "ars",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+      "published_at": "2026-11-10T23:02:39Z",
+      "category": "Space"
+    },
+    {
+      "id": "607ae8b8245495ec3138",
+      "source": "wired",
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+      "published_at": "2026-11-10T22:42:06Z",
+      "category": "Gear"
+    },
+    {
+      "id": "be84277aa3879ecd35cb",
+      "source": "ars",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "published_at": "2026-11-10T22:35:01Z",
+      "category": "AI"
+    },
+    {
+      "id": "182ce20cd912119e75c3",
+      "source": "verge",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies…",
+      "image": "",
+      "published_at": "2026-11-10T22:00:00Z",
+      "category": "Meta"
+    },
+    {
+      "id": "fc39be61e3c3bb7d7a80",
+      "source": "ars",
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
+      "published_at": "2026-11-10T21:55:26Z",
+      "category": "Policy"
+    },
+    {
+      "id": "5fb16eb3c2c4f725ef1e",
+      "source": "verge",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an…",
+      "image": "",
+      "published_at": "2026-11-10T21:40:31Z",
+      "category": "Business"
+    },
+    {
+      "id": "291f3a9dad73b7687db6",
+      "source": "ars",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "published_at": "2026-11-10T21:12:59Z",
+      "category": "AI"
+    },
+    {
+      "id": "8150f3d8b2321466265e",
+      "source": "verge",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling…",
+      "image": "",
+      "published_at": "2026-11-10T21:06:12Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "13559c2b3e694dd8b2eb",
+      "source": "ars",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+      "published_at": "2026-11-10T20:30:01Z",
+      "category": "AI"
+    },
+    {
+      "id": "61e142fd64a7d1bdbcb1",
+      "source": "verge",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but…",
+      "image": "",
+      "published_at": "2026-11-10T19:40:52Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "a378c8c9c40956eec818",
+      "source": "ars",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg",
+      "published_at": "2026-11-10T19:35:59Z",
+      "category": "Google"
+    },
+    {
+      "id": "a70755bfeae88078272e",
+      "source": "verge",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who…",
+      "image": "",
+      "published_at": "2026-11-10T19:19:12Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "256e0df986e71f04bd32",
+      "source": "verge",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is…",
+      "image": "",
+      "published_at": "2026-11-10T19:04:05Z",
+      "category": "AI"
+    },
+    {
+      "id": "36107f0556b99686e8b0",
+      "source": "ars",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
+      "published_at": "2026-11-10T19:00:26Z",
+      "category": "Google"
+    },
+    {
+      "id": "b3606a07a5b362a74dc7",
+      "source": "verge",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with…",
+      "image": "",
+      "published_at": "2026-11-10T19:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "2001739b32050bd5941f",
+      "source": "verge",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your…",
+      "image": "",
+      "published_at": "2026-11-10T19:00:00Z",
+      "category": "Google"
+    },
+    {
+      "id": "3c88e7463b071621ff91",
+      "source": "verge",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s…",
+      "image": "",
+      "published_at": "2026-11-10T18:42:03Z",
+      "category": "Deals"
+    },
+    {
+      "id": "f0e7e75b2b088ddd12a4",
+      "source": "ars",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
+      "published_at": "2026-11-10T18:39:16Z",
+      "category": "Tech"
+    },
     {
       "id": "2c69f99ec1ef37e3116a",
       "source": "verge",
@@ -853,16 +1033,6 @@
       "category": "Space"
     },
     {
-      "id": "4896365c9adcb65eafd8",
-      "source": "verge",
-      "title": "Disney and Adobe are building generative AI tools together",
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX…",
-      "image": "",
-      "published_at": "2026-11-09T15:38:56Z",
-      "category": "Adobe"
-    },
-    {
       "id": "7b378f7fe31254e3759e",
       "source": "ars",
       "title": "Nvidia CEO's affair becomes a national security problem",
@@ -881,16 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304145044-1152x648.jpg",
       "published_at": "2026-11-09T15:16:31Z",
       "category": "Cars"
-    },
-    {
-      "id": "e3396ede5c5008eb37c9",
-      "source": "wired",
-      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-      "image": "https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg",
-      "published_at": "2026-11-09T14:30:56Z",
-      "category": "Business"
     },
     {
       "id": "f8a517f9f6b82819bcc1",
@@ -931,86 +1091,6 @@
       "image": "",
       "published_at": "2026-11-09T10:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "906c7f4f97315405c974",
-      "source": "verge",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors…",
-      "image": "",
-      "published_at": "2026-11-08T22:54:50Z",
-      "category": "AI"
-    },
-    {
-      "id": "dab60032f45b47eb7936",
-      "source": "verge",
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to…",
-      "image": "",
-      "published_at": "2026-11-08T22:37:22Z",
-      "category": "Column"
-    },
-    {
-      "id": "6e856ef4532bf7373f8e",
-      "source": "verge",
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a…",
-      "image": "",
-      "published_at": "2026-11-08T20:52:05Z",
-      "category": "Fortnite"
-    },
-    {
-      "id": "e331a1249e6e44b34208",
-      "source": "verge",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on…",
-      "image": "",
-      "published_at": "2026-11-08T20:22:39Z",
-      "category": "AI"
-    },
-    {
-      "id": "dc24b35346d8d584e246",
-      "source": "verge",
-      "title": "Apple is racing to make Siri more agentic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi…",
-      "image": "",
-      "published_at": "2026-11-08T19:18:19Z",
-      "category": "AI"
-    },
-    {
-      "id": "680f0de343643e1f8027",
-      "source": "verge",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates…",
-      "image": "",
-      "published_at": "2026-11-08T17:23:19Z",
-      "category": "AI"
-    },
-    {
-      "id": "347b1169b4451dc44980",
-      "source": "verge",
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model —…",
-      "image": "",
-      "published_at": "2026-11-08T16:00:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "de6b08fb0ef18c092c04",
-      "source": "verge",
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall…",
-      "image": "",
-      "published_at": "2026-11-08T15:00:30Z",
-      "category": "Apple"
     },
     {
       "id": "6ecc306aadbe9b103166",
@@ -1101,86 +1181,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg",
       "published_at": "2026-11-06T20:05:30Z",
       "category": "Tech"
-    },
-    {
-      "id": "45dc2dbdfb9064fb8e12",
-      "source": "ars",
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "summary": "Developer: “I can’t be part of the Fox world.”",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
-      "published_at": "2026-11-06T19:50:18Z",
-      "category": "Tech"
-    },
-    {
-      "id": "5d675c3a3abbd18f9384",
-      "source": "ars",
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sean-duffy-faa-tech-1152x648-1793989923.jpg",
-      "published_at": "2026-11-06T19:12:28Z",
-      "category": "Policy"
-    },
-    {
-      "id": "80810b478ed31df36bbe",
-      "source": "ars",
-      "title": "The folks behind John Wick are back with Karōshi trailer",
-      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-      "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png",
-      "published_at": "2026-11-06T18:30:19Z",
-      "category": "Culture"
-    },
-    {
-      "id": "cb73ef50a7ddaa249d49",
-      "source": "ars",
-      "title": "You know the launch market is tough when satellite companies start building rockets",
-      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-      "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-1152x648.jpg",
-      "published_at": "2026-11-06T18:20:47Z",
-      "category": "Space"
-    },
-    {
-      "id": "b5ed54f2703518d7c087",
-      "source": "ars",
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg",
-      "published_at": "2026-11-06T17:43:02Z",
-      "category": "AI"
-    },
-    {
-      "id": "4b1b190b00814ad941eb",
-      "source": "ars",
-      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
-      "published_at": "2026-11-06T17:06:32Z",
-      "category": "Health"
-    },
-    {
-      "id": "5fc89f0debe99c026ae6",
-      "source": "ars",
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg",
-      "published_at": "2026-11-06T16:19:12Z",
-      "category": "AI"
-    },
-    {
-      "id": "76b3c8304949a9b099fd",
-      "source": "ars",
-      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-      "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-1152x648.jpg",
-      "published_at": "2026-11-06T15:28:07Z",
-      "category": "Apple"
     },
     {
       "id": "fe542bd91cf6681324a9",

@@ -1,37 +1,317 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T10:59:03Z",
+  "updated_at": "2026-11-11T18:42:36Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T10:59:03Z",
+      "last_success_at": "2026-11-11T18:42:36Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T10:59:03Z",
+      "last_success_at": "2026-11-11T18:42:36Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 31,
-      "last_success_at": "2026-11-11T10:59:03Z",
+      "last_success_at": "2026-11-11T18:42:36Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T10:59:03Z",
+      "last_success_at": "2026-11-11T18:42:36Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "43d0ea784d03d9a1e993",
+      "source": "verge",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by…",
+      "image": "",
+      "published_at": "2026-11-11T18:13:52Z",
+      "category": "News"
+    },
+    {
+      "id": "9f5b5aff79d26505b8b2",
+      "source": "ars",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "published_at": "2026-11-11T17:37:32Z",
+      "category": "AI"
+    },
+    {
+      "id": "1bdb3f37502fba2b03b1",
+      "source": "verge",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first…",
+      "image": "",
+      "published_at": "2026-11-11T17:09:58Z",
+      "category": "Cars"
+    },
+    {
+      "id": "c10e4cee13188541f8c0",
+      "source": "wired",
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "image": "https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png",
+      "published_at": "2026-11-11T17:08:14Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b4fbb33051f9bd8498e1",
+      "source": "ars",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "summary": "Apple has already made the forum read-only.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
+      "published_at": "2026-11-11T17:04:26Z",
+      "category": "Apple"
+    },
+    {
+      "id": "af8a9e3955f28088c6e7",
+      "source": "wired",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "image": "https://media.wired.com/photos/6af2619c5a9cd51895c4c0be/master/pass/science_ai_fight_bioweapon.jpg",
+      "published_at": "2026-11-11T17:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "39c713d0dd423908a0b9",
+      "source": "mit",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8…",
+      "image": "",
+      "published_at": "2026-11-11T17:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "9fdbce89f0228b8d71ec",
+      "source": "ars",
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+      "published_at": "2026-11-11T16:33:08Z",
+      "category": "Science"
+    },
+    {
+      "id": "20c9ee4506f00f3c5998",
+      "source": "wired",
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "image": "https://media.wired.com/photos/6af3b082973df10f7a2af251/master/pass/culture_fanfic_authors_replace_ao3.jpg",
+      "published_at": "2026-11-11T16:13:03Z",
+      "category": "Culture"
+    },
+    {
+      "id": "ddd9577cc545deeafcb4",
+      "source": "verge",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities…",
+      "image": "",
+      "published_at": "2026-11-11T16:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "8ea2dd190c36947b9fd4",
+      "source": "verge",
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our…",
+      "image": "",
+      "published_at": "2026-11-11T15:53:55Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "f4b667954b681ffe3fca",
+      "source": "verge",
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If…",
+      "image": "",
+      "published_at": "2026-11-11T15:30:00Z",
+      "category": "Deals"
+    },
+    {
+      "id": "8f3e5b326b05c3e99adc",
+      "source": "wired",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "image": "https://media.wired.com/photos/6af3b2cb420c0dad2c15cd3b/master/pass/Jensen-Honeypot-Big-Story-2.jpg",
+      "published_at": "2026-11-11T15:30:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "5b02b3ea434a487bae19",
+      "source": "ars",
+      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg",
+      "published_at": "2026-11-11T15:25:44Z",
+      "category": "Cars"
+    },
+    {
+      "id": "1af2841c893cd1ca9f9f",
+      "source": "verge",
+      "title": "Ocarina of Time is even better if you use a smartphone app",
+      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember…",
+      "image": "",
+      "published_at": "2026-11-11T15:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "96386c5a6c6161a86677",
+      "source": "verge",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could…",
+      "image": "",
+      "published_at": "2026-11-11T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "2c8260ab17349c740753",
+      "source": "ars",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
+      "published_at": "2026-11-11T14:08:57Z",
+      "category": "AI"
+    },
+    {
+      "id": "73df25495607b1774c6e",
+      "source": "verge",
+      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics…",
+      "image": "",
+      "published_at": "2026-11-11T14:00:00Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "92bcbf5b35bbffca43be",
+      "source": "verge",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform…",
+      "image": "",
+      "published_at": "2026-11-11T14:00:00Z",
+      "category": "Adobe"
+    },
+    {
+      "id": "5d1d6847178ed0c45814",
+      "source": "wired",
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "image": "https://media.wired.com/photos/6af4622d73ea7580c39d1fd2/master/pass/111126-Duolingo%20EU_.jpg",
+      "published_at": "2026-11-11T13:36:15Z",
+      "category": "Business"
+    },
+    {
+      "id": "2f481112e586961dd245",
+      "source": "verge",
+      "title": "Streaming is still trying to be TikTok",
+      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with…",
+      "image": "",
+      "published_at": "2026-11-11T13:30:00Z",
+      "category": "Disney"
+    },
+    {
+      "id": "e3773944fe274ee50c3c",
+      "source": "mit",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what…",
+      "image": "",
+      "published_at": "2026-11-11T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "dfd585a3e19d8ccfc8f0",
+      "source": "wired",
+      "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
+      "image": "https://media.wired.com/photos/6af3b839d02b1fb5dccbbc7d/master/pass/I-Tried-20-of-the-Most-Popular-Indoor-Gardening-Systems.jpg",
+      "published_at": "2026-11-11T12:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5840495e0f8d9f66ddd3",
+      "source": "wired",
+      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "url": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
+      "image": "https://media.wired.com/photos/6ae9b7ae1f18bdac7b5ae8bf/master/pass/Samsung%20SOURCE%20Julian%20Chokkattu.jpg",
+      "published_at": "2026-11-11T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2ad4a51921a086464962",
+      "source": "wired",
+      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
+      "url": "https://www.wired.com/story/best-oled-tv/",
+      "summary": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
+      "image": "https://media.wired.com/photos/6af3b4b41bbf3e7f3fb9fb3a/master/pass/The-Best-OLED-TVs-of-2026.jpg",
+      "published_at": "2026-11-11T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6bb73f0e61ccfd809011",
+      "source": "wired",
+      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+      "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+      "summary": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
+      "image": "https://media.wired.com/photos/6af3bec02dbfcb3b37437f4a/master/pass/science_michigan_utilities_money_politics2.jpg",
+      "published_at": "2026-11-11T11:15:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "e356d34914291d588e55",
+      "source": "wired",
+      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "image": "https://media.wired.com/photos/6af3adacbfc3066f2c783dc5/master/pass/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg",
+      "published_at": "2026-11-11T11:02:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5d3ca7d67d3cc1a64439",
+      "source": "wired",
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/master/pass/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
+      "published_at": "2026-11-11T11:00:00Z",
+      "category": "Business"
+    },
     {
       "id": "8990b0cf07d969e25754",
       "source": "wired",
@@ -683,16 +963,6 @@
       "category": "The Big Story"
     },
     {
-      "id": "3b901c568ed7893f3162",
-      "source": "wired",
-      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
-      "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
-      "summary": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
-      "image": "https://media.wired.com/photos/6af290576c39da8e1900d8a5/master/pass/15-Adventurous-Gifts-for-Hikers,-Backpackers,-and-Outdoorsy-People.jpg",
-      "published_at": "2026-11-10T11:30:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "0ce3ea285fff6480ffd6",
       "source": "verge",
       "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
@@ -711,106 +981,6 @@
       "image": "",
       "published_at": "2026-11-10T11:00:00Z",
       "category": "Electric Bikes"
-    },
-    {
-      "id": "9a861b1868d3801efa5c",
-      "source": "wired",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "image": "https://media.wired.com/photos/6aea5020a9094bad7a4244a9/master/pass/ai_security_abliterators.gif",
-      "published_at": "2026-11-10T11:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "ec68ba0a4d9d653adfba",
-      "source": "wired",
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "image": "https://media.wired.com/photos/6aea57e57882d392b9ef6dd3/master/pass/Ai-threat-level-main.jpg",
-      "published_at": "2026-11-10T11:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "92a78755a64f9c5024cb",
-      "source": "wired",
-      "title": "Huupe Mini 2 Review: More Game Than It Can Handle",
-      "url": "https://www.wired.com/review/huupe-mini-2/",
-      "summary": "The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.",
-      "image": "https://media.wired.com/photos/6af29f382c67abe2e82841e0/master/pass/Review--Huupe-Mini-2.jpg",
-      "published_at": "2026-11-10T10:08:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8fb14932c230d6c654ce",
-      "source": "wired",
-      "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
-      "url": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
-      "summary": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
-      "image": "https://media.wired.com/photos/6af20c50a64aa182bab7b341/master/pass/nasa-x-70-image.jpg",
-      "published_at": "2026-11-10T10:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "2e1ce8233bde59228979",
-      "source": "wired",
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "image": "https://media.wired.com/photos/6af269df2008482926d88a86/master/pass/Security_Security%20Flaws%20Across%20UK%20Government%20Sites%20Exposed%20%E2%80%98God-Tier%E2%80%99%20Information_v1.jpg",
-      "published_at": "2026-11-10T07:00:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "53507d55cace6973a278",
-      "source": "wired",
-      "title": "Valvoline Coupons and Promo Codes for November 2026",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "15ae9788e01f3210f8c3",
-      "source": "wired",
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ae52ddaf656e42ae544f",
-      "source": "wired",
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b48ceeb496c5abec7377",
-      "source": "wired",
-      "title": "Rover Promo Codes and Referral Deals for November 2026",
-      "url": "https://www.wired.com/story/rover-promo-code/",
-      "summary": "Score your Rover promo code for November 2026.",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "06b9dea2a2ba41d25772",
-      "source": "wired",
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "url": "https://www.wired.com/story/naturepedic-promo-code/",
-      "summary": "Shop the Naturepedic sale this November 2026.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "6d775db4f668751338dc",
@@ -863,16 +1033,6 @@
       "category": "Culture"
     },
     {
-      "id": "28e5932bcff6243f9802",
-      "source": "verge",
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty…",
-      "image": "",
-      "published_at": "2026-11-09T21:43:41Z",
-      "category": "Deals"
-    },
-    {
       "id": "eb076f784a53c8cf8f0f",
       "source": "ars",
       "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
@@ -881,16 +1041,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
       "published_at": "2026-11-09T21:13:39Z",
       "category": "Policy"
-    },
-    {
-      "id": "23ed837a3317ffc108c1",
-      "source": "verge",
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love…",
-      "image": "",
-      "published_at": "2026-11-09T21:13:16Z",
-      "category": "Climate"
     },
     {
       "id": "cd2ddbd9ee965aea25da",
@@ -923,16 +1073,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "b37e6a96697568cfa8d6",
-      "source": "verge",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price…",
-      "image": "",
-      "published_at": "2026-11-09T19:09:58Z",
-      "category": "AI"
-    },
-    {
       "id": "04abebabdd908e1156c8",
       "source": "ars",
       "title": "Pentagon mulls placing fleet of military satellites around the Moon",
@@ -941,56 +1081,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
       "published_at": "2026-11-09T19:08:37Z",
       "category": "Science"
-    },
-    {
-      "id": "0aa659437a75d45f991f",
-      "source": "verge",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in…",
-      "image": "",
-      "published_at": "2026-11-09T19:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "d9b3e588f6111a3947fa",
-      "source": "verge",
-      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656…",
-      "image": "",
-      "published_at": "2026-11-09T18:35:25Z",
-      "category": "Deals"
-    },
-    {
-      "id": "eeeef7cb339784850bbe",
-      "source": "verge",
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18…",
-      "image": "",
-      "published_at": "2026-11-09T18:07:23Z",
-      "category": "AI"
-    },
-    {
-      "id": "b5f0c9e7e6cc84ed9e84",
-      "source": "verge",
-      "title": "James Gunn is out as DC movie leader",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and…",
-      "image": "",
-      "published_at": "2026-11-09T17:39:57Z",
-      "category": "Comics"
-    },
-    {
-      "id": "7d81f35df0101258d8ec",
-      "source": "verge",
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing…",
-      "image": "",
-      "published_at": "2026-11-09T17:36:08Z",
-      "category": "AI"
     },
     {
       "id": "f25247b2ef45f017c34d",
@@ -1011,26 +1101,6 @@
       "image": "",
       "published_at": "2026-11-09T17:05:43Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "9ccfd5cd76dbffb84157",
-      "source": "verge",
-      "title": "Uber wants to park your car now, too",
-      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent…",
-      "image": "",
-      "published_at": "2026-11-09T17:00:00Z",
-      "category": "Autonomous Cars"
-    },
-    {
-      "id": "4d888f1574e404d1d5ab",
-      "source": "verge",
-      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-      "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
-      "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal…",
-      "image": "",
-      "published_at": "2026-11-09T16:23:31Z",
-      "category": "Gaming"
     },
     {
       "id": "1a5ec6fd190faf0bc57d",
@@ -1131,56 +1201,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
       "published_at": "2026-11-07T11:00:34Z",
       "category": "Security"
-    },
-    {
-      "id": "a85995d4eca944db08eb",
-      "source": "ars",
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
-      "published_at": "2026-11-06T23:09:45Z",
-      "category": "Health"
-    },
-    {
-      "id": "085dcaafb09bbe935ade",
-      "source": "ars",
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
-      "published_at": "2026-11-06T22:41:37Z",
-      "category": "Tech"
-    },
-    {
-      "id": "b44da470ad0d0d6d4179",
-      "source": "ars",
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
-      "published_at": "2026-11-06T22:08:47Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "c3d3373dd78ad9bfb8e2",
-      "source": "ars",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
-      "published_at": "2026-11-06T20:56:41Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "0c2d9ca423cbd88dd611",
-      "source": "ars",
-      "title": "Earth's churning mantle may have created the Great Unconformity",
-      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-      "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg",
-      "published_at": "2026-11-06T20:24:20Z",
-      "category": "Science"
     },
     {
       "id": "fe542bd91cf6681324a9",
@@ -1400,26 +1420,6 @@
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each…",
       "image": "",
       "published_at": "2026-10-28T20:32:02Z",
-      "category": "Artificial intelligence"
-    },
-    {
-      "id": "f50aae4f60ea2b7612e3",
-      "source": "mit",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan…",
-      "image": "",
-      "published_at": "2026-10-28T12:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "aa9f5df10b45ed3e6e13",
-      "source": "mit",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "summary": "",
-      "image": "",
-      "published_at": "2026-10-28T12:00:00Z",
       "category": "Artificial intelligence"
     }
   ]

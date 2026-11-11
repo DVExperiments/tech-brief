@@ -1,37 +1,197 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T03:06:16Z",
+  "updated_at": "2026-11-11T10:59:03Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T03:06:16Z",
+      "last_success_at": "2026-11-11T10:59:03Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T03:06:16Z",
+      "last_success_at": "2026-11-11T10:59:03Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 31,
-      "last_success_at": "2026-11-11T03:06:16Z",
+      "last_success_at": "2026-11-11T10:59:03Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T03:06:16Z",
+      "last_success_at": "2026-11-11T10:59:03Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "8990b0cf07d969e25754",
+      "source": "wired",
+      "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+      "url": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+      "summary": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
+      "image": "https://media.wired.com/photos/6ae0fe13b1846b1aa519246b/master/pass/leadimagesize.jpg",
+      "published_at": "2026-11-11T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "a2281712d859caca97cd",
+      "source": "wired",
+      "title": "Early Black Friday Deals Under $100 (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/",
+      "summary": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
+      "image": "https://media.wired.com/photos/6af39fd8ba886163acf11ce3/master/pass/The-Best-Early-Black-Friday-Deals-Under-$100.jpg",
+      "published_at": "2026-11-11T10:12:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1b5da8d93ac0b1f2447a",
+      "source": "wired",
+      "title": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
+      "url": "https://www.wired.com/gallery/the-best-ipad/",
+      "summary": "Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.",
+      "image": "https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/master/pass/ipad-air-m4-04%20(1).jpg",
+      "published_at": "2026-11-11T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2c45f71cf5346e6b9ee8",
+      "source": "wired",
+      "title": "LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers",
+      "url": "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/",
+      "summary": "Some users have noticed a new “frequent viewer” label that reveals who repeatedly views their profiles.",
+      "image": "https://media.wired.com/photos/6ae39c26d0f1304b561646b2/master/pass/Business_StalkYourStalkerLinkedIn_v1.jpg",
+      "published_at": "2026-11-11T10:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "637f824ab081230921cb",
+      "source": "wired",
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fe417ec7e810f811a5ad",
+      "source": "wired",
+      "title": "Best Buy Discount Codes: 60% Off",
+      "url": "https://www.wired.com/story/best-buy-discount-code/",
+      "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6d9851e55144c10884cd",
+      "source": "wired",
+      "title": "Home Depot Promo Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0260110bde917509701a",
+      "source": "wired",
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0d2d73a69d1b8f0456ad",
+      "source": "wired",
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b854d1cf87417218d0d0",
+      "source": "wired",
+      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5e522595b4967983d35a",
+      "source": "wired",
+      "title": "OnePlus Promo Codes: 30% Off November 2026",
+      "url": "https://www.wired.com/story/oneplus-promo-code/",
+      "summary": "Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6baa10e0543beaf7e794",
+      "source": "wired",
+      "title": "Visible Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/visible-promo-code/",
+      "summary": "Find great deals and promo codes for Visible at WIRED and save big, whether you're a long-time customer or a newbie.",
+      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d2a540569b93c0822c85",
+      "source": "wired",
+      "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
+      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
+      "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this November 2026.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1a3e5dd6969570f8a518",
+      "source": "wired",
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this November 2026.",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "da7c921cdba559f7759b",
+      "source": "wired",
+      "title": "Squarespace Promo Codes: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "130d3a159113bb128960",
+      "source": "wired",
+      "title": "T-Mobile Promo Codes: 25% Off | November 2026",
+      "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
+      "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "published_at": "2026-11-11T06:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "b90de6c070f9d0f3441b",
       "source": "verge",
@@ -653,116 +813,6 @@
       "category": "Gear"
     },
     {
-      "id": "f4e3b258f4104d93466a",
-      "source": "wired",
-      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
-      "url": "https://www.wired.com/story/sams-club-coupon/",
-      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f73f2ebb0d0db44aaa2a",
-      "source": "wired",
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "11dbe6a290b7ebf5d57a",
-      "source": "wired",
-      "title": "Chirp Discount Codes: 67% Off",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
-      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "54b0326aecceb4891d81",
-      "source": "wired",
-      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
-      "url": "https://www.wired.com/story/barkbox-promo-code/",
-      "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b460dcfabb05ac434895",
-      "source": "wired",
-      "title": "Sealy Promo Codes: $100 Off",
-      "url": "https://www.wired.com/story/sealy-promo-code/",
-      "summary": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals for November 2026 will have you waking up refreshed—and with cash left in your wallet.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8cdacefdeb4370d8026d",
-      "source": "wired",
-      "title": "Babbel Promo Code: Up to 65% Off in November 2026",
-      "url": "https://www.wired.com/story/babbel-promo-code/",
-      "summary": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7917344e344b24cd336f",
-      "source": "wired",
-      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "summary": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a40bb4693084d7e8bdc9",
-      "source": "wired",
-      "title": "Braun Promo Codes: 15% Off November 2026",
-      "url": "https://www.wired.com/story/braun-promo-code/",
-      "summary": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9ca03ca73e531cf96e83",
-      "source": "wired",
-      "title": "Casetify Promo Codes | 15% Off November 2026",
-      "url": "https://www.wired.com/story/casetify-promo-code/",
-      "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f1787d43a494ca413650",
-      "source": "wired",
-      "title": "Breville Promo Code: $700 Off | November 2026",
-      "url": "https://www.wired.com/story/breville-promo-code/",
-      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
-      "published_at": "2026-11-10T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5e13d3534c56355f8dca",
-      "source": "wired",
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-      "image": "https://media.wired.com/photos/6af239fd5613664a71d65edb/master/pass/Security_V1-ezgif.com-video-to-gif-converter.gif",
-      "published_at": "2026-11-10T05:01:00Z",
-      "category": "Security"
-    },
-    {
       "id": "6d775db4f668751338dc",
       "source": "verge",
       "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
@@ -771,16 +821,6 @@
       "image": "",
       "published_at": "2026-11-10T00:28:49Z",
       "category": "AI"
-    },
-    {
-      "id": "97257abfe1bbdf91b1ed",
-      "source": "wired",
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "image": "https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg",
-      "published_at": "2026-11-10T00:18:19Z",
-      "category": "Business"
     },
     {
       "id": "206bc593defc141eed6c",
@@ -811,36 +851,6 @@
       "image": "",
       "published_at": "2026-11-09T23:07:59Z",
       "category": "AI"
-    },
-    {
-      "id": "85efc793deea74128f63",
-      "source": "wired",
-      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
-      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
-      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
-      "image": "https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg",
-      "published_at": "2026-11-09T22:40:10Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4094566c96935ccad809",
-      "source": "wired",
-      "title": "The Home Depot Best Early Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
-      "summary": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
-      "image": "https://media.wired.com/photos/6af24323a64aa182bab7b6c8/master/pass/The-Best-Deals-to-Shop-During-The-Home-Depot%E2%80%99s-Early-Black-Friday-Sale.jpg",
-      "published_at": "2026-11-09T22:15:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "74ef7019448635e8fd9d",
-      "source": "wired",
-      "title": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
-      "url": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
-      "summary": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
-      "image": "https://media.wired.com/photos/6af23df6e40bff41e001e2c8/master/pass/frames8-solid.jpg",
-      "published_at": "2026-11-09T22:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "93de426100719375f8d0",
@@ -891,16 +901,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
       "published_at": "2026-11-09T20:49:09Z",
       "category": "Tech"
-    },
-    {
-      "id": "92ee5c7fe3fc972e581a",
-      "source": "wired",
-      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
-      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "summary": "Black Doves, The Lord of the Rings: The Rings of Power, and Blade Runner 2099 are just a few of the shows you should be watching right now.",
-      "image": "https://media.wired.com/photos/6af20c07edee43782ec1ab6a/master/pass/Show-Guide-Blade-Runner-2099-TCDBLRU_ZU006.jpg",
-      "published_at": "2026-11-09T20:47:28Z",
-      "category": "Culture"
     },
     {
       "id": "57449cd7a3dd22faf088",

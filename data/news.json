@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T23:44:29Z",
+  "updated_at": "2026-11-11T03:06:16Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-10T23:44:28Z",
+      "last_success_at": "2026-11-11T03:06:16Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-10T23:44:28Z",
+      "last_success_at": "2026-11-11T03:06:16Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 31,
-      "last_success_at": "2026-11-10T23:44:29Z",
+      "last_success_at": "2026-11-11T03:06:16Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-10T23:44:29Z",
+      "last_success_at": "2026-11-11T03:06:16Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "b90de6c070f9d0f3441b",
+      "source": "verge",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company…",
+      "image": "",
+      "published_at": "2026-11-11T00:34:24Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "d99380dbc5cae0079d7a",
+      "source": "ars",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
+      "published_at": "2026-11-10T23:30:56Z",
+      "category": "Tech"
+    },
     {
       "id": "5baf04a9dad006af4ebf",
       "source": "ars",
@@ -1013,16 +1033,6 @@
       "category": "Gaming"
     },
     {
-      "id": "64809abc344bfecfd23f",
-      "source": "verge",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He…",
-      "image": "",
-      "published_at": "2026-11-09T15:50:38Z",
-      "category": "AI"
-    },
-    {
       "id": "1a5ec6fd190faf0bc57d",
       "source": "ars",
       "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
@@ -1171,16 +1181,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg",
       "published_at": "2026-11-06T20:24:20Z",
       "category": "Science"
-    },
-    {
-      "id": "6a97e9fdf61b30a91aed",
-      "source": "ars",
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg",
-      "published_at": "2026-11-06T20:05:30Z",
-      "category": "Tech"
     },
     {
       "id": "fe542bd91cf6681324a9",

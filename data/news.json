@@ -1,37 +1,137 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T18:42:36Z",
+  "updated_at": "2026-11-12T01:01:41Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T18:42:36Z",
+      "last_success_at": "2026-11-12T01:01:41Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T18:42:36Z",
+      "last_success_at": "2026-11-12T01:01:41Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 31,
-      "last_success_at": "2026-11-11T18:42:36Z",
+      "count": 30,
+      "last_success_at": "2026-11-12T01:01:41Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-11T18:42:36Z",
+      "last_success_at": "2026-11-12T01:01:41Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "eee5df2a7aea086f5964",
+      "source": "ars",
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+      "published_at": "2026-11-11T23:10:17Z",
+      "category": "Tech"
+    },
+    {
+      "id": "c2a735a70c012c79a8c9",
+      "source": "verge",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged…",
+      "image": "",
+      "published_at": "2026-11-11T22:44:36Z",
+      "category": "AI"
+    },
+    {
+      "id": "9358bc179df40e2bc373",
+      "source": "verge",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into…",
+      "image": "",
+      "published_at": "2026-11-11T22:00:00Z",
+      "category": "Reviews"
+    },
+    {
+      "id": "bcc8b0badc6ea2af152c",
+      "source": "wired",
+      "title": "Pete Hegseth Is About to Get His Ass Kicked",
+      "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+      "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
+      "image": "https://media.wired.com/photos/6af4b41c996b256982d289fd/master/pass/politics_hegseth_impeach.jpg",
+      "published_at": "2026-11-11T22:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "354bf2686767625f2b97",
+      "source": "verge",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights…",
+      "image": "",
+      "published_at": "2026-11-11T21:54:21Z",
+      "category": "AI"
+    },
+    {
+      "id": "39a502382f1014171333",
+      "source": "ars",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
+      "published_at": "2026-11-11T20:32:21Z",
+      "category": "Policy"
+    },
+    {
+      "id": "1dc8fa24f51a793bf5be",
+      "source": "ars",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
+      "published_at": "2026-11-11T20:22:03Z",
+      "category": "Science"
+    },
+    {
+      "id": "45440f8141e1da76a09c",
+      "source": "wired",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/master/pass/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "published_at": "2026-11-11T19:55:54Z",
+      "category": "Business"
+    },
+    {
+      "id": "527824542a03aa27a6a7",
+      "source": "ars",
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp",
+      "published_at": "2026-11-11T19:00:26Z",
+      "category": "Space"
+    },
+    {
+      "id": "2f0be3c42a73c65de6b3",
+      "source": "ars",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+      "published_at": "2026-11-11T18:16:40Z",
+      "category": "AI"
+    },
     {
       "id": "43d0ea784d03d9a1e993",
       "source": "verge",
@@ -43,11 +143,21 @@
       "category": "News"
     },
     {
+      "id": "d0fc6778b139e7a44d14",
+      "source": "ars",
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg",
+      "published_at": "2026-11-11T18:05:26Z",
+      "category": "Policy"
+    },
+    {
       "id": "9f5b5aff79d26505b8b2",
       "source": "ars",
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
       "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
       "published_at": "2026-11-11T17:37:32Z",
       "category": "AI"
@@ -943,26 +1053,6 @@
       "category": "Apple"
     },
     {
-      "id": "4f1831a4d05e3189cbc3",
-      "source": "wired",
-      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-      "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-      "summary": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
-      "image": "https://media.wired.com/photos/6af25cdd5a9cd51895c4c0b7/master/pass/Grindr-1-Percent-Getting-Their-Own-Gated-Community-Culture-2281609113.jpg",
-      "published_at": "2026-11-10T12:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "7bd3320d2b9e3b5c2274",
-      "source": "wired",
-      "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
-      "summary": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
-      "image": "https://media.wired.com/photos/6af229e287f3b30dbcfb8e9b/master/pass/Big-Interview-UV-Solo-Louis-Rossman.jpg",
-      "published_at": "2026-11-10T11:30:00Z",
-      "category": "The Big Story"
-    },
-    {
       "id": "0ce3ea285fff6480ffd6",
       "source": "verge",
       "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
@@ -990,36 +1080,6 @@
       "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for…",
       "image": "",
       "published_at": "2026-11-10T00:28:49Z",
-      "category": "AI"
-    },
-    {
-      "id": "206bc593defc141eed6c",
-      "source": "verge",
-      "title": "What could China get from Jensen Huang?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for…",
-      "image": "",
-      "published_at": "2026-11-09T23:51:58Z",
-      "category": "AI"
-    },
-    {
-      "id": "60da2f89473661d09066",
-      "source": "verge",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that…",
-      "image": "",
-      "published_at": "2026-11-09T23:47:46Z",
-      "category": "AI"
-    },
-    {
-      "id": "e414a21b3c4aba4494aa",
-      "source": "verge",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that…",
-      "image": "",
-      "published_at": "2026-11-09T23:07:59Z",
       "category": "AI"
     },
     {
@@ -1113,26 +1173,6 @@
       "category": "Space"
     },
     {
-      "id": "7b378f7fe31254e3759e",
-      "source": "ars",
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
-      "published_at": "2026-11-09T15:23:20Z",
-      "category": "AI"
-    },
-    {
-      "id": "bf96e73d22b9bb3f8ead",
-      "source": "ars",
-      "title": "F1 in Brazil: You’ve got to keep your tires alive",
-      "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
-      "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304145044-1152x648.jpg",
-      "published_at": "2026-11-09T15:16:31Z",
-      "category": "Cars"
-    },
-    {
       "id": "f8a517f9f6b82819bcc1",
       "source": "mit",
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -1153,16 +1193,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "47be357fcc71dd835160",
-      "source": "ars",
-      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-      "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-1152x648-1793989587.jpg",
-      "published_at": "2026-11-09T12:00:05Z",
-      "category": "Features"
-    },
-    {
       "id": "eaeb55afc69ac9351a77",
       "source": "mit",
       "title": "The climate case for AI has not been made",
@@ -1171,36 +1201,6 @@
       "image": "",
       "published_at": "2026-11-09T10:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "6ecc306aadbe9b103166",
-      "source": "ars",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
-      "published_at": "2026-11-08T12:15:31Z",
-      "category": "Science"
-    },
-    {
-      "id": "7d9dc0bc468c0e91bb2b",
-      "source": "ars",
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
-      "published_at": "2026-11-07T12:15:55Z",
-      "category": "Science"
-    },
-    {
-      "id": "04fe2fbe3c3c9f71b3d6",
-      "source": "ars",
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
-      "published_at": "2026-11-07T11:00:34Z",
-      "category": "Security"
     },
     {
       "id": "fe542bd91cf6681324a9",
@@ -1411,16 +1411,6 @@
       "image": "",
       "published_at": "2026-10-29T10:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "e7c64dbfb1acce4d34db",
-      "source": "mit",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each…",
-      "image": "",
-      "published_at": "2026-10-28T20:32:02Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

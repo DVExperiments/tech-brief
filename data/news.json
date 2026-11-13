@@ -1,37 +1,137 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T22:44:00Z",
+  "updated_at": "2026-11-13T02:56:53Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-12T22:44:00Z",
+      "last_success_at": "2026-11-13T02:56:53Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-12T22:44:00Z",
+      "last_success_at": "2026-11-13T02:56:53Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 29,
-      "last_success_at": "2026-11-12T22:44:00Z",
+      "last_success_at": "2026-11-13T02:56:53Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-12T22:44:00Z",
+      "last_success_at": "2026-11-13T02:56:53Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "d6aaa3707c8573d2c051",
+      "source": "wired",
+      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+      "image": "https://media.wired.com/photos/6af6533dc5d481da1362b330/master/pass/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
+      "published_at": "2026-11-13T01:17:49Z",
+      "category": "Business"
+    },
+    {
+      "id": "edcc89ea46ff35e97720",
+      "source": "verge",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald…",
+      "image": "",
+      "published_at": "2026-11-13T00:46:07Z",
+      "category": "Apple"
+    },
+    {
+      "id": "d724b2b8a6f6d9b36e03",
+      "source": "verge",
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today…",
+      "image": "",
+      "published_at": "2026-11-13T00:11:44Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "bbf0d8be815b610a76a5",
+      "source": "wired",
+      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "summary": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
+      "image": "https://media.wired.com/photos/6af637dc998b570c3dad49d5/master/pass/These-Great-Budget-Robot-Vacuums-Are-on-Sale-for-Even-Less.jpg",
+      "published_at": "2026-11-12T23:54:58Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2ffa5b1b62ec9e0297b6",
+      "source": "verge",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post…",
+      "image": "",
+      "published_at": "2026-11-12T23:43:22Z",
+      "category": "Fitness"
+    },
+    {
+      "id": "358fb450f2ec87ddd98a",
+      "source": "verge",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku…",
+      "image": "",
+      "published_at": "2026-11-12T23:30:52Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "ddc9afe8eaf8c4666294",
+      "source": "verge",
+      "title": "Microsoft Outlook is still down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its…",
+      "image": "",
+      "published_at": "2026-11-12T23:24:13Z",
+      "category": "Apps"
+    },
+    {
+      "id": "289e7ba7b51170db5e16",
+      "source": "verge",
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move…",
+      "image": "",
+      "published_at": "2026-11-12T23:00:00Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "2076979b6ce204cace08",
+      "source": "ars",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
+      "published_at": "2026-11-12T22:59:51Z",
+      "category": "Health"
+    },
+    {
+      "id": "8b70734e82c7468c3a9e",
+      "source": "wired",
+      "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
+      "url": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
+      "summary": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan.",
+      "image": "https://media.wired.com/photos/6af6384cae8ec1b73c9441a2/master/pass/Mint-Mobile-Is-Offering-Up-to-$500-on-Select-New-Phones-When-You-Switch.jpg",
+      "published_at": "2026-11-12T22:47:26Z",
+      "category": "Gear"
+    },
     {
       "id": "6eb0b8ca501b0e702ad6",
       "source": "wired",
@@ -85,7 +185,7 @@
     {
       "id": "4f09ad1dc4847e0d81e6",
       "source": "verge",
-      "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
       "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
       "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has…",
       "image": "",
@@ -121,16 +221,6 @@
       "image": "",
       "published_at": "2026-11-12T21:00:00Z",
       "category": "Gaming"
-    },
-    {
-      "id": "ddc9afe8eaf8c4666294",
-      "source": "verge",
-      "title": "Microsoft Outlook is down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status…",
-      "image": "",
-      "published_at": "2026-11-12T20:43:02Z",
-      "category": "Apps"
     },
     {
       "id": "f60a365b179b85b3873e",
@@ -477,7 +567,7 @@
       "source": "ars",
       "title": "Nvidia CEO Jensen Huang has resigned",
       "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "summary": "Nvidia CEO also had an affair with a senior executive at the firm.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
       "published_at": "2026-11-12T14:05:17Z",
       "category": "Tech"
@@ -713,36 +803,6 @@
       "category": "Gear"
     },
     {
-      "id": "ddc146c3b30fd82f2cc6",
-      "source": "wired",
-      "title": "L.L.Bean Promo Codes and Coupons: 75% Off",
-      "url": "https://www.wired.com/story/ll-bean-promo-code/",
-      "summary": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b931e37581e33caecfd1",
-      "source": "wired",
-      "title": "Acer Promo Codes: 40% Off",
-      "url": "https://www.wired.com/story/acer-promo-code/",
-      "summary": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "380980dac69af464d207",
-      "source": "wired",
-      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-      "url": "https://www.wired.com/story/vitamix-promo-code/",
-      "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "c2a735a70c012c79a8c9",
       "source": "verge",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
@@ -973,16 +1033,6 @@
       "category": "Adobe"
     },
     {
-      "id": "2f481112e586961dd245",
-      "source": "verge",
-      "title": "Streaming is still trying to be TikTok",
-      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with…",
-      "image": "",
-      "published_at": "2026-11-11T13:30:00Z",
-      "category": "Disney"
-    },
-    {
       "id": "e3773944fe274ee50c3c",
       "source": "mit",
       "title": "The Download: preserving minds and weighing open AI risks",
@@ -991,16 +1041,6 @@
       "image": "",
       "published_at": "2026-11-11T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "b90de6c070f9d0f3441b",
-      "source": "verge",
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company…",
-      "image": "",
-      "published_at": "2026-11-11T00:34:24Z",
-      "category": "Gaming"
     },
     {
       "id": "d99380dbc5cae0079d7a",
@@ -1033,16 +1073,6 @@
       "category": "AI"
     },
     {
-      "id": "182ce20cd912119e75c3",
-      "source": "verge",
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies…",
-      "image": "",
-      "published_at": "2026-11-10T22:00:00Z",
-      "category": "Meta"
-    },
-    {
       "id": "fc39be61e3c3bb7d7a80",
       "source": "ars",
       "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
@@ -1053,16 +1083,6 @@
       "category": "Policy"
     },
     {
-      "id": "5fb16eb3c2c4f725ef1e",
-      "source": "verge",
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an…",
-      "image": "",
-      "published_at": "2026-11-10T21:40:31Z",
-      "category": "Business"
-    },
-    {
       "id": "291f3a9dad73b7687db6",
       "source": "ars",
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -1071,16 +1091,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
       "published_at": "2026-11-10T21:12:59Z",
       "category": "AI"
-    },
-    {
-      "id": "8150f3d8b2321466265e",
-      "source": "verge",
-      "title": "Sony cancels live-service shooter Fairgames",
-      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling…",
-      "image": "",
-      "published_at": "2026-11-10T21:06:12Z",
-      "category": "Entertainment"
     },
     {
       "id": "13559c2b3e694dd8b2eb",
@@ -1141,16 +1151,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg",
       "published_at": "2026-11-10T16:29:27Z",
       "category": "Science"
-    },
-    {
-      "id": "53be370201f4d56a0898",
-      "source": "ars",
-      "title": "One space station company sues another for copying its work",
-      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
-      "published_at": "2026-11-10T16:17:51Z",
-      "category": "Space"
     },
     {
       "id": "6d86629016391090f656",

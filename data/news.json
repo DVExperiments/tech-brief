@@ -1,37 +1,157 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T02:56:53Z",
+  "updated_at": "2026-11-13T10:59:47Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T02:56:53Z",
+      "last_success_at": "2026-11-13T10:59:47Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T02:56:53Z",
+      "last_success_at": "2026-11-13T10:59:47Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 29,
-      "last_success_at": "2026-11-13T02:56:53Z",
+      "count": 30,
+      "last_success_at": "2026-11-13T10:59:47Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T02:56:53Z",
+      "last_success_at": "2026-11-13T10:59:47Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "3fc9c2ea879821865467",
+      "source": "wired",
+      "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk",
+      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
+      "summary": "Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.",
+      "image": "https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/master/pass/Cybertruck-Mourning-Culture.jpg",
+      "published_at": "2026-11-13T10:30:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "219ddc7280ce0f5684fa",
+      "source": "wired",
+      "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+      "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+      "summary": "With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.",
+      "image": "https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/master/pass/27990737266_8b321346a4_o.jpg",
+      "published_at": "2026-11-13T10:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "c420e7db33961d784d97",
+      "source": "wired",
+      "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
+      "url": "https://www.wired.com/review/bitdefender-antivirus-plus/",
+      "summary": "It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.",
+      "image": "https://media.wired.com/photos/6ab18d47c9d4d635b849cb4e/master/pass/Review--Bitdefender-Antivirus-Plus.jpg",
+      "published_at": "2026-11-13T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "72685a810aa56598abb9",
+      "source": "mit",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer…",
+      "image": "",
+      "published_at": "2026-11-13T10:00:00Z",
+      "category": "Biotechnology and health"
+    },
+    {
+      "id": "029e953f961729df7d73",
+      "source": "mit",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark…",
+      "image": "",
+      "published_at": "2026-11-13T10:00:00Z",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "02483368eb4aba4eaa51",
+      "source": "wired",
+      "title": "Gametime Promo Code: Save on Tickets in November 2026",
+      "url": "https://www.wired.com/story/gametime-promo-code/",
+      "summary": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
+      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "778bd0f44c1534617af7",
+      "source": "wired",
+      "title": "Instacart Promo Code: $15 Off | November 2026",
+      "url": "https://www.wired.com/story/instacart-promo/code/",
+      "summary": "Find the best Instacart promo code for massive savings in November 2026.",
+      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4156a1c45a1890b513cd",
+      "source": "wired",
+      "title": "Peacock Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "551c7c70d08fa6150abf",
+      "source": "wired",
+      "title": "LG Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6d49cc6cb1b5d27b4402",
+      "source": "wired",
+      "title": "Western Digital Promo Code: 15% Off",
+      "url": "https://www.wired.com/story/western-digital-promo-code/",
+      "summary": "Get 15% off your first order at Western Digital when you register your email.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "820571838b378a333783",
+      "source": "wired",
+      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
+      "url": "https://www.wired.com/story/logitech-promo-code/",
+      "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "79442f674fb81112e597",
+      "source": "wired",
+      "title": "Chatbooks Promo Code: 40% Off | November 2026",
+      "url": "https://www.wired.com/story/chatbooks-promo-code/",
+      "summary": "Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "d6aaa3707c8573d2c051",
       "source": "wired",
@@ -703,106 +823,6 @@
       "category": "Science"
     },
     {
-      "id": "f68ad0c39266083ecb55",
-      "source": "wired",
-      "title": "TurboTax Full Service Coupons This November 2026",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5fd2e4d06a016f8d6e2e",
-      "source": "wired",
-      "title": "Lovehoney Coupon Offers: 70% Off",
-      "url": "https://www.wired.com/story/lovehoney-discount-code/",
-      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "56a2e4d6a03304104069",
-      "source": "wired",
-      "title": "Wayfair Coupons: Up to 80% Off November 2026",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1cdf363fd7cfe468ff36",
-      "source": "wired",
-      "title": "Lenovo Coupon Codes: 15% Off in November 2026",
-      "url": "https://www.wired.com/story/lenovo-coupon-code/",
-      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2f961f30dbd0c57cda53",
-      "source": "wired",
-      "title": "HelloFresh Promo Codes: 55% Off for November 2026",
-      "url": "https://www.wired.com/story/hellofresh-coupon/",
-      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in November 2026. Discover our best codes and discounts to let you save time and money.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6bb46fc3c7ef169a6716",
-      "source": "wired",
-      "title": "Hydrow Discount Code: Save Up to $150 | November 2026",
-      "url": "https://www.wired.com/story/hydrow-discount-code/",
-      "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "519ba6421b3f2608dbdb",
-      "source": "wired",
-      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5486d566d3e72e0f5d44",
-      "source": "wired",
-      "title": "Ruggable Discount Code: 30% Off Rugs | November 2026",
-      "url": "https://www.wired.com/story/ruggable-discount-code/",
-      "summary": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d267f4627cacea911e83",
-      "source": "wired",
-      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7b0221a9fadb2cde20c4",
-      "source": "wired",
-      "title": "Ring Promo Code: 50% Off",
-      "url": "https://www.wired.com/story/ring-promo-code/",
-      "summary": "Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "published_at": "2026-11-12T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "c2a735a70c012c79a8c9",
       "source": "verge",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
@@ -1391,16 +1411,6 @@
       "image": "",
       "published_at": "2026-10-30T11:30:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "ea921774908b36fe4cac",
-      "source": "mit",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A…",
-      "image": "",
-      "published_at": "2026-10-30T09:00:00Z",
-      "category": "Biotechnology and health"
     }
   ]
 }

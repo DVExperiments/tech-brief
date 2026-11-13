@@ -1,37 +1,187 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T18:31:37Z",
+  "updated_at": "2026-11-13T23:53:33Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T18:31:37Z",
+      "last_success_at": "2026-11-13T23:53:33Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T18:31:37Z",
+      "last_success_at": "2026-11-13T23:53:33Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-13T18:31:37Z",
+      "last_success_at": "2026-11-13T23:53:33Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T18:31:37Z",
+      "last_success_at": "2026-11-13T23:53:33Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "eb90b135b32b67df4c3d",
+      "source": "verge",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The…",
+      "image": "",
+      "published_at": "2026-11-13T23:49:11Z",
+      "category": "AI"
+    },
+    {
+      "id": "2a43e6f0eeff87e7f1b8",
+      "source": "verge",
+      "title": "FAA ground stop shuts down flights nationwide",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed…",
+      "image": "",
+      "published_at": "2026-11-13T23:47:27Z",
+      "category": "Mass Transit"
+    },
+    {
+      "id": "841c29a7ffca935d0299",
+      "source": "ars",
+      "title": "FAA orders third nationwide ground stop in its history",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+      "published_at": "2026-11-13T23:17:38Z",
+      "category": "Policy"
+    },
+    {
+      "id": "84fb440d5ae6b50cbe18",
+      "source": "wired",
+      "title": "Best Early Black Friday AirPods Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
+      "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/master/pass/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg",
+      "published_at": "2026-11-13T22:30:29Z",
+      "category": "Gear"
+    },
+    {
+      "id": "277788b140df758574e8",
+      "source": "ars",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
+      "published_at": "2026-11-13T21:59:01Z",
+      "category": "Health"
+    },
+    {
+      "id": "885ce6c4b40a44c01132",
+      "source": "wired",
+      "title": "FAA Grounds All US Flights Until Further Notice",
+      "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+      "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+      "image": "https://media.wired.com/photos/6af77f75b0613b392083fb37/master/pass/FAA-Grounds-All-Flights-Gear-970624408.jpg",
+      "published_at": "2026-11-13T21:42:57Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9176dd3865460d281ee6",
+      "source": "ars",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "published_at": "2026-11-13T21:20:47Z",
+      "category": "AI"
+    },
+    {
+      "id": "410e7bf1117c92db319f",
+      "source": "verge",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using…",
+      "image": "",
+      "published_at": "2026-11-13T20:45:10Z",
+      "category": "AI"
+    },
+    {
+      "id": "6db323efc40d5fe8841c",
+      "source": "verge",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing…",
+      "image": "",
+      "published_at": "2026-11-13T20:30:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "2ebcabde9f11e89a4c02",
+      "source": "ars",
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
+      "published_at": "2026-11-13T20:03:13Z",
+      "category": "Science"
+    },
+    {
+      "id": "68b52ca115a648e8d3c6",
+      "source": "wired",
+      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
+      "summary": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
+      "image": "https://media.wired.com/photos/6af75fb01f124ac5bec35016/master/pass/Send-Someone-on-a-Coffee-World-Tour-for-$59.jpg",
+      "published_at": "2026-11-13T19:58:41Z",
+      "category": "Gear"
+    },
+    {
+      "id": "48a9b39abaffc54df5d2",
+      "source": "wired",
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "image": "https://media.wired.com/photos/6af75ae25e4ca9026ac50b67/master/pass/The-Best-Early-Black-Friday-Mattress-Deals-So-Far.jpg",
+      "published_at": "2026-11-13T19:57:56Z",
+      "category": "Gear"
+    },
+    {
+      "id": "06a6bc6b3e692f580aa7",
+      "source": "ars",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+      "published_at": "2026-11-13T19:49:16Z",
+      "category": "Policy"
+    },
+    {
+      "id": "569f383721aac5065111",
+      "source": "verge",
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on…",
+      "image": "",
+      "published_at": "2026-11-13T19:14:38Z",
+      "category": "Deals"
+    },
+    {
+      "id": "f7a493cfb552d818d973",
+      "source": "wired",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
+      "published_at": "2026-11-13T19:08:57Z",
+      "category": "Security"
+    },
     {
       "id": "1b41bc4ceb56f9e0b373",
       "source": "verge",
@@ -105,9 +255,9 @@
     {
       "id": "2647340093ebb954debc",
       "source": "verge",
-      "title": "Microsoft’s massive Outlook outage continues",
+      "title": "Microsoft’s massive Outlook outage might be over",
       "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded…",
+      "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning…",
       "image": "",
       "published_at": "2026-11-13T16:17:11Z",
       "category": "Microsoft"
@@ -873,16 +1023,6 @@
       "category": "AI"
     },
     {
-      "id": "a2de7d8625eed41b63aa",
-      "source": "wired",
-      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-      "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
-      "summary": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
-      "image": "https://media.wired.com/photos/6ae951f7e1fce5fdf7878b36/master/pass/SM_Science_Synchron_GettyImages-1610629090.jpg",
-      "published_at": "2026-11-12T15:58:21Z",
-      "category": "Science"
-    },
-    {
       "id": "c11701ce436e121b7eea",
       "source": "verge",
       "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
@@ -893,36 +1033,6 @@
       "category": "AI"
     },
     {
-      "id": "e90f0529f13035e48701",
-      "source": "verge",
-      "title": "A power bank that can quickly charge three gadgets is just $49",
-      "url": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
-      "summary": "Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal…",
-      "image": "",
-      "published_at": "2026-11-12T15:19:58Z",
-      "category": "Deals"
-    },
-    {
-      "id": "e414a21b3c4aba4494aa",
-      "source": "verge",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York…",
-      "image": "",
-      "published_at": "2026-11-12T15:01:31Z",
-      "category": "AI"
-    },
-    {
-      "id": "54aaa3fbdb67401aaa32",
-      "source": "wired",
-      "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
-      "url": "https://www.wired.com/story/best-open-earbuds/",
-      "summary": "I’ve tested dozens of open earbuds. My favorites let you hear the world and your tunes equally well.",
-      "image": "https://media.wired.com/photos/6af51932b045743ddac978ab/master/pass/The-Best-Open-Earbuds,-According-to-a-Reviewer-Who-Has-Tested-Dozens.jpg",
-      "published_at": "2026-11-12T15:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "7ffa77d844253a14dcb1",
       "source": "ars",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
@@ -931,26 +1041,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
       "published_at": "2026-11-12T14:50:17Z",
       "category": "AI"
-    },
-    {
-      "id": "2bf267cd8ad353c49f51",
-      "source": "wired",
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-      "image": "https://media.wired.com/photos/6af5c3ffec0d511a4648accf/master/pass/111226-Colette%20Nvidia.jpg",
-      "published_at": "2026-11-12T14:14:33Z",
-      "category": "Business"
-    },
-    {
-      "id": "e540e7197f4a00920395",
-      "source": "verge",
-      "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
-      "url": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
-      "summary": "Bricklink, a popular online marketplace that Lego bought in 2019 where fans can buy and sell parts and sets, has been down for a week and the company doesn't know when it will return. The team who runs the site has…",
-      "image": "",
-      "published_at": "2026-11-12T14:13:58Z",
-      "category": "Gadgets"
     },
     {
       "id": "eee5df2a7aea086f5964",
@@ -973,26 +1063,6 @@
       "category": "Tech"
     },
     {
-      "id": "9fb87549f00515084fce",
-      "source": "wired",
-      "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
-      "url": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
-      "summary": "The Warby Parker and Gentle Monster frames cost $395 and $449, respectively, and come in a handful of styles.",
-      "image": "https://media.wired.com/photos/6af47aa0e19a3e976bf95d8a/master/pass/DSC_0094.jpg",
-      "published_at": "2026-11-12T14:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "43087c995f49c2b5d7cf",
-      "source": "wired",
-      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
-      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
-      "image": "https://media.wired.com/photos/6af47bd6b9a1088954de923c/master/pass/DSC_0097.jpg",
-      "published_at": "2026-11-12T14:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "68ee908a7c2af5496321",
       "source": "mit",
       "title": "The Download: COP31’s climate challenge and the quest for immortality",
@@ -1011,26 +1081,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
       "published_at": "2026-11-12T12:00:37Z",
       "category": "Apple"
-    },
-    {
-      "id": "c2a735a70c012c79a8c9",
-      "source": "verge",
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged…",
-      "image": "",
-      "published_at": "2026-11-11T22:44:36Z",
-      "category": "AI"
-    },
-    {
-      "id": "9358bc179df40e2bc373",
-      "source": "verge",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into…",
-      "image": "",
-      "published_at": "2026-11-11T22:00:00Z",
-      "category": "Reviews"
     },
     {
       "id": "39a502382f1014171333",
@@ -1123,26 +1173,6 @@
       "category": "Science"
     },
     {
-      "id": "5b02b3ea434a487bae19",
-      "source": "ars",
-      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
-      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg",
-      "published_at": "2026-11-11T15:25:44Z",
-      "category": "Cars"
-    },
-    {
-      "id": "2c8260ab17349c740753",
-      "source": "ars",
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "summary": "The four-week project hints that AI could make formal verification far more practical.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
-      "published_at": "2026-11-11T14:08:57Z",
-      "category": "AI"
-    },
-    {
       "id": "e3773944fe274ee50c3c",
       "source": "mit",
       "title": "The Download: preserving minds and weighing open AI risks",
@@ -1151,36 +1181,6 @@
       "image": "",
       "published_at": "2026-11-11T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "d99380dbc5cae0079d7a",
-      "source": "ars",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
-      "published_at": "2026-11-10T23:30:56Z",
-      "category": "Tech"
-    },
-    {
-      "id": "5baf04a9dad006af4ebf",
-      "source": "ars",
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
-      "published_at": "2026-11-10T23:02:39Z",
-      "category": "Space"
-    },
-    {
-      "id": "be84277aa3879ecd35cb",
-      "source": "ars",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-      "published_at": "2026-11-10T22:35:01Z",
-      "category": "AI"
     },
     {
       "id": "6d86629016391090f656",

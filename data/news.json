@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T19:11:03Z",
+  "updated_at": "2026-11-14T22:58:51Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T19:11:03Z",
+      "last_success_at": "2026-11-14T22:58:50Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T19:11:03Z",
+      "last_success_at": "2026-11-14T22:58:50Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-14T19:11:03Z",
+      "last_success_at": "2026-11-14T22:58:51Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T19:11:03Z",
+      "last_success_at": "2026-11-14T22:58:51Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "2428c785b01c3e216344",
+      "source": "verge",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches…",
+      "image": "",
+      "published_at": "2026-11-14T21:44:44Z",
+      "category": "News"
+    },
+    {
+      "id": "fc9a47b05af5cda9015b",
+      "source": "verge",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to…",
+      "image": "",
+      "published_at": "2026-11-14T19:47:40Z",
+      "category": "Entertainment"
+    },
     {
       "id": "63fe3f0962c495c9238e",
       "source": "verge",
@@ -1031,26 +1051,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
       "published_at": "2026-11-12T18:17:19Z",
       "category": "Health"
-    },
-    {
-      "id": "382026867cc488c82db2",
-      "source": "verge",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the…",
-      "image": "",
-      "published_at": "2026-11-12T18:06:54Z",
-      "category": "AI"
-    },
-    {
-      "id": "01fc50c51c3da331a89f",
-      "source": "verge",
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no…",
-      "image": "",
-      "published_at": "2026-11-12T17:44:33Z",
-      "category": "AI"
     },
     {
       "id": "9ab3567c9eb5f8bd1a49",

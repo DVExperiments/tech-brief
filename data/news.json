@@ -1,37 +1,207 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T23:53:33Z",
+  "updated_at": "2026-11-14T06:24:50Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T23:53:33Z",
+      "last_success_at": "2026-11-14T06:24:50Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T23:53:33Z",
+      "last_success_at": "2026-11-14T06:24:50Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-13T23:53:33Z",
+      "last_success_at": "2026-11-14T06:24:50Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-13T23:53:33Z",
+      "last_success_at": "2026-11-14T06:24:50Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "551c7c70d08fa6150abf",
+      "source": "wired",
+      "title": "LG Promo Codes and Coupons 20% Off for November 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f567793312fcf248c3b0",
+      "source": "wired",
+      "title": "Dell Coupon Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dcfaddb031a777b29327",
+      "source": "wired",
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "565f705cf73f69492324",
+      "source": "wired",
+      "title": "Disney Plus Discount Codes: 52% Off November 2026",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b85c67f0c41fcf2beee1",
+      "source": "wired",
+      "title": "30% Off Canon Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "56a2e4d6a03304104069",
+      "source": "wired",
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "12e9a112f26215bb95a7",
+      "source": "wired",
+      "title": "Klook Promo Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/klook-promo-code/",
+      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3b16f44023252999ad43",
+      "source": "wired",
+      "title": "Whoop Promo Codes: 20% Off This November 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4fa2b481b6048ff8e82b",
+      "source": "wired",
+      "title": "20% Off Samsung Promo Code | November 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1ccb30360fcd38b1206e",
+      "source": "wired",
+      "title": "Tuft & Needle Promo Codes: 20% Off | November 2026",
+      "url": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+      "summary": "Save 30% on best-selling mattresses with our top Tuft & Needle coupon codes.",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8605f964b812db0f71eb",
+      "source": "wired",
+      "title": "Womanizer Coupons: Save 15% in November 2026",
+      "url": "https://www.wired.com/story/womanizer-coupon/",
+      "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
+      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "288dbb236e7bf79ae1c5",
+      "source": "wired",
+      "title": "ABT Promo Codes & Discounts for November 2026",
+      "url": "https://www.wired.com/story/abt-promo-code/",
+      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "152bfdfdd8bc11aa7f2d",
+      "source": "wired",
+      "title": "PlayStation Discount Code: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/playstation-discount-code/",
+      "summary": "Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "052fdfde12ca374ebea7",
+      "source": "wired",
+      "title": "Adidas Promo Code | 60% Off | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-14T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2a43e6f0eeff87e7f1b8",
+      "source": "verge",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after…",
+      "image": "",
+      "published_at": "2026-11-14T01:53:04Z",
+      "category": "Mass Transit"
+    },
+    {
+      "id": "1bfb9bd79682ecdd8577",
+      "source": "wired",
+      "title": "The FAA Nationwide Ground Stop Is Over",
+      "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+      "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+      "image": "https://media.wired.com/photos/6af796575e4ca9026ac50e15/master/pass/Air-Traffic-Outage-Wasnt-AI-Gear-2239205748.jpg",
+      "published_at": "2026-11-14T01:46:40Z",
+      "category": "Gear"
+    },
+    {
+      "id": "58cc00db2d3646e6d7d1",
+      "source": "ars",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+      "published_at": "2026-11-14T00:49:13Z",
+      "category": "Space"
+    },
     {
       "id": "eb90b135b32b67df4c3d",
       "source": "verge",
@@ -43,21 +213,11 @@
       "category": "AI"
     },
     {
-      "id": "2a43e6f0eeff87e7f1b8",
-      "source": "verge",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed…",
-      "image": "",
-      "published_at": "2026-11-13T23:47:27Z",
-      "category": "Mass Transit"
-    },
-    {
       "id": "841c29a7ffca935d0299",
       "source": "ars",
-      "title": "FAA orders third nationwide ground stop in its history",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
       "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
       "published_at": "2026-11-13T23:17:38Z",
       "category": "Policy"
@@ -533,16 +693,6 @@
       "category": "Gear"
     },
     {
-      "id": "551c7c70d08fa6150abf",
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons for November 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "6d49cc6cb1b5d27b4402",
       "source": "wired",
       "title": "Western Digital Promo Code: 15% Off",
@@ -563,26 +713,6 @@
       "category": "Gear"
     },
     {
-      "id": "79442f674fb81112e597",
-      "source": "wired",
-      "title": "Chatbooks Promo Code: 40% Off | November 2026",
-      "url": "https://www.wired.com/story/chatbooks-promo-code/",
-      "summary": "Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d6aaa3707c8573d2c051",
-      "source": "wired",
-      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
-      "image": "https://media.wired.com/photos/6af6533dc5d481da1362b330/master/pass/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
-      "published_at": "2026-11-13T01:17:49Z",
-      "category": "Business"
-    },
-    {
       "id": "edcc89ea46ff35e97720",
       "source": "verge",
       "title": "Donald Trump really wants Tim Cook to run Nvidia",
@@ -601,16 +731,6 @@
       "image": "",
       "published_at": "2026-11-13T00:11:44Z",
       "category": "Gaming"
-    },
-    {
-      "id": "bbf0d8be815b610a76a5",
-      "source": "wired",
-      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
-      "summary": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
-      "image": "https://media.wired.com/photos/6af637dc998b570c3dad49d5/master/pass/These-Great-Budget-Robot-Vacuums-Are-on-Sale-for-Even-Less.jpg",
-      "published_at": "2026-11-12T23:54:58Z",
-      "category": "Gear"
     },
     {
       "id": "2ffa5b1b62ec9e0297b6",
@@ -663,26 +783,6 @@
       "category": "Health"
     },
     {
-      "id": "8b70734e82c7468c3a9e",
-      "source": "wired",
-      "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
-      "url": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
-      "summary": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan.",
-      "image": "https://media.wired.com/photos/6af6384cae8ec1b73c9441a2/master/pass/Mint-Mobile-Is-Offering-Up-to-$500-on-Select-New-Phones-When-You-Switch.jpg",
-      "published_at": "2026-11-12T22:47:26Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6eb0b8ca501b0e702ad6",
-      "source": "wired",
-      "title": "Silicon Valley Is Still Defending Jensen Huang",
-      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-      "image": "https://media.wired.com/photos/6af5104da36e580e1eb299b6/master/pass/Model-Behavior-Silicon-Valley-Waiting-for-Jensen-Scandal-to-Blow-Over-Business.jpg",
-      "published_at": "2026-11-12T22:29:43Z",
-      "category": "Business"
-    },
-    {
       "id": "5a90a514d4ec8847aaf7",
       "source": "ars",
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -691,26 +791,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
       "published_at": "2026-11-12T22:28:47Z",
       "category": "AI"
-    },
-    {
-      "id": "14099c27e7ac8c9fdc53",
-      "source": "wired",
-      "title": "The 10 Best Early Black Friday TV Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/",
-      "summary": "I found discounts of up to half off some of the top WIRED-tested TVs.",
-      "image": "https://media.wired.com/photos/6af63561cf6e4fa5fe151274/master/pass/The-Best-Early-Black-Friday-TV-Deals.jpg",
-      "published_at": "2026-11-12T22:27:06Z",
-      "category": "Gear"
-    },
-    {
-      "id": "96b46dde781c3f569c41",
-      "source": "wired",
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "image": "https://media.wired.com/photos/6af5ee2157e0a3ee177875cd/master/pass/Uncanny-Valley-Jensen-Emergency-Pod.jpg",
-      "published_at": "2026-11-12T22:14:41Z",
-      "category": "Business"
     },
     {
       "id": "79f2a2e3569e9342a290",
@@ -743,16 +823,6 @@
       "category": "Deals"
     },
     {
-      "id": "0c6b7f3db56c585b7576",
-      "source": "wired",
-      "title": "Walmart Early Black Friday Deals Double as Great Gifts (2026)",
-      "url": "https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/",
-      "summary": "Save on some of our favorite giftable vacuums, headphones, pet gadgets, and more ahead of Black Friday.",
-      "image": "https://media.wired.com/photos/6af602158672019c651ee0ec/master/pass/Walmart%E2%80%99s-Early-Black-Friday-Deals-Have-Landed.jpg",
-      "published_at": "2026-11-12T21:21:33Z",
-      "category": "Gear"
-    },
-    {
       "id": "ea05c9e24e3408eecf39",
       "source": "verge",
       "title": "Here are the 25 original Xbox games you can now play on PC",
@@ -763,16 +833,6 @@
       "category": "Gaming"
     },
     {
-      "id": "f60a365b179b85b3873e",
-      "source": "wired",
-      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
-      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
-      "image": "https://media.wired.com/photos/6af5df9b506e35cfaae88b85/master/pass/111226-Jensen%20Power%20Women%20tech.jpg",
-      "published_at": "2026-11-12T20:35:11Z",
-      "category": "Business"
-    },
-    {
       "id": "9017d190a441b2208a89",
       "source": "mit",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -781,16 +841,6 @@
       "image": "",
       "published_at": "2026-11-12T20:16:24Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "1d8c21bdc5bb59268260",
-      "source": "wired",
-      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
-      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
-      "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
-      "image": "https://media.wired.com/photos/6af619fa66909349c1be40f4/master/pass/Security_Microsoft365Outage-ezgif.com-video-to-gif-converter%20(1).gif",
-      "published_at": "2026-11-12T20:01:33Z",
-      "category": "Security"
     },
     {
       "id": "b934ca2484449d45a30e",
@@ -853,26 +903,6 @@
       "category": "Policy"
     },
     {
-      "id": "9eb07057bdb215a7fa95",
-      "source": "wired",
-      "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
-      "url": "https://www.wired.com/story/climate-change-abolishes-ice/",
-      "summary": "Humanity has thrived thanks to a stable cryosphere, but burning fossil fuels has increased the risk of “accelerating and partly irreversible” harm to the planet’s cold places.",
-      "image": "https://media.wired.com/photos/6af5e520156d389dd99a110b/master/pass/GettyImages-2175753469.jpg",
-      "published_at": "2026-11-12T19:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "e317116852407b9b6115",
-      "source": "wired",
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "image": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg",
-      "published_at": "2026-11-12T18:59:58Z",
-      "category": "Business"
-    },
-    {
       "id": "5c8d82d1d956058b57a6",
       "source": "ars",
       "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
@@ -921,26 +951,6 @@
       "image": "",
       "published_at": "2026-11-12T18:06:54Z",
       "category": "AI"
-    },
-    {
-      "id": "b3a3152a1b656afb8780",
-      "source": "wired",
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
-      "published_at": "2026-11-12T18:05:41Z",
-      "category": "Business / Artificial Intelligence"
-    },
-    {
-      "id": "dea3743a60f419272666",
-      "source": "wired",
-      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-      "image": "https://media.wired.com/photos/6af5f0e82e74be76ab295bc3/master/pass/111226-nvidia-jensen-huang-dollar-destroyed.jpg",
-      "published_at": "2026-11-12T17:59:15Z",
-      "category": "Business"
     },
     {
       "id": "01fc50c51c3da331a89f",
@@ -1161,16 +1171,6 @@
       "image": "",
       "published_at": "2026-11-11T17:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "9fdbce89f0228b8d71ec",
-      "source": "ars",
-      "title": "IBM to offer access to a dual-processor quantum system in 2027",
-      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
-      "published_at": "2026-11-11T16:33:08Z",
-      "category": "Science"
     },
     {
       "id": "e3773944fe274ee50c3c",

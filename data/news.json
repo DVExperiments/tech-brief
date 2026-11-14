@@ -1,37 +1,87 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T13:48:30Z",
+  "updated_at": "2026-11-14T19:11:03Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T13:48:30Z",
+      "last_success_at": "2026-11-14T19:11:03Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T13:48:30Z",
+      "last_success_at": "2026-11-14T19:11:03Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-14T13:48:30Z",
+      "last_success_at": "2026-11-14T19:11:03Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T13:48:30Z",
+      "last_success_at": "2026-11-14T19:11:03Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "63fe3f0962c495c9238e",
+      "source": "verge",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote…",
+      "image": "",
+      "published_at": "2026-11-14T17:44:28Z",
+      "category": "News"
+    },
+    {
+      "id": "12ad0bd64ef67daccb88",
+      "source": "verge",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve…",
+      "image": "",
+      "published_at": "2026-11-14T15:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "943a4d4124183953fc96",
+      "source": "verge",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a…",
+      "image": "",
+      "published_at": "2026-11-14T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "05680b7830321657e03a",
+      "source": "verge",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater…",
+      "image": "",
+      "published_at": "2026-11-14T14:18:36Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "39ea6e9880dcb7e8e989",
+      "source": "verge",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one…",
+      "image": "",
+      "published_at": "2026-11-14T14:00:00Z",
+      "category": "Gadgets"
+    },
     {
       "id": "905f9c2f218f49bfb40c",
       "source": "verge",
@@ -48,7 +98,7 @@
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "image": "",
+      "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
       "published_at": "2026-11-14T13:00:00Z",
       "category": "Security"
     },
@@ -1011,56 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
       "published_at": "2026-11-12T17:18:10Z",
       "category": "Science"
-    },
-    {
-      "id": "ce040b4312e0b8c17c3d",
-      "source": "verge",
-      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-      "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around…",
-      "image": "",
-      "published_at": "2026-11-12T17:00:17Z",
-      "category": "Electric Cars"
-    },
-    {
-      "id": "d63692514ab9eb6c3b84",
-      "source": "verge",
-      "title": "25 years later, Xbox is trying to reinvent itself again",
-      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-      "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years…",
-      "image": "",
-      "published_at": "2026-11-12T17:00:00Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "5fd297aa7b23aa1e552c",
-      "source": "verge",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared…",
-      "image": "",
-      "published_at": "2026-11-12T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "e43deced4a2f4ddc079c",
-      "source": "verge",
-      "title": "More game developers are using generative AI than they did last year",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. 40 percent of developers surveyed say they use…",
-      "image": "",
-      "published_at": "2026-11-12T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "e3ce26ab6df17f89f75f",
-      "source": "verge",
-      "title": "Google Wallet can finally unlock doors with digital home keys",
-      "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
-      "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview…",
-      "image": "",
-      "published_at": "2026-11-12T16:56:33Z",
-      "category": "Android"
     },
     {
       "id": "7ffa77d844253a14dcb1",

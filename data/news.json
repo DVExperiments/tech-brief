@@ -1,37 +1,207 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T06:24:50Z",
+  "updated_at": "2026-11-14T13:48:30Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T06:24:50Z",
+      "last_success_at": "2026-11-14T13:48:30Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T06:24:50Z",
+      "last_success_at": "2026-11-14T13:48:30Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-14T06:24:50Z",
+      "last_success_at": "2026-11-14T13:48:30Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T06:24:50Z",
+      "last_success_at": "2026-11-14T13:48:30Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "905f9c2f218f49bfb40c",
+      "source": "verge",
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the…",
+      "image": "",
+      "published_at": "2026-11-14T13:00:00Z",
+      "category": "Apps"
+    },
+    {
+      "id": "661a0e9c420c9c023792",
+      "source": "wired",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "image": "",
+      "published_at": "2026-11-14T13:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "2dd2d5f25be726a11b37",
+      "source": "ars",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
+      "published_at": "2026-11-14T12:15:48Z",
+      "category": "Science"
+    },
+    {
+      "id": "13f7e52179dd9ab472c7",
+      "source": "ars",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
+      "published_at": "2026-11-14T12:05:51Z",
+      "category": "Science"
+    },
+    {
+      "id": "36467474af6c08c76674",
+      "source": "wired",
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "image": "https://media.wired.com/photos/6af78dee04380d6fbf425df6/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg",
+      "published_at": "2026-11-14T12:05:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7142378533accd44b3a5",
+      "source": "verge",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with…",
+      "image": "",
+      "published_at": "2026-11-14T12:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "798c7a9ef5f9367b9b2e",
+      "source": "wired",
+      "title": "How to Run SteamOS on Your Mac",
+      "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+      "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
+      "image": "https://media.wired.com/photos/6af484753d0afc8b01fd0f21/master/pass/GettyImages-1394116979.jpg",
+      "published_at": "2026-11-14T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b0ae0f9bda6863cbdb92",
+      "source": "wired",
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
+      "image": "https://media.wired.com/photos/6af5bf6d129c3f49a6da47ce/master/pass/111216-CLoud%20Storage%20Audit.jpg",
+      "published_at": "2026-11-14T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "da17ea341c97e281a09a",
+      "source": "wired",
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "image": "https://media.wired.com/photos/6af7d0c3d135dcb52741f5c1/master/pass/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
+      "published_at": "2026-11-14T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8ccecc754dbf80070f5c",
+      "source": "wired",
+      "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "summary": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
+      "image": "https://media.wired.com/photos/6af78becda0b3f5acb040c4d/master/pass/The-21-Best-REI-Holiday-Sale-Outdoor-Deals.jpg",
+      "published_at": "2026-11-14T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f0be73b1c06d96ca1543",
+      "source": "wired",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "image": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
+      "published_at": "2026-11-14T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "a6885183908c39ad6c22",
+      "source": "wired",
+      "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+      "url": "https://www.wired.com/story/best-pickleball-paddles/",
+      "summary": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.",
+      "image": "",
+      "published_at": "2026-11-14T10:37:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ec6ffe7c381c00471f4c",
+      "source": "wired",
+      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+      "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+      "summary": "As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.",
+      "image": "https://media.wired.com/photos/6af4abdffbe5af43ea5def11/master/pass/GazaFlood_01.jpg",
+      "published_at": "2026-11-14T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "ce1b233a1e13bb4e06eb",
+      "source": "wired",
+      "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
+      "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+      "summary": "The signature moto jacket has officially worn out its welcome. Here’s how fashion’s pros would rebrand him.",
+      "image": "https://media.wired.com/photos/6af7364ac76e30186375551b/master/pass/111326-Jensen%20Style.jpg",
+      "published_at": "2026-11-14T10:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4dc536dd6672da49e21f",
+      "source": "wired",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
+      "image": "https://media.wired.com/photos/6af78b0965e40024232d7e36/master/pass/These-Stores-Are-Offering-Complete-Thanksgiving-Meal-Deals-for-$35-or-Less.jpg",
+      "published_at": "2026-11-14T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "62a5600244588a5745c5",
+      "source": "wired",
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+      "image": "https://media.wired.com/photos/6af47d34e9ef28e062a72826/master/pass/Dark-Matter-Galaxies-cr.several-Lede.jpg",
+      "published_at": "2026-11-14T10:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "0f13b98287e88b371cfd",
+      "source": "wired",
+      "title": "Outlook Went Down? Microsoft May Owe You Money",
+      "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
+      "summary": "If your Microsoft business services were offline last week, you’re probably entitled to a partial credit on your next monthly bill.",
+      "image": "https://media.wired.com/photos/6af7757eefe64d5ef3ea37aa/master/pass/How-to-Get-Refund-From-Microsoft-Gear-1211180727.jpg",
+      "published_at": "2026-11-14T07:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "551c7c70d08fa6150abf",
       "source": "wired",
@@ -553,16 +723,6 @@
       "category": "Space"
     },
     {
-      "id": "2222e718908c1020ee50",
-      "source": "wired",
-      "title": "TCL QM7L Mini-LED TV Review (2026)",
-      "url": "https://www.wired.com/review/tcl-qm7l/",
-      "summary": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.",
-      "image": "https://media.wired.com/photos/6af64cc07d3b549f19bbdcc7/master/pass/Review--TCL-QM7L-Mini-LED-TV.jpg",
-      "published_at": "2026-11-13T12:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "c9267733180bbd2fa931",
       "source": "ars",
       "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
@@ -571,76 +731,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
       "published_at": "2026-11-13T11:50:38Z",
       "category": "Tech"
-    },
-    {
-      "id": "a8ada3bb3bc9454317e2",
-      "source": "wired",
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "image": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg",
-      "published_at": "2026-11-13T11:45:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "a2ffe0e2a1661ef45be8",
-      "source": "wired",
-      "title": "Even Black Friday Will Be More Expensive Than Usual",
-      "url": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
-      "summary": "The AI memory crunch is coming for your holiday shopping list.",
-      "image": "https://media.wired.com/photos/6af7131c24bd9dbe89f314cb/master/pass/111326-Black%20Friday%20Memory%20Chip.jpg",
-      "published_at": "2026-11-13T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "30e83cf4a36403724b2a",
-      "source": "wired",
-      "title": "‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next",
-      "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/",
-      "summary": "Jean Guerrero, Stephen Miller’s biographer, sees him as “a case study in oligarchic capture”—and as a way for Donald Trump to double down.",
-      "image": "https://media.wired.com/photos/6af48b9f1bbf3e7f3fba04d9/master/pass/GettyImages-2214264559.jpg",
-      "published_at": "2026-11-13T11:15:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "b853d27c2d6f0a87da85",
-      "source": "wired",
-      "title": "Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen",
-      "url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
-      "summary": "William Gibson released his seminal novel Neuromancer in 1984. WIRED has an exclusive look at how it eventually made its way to Apple TV—thanks in no small part to Drake.",
-      "image": "https://media.wired.com/photos/6aee55c49c22209c9f013e23/master/pass/Neuromancer-BTS-Culture_102_18753F.jpg",
-      "published_at": "2026-11-13T11:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "3fc9c2ea879821865467",
-      "source": "wired",
-      "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk",
-      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
-      "summary": "Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.",
-      "image": "https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/master/pass/Cybertruck-Mourning-Culture.jpg",
-      "published_at": "2026-11-13T10:30:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "219ddc7280ce0f5684fa",
-      "source": "wired",
-      "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
-      "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
-      "summary": "With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.",
-      "image": "https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/master/pass/27990737266_8b321346a4_o.jpg",
-      "published_at": "2026-11-13T10:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "c420e7db33961d784d97",
-      "source": "wired",
-      "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
-      "url": "https://www.wired.com/review/bitdefender-antivirus-plus/",
-      "summary": "It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.",
-      "image": "https://media.wired.com/photos/6ab18d47c9d4d635b849cb4e/master/pass/Review--Bitdefender-Antivirus-Plus.jpg",
-      "published_at": "2026-11-13T10:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "72685a810aa56598abb9",
@@ -661,56 +751,6 @@
       "image": "",
       "published_at": "2026-11-13T10:00:00Z",
       "category": "Business"
-    },
-    {
-      "id": "02483368eb4aba4eaa51",
-      "source": "wired",
-      "title": "Gametime Promo Code: Save on Tickets in November 2026",
-      "url": "https://www.wired.com/story/gametime-promo-code/",
-      "summary": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
-      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "778bd0f44c1534617af7",
-      "source": "wired",
-      "title": "Instacart Promo Code: $15 Off | November 2026",
-      "url": "https://www.wired.com/story/instacart-promo/code/",
-      "summary": "Find the best Instacart promo code for massive savings in November 2026.",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4156a1c45a1890b513cd",
-      "source": "wired",
-      "title": "Peacock Promo Codes: 40% Off November 2026",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6d49cc6cb1b5d27b4402",
-      "source": "wired",
-      "title": "Western Digital Promo Code: 15% Off",
-      "url": "https://www.wired.com/story/western-digital-promo-code/",
-      "summary": "Get 15% off your first order at Western Digital when you register your email.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "820571838b378a333783",
-      "source": "wired",
-      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-      "url": "https://www.wired.com/story/logitech-promo-code/",
-      "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "published_at": "2026-11-13T06:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "edcc89ea46ff35e97720",
@@ -1023,26 +1063,6 @@
       "category": "Android"
     },
     {
-      "id": "15e7e929deb3c8b87489",
-      "source": "verge",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his…",
-      "image": "",
-      "published_at": "2026-11-12T16:30:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "c11701ce436e121b7eea",
-      "source": "verge",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a…",
-      "image": "",
-      "published_at": "2026-11-12T15:48:12Z",
-      "category": "AI"
-    },
-    {
       "id": "7ffa77d844253a14dcb1",
       "source": "ars",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
@@ -1141,26 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg",
       "published_at": "2026-11-11T18:05:26Z",
       "category": "Policy"
-    },
-    {
-      "id": "9f5b5aff79d26505b8b2",
-      "source": "ars",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
-      "published_at": "2026-11-11T17:37:32Z",
-      "category": "AI"
-    },
-    {
-      "id": "b4fbb33051f9bd8498e1",
-      "source": "ars",
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "summary": "Apple has already made the forum read-only.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
-      "published_at": "2026-11-11T17:04:26Z",
-      "category": "Apple"
     },
     {
       "id": "39c713d0dd423908a0b9",

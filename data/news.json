@@ -1,37 +1,67 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T17:12:18Z",
+  "updated_at": "2026-11-15T21:50:25Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T17:12:18Z",
+      "last_success_at": "2026-11-15T21:50:25Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T17:12:18Z",
+      "last_success_at": "2026-11-15T21:50:25Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-15T17:12:18Z",
+      "last_success_at": "2026-11-15T21:50:25Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T17:12:18Z",
+      "last_success_at": "2026-11-15T21:50:25Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "bcea164eb04f11c374f0",
+      "source": "verge",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but…",
+      "image": "",
+      "published_at": "2026-11-15T21:05:02Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "cef7bcb5846fe4e5130c",
+      "source": "verge",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments…",
+      "image": "",
+      "published_at": "2026-11-15T20:43:49Z",
+      "category": "AI"
+    },
+    {
+      "id": "31cf3118bb51fd4011a1",
+      "source": "verge",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have…",
+      "image": "",
+      "published_at": "2026-11-15T19:15:43Z",
+      "category": "AI"
+    },
     {
       "id": "9aa445bcdd68ef9f592d",
       "source": "verge",
@@ -167,7 +197,7 @@
       "source": "wired",
       "title": "M6 Mac Mini Early Black Friday Sale (2026)",
       "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
-      "summary": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
       "image": "",
       "published_at": "2026-11-15T10:00:00Z",
       "category": "Gear"
@@ -931,36 +961,6 @@
       "image": "",
       "published_at": "2026-11-12T23:43:22Z",
       "category": "Fitness"
-    },
-    {
-      "id": "358fb450f2ec87ddd98a",
-      "source": "verge",
-      "title": "Humble Bundle redesign removes two-factor verification from settings",
-      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku…",
-      "image": "",
-      "published_at": "2026-11-12T23:30:52Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "ddc9afe8eaf8c4666294",
-      "source": "verge",
-      "title": "Microsoft Outlook is still down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its…",
-      "image": "",
-      "published_at": "2026-11-12T23:24:13Z",
-      "category": "Apps"
-    },
-    {
-      "id": "289e7ba7b51170db5e16",
-      "source": "verge",
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move…",
-      "image": "",
-      "published_at": "2026-11-12T23:00:00Z",
-      "category": "Gaming"
     },
     {
       "id": "2076979b6ce204cace08",

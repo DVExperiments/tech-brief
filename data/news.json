@@ -1,37 +1,187 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T09:56:29Z",
+  "updated_at": "2026-11-15T17:12:18Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T09:56:29Z",
+      "last_success_at": "2026-11-15T17:12:18Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T09:56:29Z",
+      "last_success_at": "2026-11-15T17:12:18Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-15T09:56:29Z",
+      "last_success_at": "2026-11-15T17:12:18Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T09:56:29Z",
+      "last_success_at": "2026-11-15T17:12:18Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "9aa445bcdd68ef9f592d",
+      "source": "verge",
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver…",
+      "image": "",
+      "published_at": "2026-11-15T17:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "d2e6533cce6e9f39ad68",
+      "source": "verge",
+      "title": "Apple’s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next…",
+      "image": "",
+      "published_at": "2026-11-15T16:59:16Z",
+      "category": "Apple"
+    },
+    {
+      "id": "8d647f5810c3bb741fc3",
+      "source": "verge",
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal…",
+      "image": "",
+      "published_at": "2026-11-15T16:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "a2eb07a47a9241a64c74",
+      "source": "verge",
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November…",
+      "image": "",
+      "published_at": "2026-11-15T14:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "a6bb6baf505a0c175ff1",
+      "source": "verge",
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers…",
+      "image": "",
+      "published_at": "2026-11-15T13:57:30Z",
+      "category": "Podcasts"
+    },
+    {
+      "id": "0dcbf9e9501bf83c9a6c",
+      "source": "verge",
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The…",
+      "image": "",
+      "published_at": "2026-11-15T13:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "d421de4b45ce6ac59588",
+      "source": "ars",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
+      "published_at": "2026-11-15T12:07:34Z",
+      "category": "Science"
+    },
+    {
+      "id": "456b3061dfd73237876d",
+      "source": "wired",
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "url": "https://www.wired.com/story/best-paper-planners/",
+      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "image": "https://media.wired.com/photos/6af7de304c1f7b55abfd9851/master/pass/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg",
+      "published_at": "2026-11-15T12:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "955887d7ff45cae72a42",
+      "source": "wired",
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
+      "published_at": "2026-11-15T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "58753392982522c4f8e1",
+      "source": "wired",
+      "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+      "url": "https://www.wired.com/review/evercade-nexus/",
+      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
+      "image": "https://media.wired.com/photos/6af5e7fe5864e5f624e083eb/master/pass/Evercade%20Nexus%20(1).jpg",
+      "published_at": "2026-11-15T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b85e67a1591b9c936113",
+      "source": "wired",
+      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+      "url": "https://www.wired.com/review/logitech-yeti-2/",
+      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
+      "image": "https://media.wired.com/photos/6af7df7e7f77ca3a14ead393/master/pass/Review--Logitech-Yeti-2.jpg",
+      "published_at": "2026-11-15T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d8ce49672c24fa432496",
+      "source": "wired",
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
+      "published_at": "2026-11-15T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9fe6c1e23c54f6c4d9e5",
+      "source": "wired",
+      "title": "It’s Getting Too Dry for Even Cactuses to Survive",
+      "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+      "image": "https://media.wired.com/photos/6af6e9401b752946d00e4918/master/pass/extreme-heat-climate-change-cacti-cactus-extinction-biodiversity-risk-models.jpg",
+      "published_at": "2026-11-15T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "116dda0a1a62f8e71cf8",
+      "source": "wired",
+      "title": "M6 Mac Mini Early Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+      "summary": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "image": "",
+      "published_at": "2026-11-15T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "58e9b3b4cc9c56fc5a8b",
+      "source": "wired",
+      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+      "summary": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "image": "https://media.wired.com/photos/6af5dd41ea249e5173fa2e83/master/pass/Weixin%20Image_2025-07-15_230629_400.jpg",
+      "published_at": "2026-11-15T10:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "0c146d2fa3ad84bee959",
       "source": "ars",
@@ -473,16 +623,6 @@
       "category": "Policy"
     },
     {
-      "id": "84fb440d5ae6b50cbe18",
-      "source": "wired",
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
-      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
-      "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/master/pass/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg",
-      "published_at": "2026-11-13T22:30:29Z",
-      "category": "Gear"
-    },
-    {
       "id": "277788b140df758574e8",
       "source": "ars",
       "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
@@ -491,16 +631,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
       "published_at": "2026-11-13T21:59:01Z",
       "category": "Health"
-    },
-    {
-      "id": "885ce6c4b40a44c01132",
-      "source": "wired",
-      "title": "FAA Grounds All US Flights Until Further Notice",
-      "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
-      "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
-      "image": "https://media.wired.com/photos/6af77f75b0613b392083fb37/master/pass/FAA-Grounds-All-Flights-Gear-970624408.jpg",
-      "published_at": "2026-11-13T21:42:57Z",
-      "category": "Gear"
     },
     {
       "id": "9176dd3865460d281ee6",
@@ -543,26 +673,6 @@
       "category": "Science"
     },
     {
-      "id": "68b52ca115a648e8d3c6",
-      "source": "wired",
-      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
-      "summary": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
-      "image": "https://media.wired.com/photos/6af75fb01f124ac5bec35016/master/pass/Send-Someone-on-a-Coffee-World-Tour-for-$59.jpg",
-      "published_at": "2026-11-13T19:58:41Z",
-      "category": "Gear"
-    },
-    {
-      "id": "48a9b39abaffc54df5d2",
-      "source": "wired",
-      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
-      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-      "image": "https://media.wired.com/photos/6af75ae25e4ca9026ac50b67/master/pass/The-Best-Early-Black-Friday-Mattress-Deals-So-Far.jpg",
-      "published_at": "2026-11-13T19:57:56Z",
-      "category": "Gear"
-    },
-    {
       "id": "06a6bc6b3e692f580aa7",
       "source": "ars",
       "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
@@ -581,16 +691,6 @@
       "image": "",
       "published_at": "2026-11-13T19:14:38Z",
       "category": "Deals"
-    },
-    {
-      "id": "f7a493cfb552d818d973",
-      "source": "wired",
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
-      "published_at": "2026-11-13T19:08:57Z",
-      "category": "Security"
     },
     {
       "id": "1b41bc4ceb56f9e0b373",
@@ -621,16 +721,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
       "published_at": "2026-11-13T17:25:45Z",
       "category": "AI"
-    },
-    {
-      "id": "641ba1c5ba649e88ad0b",
-      "source": "wired",
-      "title": "The Microsoft Outage Is a Warning for the World",
-      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
-      "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
-      "image": "https://media.wired.com/photos/6af7348a98648de7b1064e82/master/pass/Security_Microsoft365OfflineProblem_v3.jpg",
-      "published_at": "2026-11-13T17:15:54Z",
-      "category": "Security"
     },
     {
       "id": "b0fe4991eec4b8f0684d",
@@ -691,16 +781,6 @@
       "image": "",
       "published_at": "2026-11-13T16:00:00Z",
       "category": "App Reviews"
-    },
-    {
-      "id": "8d4e2d9df00b92d8d2ab",
-      "source": "wired",
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "image": "https://media.wired.com/photos/6af64d55d057d0b5e841f091/master/pass/Backchannel-Jensen-Business.jpg",
-      "published_at": "2026-11-13T16:00:00Z",
-      "category": "Business"
     },
     {
       "id": "8ea2dd190c36947b9fd4",
@@ -781,16 +861,6 @@
       "image": "",
       "published_at": "2026-11-13T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "ff872769fce895c1db9d",
-      "source": "wired",
-      "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
-      "url": "https://www.wired.com/story/best-walking-pads/",
-      "summary": "Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-      "image": "https://media.wired.com/photos/6af64959c5d481da1362b325/master/pass/The-Best-Walking-Pads-WIRED-Staffers-Use-During-Remote-Days.jpg",
-      "published_at": "2026-11-13T12:34:00Z",
-      "category": "Gear"
     },
     {
       "id": "79fe9a3678d0bda395a8",
@@ -913,46 +983,6 @@
       "category": "AI"
     },
     {
-      "id": "79f2a2e3569e9342a290",
-      "source": "verge",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can…",
-      "image": "",
-      "published_at": "2026-11-12T21:55:32Z",
-      "category": "AI"
-    },
-    {
-      "id": "4f09ad1dc4847e0d81e6",
-      "source": "verge",
-      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has…",
-      "image": "",
-      "published_at": "2026-11-12T21:45:00Z",
-      "category": "News"
-    },
-    {
-      "id": "979876f3abe39f51fc50",
-      "source": "verge",
-      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and…",
-      "image": "",
-      "published_at": "2026-11-12T21:28:53Z",
-      "category": "Deals"
-    },
-    {
-      "id": "ea05c9e24e3408eecf39",
-      "source": "verge",
-      "title": "Here are the 25 original Xbox games you can now play on PC",
-      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as…",
-      "image": "",
-      "published_at": "2026-11-12T21:00:00Z",
-      "category": "Gaming"
-    },
-    {
       "id": "9017d190a441b2208a89",
       "source": "mit",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -961,16 +991,6 @@
       "image": "",
       "published_at": "2026-11-12T20:16:24Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "b934ca2484449d45a30e",
-      "source": "verge",
-      "title": "Meet the people who want peptides to be made in America",
-      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break…",
-      "image": "",
-      "published_at": "2026-11-12T20:00:00Z",
-      "category": "Column"
     },
     {
       "id": "e71b54998429db360c6e",
@@ -991,16 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp",
       "published_at": "2026-11-12T19:49:11Z",
       "category": "Gaming"
-    },
-    {
-      "id": "801ed7c378752c3986f1",
-      "source": "verge",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been…",
-      "image": "",
-      "published_at": "2026-11-12T19:42:40Z",
-      "category": "AI"
     },
     {
       "id": "83834c375b32b72eedea",
@@ -1151,16 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp",
       "published_at": "2026-11-11T19:00:26Z",
       "category": "Space"
-    },
-    {
-      "id": "2f0be3c42a73c65de6b3",
-      "source": "ars",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
-      "published_at": "2026-11-11T18:16:40Z",
-      "category": "AI"
     },
     {
       "id": "39c713d0dd423908a0b9",

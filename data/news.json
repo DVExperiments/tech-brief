@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T22:58:51Z",
+  "updated_at": "2026-11-15T02:40:14Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T22:58:50Z",
+      "last_success_at": "2026-11-15T02:40:14Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T22:58:50Z",
+      "last_success_at": "2026-11-15T02:40:14Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-14T22:58:51Z",
+      "last_success_at": "2026-11-15T02:40:14Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-14T22:58:51Z",
+      "last_success_at": "2026-11-15T02:40:14Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0c146d2fa3ad84bee959",
+      "source": "ars",
+      "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "summary": "It felt like stepping into the future.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "published_at": "2026-11-15T00:40:59Z",
+      "category": "Space"
+    },
     {
       "id": "2428c785b01c3e216344",
       "source": "verge",
@@ -197,7 +207,7 @@
       "source": "wired",
       "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
       "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
-      "summary": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
+      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
       "image": "https://media.wired.com/photos/6af78becda0b3f5acb040c4d/master/pass/The-21-Best-REI-Holiday-Sale-Outdoor-Deals.jpg",
       "published_at": "2026-11-14T11:00:00Z",
       "category": "Gear"
@@ -1151,16 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
       "published_at": "2026-11-11T18:16:40Z",
       "category": "AI"
-    },
-    {
-      "id": "d0fc6778b139e7a44d14",
-      "source": "ars",
-      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
-      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg",
-      "published_at": "2026-11-11T18:05:26Z",
-      "category": "Policy"
     },
     {
       "id": "39c713d0dd423908a0b9",

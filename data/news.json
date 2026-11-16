@@ -1,37 +1,67 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T21:50:25Z",
+  "updated_at": "2026-11-16T02:09:54Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T21:50:25Z",
+      "last_success_at": "2026-11-16T02:09:53Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T21:50:25Z",
+      "last_success_at": "2026-11-16T02:09:54Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-15T21:50:25Z",
+      "last_success_at": "2026-11-16T02:09:54Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-15T21:50:25Z",
+      "last_success_at": "2026-11-16T02:09:54Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "eebb08929cbb1e1c5c8b",
+      "source": "verge",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple…",
+      "image": "",
+      "published_at": "2026-11-16T01:26:56Z",
+      "category": "AI"
+    },
+    {
+      "id": "3ae40496ffb43c789697",
+      "source": "ars",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "published_at": "2026-11-15T23:11:54Z",
+      "category": "Science"
+    },
+    {
+      "id": "e9c1b02e020bef95687b",
+      "source": "verge",
+      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders…",
+      "image": "",
+      "published_at": "2026-11-15T21:49:22Z",
+      "category": "Column"
+    },
     {
       "id": "bcea164eb04f11c374f0",
       "source": "verge",
@@ -943,26 +973,6 @@
       "category": "Apple"
     },
     {
-      "id": "d724b2b8a6f6d9b36e03",
-      "source": "verge",
-      "title": "Xbox announces Wolfenstein 3",
-      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today…",
-      "image": "",
-      "published_at": "2026-11-13T00:11:44Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "2ffa5b1b62ec9e0297b6",
-      "source": "verge",
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post…",
-      "image": "",
-      "published_at": "2026-11-12T23:43:22Z",
-      "category": "Fitness"
-    },
-    {
       "id": "2076979b6ce204cace08",
       "source": "ars",
       "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
@@ -1151,16 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
       "published_at": "2026-11-11T20:22:03Z",
       "category": "Science"
-    },
-    {
-      "id": "527824542a03aa27a6a7",
-      "source": "ars",
-      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
-      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
-      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp",
-      "published_at": "2026-11-11T19:00:26Z",
-      "category": "Space"
     },
     {
       "id": "39c713d0dd423908a0b9",

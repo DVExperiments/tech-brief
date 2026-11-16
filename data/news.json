@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T02:09:54Z",
+  "updated_at": "2026-11-16T09:45:27Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T02:09:53Z",
+      "last_success_at": "2026-11-16T09:45:27Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T02:09:54Z",
+      "last_success_at": "2026-11-16T09:45:27Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-11-16T02:09:54Z",
+      "count": 29,
+      "last_success_at": "2026-11-16T09:45:27Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T02:09:54Z",
+      "last_success_at": "2026-11-16T09:45:27Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
@@ -1401,16 +1401,6 @@
       "image": "",
       "published_at": "2026-11-02T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "52b239de0b1395889851",
-      "source": "mit",
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what…",
-      "image": "",
-      "published_at": "2026-11-02T09:35:19Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

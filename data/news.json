@@ -1,37 +1,347 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T09:45:27Z",
+  "updated_at": "2026-11-16T19:53:19Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T09:45:27Z",
+      "last_success_at": "2026-11-16T19:53:18Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T09:45:27Z",
+      "last_success_at": "2026-11-16T19:53:19Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 29,
-      "last_success_at": "2026-11-16T09:45:27Z",
+      "count": 30,
+      "last_success_at": "2026-11-16T19:53:19Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T09:45:27Z",
+      "last_success_at": "2026-11-16T19:53:19Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "5180ff39caf3ef071e04",
+      "source": "ars",
+      "title": "When will humans actually fly on Starship?",
+      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg",
+      "published_at": "2026-11-16T19:46:08Z",
+      "category": "Space"
+    },
+    {
+      "id": "0dd278c32bbb2e10afef",
+      "source": "ars",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg",
+      "published_at": "2026-11-16T19:36:25Z",
+      "category": "Culture"
+    },
+    {
+      "id": "492009beed5c1d3c59de",
+      "source": "verge",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to…",
+      "image": "",
+      "published_at": "2026-11-16T19:24:40Z",
+      "category": "AI"
+    },
+    {
+      "id": "d0d1b88a15f8f320815e",
+      "source": "verge",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI…",
+      "image": "",
+      "published_at": "2026-11-16T19:23:45Z",
+      "category": "AI"
+    },
+    {
+      "id": "b1b8f5689f992f118029",
+      "source": "ars",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
+      "published_at": "2026-11-16T19:10:09Z",
+      "category": "AI"
+    },
+    {
+      "id": "a70043021942de92503c",
+      "source": "verge",
+      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+      "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+      "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors…",
+      "image": "",
+      "published_at": "2026-11-16T18:44:16Z",
+      "category": "Apple"
+    },
+    {
+      "id": "ff8caeb01b7abf5012b3",
+      "source": "verge",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in…",
+      "image": "",
+      "published_at": "2026-11-16T18:43:35Z",
+      "category": "AI"
+    },
+    {
+      "id": "e6c767658b2a7816af2a",
+      "source": "mit",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began…",
+      "image": "",
+      "published_at": "2026-11-16T18:38:47Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "1edf664461b19e80d6bf",
+      "source": "verge",
+      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people…",
+      "image": "",
+      "published_at": "2026-11-16T18:29:55Z",
+      "category": "Microsoft"
+    },
+    {
+      "id": "624847c6bea60ade3af3",
+      "source": "wired",
+      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
+      "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
+      "summary": "Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.",
+      "image": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
+      "published_at": "2026-11-16T18:26:26Z",
+      "category": "Gear"
+    },
+    {
+      "id": "520a8886c9c7d9ac4582",
+      "source": "wired",
+      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
+      "image": "https://media.wired.com/photos/6af7ae201244c1a16020acc3/master/pass/Instagram-Users-Can-Expect-Avalanche-on-Amazon-Affiliate-Posts-Gear.jpg",
+      "published_at": "2026-11-16T17:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4a0ca1eea64c892b748d",
+      "source": "verge",
+      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of…",
+      "image": "",
+      "published_at": "2026-11-16T16:48:01Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "91a3bb98ad85d539c9c0",
+      "source": "wired",
+      "title": "AO3 Is Back. This Is Not a Drill",
+      "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+      "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
+      "image": "https://media.wired.com/photos/6afb1b61fd92a97bc81f1a8d/master/pass/111626-AO3%20Back%20Online.jpg",
+      "published_at": "2026-11-16T16:40:33Z",
+      "category": "Culture"
+    },
+    {
+      "id": "ac3cdf736abc0e2eeb18",
+      "source": "verge",
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was…",
+      "image": "",
+      "published_at": "2026-11-16T16:39:36Z",
+      "category": "News"
+    },
+    {
+      "id": "949375dfdf8e51a899a3",
+      "source": "ars",
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "summary": "International authorities will announce US lost its elimination status Tuesday.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
+      "published_at": "2026-11-16T16:39:29Z",
+      "category": "Health"
+    },
+    {
+      "id": "8f6d326cc9c7d708008f",
+      "source": "wired",
+      "title": "Jensen Huang Is Gone. Now What?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "image": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
+      "published_at": "2026-11-16T16:12:51Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "301906ed27909280c2b9",
+      "source": "mit",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other…",
+      "image": "",
+      "published_at": "2026-11-16T16:04:28Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "e9407ad18f618e881652",
+      "source": "verge",
+      "title": "The Verge’s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely…",
+      "image": "",
+      "published_at": "2026-11-16T16:00:14Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "fa40cae54085cbc87a63",
+      "source": "verge",
+      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+      "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+      "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms…",
+      "image": "",
+      "published_at": "2026-11-16T16:00:00Z",
+      "category": "Decoder"
+    },
+    {
+      "id": "18a6327f5a73ee9a747e",
+      "source": "wired",
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+      "summary": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
+      "image": "https://media.wired.com/photos/6af711ad797722e005ec2bb9/master/pass/111326-Michigan%20400%20Data%20Centers.jpg",
+      "published_at": "2026-11-16T16:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "df4afdd6e67ab476803c",
+      "source": "verge",
+      "title": "Robert Pattinson is Amazon’s first James Bond",
+      "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+      "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy…",
+      "image": "",
+      "published_at": "2026-11-16T15:19:34Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "c998fe4fd32cecbdad30",
+      "source": "ars",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
+      "published_at": "2026-11-16T14:06:16Z",
+      "category": "AI"
+    },
+    {
+      "id": "0c201e0c0a529b1a075e",
+      "source": "ars",
+      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+      "summary": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
+      "published_at": "2026-11-16T14:00:05Z",
+      "category": "Cars"
+    },
+    {
+      "id": "e1ac1714657b903232bc",
+      "source": "mit",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do…",
+      "image": "",
+      "published_at": "2026-11-16T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "cb917ad43905eb7ca3ff",
+      "source": "mit",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations…",
+      "image": "",
+      "published_at": "2026-11-16T13:00:00Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "4bd2ce7432248ff9512e",
+      "source": "wired",
+      "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
+      "url": "https://www.wired.com/story/best-digital-photo-frames/",
+      "summary": "There are more digital photo frames than ever these days. After years of testing, these are the ones I’d buy.",
+      "image": "https://media.wired.com/photos/6af7e6c419af9e663f54144d/master/pass/My-Favorite-Home-Gadget-Is-Still-a-Digital-Photo-Frame.jpg",
+      "published_at": "2026-11-16T12:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3ee35f41606fffb32b68",
+      "source": "ars",
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+      "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-1152x648.jpg",
+      "published_at": "2026-11-16T12:00:57Z",
+      "category": "Features"
+    },
+    {
+      "id": "2fbd482546b9a860c7bb",
+      "source": "wired",
+      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "image": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/master/pass/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
+      "published_at": "2026-11-16T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ce0f6293db5c230af9f6",
+      "source": "wired",
+      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
+      "image": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/master/pass/111226-EPA%20ASPECT%20Plane.jpg",
+      "published_at": "2026-11-16T11:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "7bdb051a84443dbb24df",
+      "source": "wired",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
+      "published_at": "2026-11-16T11:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "39b2d862cbe8d522b22e",
+      "source": "wired",
+      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+      "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
+      "image": "https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/master/pass/The-Best-Apple-3-in-1-Travel-Chargers.jpg",
+      "published_at": "2026-11-16T10:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "eebb08929cbb1e1c5c8b",
       "source": "verge",
@@ -228,7 +538,7 @@
       "title": "M6 Mac Mini Early Black Friday Sale (2026)",
       "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
       "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
-      "image": "",
+      "image": "https://media.wired.com/photos/6afb3dd68b8fb8ba4d5d489c/master/pass/Take-$120-Off-the-Latest-Mac-Mini-With-This-Deal.jpg",
       "published_at": "2026-11-15T10:00:00Z",
       "category": "Gear"
     },
@@ -438,7 +748,7 @@
       "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
       "url": "https://www.wired.com/story/best-pickleball-paddles/",
       "summary": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.",
-      "image": "",
+      "image": "https://media.wired.com/photos/687b6f785be8b955cdab7089/master/pass/Best%20pickleball%20paddles%20update_.png",
       "published_at": "2026-11-14T10:37:00Z",
       "category": "Gear"
     },
@@ -543,96 +853,6 @@
       "category": "Gear"
     },
     {
-      "id": "56a2e4d6a03304104069",
-      "source": "wired",
-      "title": "Wayfair Coupons: Up to 80% Off November 2026",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "12e9a112f26215bb95a7",
-      "source": "wired",
-      "title": "Klook Promo Code: 20% Off November 2026",
-      "url": "https://www.wired.com/story/klook-promo-code/",
-      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3b16f44023252999ad43",
-      "source": "wired",
-      "title": "Whoop Promo Codes: 20% Off This November 2026",
-      "url": "https://www.wired.com/story/whoop-promo-code/",
-      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4fa2b481b6048ff8e82b",
-      "source": "wired",
-      "title": "20% Off Samsung Promo Code | November 2026",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1ccb30360fcd38b1206e",
-      "source": "wired",
-      "title": "Tuft & Needle Promo Codes: 20% Off | November 2026",
-      "url": "https://www.wired.com/story/tuft-and-needle-promo-code/",
-      "summary": "Save 30% on best-selling mattresses with our top Tuft & Needle coupon codes.",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8605f964b812db0f71eb",
-      "source": "wired",
-      "title": "Womanizer Coupons: Save 15% in November 2026",
-      "url": "https://www.wired.com/story/womanizer-coupon/",
-      "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
-      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "288dbb236e7bf79ae1c5",
-      "source": "wired",
-      "title": "ABT Promo Codes & Discounts for November 2026",
-      "url": "https://www.wired.com/story/abt-promo-code/",
-      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "152bfdfdd8bc11aa7f2d",
-      "source": "wired",
-      "title": "PlayStation Discount Code: 15% Off | November 2026",
-      "url": "https://www.wired.com/story/playstation-discount-code/",
-      "summary": "Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "052fdfde12ca374ebea7",
-      "source": "wired",
-      "title": "Adidas Promo Code | 60% Off | November 2026",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "2a43e6f0eeff87e7f1b8",
       "source": "verge",
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
@@ -641,16 +861,6 @@
       "image": "",
       "published_at": "2026-11-14T01:53:04Z",
       "category": "Mass Transit"
-    },
-    {
-      "id": "1bfb9bd79682ecdd8577",
-      "source": "wired",
-      "title": "The FAA Nationwide Ground Stop Is Over",
-      "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
-      "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
-      "image": "https://media.wired.com/photos/6af796575e4ca9026ac50e15/master/pass/Air-Traffic-Outage-Wasnt-AI-Gear-2239205748.jpg",
-      "published_at": "2026-11-14T01:46:40Z",
-      "category": "Gear"
     },
     {
       "id": "58cc00db2d3646e6d7d1",
@@ -763,16 +973,6 @@
       "category": "Gadgets"
     },
     {
-      "id": "36d268605dcdb2a33a7b",
-      "source": "verge",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and…",
-      "image": "",
-      "published_at": "2026-11-13T17:44:22Z",
-      "category": "Climate"
-    },
-    {
       "id": "e1cc0a62ff9a737d208c",
       "source": "ars",
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
@@ -781,26 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
       "published_at": "2026-11-13T17:25:45Z",
       "category": "AI"
-    },
-    {
-      "id": "b0fe4991eec4b8f0684d",
-      "source": "verge",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the…",
-      "image": "",
-      "published_at": "2026-11-13T17:12:56Z",
-      "category": "Cameras"
-    },
-    {
-      "id": "e0f6355eebea62d373b9",
-      "source": "verge",
-      "title": "The new Apple TV has a YouTube problem",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR…",
-      "image": "",
-      "published_at": "2026-11-13T16:55:57Z",
-      "category": "Apple"
     },
     {
       "id": "6b253b8d521f7f3d8b9b",
@@ -813,46 +993,6 @@
       "category": "Biz & IT"
     },
     {
-      "id": "2647340093ebb954debc",
-      "source": "verge",
-      "title": "Microsoft’s massive Outlook outage might be over",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning…",
-      "image": "",
-      "published_at": "2026-11-13T16:17:11Z",
-      "category": "Microsoft"
-    },
-    {
-      "id": "ec0f2e4caf55f9680cad",
-      "source": "verge",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find…",
-      "image": "",
-      "published_at": "2026-11-13T16:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "4ff236c21f0f44acf21b",
-      "source": "verge",
-      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
-      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I…",
-      "image": "",
-      "published_at": "2026-11-13T16:00:00Z",
-      "category": "App Reviews"
-    },
-    {
-      "id": "8ea2dd190c36947b9fd4",
-      "source": "verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite…",
-      "image": "",
-      "published_at": "2026-11-13T15:49:27Z",
-      "category": "Black Friday"
-    },
-    {
       "id": "fb2574a678547a44f21d",
       "source": "ars",
       "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
@@ -863,16 +1003,6 @@
       "category": "Policy"
     },
     {
-      "id": "57dbd15695361da175a6",
-      "source": "verge",
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online…",
-      "image": "",
-      "published_at": "2026-11-13T15:22:14Z",
-      "category": "Apple"
-    },
-    {
       "id": "a96eee4df605e468f0be",
       "source": "ars",
       "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
@@ -881,16 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg",
       "published_at": "2026-11-13T15:09:39Z",
       "category": "Science"
-    },
-    {
-      "id": "be4ff78e11ce09fa98f4",
-      "source": "verge",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story…",
-      "image": "",
-      "published_at": "2026-11-13T14:47:16Z",
-      "category": "AI"
     },
     {
       "id": "bf9353f2096031058205",
@@ -961,16 +1081,6 @@
       "image": "",
       "published_at": "2026-11-13T10:00:00Z",
       "category": "Business"
-    },
-    {
-      "id": "edcc89ea46ff35e97720",
-      "source": "verge",
-      "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald…",
-      "image": "",
-      "published_at": "2026-11-13T00:46:07Z",
-      "category": "Apple"
     },
     {
       "id": "2076979b6ce204cace08",
@@ -1083,46 +1193,6 @@
       "category": "Health"
     },
     {
-      "id": "9ab3567c9eb5f8bd1a49",
-      "source": "ars",
-      "title": "The amazing disappearing exoplanet",
-      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-      "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
-      "published_at": "2026-11-12T17:18:10Z",
-      "category": "Science"
-    },
-    {
-      "id": "7ffa77d844253a14dcb1",
-      "source": "ars",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
-      "published_at": "2026-11-12T14:50:17Z",
-      "category": "AI"
-    },
-    {
-      "id": "eee5df2a7aea086f5964",
-      "source": "ars",
-      "title": "Nvidia CEO Jensen Huang has resigned",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "summary": "Nvidia CEO also had an affair with a senior executive at the firm.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-      "published_at": "2026-11-12T14:05:17Z",
-      "category": "Tech"
-    },
-    {
-      "id": "86476b991c3b45a78b59",
-      "source": "ars",
-      "title": "Hundreds of streaming services and nothing to watch",
-      "url": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
-      "summary": "Most viewers wish there was a TV Guide for streaming.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg",
-      "published_at": "2026-11-12T14:00:19Z",
-      "category": "Tech"
-    },
-    {
       "id": "68ee908a7c2af5496321",
       "source": "mit",
       "title": "The Download: COP31’s climate challenge and the quest for immortality",
@@ -1131,36 +1201,6 @@
       "image": "",
       "published_at": "2026-11-12T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "90f310f2fd4ec3a4d8a1",
-      "source": "ars",
-      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
-      "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
-      "published_at": "2026-11-12T12:00:37Z",
-      "category": "Apple"
-    },
-    {
-      "id": "39a502382f1014171333",
-      "source": "ars",
-      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
-      "published_at": "2026-11-11T20:32:21Z",
-      "category": "Policy"
-    },
-    {
-      "id": "1dc8fa24f51a793bf5be",
-      "source": "ars",
-      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
-      "published_at": "2026-11-11T20:22:03Z",
-      "category": "Science"
     },
     {
       "id": "39c713d0dd423908a0b9",
@@ -1371,36 +1411,6 @@
       "image": "",
       "published_at": "2026-11-03T04:18:47Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "44e98bd1c45c56a9a99c",
-      "source": "mit",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire…",
-      "image": "",
-      "published_at": "2026-11-02T17:00:00Z",
-      "category": "Artificial intelligence"
-    },
-    {
-      "id": "6ce5e05eabba48f400ea",
-      "source": "mit",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more…",
-      "image": "",
-      "published_at": "2026-11-02T13:10:32Z",
-      "category": "Artificial intelligence"
-    },
-    {
-      "id": "8324ae2ab310716daecf",
-      "source": "mit",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide…",
-      "image": "",
-      "published_at": "2026-11-02T13:10:00Z",
-      "category": "The Download"
     }
   ]
 }

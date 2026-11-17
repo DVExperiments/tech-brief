@@ -1,37 +1,357 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T11:53:34Z",
+  "updated_at": "2026-11-17T20:56:10Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T11:53:34Z",
+      "last_success_at": "2026-11-17T20:56:10Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T11:53:34Z",
+      "last_success_at": "2026-11-17T20:56:10Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 28,
-      "last_success_at": "2026-11-17T11:53:34Z",
+      "count": 31,
+      "last_success_at": "2026-11-17T20:56:10Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T11:53:34Z",
+      "last_success_at": "2026-11-17T20:56:10Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "abd6e5609898ad7c71e1",
+      "source": "verge",
+      "title": "Instagram is helping creators crack down on copycat videos",
+      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool…",
+      "image": "",
+      "published_at": "2026-11-17T20:46:31Z",
+      "category": "Instagram"
+    },
+    {
+      "id": "231d67475f99314e5192",
+      "source": "ars",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+      "published_at": "2026-11-17T20:32:55Z",
+      "category": "AI"
+    },
+    {
+      "id": "b3dc3453df7de27d6e2f",
+      "source": "verge",
+      "title": "Democrats try to figure out how not to get swept away by the blue wave",
+      "url": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
+      "summary": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so…",
+      "image": "",
+      "published_at": "2026-11-17T20:30:00Z",
+      "category": "Policy"
+    },
+    {
+      "id": "3e13ee23ec63fd072932",
+      "source": "ars",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "summary": "Studio head Heather Hazen is among those departing.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg",
+      "published_at": "2026-11-17T19:45:25Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "4602878aaf354111035b",
+      "source": "wired",
+      "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+      "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
+      "image": "https://media.wired.com/photos/6afc8dfac68fff6545ac192a/master/pass/Security_How%20to%20Tell%20If%20an%20Outage%20Is%20Caused%20by%20a%20Cyberattack_v1.jpg",
+      "published_at": "2026-11-17T19:40:57Z",
+      "category": "Security"
+    },
+    {
+      "id": "4512dfef749a670e19f7",
+      "source": "verge",
+      "title": "Framework’s better couch keyboard is now available for preorder",
+      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "summary": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went…",
+      "image": "",
+      "published_at": "2026-11-17T19:38:42Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "cda0d08004aea9c4457b",
+      "source": "wired",
+      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
+      "summary": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”",
+      "image": "https://media.wired.com/photos/6afca39792798f56737cb399/master/pass/GettyImages-2289915155-resized.jpg",
+      "published_at": "2026-11-17T19:38:08Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f41e12747ce121735e3b",
+      "source": "verge",
+      "title": "California just banned Waymo from all state freeways",
+      "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
+      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into…",
+      "image": "",
+      "published_at": "2026-11-17T19:38:05Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "f9abd62c7a0cfdc72b3b",
+      "source": "verge",
+      "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
+      "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The…",
+      "image": "",
+      "published_at": "2026-11-17T19:19:10Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "cb13b56fe743196ee381",
+      "source": "verge",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar…",
+      "image": "",
+      "published_at": "2026-11-17T18:58:01Z",
+      "category": "AI"
+    },
+    {
+      "id": "d6b72d786599d404d0b1",
+      "source": "mit",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth…",
+      "image": "",
+      "published_at": "2026-11-17T18:46:47Z",
+      "category": "Biotechnology and health"
+    },
+    {
+      "id": "aad3eec670f82ca16824",
+      "source": "verge",
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other…",
+      "image": "",
+      "published_at": "2026-11-17T18:33:02Z",
+      "category": "Apps"
+    },
+    {
+      "id": "1a9f500431dcc25d008e",
+      "source": "verge",
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to…",
+      "image": "",
+      "published_at": "2026-11-17T18:30:03Z",
+      "category": "Electric Bikes"
+    },
+    {
+      "id": "8c1ea14be30bf6867b7a",
+      "source": "ars",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
+      "published_at": "2026-11-17T18:26:26Z",
+      "category": "Culture"
+    },
+    {
+      "id": "deffdbc6448582820932",
+      "source": "ars",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
+      "published_at": "2026-11-17T18:13:34Z",
+      "category": "Policy"
+    },
+    {
+      "id": "8c56869cf119c910a9c7",
+      "source": "wired",
+      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+      "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
+      "image": "https://media.wired.com/photos/6af7b8ab85c9940326d23123/master/pass/Nvidia-Fiasco-Has-Lutnick-Under-the-Gun-Politics-2201139059.jpg",
+      "published_at": "2026-11-17T18:03:32Z",
+      "category": "Politics"
+    },
+    {
+      "id": "e1e7621c0e6fce148d8e",
+      "source": "ars",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg",
+      "published_at": "2026-11-17T18:00:51Z",
+      "category": "Features"
+    },
+    {
+      "id": "b443a43381855a938e12",
+      "source": "mit",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the…",
+      "image": "",
+      "published_at": "2026-11-17T17:52:10Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "adf28d9e5ac5536c97ac",
+      "source": "verge",
+      "title": "YouTube found a new way to inflate view counts",
+      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across…",
+      "image": "",
+      "published_at": "2026-11-17T17:50:22Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "911ca8f874c928558669",
+      "source": "verge",
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the…",
+      "image": "",
+      "published_at": "2026-11-17T17:41:22Z",
+      "category": "Apple"
+    },
+    {
+      "id": "1993699a556c1e678e51",
+      "source": "wired",
+      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "summary": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
+      "image": "https://media.wired.com/photos/6afc8d817073e76a25272b83/master/pass/111726-Jensen%20might%20be%20back.jpg",
+      "published_at": "2026-11-17T17:32:24Z",
+      "category": "Business"
+    },
+    {
+      "id": "4eb56146fb34cbc8cfe9",
+      "source": "wired",
+      "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+      "url": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+      "summary": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
+      "image": "https://media.wired.com/photos/6afafda61113c366073d3d8a/master/pass/Studio%20Pro%20Desktop%20%E2%80%94%20Announcement%20Hero.jpg",
+      "published_at": "2026-11-17T17:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "af2b3959566517e3705a",
+      "source": "ars",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "published_at": "2026-11-17T16:50:10Z",
+      "category": "AI"
+    },
+    {
+      "id": "06222c534f82551d5b14",
+      "source": "ars",
+      "title": "House Democrats promise a US return to global climate talks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
+      "published_at": "2026-11-17T15:32:43Z",
+      "category": "Policy"
+    },
+    {
+      "id": "e71b54998429db360c6e",
+      "source": "ars",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+      "published_at": "2026-11-17T15:28:59Z",
+      "category": "AI"
+    },
+    {
+      "id": "c8f1a51c15158535f0c1",
+      "source": "mit",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "summary": "To access a report, click on the corresponding image below.",
+      "image": "",
+      "published_at": "2026-11-17T14:39:46Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "72e974258de533e18c51",
+      "source": "ars",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+      "published_at": "2026-11-17T14:00:29Z",
+      "category": "AI"
+    },
+    {
+      "id": "90a055a5a9f1850db2f5",
+      "source": "wired",
+      "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+      "url": "https://www.wired.com/review/xreal-aura/",
+      "summary": "Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.",
+      "image": "https://media.wired.com/photos/6afb7bb246a62b9dacb0b4a3/master/pass/AURA_2_Edited.jpg",
+      "published_at": "2026-11-17T14:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "815a99f78a7f4aff59c6",
+      "source": "mit",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate…",
+      "image": "",
+      "published_at": "2026-11-17T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "a176a219780c7c3721bd",
+      "source": "wired",
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "image": "https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg",
+      "published_at": "2026-11-17T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "43eda016c375fa97555e",
+      "source": "ars",
+      "title": "Artist brings old Space Shuttle tank back to life",
+      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+      "summary": "\"It's definitely the largest art project I've ever worked on.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg",
+      "published_at": "2026-11-17T12:15:54Z",
+      "category": "Space"
+    },
+    {
+      "id": "2d2295da35be57cc4fa7",
+      "source": "wired",
+      "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
+      "url": "https://www.wired.com/review/capillus-hairband/",
+      "summary": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
+      "image": "https://media.wired.com/photos/6afb590244f979cc615251c6/master/pass/Review--Capillus-HairBand.jpg",
+      "published_at": "2026-11-17T12:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "7d93a7baded5d579abb5",
       "source": "wired",
@@ -623,16 +943,6 @@
       "category": "Decoder"
     },
     {
-      "id": "18a6327f5a73ee9a747e",
-      "source": "wired",
-      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
-      "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
-      "summary": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
-      "image": "https://media.wired.com/photos/6af711ad797722e005ec2bb9/master/pass/111326-Michigan%20400%20Data%20Centers.jpg",
-      "published_at": "2026-11-16T16:00:00Z",
-      "category": "Science"
-    },
-    {
       "id": "df4afdd6e67ab476803c",
       "source": "verge",
       "title": "Robert Pattinson is Amazon’s first James Bond",
@@ -683,16 +993,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "4bd2ce7432248ff9512e",
-      "source": "wired",
-      "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
-      "url": "https://www.wired.com/story/best-digital-photo-frames/",
-      "summary": "There are more digital photo frames than ever these days. After years of testing, these are the ones I’d buy.",
-      "image": "https://media.wired.com/photos/6af7e6c419af9e663f54144d/master/pass/My-Favorite-Home-Gadget-Is-Still-a-Digital-Photo-Frame.jpg",
-      "published_at": "2026-11-16T12:01:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "3ee35f41606fffb32b68",
       "source": "ars",
       "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
@@ -701,46 +1001,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-1152x648.jpg",
       "published_at": "2026-11-16T12:00:57Z",
       "category": "Features"
-    },
-    {
-      "id": "2fbd482546b9a860c7bb",
-      "source": "wired",
-      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "image": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/master/pass/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
-      "published_at": "2026-11-16T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ce0f6293db5c230af9f6",
-      "source": "wired",
-      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "image": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/master/pass/111226-EPA%20ASPECT%20Plane.jpg",
-      "published_at": "2026-11-16T11:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "7bdb051a84443dbb24df",
-      "source": "wired",
-      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
-      "published_at": "2026-11-16T11:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "39b2d862cbe8d522b22e",
-      "source": "wired",
-      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-      "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
-      "image": "https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/master/pass/The-Best-Apple-3-in-1-Travel-Chargers.jpg",
-      "published_at": "2026-11-16T10:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "eebb08929cbb1e1c5c8b",
@@ -813,56 +1073,6 @@
       "category": "Black Friday"
     },
     {
-      "id": "d2e6533cce6e9f39ad68",
-      "source": "verge",
-      "title": "Apple’s first smart glasses are coming together",
-      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
-      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next…",
-      "image": "",
-      "published_at": "2026-11-15T16:59:16Z",
-      "category": "Apple"
-    },
-    {
-      "id": "8d647f5810c3bb741fc3",
-      "source": "verge",
-      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal…",
-      "image": "",
-      "published_at": "2026-11-15T16:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "a2eb07a47a9241a64c74",
-      "source": "verge",
-      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
-      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November…",
-      "image": "",
-      "published_at": "2026-11-15T14:00:00Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "a6bb6baf505a0c175ff1",
-      "source": "verge",
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers…",
-      "image": "",
-      "published_at": "2026-11-15T13:57:30Z",
-      "category": "Podcasts"
-    },
-    {
-      "id": "0dcbf9e9501bf83c9a6c",
-      "source": "verge",
-      "title": "An overview of Jensen Huang’s messy days",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The…",
-      "image": "",
-      "published_at": "2026-11-15T13:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "d421de4b45ce6ac59588",
       "source": "ars",
       "title": "How the world’s fires changed while humanity hit pause",
@@ -873,26 +1083,6 @@
       "category": "Science"
     },
     {
-      "id": "456b3061dfd73237876d",
-      "source": "wired",
-      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
-      "url": "https://www.wired.com/story/best-paper-planners/",
-      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
-      "image": "https://media.wired.com/photos/6af7de304c1f7b55abfd9851/master/pass/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg",
-      "published_at": "2026-11-15T12:01:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "955887d7ff45cae72a42",
-      "source": "wired",
-      "title": "AI DJs Completely Kill My Groove",
-      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
-      "published_at": "2026-11-15T12:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "0c146d2fa3ad84bee959",
       "source": "ars",
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
@@ -901,56 +1091,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
       "published_at": "2026-11-15T00:40:59Z",
       "category": "Space"
-    },
-    {
-      "id": "2428c785b01c3e216344",
-      "source": "verge",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches…",
-      "image": "",
-      "published_at": "2026-11-14T21:44:44Z",
-      "category": "News"
-    },
-    {
-      "id": "fc9a47b05af5cda9015b",
-      "source": "verge",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to…",
-      "image": "",
-      "published_at": "2026-11-14T19:47:40Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "63fe3f0962c495c9238e",
-      "source": "verge",
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote…",
-      "image": "",
-      "published_at": "2026-11-14T17:44:28Z",
-      "category": "News"
-    },
-    {
-      "id": "12ad0bd64ef67daccb88",
-      "source": "verge",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve…",
-      "image": "",
-      "published_at": "2026-11-14T15:00:00Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "943a4d4124183953fc96",
-      "source": "verge",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a…",
-      "image": "",
-      "published_at": "2026-11-14T15:00:00Z",
-      "category": "AI"
     },
     {
       "id": "2dd2d5f25be726a11b37",
@@ -1053,46 +1193,6 @@
       "category": "Biz & IT"
     },
     {
-      "id": "fb2574a678547a44f21d",
-      "source": "ars",
-      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg",
-      "published_at": "2026-11-13T15:26:53Z",
-      "category": "Policy"
-    },
-    {
-      "id": "a96eee4df605e468f0be",
-      "source": "ars",
-      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-      "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg",
-      "published_at": "2026-11-13T15:09:39Z",
-      "category": "Science"
-    },
-    {
-      "id": "bf9353f2096031058205",
-      "source": "ars",
-      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg",
-      "published_at": "2026-11-13T14:45:04Z",
-      "category": "Culture"
-    },
-    {
-      "id": "fb69a7aafa880357371b",
-      "source": "ars",
-      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
-      "published_at": "2026-11-13T14:29:15Z",
-      "category": "Science"
-    },
-    {
       "id": "5165874fac7d3f420982",
       "source": "mit",
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -1101,26 +1201,6 @@
       "image": "",
       "published_at": "2026-11-13T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "79fe9a3678d0bda395a8",
-      "source": "ars",
-      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-      "summary": "\"You can simplify it as a big tank feeding engines.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
-      "published_at": "2026-11-13T12:00:40Z",
-      "category": "Space"
-    },
-    {
-      "id": "c9267733180bbd2fa931",
-      "source": "ars",
-      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-      "summary": "Specialized’s second-fastest bike may be the smart buy.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
-      "published_at": "2026-11-13T11:50:38Z",
-      "category": "Tech"
     },
     {
       "id": "72685a810aa56598abb9",
@@ -1143,26 +1223,6 @@
       "category": "Business"
     },
     {
-      "id": "2076979b6ce204cace08",
-      "source": "ars",
-      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-      "published_at": "2026-11-12T22:59:51Z",
-      "category": "Health"
-    },
-    {
-      "id": "5a90a514d4ec8847aaf7",
-      "source": "ars",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "published_at": "2026-11-12T22:28:47Z",
-      "category": "AI"
-    },
-    {
       "id": "9017d190a441b2208a89",
       "source": "mit",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -1171,26 +1231,6 @@
       "image": "",
       "published_at": "2026-11-12T20:16:24Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "e71b54998429db360c6e",
-      "source": "ars",
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-      "published_at": "2026-11-12T19:59:59Z",
-      "category": "AI"
-    },
-    {
-      "id": "049a9e4305460b433d48",
-      "source": "ars",
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp",
-      "published_at": "2026-11-12T19:49:11Z",
-      "category": "Gaming"
     },
     {
       "id": "68ee908a7c2af5496321",
@@ -1381,16 +1421,6 @@
       "image": "",
       "published_at": "2026-11-04T13:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "95dea697598324707880",
-      "source": "mit",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known…",
-      "image": "",
-      "published_at": "2026-11-03T13:10:00Z",
-      "category": "The Download"
     }
   ]
 }

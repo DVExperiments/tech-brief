@@ -1,37 +1,227 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T19:53:19Z",
+  "updated_at": "2026-11-17T02:56:09Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T19:53:18Z",
+      "last_success_at": "2026-11-17T02:56:09Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T19:53:19Z",
+      "last_success_at": "2026-11-17T02:56:09Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-16T19:53:19Z",
+      "last_success_at": "2026-11-17T02:56:09Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-16T19:53:19Z",
+      "last_success_at": "2026-11-17T02:56:09Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "d638936a549104c88cc5",
+      "source": "wired",
+      "title": "The 8 Best Movies to Stream Right Now (November 2026)",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "summary": "Arco, Backrooms, and Godzilla Minus One are among the films deserving of your eyeballs this month.",
+      "image": "https://media.wired.com/photos/6afb5714b63f0d234f4b197b/master/pass/Movie-Guide-Arco-Culture-MCDARCO_EC008.jpg",
+      "published_at": "2026-11-17T00:58:05Z",
+      "category": "Culture"
+    },
+    {
+      "id": "29f6b6666d9d2d2236c5",
+      "source": "verge",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service…",
+      "image": "",
+      "published_at": "2026-11-16T23:35:58Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "6d903b4b2531daf416bf",
+      "source": "verge",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on…",
+      "image": "",
+      "published_at": "2026-11-16T23:17:34Z",
+      "category": "AI"
+    },
+    {
+      "id": "763028b477e7fbd714e9",
+      "source": "ars",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+      "published_at": "2026-11-16T22:58:27Z",
+      "category": "AI"
+    },
+    {
+      "id": "f1fdee56b14d8a72e9db",
+      "source": "verge",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United…",
+      "image": "",
+      "published_at": "2026-11-16T22:54:59Z",
+      "category": "Mass Transit"
+    },
+    {
+      "id": "beb71c6ea84ab61a15b9",
+      "source": "ars",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+      "published_at": "2026-11-16T21:56:39Z",
+      "category": "Tech"
+    },
+    {
+      "id": "7933cf4eb60e2c46c887",
+      "source": "wired",
+      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+      "url": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
+      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+      "image": "https://media.wired.com/photos/6afb6caffd92a97bc81f1ed9/master/pass/Security_YesYourBankIsHavinganOutage_v1-ezgif.com-video-to-gif-converter.gif",
+      "published_at": "2026-11-16T21:45:45Z",
+      "category": "Security"
+    },
+    {
+      "id": "e34e403678fb6c0595c6",
+      "source": "verge",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive…",
+      "image": "",
+      "published_at": "2026-11-16T21:41:57Z",
+      "category": "Creators"
+    },
+    {
+      "id": "f9a25b52febb39a15b43",
+      "source": "ars",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
+      "published_at": "2026-11-16T20:52:10Z",
+      "category": "Science"
+    },
+    {
+      "id": "9f40fa6849e81adca8f0",
+      "source": "verge",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of…",
+      "image": "",
+      "published_at": "2026-11-16T20:46:01Z",
+      "category": "AI"
+    },
+    {
+      "id": "655b90bc05dad9653eb4",
+      "source": "verge",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their…",
+      "image": "",
+      "published_at": "2026-11-16T20:41:28Z",
+      "category": "AI"
+    },
+    {
+      "id": "9b06171818ec0336c005",
+      "source": "ars",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
+      "published_at": "2026-11-16T20:37:47Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "4e63641df8366df691a8",
+      "source": "verge",
+      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers…",
+      "image": "",
+      "published_at": "2026-11-16T20:36:14Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "0c7bcee5e557f56acb61",
+      "source": "verge",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings…",
+      "image": "",
+      "published_at": "2026-11-16T20:29:37Z",
+      "category": "AI"
+    },
+    {
+      "id": "6143387c3b38fb4fa09d",
+      "source": "verge",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity…",
+      "image": "",
+      "published_at": "2026-11-16T20:27:58Z",
+      "category": "AI"
+    },
+    {
+      "id": "c1e300961bd8019ef1d4",
+      "source": "ars",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "published_at": "2026-11-16T20:27:58Z",
+      "category": "Policy"
+    },
+    {
+      "id": "4a1402f0c1e6e4093e9a",
+      "source": "wired",
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/",
+      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
+      "image": "https://media.wired.com/photos/6afb4cc16a1af442b6a49972/master/pass/Update--Best-Early-Black-Friday-Espresso-Machine-Deals.jpg",
+      "published_at": "2026-11-16T20:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a95ef863eb8c94f85e5f",
+      "source": "ars",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
+      "published_at": "2026-11-16T19:54:21Z",
+      "category": "Policy"
+    },
+    {
+      "id": "f21596153d117f135366",
+      "source": "verge",
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a…",
+      "image": "",
+      "published_at": "2026-11-16T19:50:47Z",
+      "category": "Apple"
+    },
     {
       "id": "5180ff39caf3ef071e04",
       "source": "ars",
@@ -613,36 +803,6 @@
       "category": "AI"
     },
     {
-      "id": "05680b7830321657e03a",
-      "source": "verge",
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater…",
-      "image": "",
-      "published_at": "2026-11-14T14:18:36Z",
-      "category": "Autonomous Cars"
-    },
-    {
-      "id": "39ea6e9880dcb7e8e989",
-      "source": "verge",
-      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one…",
-      "image": "",
-      "published_at": "2026-11-14T14:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "905f9c2f218f49bfb40c",
-      "source": "verge",
-      "title": "A gadget to make your dumb house smarter",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the…",
-      "image": "",
-      "published_at": "2026-11-14T13:00:00Z",
-      "category": "Apps"
-    },
-    {
       "id": "661a0e9c420c9c023792",
       "source": "wired",
       "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -681,16 +841,6 @@
       "image": "https://media.wired.com/photos/6af78dee04380d6fbf425df6/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg",
       "published_at": "2026-11-14T12:05:00Z",
       "category": "Gear"
-    },
-    {
-      "id": "7142378533accd44b3a5",
-      "source": "verge",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with…",
-      "image": "",
-      "published_at": "2026-11-14T12:00:00Z",
-      "category": "AI"
     },
     {
       "id": "798c7a9ef5f9367b9b2e",
@@ -823,46 +973,6 @@
       "category": "Gear"
     },
     {
-      "id": "dcfaddb031a777b29327",
-      "source": "wired",
-      "title": "Paramount+ Coupon Codes and Deals for 2026",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "565f705cf73f69492324",
-      "source": "wired",
-      "title": "Disney Plus Discount Codes: 52% Off November 2026",
-      "url": "https://www.wired.com/story/disney-plus-discounts/",
-      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b85c67f0c41fcf2beee1",
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | November 2026",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2a43e6f0eeff87e7f1b8",
-      "source": "verge",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after…",
-      "image": "",
-      "published_at": "2026-11-14T01:53:04Z",
-      "category": "Mass Transit"
-    },
-    {
       "id": "58cc00db2d3646e6d7d1",
       "source": "ars",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -871,16 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
       "published_at": "2026-11-14T00:49:13Z",
       "category": "Space"
-    },
-    {
-      "id": "eb90b135b32b67df4c3d",
-      "source": "verge",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The…",
-      "image": "",
-      "published_at": "2026-11-13T23:49:11Z",
-      "category": "AI"
     },
     {
       "id": "841c29a7ffca935d0299",
@@ -913,26 +1013,6 @@
       "category": "AI"
     },
     {
-      "id": "410e7bf1117c92db319f",
-      "source": "verge",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using…",
-      "image": "",
-      "published_at": "2026-11-13T20:45:10Z",
-      "category": "AI"
-    },
-    {
-      "id": "6db323efc40d5fe8841c",
-      "source": "verge",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing…",
-      "image": "",
-      "published_at": "2026-11-13T20:30:00Z",
-      "category": "Black Friday"
-    },
-    {
       "id": "2ebcabde9f11e89a4c02",
       "source": "ars",
       "title": "In elephants, the resilience of communities has its limits",
@@ -951,26 +1031,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
       "published_at": "2026-11-13T19:49:16Z",
       "category": "Policy"
-    },
-    {
-      "id": "569f383721aac5065111",
-      "source": "verge",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on…",
-      "image": "",
-      "published_at": "2026-11-13T19:14:38Z",
-      "category": "Deals"
-    },
-    {
-      "id": "1b41bc4ceb56f9e0b373",
-      "source": "verge",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more…",
-      "image": "",
-      "published_at": "2026-11-13T18:10:41Z",
-      "category": "Gadgets"
     },
     {
       "id": "e1cc0a62ff9a737d208c",
@@ -1131,66 +1191,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp",
       "published_at": "2026-11-12T19:49:11Z",
       "category": "Gaming"
-    },
-    {
-      "id": "83834c375b32b72eedea",
-      "source": "ars",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "published_at": "2026-11-12T19:23:03Z",
-      "category": "AI"
-    },
-    {
-      "id": "62a71771579a4d6b7a97",
-      "source": "ars",
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
-      "published_at": "2026-11-12T19:09:57Z",
-      "category": "Policy"
-    },
-    {
-      "id": "5c8d82d1d956058b57a6",
-      "source": "ars",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-      "published_at": "2026-11-12T18:57:45Z",
-      "category": "AI"
-    },
-    {
-      "id": "74cb66757eb18d65c147",
-      "source": "ars",
-      "title": "Netflix releases new trailer for Ray Gunn",
-      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-      "summary": "\"It's hard being the only honest players in a crooked game.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg",
-      "published_at": "2026-11-12T18:38:38Z",
-      "category": "Culture"
-    },
-    {
-      "id": "370ea076414e174c7cf0",
-      "source": "ars",
-      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
-      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
-      "summary": "\"We're not doing this thing because we like rockets.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
-      "published_at": "2026-11-12T18:28:22Z",
-      "category": "Space"
-    },
-    {
-      "id": "4ca0a10c2659c0101556",
-      "source": "ars",
-      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
-      "published_at": "2026-11-12T18:17:19Z",
-      "category": "Health"
     },
     {
       "id": "68ee908a7c2af5496321",

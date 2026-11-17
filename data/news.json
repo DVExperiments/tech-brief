@@ -1,37 +1,247 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T02:56:09Z",
+  "updated_at": "2026-11-17T11:53:34Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T02:56:09Z",
+      "last_success_at": "2026-11-17T11:53:34Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T02:56:09Z",
+      "last_success_at": "2026-11-17T11:53:34Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-11-17T02:56:09Z",
+      "count": 28,
+      "last_success_at": "2026-11-17T11:53:34Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T02:56:09Z",
+      "last_success_at": "2026-11-17T11:53:34Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "7d93a7baded5d579abb5",
+      "source": "wired",
+      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+      "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
+      "image": "https://media.wired.com/photos/6afb64c4d5ce52bfaa9da9f8/master/pass/SH010_WIRED_FRAMES_ARTEMIS_16x9_SINGLE_v04.gif",
+      "published_at": "2026-11-17T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "1686a4c7e79bb4c5030c",
+      "source": "wired",
+      "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+      "summary": "Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.",
+      "image": "https://media.wired.com/photos/6afb740886acdb63d5b9fac5/master/pass/SH040_WIRED_FRAMES_RACHEL_16x9_SINGLE_v04.gif",
+      "published_at": "2026-11-17T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "992033d35f697048b395",
+      "source": "wired",
+      "title": "Congratulations to WIRED’s Class of 2026",
+      "url": "https://www.wired.com/story/wired-yearbook-2026/",
+      "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
+      "image": "https://media.wired.com/photos/6afb9b29276fa364fc4708a8/master/pass/SOCIAL_WIRED_FRAMES_TITLE_MOTION.png",
+      "published_at": "2026-11-17T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "2ff26708f0fa63cbf636",
+      "source": "wired",
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
+      "published_at": "2026-11-17T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8946545556173f10f2e5",
+      "source": "wired",
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
+      "published_at": "2026-11-17T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "894de83bec7fa5952b73",
+      "source": "wired",
+      "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
+      "summary": "Backrooms started as a 4chan meme. Obsession came from someone who got his start in online sketch comedy. They both got people back into theaters—and it’s just the beginning.",
+      "image": "https://media.wired.com/photos/6afb628e1a432ec1d58e6de0/master/pass/SH020_WIRED_FRAMES_DIRECTORS_16x9_SINGLE_v04.gif",
+      "published_at": "2026-11-17T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "0f948b275df2381e47c4",
+      "source": "wired",
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
+      "published_at": "2026-11-17T10:47:45Z",
+      "category": "Business"
+    },
+    {
+      "id": "b2ce353c93df835ef35e",
+      "source": "wired",
+      "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
+      "url": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "summary": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.",
+      "image": "https://media.wired.com/photos/6afb7ac486acdb63d5b9fcaf/master/pass/Cybercab_66.jpg",
+      "published_at": "2026-11-17T10:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "65342222048f88e858cd",
+      "source": "wired",
+      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
+      "url": "https://www.wired.com/story/do-you-need-a-smart-car-seat/",
+      "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
+      "image": "https://media.wired.com/photos/6afb65d864ec4fa3e6d6fae5/master/pass/Do-You-Need-a-Smart-Car-Seat-.jpg",
+      "published_at": "2026-11-17T10:06:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9f9204f85f20eaa79c5a",
+      "source": "wired",
+      "title": "Oobah Butler Can Sell You Anything—If You’re a Rich Idiot",
+      "url": "https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/",
+      "summary": "In an exclusive interview, the stunt journalist talks about his new HBO show, where he dreams up grifting schemes to lampoon some of the world’s most opulent—and gullible—industries.",
+      "image": "https://media.wired.com/photos/6afb935d1f1fdc342dea42fe/master/pass/McCausland-00002986000613.jpg",
+      "published_at": "2026-11-17T08:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "4b426cf7a03849354e86",
+      "source": "wired",
+      "title": "Chewy Promo Codes: 25% Off November 2026",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "195a3ff89573b33c6ef5",
+      "source": "wired",
+      "title": "Uber Eats Promo Codes: $15 Off│November 2026",
+      "url": "https://www.wired.com/story/uber-eats-promo-code/",
+      "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "62dbba02251e08ab8e30",
+      "source": "wired",
+      "title": "50% Off DoorDash Promo Code | November 2026",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "abfb78cb779acd179ec3",
+      "source": "wired",
+      "title": "Booking.com Promo Codes: 20% Off | November 2026",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ee62ca3cc42d97979aa6",
+      "source": "wired",
+      "title": "Hotels.com Coupon Codes: 50% Off for November 2026",
+      "url": "https://www.wired.com/story/hotels-com-coupon/",
+      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ce4b29e12ad2a4415cbd",
+      "source": "wired",
+      "title": "Udemy Coupon Codes: 20% Off November 2026",
+      "url": "https://www.wired.com/story/udemy-promo-code/",
+      "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e9eadb48cdaa2b5aff30",
+      "source": "wired",
+      "title": "Surfshark Promo Codes: 87% Off | November 2026",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8c0fdcd5b2751568bbd6",
+      "source": "wired",
+      "title": "1Password Coupon: Score a Free Trial in November 2026",
+      "url": "https://www.wired.com/story/1password-coupon/",
+      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b4153dfd8cdc12b69f2b",
+      "source": "wired",
+      "title": "20% Off Sephora Promo Code | November 2026",
+      "url": "https://www.wired.com/story/sephora-promo-code/",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0c9eeb31e65ce64a9d61",
+      "source": "wired",
+      "title": "Newegg Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a955aeeaf7b6e6f17608",
+      "source": "wired",
+      "title": "AT&T Promo Codes: $50 Off This November 2026",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-17T06:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "d638936a549104c88cc5",
       "source": "wired",
@@ -683,66 +893,6 @@
       "category": "Gear"
     },
     {
-      "id": "58753392982522c4f8e1",
-      "source": "wired",
-      "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
-      "url": "https://www.wired.com/review/evercade-nexus/",
-      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
-      "image": "https://media.wired.com/photos/6af5e7fe5864e5f624e083eb/master/pass/Evercade%20Nexus%20(1).jpg",
-      "published_at": "2026-11-15T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b85e67a1591b9c936113",
-      "source": "wired",
-      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
-      "url": "https://www.wired.com/review/logitech-yeti-2/",
-      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
-      "image": "https://media.wired.com/photos/6af7df7e7f77ca3a14ead393/master/pass/Review--Logitech-Yeti-2.jpg",
-      "published_at": "2026-11-15T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d8ce49672c24fa432496",
-      "source": "wired",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
-      "published_at": "2026-11-15T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9fe6c1e23c54f6c4d9e5",
-      "source": "wired",
-      "title": "It’s Getting Too Dry for Even Cactuses to Survive",
-      "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
-      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
-      "image": "https://media.wired.com/photos/6af6e9401b752946d00e4918/master/pass/extreme-heat-climate-change-cacti-cactus-extinction-biodiversity-risk-models.jpg",
-      "published_at": "2026-11-15T10:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "116dda0a1a62f8e71cf8",
-      "source": "wired",
-      "title": "M6 Mac Mini Early Black Friday Sale (2026)",
-      "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
-      "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
-      "image": "https://media.wired.com/photos/6afb3dd68b8fb8ba4d5d489c/master/pass/Take-$120-Off-the-Latest-Mac-Mini-With-This-Deal.jpg",
-      "published_at": "2026-11-15T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "58e9b3b4cc9c56fc5a8b",
-      "source": "wired",
-      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
-      "url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
-      "summary": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
-      "image": "https://media.wired.com/photos/6af5dd41ea249e5173fa2e83/master/pass/Weixin%20Image_2025-07-15_230629_400.jpg",
-      "published_at": "2026-11-15T10:00:00Z",
-      "category": "Science"
-    },
-    {
       "id": "0c146d2fa3ad84bee959",
       "source": "ars",
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
@@ -803,16 +953,6 @@
       "category": "AI"
     },
     {
-      "id": "661a0e9c420c9c023792",
-      "source": "wired",
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
-      "published_at": "2026-11-14T13:00:00Z",
-      "category": "Security"
-    },
-    {
       "id": "2dd2d5f25be726a11b37",
       "source": "ars",
       "title": "James Webb telescope finds ice older than the star it orbits",
@@ -831,146 +971,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
       "published_at": "2026-11-14T12:05:51Z",
       "category": "Science"
-    },
-    {
-      "id": "36467474af6c08c76674",
-      "source": "wired",
-      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
-      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "image": "https://media.wired.com/photos/6af78dee04380d6fbf425df6/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg",
-      "published_at": "2026-11-14T12:05:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "798c7a9ef5f9367b9b2e",
-      "source": "wired",
-      "title": "How to Run SteamOS on Your Mac",
-      "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
-      "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
-      "image": "https://media.wired.com/photos/6af484753d0afc8b01fd0f21/master/pass/GettyImages-1394116979.jpg",
-      "published_at": "2026-11-14T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b0ae0f9bda6863cbdb92",
-      "source": "wired",
-      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
-      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
-      "image": "https://media.wired.com/photos/6af5bf6d129c3f49a6da47ce/master/pass/111216-CLoud%20Storage%20Audit.jpg",
-      "published_at": "2026-11-14T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "da17ea341c97e281a09a",
-      "source": "wired",
-      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
-      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
-      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "image": "https://media.wired.com/photos/6af7d0c3d135dcb52741f5c1/master/pass/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
-      "published_at": "2026-11-14T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8ccecc754dbf80070f5c",
-      "source": "wired",
-      "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
-      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
-      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
-      "image": "https://media.wired.com/photos/6af78becda0b3f5acb040c4d/master/pass/The-21-Best-REI-Holiday-Sale-Outdoor-Deals.jpg",
-      "published_at": "2026-11-14T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f0be73b1c06d96ca1543",
-      "source": "wired",
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "image": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
-      "published_at": "2026-11-14T11:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "a6885183908c39ad6c22",
-      "source": "wired",
-      "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
-      "url": "https://www.wired.com/story/best-pickleball-paddles/",
-      "summary": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.",
-      "image": "https://media.wired.com/photos/687b6f785be8b955cdab7089/master/pass/Best%20pickleball%20paddles%20update_.png",
-      "published_at": "2026-11-14T10:37:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ec6ffe7c381c00471f4c",
-      "source": "wired",
-      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
-      "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
-      "summary": "As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.",
-      "image": "https://media.wired.com/photos/6af4abdffbe5af43ea5def11/master/pass/GazaFlood_01.jpg",
-      "published_at": "2026-11-14T10:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "ce1b233a1e13bb4e06eb",
-      "source": "wired",
-      "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
-      "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
-      "summary": "The signature moto jacket has officially worn out its welcome. Here’s how fashion’s pros would rebrand him.",
-      "image": "https://media.wired.com/photos/6af7364ac76e30186375551b/master/pass/111326-Jensen%20Style.jpg",
-      "published_at": "2026-11-14T10:15:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4dc536dd6672da49e21f",
-      "source": "wired",
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
-      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
-      "image": "https://media.wired.com/photos/6af78b0965e40024232d7e36/master/pass/These-Stores-Are-Offering-Complete-Thanksgiving-Meal-Deals-for-$35-or-Less.jpg",
-      "published_at": "2026-11-14T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "62a5600244588a5745c5",
-      "source": "wired",
-      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
-      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
-      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
-      "image": "https://media.wired.com/photos/6af47d34e9ef28e062a72826/master/pass/Dark-Matter-Galaxies-cr.several-Lede.jpg",
-      "published_at": "2026-11-14T10:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "0f13b98287e88b371cfd",
-      "source": "wired",
-      "title": "Outlook Went Down? Microsoft May Owe You Money",
-      "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
-      "summary": "If your Microsoft business services were offline last week, you’re probably entitled to a partial credit on your next monthly bill.",
-      "image": "https://media.wired.com/photos/6af7757eefe64d5ef3ea37aa/master/pass/How-to-Get-Refund-From-Microsoft-Gear-1211180727.jpg",
-      "published_at": "2026-11-14T07:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "551c7c70d08fa6150abf",
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons 20% Off for November 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f567793312fcf248c3b0",
-      "source": "wired",
-      "title": "Dell Coupon Codes: 20% Off for November 2026",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-      "published_at": "2026-11-14T06:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "58cc00db2d3646e6d7d1",
@@ -1391,26 +1391,6 @@
       "image": "",
       "published_at": "2026-11-03T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "d3b7d273259bae7984b3",
-      "source": "mit",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling…",
-      "image": "",
-      "published_at": "2026-11-03T10:43:41Z",
-      "category": "Artificial intelligence"
-    },
-    {
-      "id": "3170ed2d247a44a85d3b",
-      "source": "mit",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that…",
-      "image": "",
-      "published_at": "2026-11-03T04:18:47Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

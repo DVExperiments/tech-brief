@@ -1,37 +1,267 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T02:54:22Z",
+  "updated_at": "2026-11-18T11:44:08Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-18T02:54:22Z",
+      "last_success_at": "2026-11-18T11:44:08Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-18T02:54:22Z",
+      "last_success_at": "2026-11-18T11:44:08Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 31,
-      "last_success_at": "2026-11-18T02:54:22Z",
+      "count": 32,
+      "last_success_at": "2026-11-18T11:44:08Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-18T02:54:22Z",
+      "last_success_at": "2026-11-18T11:44:08Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "9a4dbfa3fc26797da66e",
+      "source": "wired",
+      "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
+      "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
+      "summary": "The best part of GTA isn’t the hyperviolence or the driving. It’s the friends and family we explode along the way.",
+      "image": "https://media.wired.com/photos/6afcd01195accf8c82547428/master/pass/Jason_and_Lucia_01_landscape.jpg",
+      "published_at": "2026-11-18T11:30:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "fe5a7f6250f04a0409b3",
+      "source": "wired",
+      "title": "Early Black Friday Deals Under $100 (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
+      "summary": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
+      "image": "https://media.wired.com/photos/6af39fd8ba886163acf11ce3/master/pass/The-Best-Early-Black-Friday-Deals-Under-$100.jpg",
+      "published_at": "2026-11-18T11:19:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "117bf79a993108836861",
+      "source": "verge",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that…",
+      "image": "",
+      "published_at": "2026-11-18T11:16:53Z",
+      "category": "AI"
+    },
+    {
+      "id": "a8edfe4b0cd58956d4e2",
+      "source": "wired",
+      "title": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
+      "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
+      "summary": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.",
+      "image": "https://media.wired.com/photos/6afc240b2a6df42cc7084204/master/pass/pia17462.jpg",
+      "published_at": "2026-11-18T11:15:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "e665d683a69f49058989",
+      "source": "verge",
+      "title": "Grand Theft Auto VI has arrived",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most…",
+      "image": "",
+      "published_at": "2026-11-18T11:06:16Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "e77af959707e6a5d8ed9",
+      "source": "ars",
+      "title": "Grand Theft Auto VI: The Ars Technica review",
+      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg",
+      "published_at": "2026-11-18T11:00:27Z",
+      "category": "Features"
+    },
+    {
+      "id": "db822d3db67f210d5f64",
+      "source": "verge",
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+      "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million…",
+      "image": "",
+      "published_at": "2026-11-18T11:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "482cee1591ae153a9336",
+      "source": "verge",
+      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+      "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+      "summary": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of…",
+      "image": "",
+      "published_at": "2026-11-18T11:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "78a041e73aabeb9e28ce",
+      "source": "wired",
+      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
+      "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
+      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
+      "image": "https://media.wired.com/photos/6afc1f24796550a2d394544e/master/pass/Germ%20Network.jpg",
+      "published_at": "2026-11-18T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fb4c4abdd173ee04f69e",
+      "source": "mit",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are…",
+      "image": "",
+      "published_at": "2026-11-18T10:20:30Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "8f7e4a3402f064ca66b8",
+      "source": "wired",
+      "title": "Apple HomeView Review (2026): Should’ve Been Better",
+      "url": "https://www.wired.com/review/apple-homeview-review/",
+      "summary": "Apple’s HomeView marks a very late arrival to the smart display world, and one that didn’t blow me away.",
+      "image": "https://media.wired.com/photos/6afcde919e5594b1abe45b8b/master/pass/Review--Apple-HomeView.jpg",
+      "published_at": "2026-11-18T10:18:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ad493fa9ecc96c8ee6c5",
+      "source": "wired",
+      "title": "Best Smart Bed of 2026: Bryte and Tempur-Pedic",
+      "url": "https://www.wired.com/gallery/best-smart-bed/",
+      "summary": "If you’re going to spend a third of your life in bed, it might as well be a smart one. Here are our favorites.",
+      "image": "https://media.wired.com/photos/6afcea142a0f0cf673d2ff82/master/pass/The-Best-Smart-Bed-Doesn%E2%80%99t-Sleep-on-the-Job.jpg",
+      "published_at": "2026-11-18T10:07:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b88ad8b709c03c386e3c",
+      "source": "wired",
+      "title": "House Democrats Are Officially Coming for Trump’s Orbit",
+      "url": "https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/",
+      "summary": "The incoming head of the House Oversight Committee sent record preservation requests to Donald Trump Jr., Eric Trump, JD Vance, Stephen Miller, and other administration officials.",
+      "image": "https://media.wired.com/photos/6afcc37a4d856565ffa1dc3d/master/pass/House-Democrats-Officially-Coming-for-Trump-Family-Politics-2270265640.jpg",
+      "published_at": "2026-11-18T10:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "a0a5ce94b56dbeff39b3",
+      "source": "wired",
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+      "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "image": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg",
+      "published_at": "2026-11-18T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "60ad035bdf279ccc12e9",
+      "source": "wired",
+      "title": "Loop Earplugs Discount Codes: 25% Off",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fedebf0cdaf219f861d5",
+      "source": "wired",
+      "title": "Columbia Promo Codes: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1b0f43b941db86f6dfb1",
+      "source": "wired",
+      "title": "Walmart Promo Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "78a6f7e4fd859e145c2a",
+      "source": "wired",
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "url": "https://www.wired.com/story/birdfy-discount-code/",
+      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c542879b2326928390a3",
+      "source": "wired",
+      "title": "Priceline Promo Codes & Coupons: 10% Off November 2026",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "da7c921cdba559f7759b",
+      "source": "wired",
+      "title": "Squarespace Promo Codes: 55% Off in November 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7bff4d4c8708fc33b389",
+      "source": "wired",
+      "title": "Maytag Promo Codes: 15% Off Appliances",
+      "url": "https://www.wired.com/story/maytag-promo-code/",
+      "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0205596f72f5659f56da",
+      "source": "wired",
+      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | November 2026",
+      "url": "https://www.wired.com/story/verizon-promo-code/",
+      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+      "image": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
+      "published_at": "2026-11-18T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "528d75526a76b232087d",
+      "source": "wired",
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
+      "published_at": "2026-11-18T05:01:00Z",
+      "category": "Culture"
+    },
     {
       "id": "8fb06fc21a2592786ee6",
       "source": "wired",
@@ -593,156 +823,6 @@
       "category": "Business"
     },
     {
-      "id": "b2ce353c93df835ef35e",
-      "source": "wired",
-      "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
-      "url": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
-      "summary": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.",
-      "image": "https://media.wired.com/photos/6afb7ac486acdb63d5b9fcaf/master/pass/Cybercab_66.jpg",
-      "published_at": "2026-11-17T10:15:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "65342222048f88e858cd",
-      "source": "wired",
-      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
-      "url": "https://www.wired.com/story/do-you-need-a-smart-car-seat/",
-      "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
-      "image": "https://media.wired.com/photos/6afb65d864ec4fa3e6d6fae5/master/pass/Do-You-Need-a-Smart-Car-Seat-.jpg",
-      "published_at": "2026-11-17T10:06:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9f9204f85f20eaa79c5a",
-      "source": "wired",
-      "title": "Oobah Butler Can Sell You Anything—If You’re a Rich Idiot",
-      "url": "https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/",
-      "summary": "In an exclusive interview, the stunt journalist talks about his new HBO show, where he dreams up grifting schemes to lampoon some of the world’s most opulent—and gullible—industries.",
-      "image": "https://media.wired.com/photos/6afb935d1f1fdc342dea42fe/master/pass/McCausland-00002986000613.jpg",
-      "published_at": "2026-11-17T08:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "4b426cf7a03849354e86",
-      "source": "wired",
-      "title": "Chewy Promo Codes: 25% Off November 2026",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "195a3ff89573b33c6ef5",
-      "source": "wired",
-      "title": "Uber Eats Promo Codes: $15 Off│November 2026",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "62dbba02251e08ab8e30",
-      "source": "wired",
-      "title": "50% Off DoorDash Promo Code | November 2026",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "abfb78cb779acd179ec3",
-      "source": "wired",
-      "title": "Booking.com Promo Codes: 20% Off | November 2026",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ee62ca3cc42d97979aa6",
-      "source": "wired",
-      "title": "Hotels.com Coupon Codes: 50% Off for November 2026",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ce4b29e12ad2a4415cbd",
-      "source": "wired",
-      "title": "Udemy Coupon Codes: 20% Off November 2026",
-      "url": "https://www.wired.com/story/udemy-promo-code/",
-      "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "e9eadb48cdaa2b5aff30",
-      "source": "wired",
-      "title": "Surfshark Promo Codes: 87% Off | November 2026",
-      "url": "https://www.wired.com/story/surfshark-coupon/",
-      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8c0fdcd5b2751568bbd6",
-      "source": "wired",
-      "title": "1Password Coupon: Score a Free Trial in November 2026",
-      "url": "https://www.wired.com/story/1password-coupon/",
-      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b4153dfd8cdc12b69f2b",
-      "source": "wired",
-      "title": "20% Off Sephora Promo Code | November 2026",
-      "url": "https://www.wired.com/story/sephora-promo-code/",
-      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0c9eeb31e65ce64a9d61",
-      "source": "wired",
-      "title": "Newegg Promo Codes and Coupons for November 2026",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a955aeeaf7b6e6f17608",
-      "source": "wired",
-      "title": "AT&T Promo Codes: $50 Off This November 2026",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-11-17T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d638936a549104c88cc5",
-      "source": "wired",
-      "title": "The 8 Best Movies to Stream Right Now (November 2026)",
-      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-      "summary": "Arco, Backrooms, and Godzilla Minus One are among the films deserving of your eyeballs this month.",
-      "image": "https://media.wired.com/photos/6afb5714b63f0d234f4b197b/master/pass/Movie-Guide-Arco-Culture-MCDARCO_EC008.jpg",
-      "published_at": "2026-11-17T00:58:05Z",
-      "category": "Culture"
-    },
-    {
       "id": "29f6b6666d9d2d2236c5",
       "source": "verge",
       "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
@@ -791,16 +871,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
       "published_at": "2026-11-16T21:56:39Z",
       "category": "Tech"
-    },
-    {
-      "id": "7933cf4eb60e2c46c887",
-      "source": "wired",
-      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "url": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
-      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
-      "image": "https://media.wired.com/photos/6afb6caffd92a97bc81f1ed9/master/pass/Security_YesYourBankIsHavinganOutage_v1-ezgif.com-video-to-gif-converter.gif",
-      "published_at": "2026-11-16T21:45:45Z",
-      "category": "Security"
     },
     {
       "id": "e34e403678fb6c0595c6",
@@ -893,16 +963,6 @@
       "category": "Policy"
     },
     {
-      "id": "4a1402f0c1e6e4093e9a",
-      "source": "wired",
-      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/",
-      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
-      "image": "https://media.wired.com/photos/6afb4cc16a1af442b6a49972/master/pass/Update--Best-Early-Black-Friday-Espresso-Machine-Deals.jpg",
-      "published_at": "2026-11-16T20:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "a95ef863eb8c94f85e5f",
       "source": "ars",
       "title": "Supreme Court keeps injunction against DEI grant defunding in place",
@@ -983,16 +1043,6 @@
       "category": "Apple"
     },
     {
-      "id": "ff8caeb01b7abf5012b3",
-      "source": "verge",
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in…",
-      "image": "",
-      "published_at": "2026-11-16T18:43:35Z",
-      "category": "AI"
-    },
-    {
       "id": "e6c767658b2a7816af2a",
       "source": "mit",
       "title": "The open-source movement wants Jensen Huang back",
@@ -1001,36 +1051,6 @@
       "image": "",
       "published_at": "2026-11-16T18:38:47Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "1edf664461b19e80d6bf",
-      "source": "verge",
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people…",
-      "image": "",
-      "published_at": "2026-11-16T18:29:55Z",
-      "category": "Microsoft"
-    },
-    {
-      "id": "4a0ca1eea64c892b748d",
-      "source": "verge",
-      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-      "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of…",
-      "image": "",
-      "published_at": "2026-11-16T16:48:01Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "ac3cdf736abc0e2eeb18",
-      "source": "verge",
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was…",
-      "image": "",
-      "published_at": "2026-11-16T16:39:36Z",
-      "category": "News"
     },
     {
       "id": "949375dfdf8e51a899a3",
@@ -1181,16 +1201,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
       "published_at": "2026-11-13T21:59:01Z",
       "category": "Health"
-    },
-    {
-      "id": "9176dd3865460d281ee6",
-      "source": "ars",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "published_at": "2026-11-13T21:20:47Z",
-      "category": "AI"
     },
     {
       "id": "5165874fac7d3f420982",

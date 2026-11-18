@@ -1,37 +1,207 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T20:56:10Z",
+  "updated_at": "2026-11-18T02:54:22Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T20:56:10Z",
+      "last_success_at": "2026-11-18T02:54:22Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T20:56:10Z",
+      "last_success_at": "2026-11-18T02:54:22Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 31,
-      "last_success_at": "2026-11-17T20:56:10Z",
+      "last_success_at": "2026-11-18T02:54:22Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-17T20:56:10Z",
+      "last_success_at": "2026-11-18T02:54:22Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "8fb06fc21a2592786ee6",
+      "source": "wired",
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "summary": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
+      "image": "https://media.wired.com/photos/6afb4dfb95139a14a66d113d/master/pass/Roblox-Senate-Hearing-Culture-2260855878.jpg",
+      "published_at": "2026-11-18T00:32:39Z",
+      "category": "Culture"
+    },
+    {
+      "id": "569116382622454b6839",
+      "source": "ars",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+      "published_at": "2026-11-18T00:27:29Z",
+      "category": "AI"
+    },
+    {
+      "id": "f72fdbbb209287856785",
+      "source": "verge",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the…",
+      "image": "",
+      "published_at": "2026-11-17T23:41:18Z",
+      "category": "AI"
+    },
+    {
+      "id": "2658483cb4e9a095070f",
+      "source": "wired",
+      "title": "Review: Nubia Redmagic 12 Pro | Camera",
+      "url": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+      "summary": "",
+      "image": "https://media.wired.com/photos/6afce0f6ee5c9e07415dd40b/master/pass/4%20Nubia%20Redmagic%2012%20Pro%20Main%20Camera%20SOURCE%20Simon%20Hill.jpg",
+      "published_at": "2026-11-17T23:34:44Z",
+      "category": "Gear / Products / Phones"
+    },
+    {
+      "id": "e509aa7abb26bb082891",
+      "source": "ars",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "published_at": "2026-11-17T23:09:09Z",
+      "category": "Policy"
+    },
+    {
+      "id": "607ae8b8245495ec3138",
+      "source": "wired",
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+      "published_at": "2026-11-17T22:57:54Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e5a70729252c785a5d00",
+      "source": "ars",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
+      "published_at": "2026-11-17T22:44:46Z",
+      "category": "Space"
+    },
+    {
+      "id": "b1858862eda6bbfc8be8",
+      "source": "verge",
+      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff…",
+      "image": "",
+      "published_at": "2026-11-17T22:38:41Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "80404e36f2c57024147e",
+      "source": "verge",
+      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's…",
+      "image": "",
+      "published_at": "2026-11-17T22:32:50Z",
+      "category": "Business"
+    },
+    {
+      "id": "36d88901ae05108cff34",
+      "source": "ars",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
+      "published_at": "2026-11-17T22:32:16Z",
+      "category": "Apple"
+    },
+    {
+      "id": "e5b2edb6087a8203dd3c",
+      "source": "verge",
+      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks…",
+      "image": "",
+      "published_at": "2026-11-17T22:25:41Z",
+      "category": "Apple"
+    },
+    {
+      "id": "8325cf10760ed8e56664",
+      "source": "wired",
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "image": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
+      "published_at": "2026-11-17T22:19:19Z",
+      "category": "Business"
+    },
+    {
+      "id": "78ac1692647b79c41150",
+      "source": "verge",
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to…",
+      "image": "",
+      "published_at": "2026-11-17T22:05:05Z",
+      "category": "Analysis"
+    },
+    {
+      "id": "c74bcde7ff12a7efdfb2",
+      "source": "verge",
+      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently…",
+      "image": "",
+      "published_at": "2026-11-17T21:46:20Z",
+      "category": "Apple"
+    },
+    {
+      "id": "b045d157fae79893f320",
+      "source": "verge",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the…",
+      "image": "",
+      "published_at": "2026-11-17T21:40:59Z",
+      "category": "AI"
+    },
+    {
+      "id": "9bd69a01c1dc4e59a5f1",
+      "source": "verge",
+      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is…",
+      "image": "",
+      "published_at": "2026-11-17T21:38:08Z",
+      "category": "Design"
+    },
+    {
+      "id": "cbe9e0dc1939915d8ad3",
+      "source": "verge",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to…",
+      "image": "",
+      "published_at": "2026-11-17T21:00:55Z",
+      "category": "AI"
+    },
     {
       "id": "abd6e5609898ad7c71e1",
       "source": "verge",
@@ -843,26 +1013,6 @@
       "category": "Microsoft"
     },
     {
-      "id": "624847c6bea60ade3af3",
-      "source": "wired",
-      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
-      "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
-      "summary": "Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.",
-      "image": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
-      "published_at": "2026-11-16T18:26:26Z",
-      "category": "Gear"
-    },
-    {
-      "id": "520a8886c9c7d9ac4582",
-      "source": "wired",
-      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
-      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
-      "image": "https://media.wired.com/photos/6af7ae201244c1a16020acc3/master/pass/Instagram-Users-Can-Expect-Avalanche-on-Amazon-Affiliate-Posts-Gear.jpg",
-      "published_at": "2026-11-16T17:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "4a0ca1eea64c892b748d",
       "source": "verge",
       "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
@@ -871,16 +1021,6 @@
       "image": "",
       "published_at": "2026-11-16T16:48:01Z",
       "category": "Black Friday"
-    },
-    {
-      "id": "91a3bb98ad85d539c9c0",
-      "source": "wired",
-      "title": "AO3 Is Back. This Is Not a Drill",
-      "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
-      "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
-      "image": "https://media.wired.com/photos/6afb1b61fd92a97bc81f1a8d/master/pass/111626-AO3%20Back%20Online.jpg",
-      "published_at": "2026-11-16T16:40:33Z",
-      "category": "Culture"
     },
     {
       "id": "ac3cdf736abc0e2eeb18",
@@ -903,16 +1043,6 @@
       "category": "Health"
     },
     {
-      "id": "8f6d326cc9c7d708008f",
-      "source": "wired",
-      "title": "Jensen Huang Is Gone. Now What?",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "image": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
-      "published_at": "2026-11-16T16:12:51Z",
-      "category": "The Big Story"
-    },
-    {
       "id": "301906ed27909280c2b9",
       "source": "mit",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -921,36 +1051,6 @@
       "image": "",
       "published_at": "2026-11-16T16:04:28Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "e9407ad18f618e881652",
-      "source": "verge",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely…",
-      "image": "",
-      "published_at": "2026-11-16T16:00:14Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "fa40cae54085cbc87a63",
-      "source": "verge",
-      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
-      "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
-      "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms…",
-      "image": "",
-      "published_at": "2026-11-16T16:00:00Z",
-      "category": "Decoder"
-    },
-    {
-      "id": "df4afdd6e67ab476803c",
-      "source": "verge",
-      "title": "Robert Pattinson is Amazon’s first James Bond",
-      "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
-      "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy…",
-      "image": "",
-      "published_at": "2026-11-16T15:19:34Z",
-      "category": "Amazon"
     },
     {
       "id": "c998fe4fd32cecbdad30",
@@ -1003,16 +1103,6 @@
       "category": "Features"
     },
     {
-      "id": "eebb08929cbb1e1c5c8b",
-      "source": "verge",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple…",
-      "image": "",
-      "published_at": "2026-11-16T01:26:56Z",
-      "category": "AI"
-    },
-    {
       "id": "3ae40496ffb43c789697",
       "source": "ars",
       "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -1021,56 +1111,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
       "published_at": "2026-11-15T23:11:54Z",
       "category": "Science"
-    },
-    {
-      "id": "e9c1b02e020bef95687b",
-      "source": "verge",
-      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
-      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders…",
-      "image": "",
-      "published_at": "2026-11-15T21:49:22Z",
-      "category": "Column"
-    },
-    {
-      "id": "bcea164eb04f11c374f0",
-      "source": "verge",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but…",
-      "image": "",
-      "published_at": "2026-11-15T21:05:02Z",
-      "category": "Amazon"
-    },
-    {
-      "id": "cef7bcb5846fe4e5130c",
-      "source": "verge",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments…",
-      "image": "",
-      "published_at": "2026-11-15T20:43:49Z",
-      "category": "AI"
-    },
-    {
-      "id": "31cf3118bb51fd4011a1",
-      "source": "verge",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have…",
-      "image": "",
-      "published_at": "2026-11-15T19:15:43Z",
-      "category": "AI"
-    },
-    {
-      "id": "9aa445bcdd68ef9f592d",
-      "source": "verge",
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver…",
-      "image": "",
-      "published_at": "2026-11-15T17:00:00Z",
-      "category": "Black Friday"
     },
     {
       "id": "d421de4b45ce6ac59588",
@@ -1151,46 +1191,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
       "published_at": "2026-11-13T21:20:47Z",
       "category": "AI"
-    },
-    {
-      "id": "2ebcabde9f11e89a4c02",
-      "source": "ars",
-      "title": "In elephants, the resilience of communities has its limits",
-      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-      "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
-      "published_at": "2026-11-13T20:03:13Z",
-      "category": "Science"
-    },
-    {
-      "id": "06a6bc6b3e692f580aa7",
-      "source": "ars",
-      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
-      "published_at": "2026-11-13T19:49:16Z",
-      "category": "Policy"
-    },
-    {
-      "id": "e1cc0a62ff9a737d208c",
-      "source": "ars",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
-      "published_at": "2026-11-13T17:25:45Z",
-      "category": "AI"
-    },
-    {
-      "id": "6b253b8d521f7f3d8b9b",
-      "source": "ars",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
-      "published_at": "2026-11-13T16:26:32Z",
-      "category": "Biz & IT"
     },
     {
       "id": "5165874fac7d3f420982",

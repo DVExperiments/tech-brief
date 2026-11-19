@@ -1,37 +1,317 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T09:31:13Z",
+  "updated_at": "2026-11-19T18:40:51Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T09:31:13Z",
+      "last_success_at": "2026-11-19T18:40:51Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T09:31:13Z",
+      "last_success_at": "2026-11-19T18:40:51Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 29,
-      "last_success_at": "2026-11-19T09:31:13Z",
+      "count": 30,
+      "last_success_at": "2026-11-19T18:40:51Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T09:31:13Z",
+      "last_success_at": "2026-11-19T18:40:51Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "16837082b59c3667ad42",
+      "source": "verge",
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "summary": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up…",
+      "image": "",
+      "published_at": "2026-11-19T18:33:08Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "eb0f032e7996611a23f2",
+      "source": "verge",
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be…",
+      "image": "",
+      "published_at": "2026-11-19T18:21:13Z",
+      "category": "AI"
+    },
+    {
+      "id": "3ed41053b812e577014c",
+      "source": "verge",
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot…",
+      "image": "",
+      "published_at": "2026-11-19T18:19:03Z",
+      "category": "Android"
+    },
+    {
+      "id": "91231b182a98371fbef3",
+      "source": "verge",
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The…",
+      "image": "",
+      "published_at": "2026-11-19T18:15:00Z",
+      "category": "Analysis"
+    },
+    {
+      "id": "a6aaa75a08092adf3631",
+      "source": "verge",
+      "title": "Apple’s iPhone camera leader has reportedly left the company",
+      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "summary": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the…",
+      "image": "",
+      "published_at": "2026-11-19T18:13:05Z",
+      "category": "Apple"
+    },
+    {
+      "id": "c3d52f4f7c00229c6f4c",
+      "source": "ars",
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "summary": "Google says almost all developers have already gotten on board with verification.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "published_at": "2026-11-19T18:00:33Z",
+      "category": "Google"
+    },
+    {
+      "id": "486fd89c8a258711e5f2",
+      "source": "verge",
+      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
+      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+      "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor…",
+      "image": "",
+      "published_at": "2026-11-19T17:58:01Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "292e2af90a0cff618636",
+      "source": "verge",
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "summary": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which…",
+      "image": "",
+      "published_at": "2026-11-19T17:15:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "0818414534fc85a77a42",
+      "source": "wired",
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
+      "published_at": "2026-11-19T17:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "d57868e417167098b2a1",
+      "source": "verge",
+      "title": "Anthropic starts trading on Wall Street",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The…",
+      "image": "",
+      "published_at": "2026-11-19T16:52:01Z",
+      "category": "AI"
+    },
+    {
+      "id": "34f17ddf720742066b31",
+      "source": "verge",
+      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+      "summary": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or…",
+      "image": "",
+      "published_at": "2026-11-19T16:28:12Z",
+      "category": "Apps"
+    },
+    {
+      "id": "ec2b317fab9605281e91",
+      "source": "verge",
+      "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+      "summary": "Ahead of Black Friday, you can subscribe to Paramount Plus for just $2.99 per month for the first two months. After the introductory period, you can cancel your subscription or automatically renew at the…",
+      "image": "",
+      "published_at": "2026-11-19T16:15:01Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "67f49cfceeefb04d98a6",
+      "source": "ars",
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg",
+      "published_at": "2026-11-19T14:04:38Z",
+      "category": "Science"
+    },
+    {
+      "id": "a450b350c5714139487d",
+      "source": "ars",
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg",
+      "published_at": "2026-11-19T13:40:02Z",
+      "category": "Space"
+    },
+    {
+      "id": "a16e26c0886d4e101653",
+      "source": "mit",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks…",
+      "image": "",
+      "published_at": "2026-11-19T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "c06d7b022fcab9d9b966",
+      "source": "wired",
+      "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
+      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
+      "summary": "Because staying home can actually mean having the time of your life, whether alone or with friends.",
+      "image": "https://media.wired.com/photos/6afe018a1581bbef3a3945d5/master/pass/The-21-Best-Home-Entertainment-Gifts.jpg",
+      "published_at": "2026-11-19T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "032997ddf622ff623fcf",
+      "source": "wired",
+      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
+      "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
+      "image": "https://media.wired.com/photos/6afd6967d7198704b1746983/master/pass/1LD%20Social%20Graphics_Shine%20Bright%20-%20Web%20Hero%20copy%202.jpg",
+      "published_at": "2026-11-19T12:00:00Z",
+      "category": "Science / Physics and Math"
+    },
+    {
+      "id": "c57061286fcc336d383d",
+      "source": "wired",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
+      "published_at": "2026-11-19T12:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "ca36a6bcb148b568c19e",
+      "source": "mit",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are…",
+      "image": "",
+      "published_at": "2026-11-19T12:00:00Z",
+      "category": "Biotechnology and health"
+    },
+    {
+      "id": "8c7a9d5c1d53d57df624",
+      "source": "wired",
+      "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
+      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
+      "published_at": "2026-11-19T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fdb5245eb1a15ce31ff4",
+      "source": "ars",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+      "published_at": "2026-11-19T11:13:01Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "d2bf56bb48c34dd8d64a",
+      "source": "wired",
+      "title": "Best Early Dyson Black Friday Vacuum Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
+      "summary": "Dyson’s early Black Friday deals start today, and these are the vacuum deals you don’t want to skip.",
+      "image": "https://media.wired.com/photos/6afdff856266953106784d1e/master/pass/The-Best-Early-Black-Friday-Deals-on-Dyson-Vacuums.jpg",
+      "published_at": "2026-11-19T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "34fccafa11ad78596f4d",
+      "source": "wired",
+      "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+      "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+      "summary": "Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.",
+      "image": "https://media.wired.com/photos/6afced7fd3e4d723d17cee88/master/pass/IMG_0337.jpg",
+      "published_at": "2026-11-19T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "2d717215e74b0924cf52",
+      "source": "mit",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery…",
+      "image": "",
+      "published_at": "2026-11-19T11:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "43c1884ed6969d0b2aa0",
+      "source": "wired",
+      "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
+      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+      "summary": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
+      "image": "https://media.wired.com/photos/6afced3edd75ebb0e0f1462f/master/pass/AP26317829295215_Groundstop.jpg",
+      "published_at": "2026-11-19T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3ab9f97e1ca4c0996205",
+      "source": "wired",
+      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "summary": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
+      "image": "https://media.wired.com/photos/6afe63e1564242f4569cab85/master/pass/The-Therabody-Gift-Guide-for-Rest-and-Relaxation.jpg",
+      "published_at": "2026-11-19T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "84d1cd85c1572b22f607",
+      "source": "wired",
+      "title": "14 Best Gifts for Travelers Who Have Everything (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+      "image": "https://media.wired.com/photos/6afe657cf9416e2bf834c7b6/master/pass/The-Best-Gifts-for-Travelers,-According-to-WIRED%E2%80%99s-Frequent-Fliers.jpg",
+      "published_at": "2026-11-19T10:04:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "555657c3d27705a3f0b6",
+      "source": "wired",
+      "title": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
+      "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
+      "summary": "Inspection reports detailing elder care facilities show that little to no worker onboarding can lead to dangerous mistakes and overwhelmed nurses, a WIRED and Proof News investigation has found.",
+      "image": "https://media.wired.com/photos/6afe3417809613f3f77a2776/master/pass/Gig%20Nurses%20v2.jpg",
+      "published_at": "2026-11-19T10:00:00Z",
+      "category": "Business"
+    },
     {
       "id": "dbcf6f5a5d7582252015",
       "source": "wired",
@@ -171,16 +451,6 @@
       "image": "",
       "published_at": "2026-11-19T01:39:45Z",
       "category": "Elon Musk"
-    },
-    {
-      "id": "8c7a9d5c1d53d57df624",
-      "source": "wired",
-      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
-      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
-      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
-      "published_at": "2026-11-19T00:23:15Z",
-      "category": "Gear"
     },
     {
       "id": "8f5dfe54f04c1c27cc26",
@@ -573,16 +843,6 @@
       "category": "Cars"
     },
     {
-      "id": "bafc09ace557fb9016d9",
-      "source": "wired",
-      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg",
-      "published_at": "2026-11-18T15:02:40Z",
-      "category": "Business"
-    },
-    {
       "id": "b78e706419573cdf67a1",
       "source": "mit",
       "title": "The AI Hype Index: AI is everywhere",
@@ -601,16 +861,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg",
       "published_at": "2026-11-18T14:01:45Z",
       "category": "Cars"
-    },
-    {
-      "id": "ec4d2254f33ade8e6b35",
-      "source": "wired",
-      "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
-      "url": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/",
-      "summary": "Whether the coffee nerd in your life is a budding brewer or an experienced extractor, these gifts will advance their technique.",
-      "image": "https://media.wired.com/photos/6afaf5a9414c6b74456a5130/master/pass/111626-Coffee%20Gift.jpg",
-      "published_at": "2026-11-18T14:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "5771a00c3df38311f40a",
@@ -633,46 +883,6 @@
       "category": "Space"
     },
     {
-      "id": "96e0c301eee91431d49a",
-      "source": "wired",
-      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-      "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
-      "summary": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-      "image": "https://media.wired.com/photos/6ac027cfd5ba006200028110/master/pass/Best%20Gifts%20Under%20$25%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-18T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c36b7d03cb69c5ba41dd",
-      "source": "wired",
-      "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
-      "url": "https://www.wired.com/review/nubia-redmagic-12-pro/",
-      "summary": "The Nubia Redmagic 12 Pro offers a slick, big-screen experience and long battery life, but there are caveats",
-      "image": "https://media.wired.com/photos/6afce87d9891667de5f2b6d8/master/pass/Review--Nubia-Redmagic-12-Pro.jpg",
-      "published_at": "2026-11-18T11:45:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9a4dbfa3fc26797da66e",
-      "source": "wired",
-      "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
-      "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
-      "summary": "The best part of GTA isn’t the hyperviolence or the driving. It’s the friends and family we explode along the way.",
-      "image": "https://media.wired.com/photos/6afcd01195accf8c82547428/master/pass/Jason_and_Lucia_01_landscape.jpg",
-      "published_at": "2026-11-18T11:30:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "fe5a7f6250f04a0409b3",
-      "source": "wired",
-      "title": "Early Black Friday Deals Under $100 (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
-      "summary": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
-      "image": "https://media.wired.com/photos/6af39fd8ba886163acf11ce3/master/pass/The-Best-Early-Black-Friday-Deals-Under-$100.jpg",
-      "published_at": "2026-11-18T11:19:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "117bf79a993108836861",
       "source": "verge",
       "title": "Suno now lets you make AI videos for your AI music",
@@ -681,16 +891,6 @@
       "image": "",
       "published_at": "2026-11-18T11:16:53Z",
       "category": "AI"
-    },
-    {
-      "id": "a8edfe4b0cd58956d4e2",
-      "source": "wired",
-      "title": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
-      "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
-      "summary": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.",
-      "image": "https://media.wired.com/photos/6afc240b2a6df42cc7084204/master/pass/pia17462.jpg",
-      "published_at": "2026-11-18T11:15:00Z",
-      "category": "Science"
     },
     {
       "id": "e665d683a69f49058989",
@@ -733,16 +933,6 @@
       "category": "Entertainment"
     },
     {
-      "id": "78a041e73aabeb9e28ce",
-      "source": "wired",
-      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
-      "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
-      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
-      "image": "https://media.wired.com/photos/6afc1f24796550a2d394544e/master/pass/Germ%20Network.jpg",
-      "published_at": "2026-11-18T11:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "fb4c4abdd173ee04f69e",
       "source": "mit",
       "title": "This smell startup says its AI nose is as good as a human’s",
@@ -751,26 +941,6 @@
       "image": "",
       "published_at": "2026-11-18T10:20:30Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "8f7e4a3402f064ca66b8",
-      "source": "wired",
-      "title": "Apple HomeView Review (2026): Should’ve Been Better",
-      "url": "https://www.wired.com/review/apple-homeview-review/",
-      "summary": "Apple’s HomeView marks a very late arrival to the smart display world, and one that didn’t blow me away.",
-      "image": "https://media.wired.com/photos/6afcde919e5594b1abe45b8b/master/pass/Review--Apple-HomeView.jpg",
-      "published_at": "2026-11-18T10:18:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ad493fa9ecc96c8ee6c5",
-      "source": "wired",
-      "title": "Best Smart Bed of 2026: Bryte and Tempur-Pedic",
-      "url": "https://www.wired.com/gallery/best-smart-bed/",
-      "summary": "If you’re going to spend a third of your life in bed, it might as well be a smart one. Here are our favorites.",
-      "image": "https://media.wired.com/photos/6afcea142a0f0cf673d2ff82/master/pass/The-Best-Smart-Bed-Doesn%E2%80%99t-Sleep-on-the-Job.jpg",
-      "published_at": "2026-11-18T10:07:00Z",
-      "category": "Gear"
     },
     {
       "id": "569116382622454b6839",
@@ -883,36 +1053,6 @@
       "category": "AI"
     },
     {
-      "id": "9bd69a01c1dc4e59a5f1",
-      "source": "verge",
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
-      "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is…",
-      "image": "",
-      "published_at": "2026-11-17T21:38:08Z",
-      "category": "Design"
-    },
-    {
-      "id": "cbe9e0dc1939915d8ad3",
-      "source": "verge",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to…",
-      "image": "",
-      "published_at": "2026-11-17T21:00:55Z",
-      "category": "AI"
-    },
-    {
-      "id": "abd6e5609898ad7c71e1",
-      "source": "verge",
-      "title": "Instagram is helping creators crack down on copycat videos",
-      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
-      "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool…",
-      "image": "",
-      "published_at": "2026-11-17T20:46:31Z",
-      "category": "Instagram"
-    },
-    {
       "id": "231d67475f99314e5192",
       "source": "ars",
       "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
@@ -921,16 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
       "published_at": "2026-11-17T20:32:55Z",
       "category": "AI"
-    },
-    {
-      "id": "b3dc3453df7de27d6e2f",
-      "source": "verge",
-      "title": "Democrats try to figure out how not to get swept away by the blue wave",
-      "url": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
-      "summary": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so…",
-      "image": "",
-      "published_at": "2026-11-17T20:30:00Z",
-      "category": "Policy"
     },
     {
       "id": "3e13ee23ec63fd072932",
@@ -943,46 +1073,6 @@
       "category": "Gaming"
     },
     {
-      "id": "4512dfef749a670e19f7",
-      "source": "verge",
-      "title": "Framework’s better couch keyboard is now available for preorder",
-      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
-      "summary": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went…",
-      "image": "",
-      "published_at": "2026-11-17T19:38:42Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "f41e12747ce121735e3b",
-      "source": "verge",
-      "title": "California just banned Waymo from all state freeways",
-      "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
-      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into…",
-      "image": "",
-      "published_at": "2026-11-17T19:38:05Z",
-      "category": "Autonomous Cars"
-    },
-    {
-      "id": "f9abd62c7a0cfdc72b3b",
-      "source": "verge",
-      "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
-      "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
-      "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The…",
-      "image": "",
-      "published_at": "2026-11-17T19:19:10Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "cb13b56fe743196ee381",
-      "source": "verge",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar…",
-      "image": "",
-      "published_at": "2026-11-17T18:58:01Z",
-      "category": "AI"
-    },
-    {
       "id": "d6b72d786599d404d0b1",
       "source": "mit",
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -991,26 +1081,6 @@
       "image": "",
       "published_at": "2026-11-17T18:46:47Z",
       "category": "Biotechnology and health"
-    },
-    {
-      "id": "aad3eec670f82ca16824",
-      "source": "verge",
-      "title": "Meta is testing a new standalone messaging app called Direct",
-      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
-      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other…",
-      "image": "",
-      "published_at": "2026-11-17T18:33:02Z",
-      "category": "Apps"
-    },
-    {
-      "id": "1a9f500431dcc25d008e",
-      "source": "verge",
-      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
-      "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
-      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to…",
-      "image": "",
-      "published_at": "2026-11-17T18:30:03Z",
-      "category": "Electric Bikes"
     },
     {
       "id": "8c1ea14be30bf6867b7a",
@@ -1141,46 +1211,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
       "published_at": "2026-11-16T21:56:39Z",
       "category": "Tech"
-    },
-    {
-      "id": "f9a25b52febb39a15b43",
-      "source": "ars",
-      "title": "Hyperscale data centers use 2% of US electricity",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
-      "published_at": "2026-11-16T20:52:10Z",
-      "category": "Science"
-    },
-    {
-      "id": "9b06171818ec0336c005",
-      "source": "ars",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
-      "published_at": "2026-11-16T20:37:47Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "c1e300961bd8019ef1d4",
-      "source": "ars",
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-      "published_at": "2026-11-16T20:27:58Z",
-      "category": "Policy"
-    },
-    {
-      "id": "a95ef863eb8c94f85e5f",
-      "source": "ars",
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
-      "published_at": "2026-11-16T19:54:21Z",
-      "category": "Policy"
     },
     {
       "id": "e6c767658b2a7816af2a",
@@ -1381,26 +1411,6 @@
       "image": "",
       "published_at": "2026-11-06T10:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "8c94fb253f71f6f6d463",
-      "source": "mit",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be…",
-      "image": "",
-      "published_at": "2026-11-05T13:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "71bd87393cd7bf4cd711",
-      "source": "mit",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on…",
-      "image": "",
-      "published_at": "2026-11-05T10:00:00Z",
-      "category": "Climate change and energy"
     }
   ]
 }

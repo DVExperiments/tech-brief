@@ -1,43 +1,193 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T19:38:14Z",
+  "updated_at": "2026-11-19T01:30:20Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-18T19:38:13Z",
+      "last_success_at": "2026-11-19T01:30:20Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-18T19:38:14Z",
+      "last_success_at": "2026-11-19T01:30:20Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 29,
-      "last_success_at": "2026-11-18T19:38:14Z",
+      "last_success_at": "2026-11-19T01:30:20Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-18T19:38:14Z",
+      "last_success_at": "2026-11-19T01:30:20Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
     {
+      "id": "8c7a9d5c1d53d57df624",
+      "source": "wired",
+      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
+      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
+      "published_at": "2026-11-19T00:23:15Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8f5dfe54f04c1c27cc26",
+      "source": "ars",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
+      "published_at": "2026-11-18T23:25:04Z",
+      "category": "Policy"
+    },
+    {
+      "id": "c589dda6de4c985116f8",
+      "source": "verge",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting…",
+      "image": "",
+      "published_at": "2026-11-18T23:18:35Z",
+      "category": "AI"
+    },
+    {
+      "id": "b94465ff7d4b929e59a5",
+      "source": "ars",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+      "published_at": "2026-11-18T23:10:39Z",
+      "category": "Tech"
+    },
+    {
+      "id": "7ba8f84a8a9fc1ec215c",
+      "source": "wired",
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
+      "published_at": "2026-11-18T22:16:23Z",
+      "category": "Business"
+    },
+    {
+      "id": "3a4fd4acc1a9cf46d3b9",
+      "source": "ars",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
+      "published_at": "2026-11-18T22:08:57Z",
+      "category": "Health"
+    },
+    {
+      "id": "aa283a661c689b7d0d17",
+      "source": "verge",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14…",
+      "image": "",
+      "published_at": "2026-11-18T22:05:48Z",
+      "category": "Policy"
+    },
+    {
+      "id": "92f4f8b46dde300f2cc9",
+      "source": "wired",
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "image": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/master/pass/politics_trump_adventures_china.jpg",
+      "published_at": "2026-11-18T22:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "10fd7d19dc33a4875346",
+      "source": "ars",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
+      "published_at": "2026-11-18T21:29:24Z",
+      "category": "Science"
+    },
+    {
+      "id": "07ce791c3cd7b74974fa",
+      "source": "verge",
+      "title": "Absolute Batman can save DC Studios",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies…",
+      "image": "",
+      "published_at": "2026-11-18T21:20:00Z",
+      "category": "Comics"
+    },
+    {
+      "id": "febbf7b0cc7dd8a7b292",
+      "source": "wired",
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "image": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/master/pass/AI-Lab-US-Chip-War-Business.jpg",
+      "published_at": "2026-11-18T21:15:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "d40ac3db3957ae3bdefa",
+      "source": "ars",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "published_at": "2026-11-18T20:41:12Z",
+      "category": "Tech"
+    },
+    {
+      "id": "6fcfcbcc48ee608be600",
+      "source": "wired",
+      "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
+      "url": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
+      "summary": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
+      "image": "https://media.wired.com/photos/6afdf5886a27dda013bf5998/master/pass/2026-07-06T063630Z_730025260_MT1AAP000JVGO6Y_RTRMADP_3_NEIL-THE-SEAL.jpg",
+      "published_at": "2026-11-18T19:59:15Z",
+      "category": "Science"
+    },
+    {
+      "id": "efcb99976aa681866317",
+      "source": "verge",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US…",
+      "image": "",
+      "published_at": "2026-11-18T19:40:36Z",
+      "category": "AI"
+    },
+    {
+      "id": "40d36b21947c883e9377",
+      "source": "wired",
+      "title": "The ‘GTA 6’ Work Blackout Is Here",
+      "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
+      "summary": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
+      "image": "https://media.wired.com/photos/6afde131962f4b78357718b8/master/pass/GTA-Work-Blackout-Culture-2303488647.jpg",
+      "published_at": "2026-11-18T19:34:55Z",
+      "category": "Culture"
+    },
+    {
       "id": "a11ebebc7279248797bf",
       "source": "ars",
-      "title": "Best Buy sells Blu-rays again after quitting the business in 2024",
+      "title": "Best Buy sells Blu-rays online and in-store again",
       "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy\" again.",
+      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
       "published_at": "2026-11-18T19:31:17Z",
       "category": "Tech"
@@ -45,7 +195,7 @@
     {
       "id": "89a7eebdb2b18832b085",
       "source": "verge",
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's…",
       "image": "",
@@ -97,7 +247,7 @@
       "source": "verge",
       "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
       "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors. A decent one can easily cost…",
+      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost…",
       "image": "",
       "published_at": "2026-11-18T19:11:50Z",
       "category": "Gaming"
@@ -225,7 +375,7 @@
     {
       "id": "4f8fb9193205504e35bb",
       "source": "wired",
-      "title": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday",
+      "title": "The MacBook Neo Is on Sale Ahead of Black Friday (2026)",
       "url": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
       "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649.",
       "image": "https://media.wired.com/photos/6afddc7636140b742f8ad817/master/pass/The-MacBook-Neo-Just-Got-Its-Largest-Discount-Ever.jpg",
@@ -237,7 +387,7 @@
       "source": "wired",
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
       "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
       "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg",
       "published_at": "2026-11-18T17:33:07Z",
       "category": "Business"
@@ -643,16 +793,6 @@
       "category": "Policy"
     },
     {
-      "id": "607ae8b8245495ec3138",
-      "source": "wired",
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
-      "published_at": "2026-11-17T22:57:54Z",
-      "category": "Gear"
-    },
-    {
       "id": "e5a70729252c785a5d00",
       "source": "ars",
       "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
@@ -701,16 +841,6 @@
       "image": "",
       "published_at": "2026-11-17T22:25:41Z",
       "category": "Apple"
-    },
-    {
-      "id": "8325cf10760ed8e56664",
-      "source": "wired",
-      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
-      "image": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
-      "published_at": "2026-11-17T22:19:19Z",
-      "category": "Business"
     },
     {
       "id": "78ac1692647b79c41150",
@@ -803,16 +933,6 @@
       "category": "Gaming"
     },
     {
-      "id": "4602878aaf354111035b",
-      "source": "wired",
-      "title": "How to Tell If It’s a Cyberattack or Just an Outage",
-      "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
-      "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
-      "image": "https://media.wired.com/photos/6afc8dfac68fff6545ac192a/master/pass/Security_How%20to%20Tell%20If%20an%20Outage%20Is%20Caused%20by%20a%20Cyberattack_v1.jpg",
-      "published_at": "2026-11-17T19:40:57Z",
-      "category": "Security"
-    },
-    {
       "id": "4512dfef749a670e19f7",
       "source": "verge",
       "title": "Framework’s better couch keyboard is now available for preorder",
@@ -821,16 +941,6 @@
       "image": "",
       "published_at": "2026-11-17T19:38:42Z",
       "category": "Gadgets"
-    },
-    {
-      "id": "cda0d08004aea9c4457b",
-      "source": "wired",
-      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
-      "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
-      "summary": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”",
-      "image": "https://media.wired.com/photos/6afca39792798f56737cb399/master/pass/GettyImages-2289915155-resized.jpg",
-      "published_at": "2026-11-17T19:38:08Z",
-      "category": "Gear"
     },
     {
       "id": "f41e12747ce121735e3b",
@@ -913,16 +1023,6 @@
       "category": "Policy"
     },
     {
-      "id": "8c56869cf119c910a9c7",
-      "source": "wired",
-      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
-      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
-      "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
-      "image": "https://media.wired.com/photos/6af7b8ab85c9940326d23123/master/pass/Nvidia-Fiasco-Has-Lutnick-Under-the-Gun-Politics-2201139059.jpg",
-      "published_at": "2026-11-17T18:03:32Z",
-      "category": "Politics"
-    },
-    {
       "id": "e1e7621c0e6fce148d8e",
       "source": "ars",
       "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
@@ -951,26 +1051,6 @@
       "image": "",
       "published_at": "2026-11-17T17:50:22Z",
       "category": "Entertainment"
-    },
-    {
-      "id": "911ca8f874c928558669",
-      "source": "verge",
-      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
-      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
-      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the…",
-      "image": "",
-      "published_at": "2026-11-17T17:41:22Z",
-      "category": "Apple"
-    },
-    {
-      "id": "1993699a556c1e678e51",
-      "source": "wired",
-      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
-      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
-      "summary": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
-      "image": "https://media.wired.com/photos/6afc8d817073e76a25272b83/master/pass/111726-Jensen%20might%20be%20back.jpg",
-      "published_at": "2026-11-17T17:32:24Z",
-      "category": "Business"
     },
     {
       "id": "af2b3959566517e3705a",
@@ -1043,26 +1123,6 @@
       "category": "Space"
     },
     {
-      "id": "29f6b6666d9d2d2236c5",
-      "source": "verge",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service…",
-      "image": "",
-      "published_at": "2026-11-16T23:35:58Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "6d903b4b2531daf416bf",
-      "source": "verge",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on…",
-      "image": "",
-      "published_at": "2026-11-16T23:17:34Z",
-      "category": "AI"
-    },
-    {
       "id": "763028b477e7fbd714e9",
       "source": "ars",
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
@@ -1071,16 +1131,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
       "published_at": "2026-11-16T22:58:27Z",
       "category": "AI"
-    },
-    {
-      "id": "f1fdee56b14d8a72e9db",
-      "source": "verge",
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United…",
-      "image": "",
-      "published_at": "2026-11-16T22:54:59Z",
-      "category": "Mass Transit"
     },
     {
       "id": "beb71c6ea84ab61a15b9",
@@ -1133,36 +1183,6 @@
       "category": "Policy"
     },
     {
-      "id": "5180ff39caf3ef071e04",
-      "source": "ars",
-      "title": "When will humans actually fly on Starship?",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg",
-      "published_at": "2026-11-16T19:46:08Z",
-      "category": "Space"
-    },
-    {
-      "id": "0dd278c32bbb2e10afef",
-      "source": "ars",
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg",
-      "published_at": "2026-11-16T19:36:25Z",
-      "category": "Culture"
-    },
-    {
-      "id": "b1b8f5689f992f118029",
-      "source": "ars",
-      "title": "US moves to cut China’s remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
-      "published_at": "2026-11-16T19:10:09Z",
-      "category": "AI"
-    },
-    {
       "id": "e6c767658b2a7816af2a",
       "source": "mit",
       "title": "The open-source movement wants Jensen Huang back",
@@ -1173,16 +1193,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "949375dfdf8e51a899a3",
-      "source": "ars",
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "summary": "International authorities will announce US lost its elimination status Tuesday.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
-      "published_at": "2026-11-16T16:39:29Z",
-      "category": "Health"
-    },
-    {
       "id": "301906ed27909280c2b9",
       "source": "mit",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -1191,16 +1201,6 @@
       "image": "",
       "published_at": "2026-11-16T16:04:28Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "c998fe4fd32cecbdad30",
-      "source": "ars",
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-      "published_at": "2026-11-16T14:06:16Z",
-      "category": "AI"
     },
     {
       "id": "e1ac1714657b903232bc",

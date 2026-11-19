@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T01:30:20Z",
+  "updated_at": "2026-11-19T09:31:13Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T01:30:20Z",
+      "last_success_at": "2026-11-19T09:31:13Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T01:30:20Z",
+      "last_success_at": "2026-11-19T09:31:13Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 29,
-      "last_success_at": "2026-11-19T01:30:20Z",
+      "last_success_at": "2026-11-19T09:31:13Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T01:30:20Z",
+      "last_success_at": "2026-11-19T09:31:13Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "dbcf6f5a5d7582252015",
+      "source": "wired",
+      "title": "Lego Promo Code | 20% Off November 2026",
+      "url": "https://www.wired.com/story/lego-promo-code/",
+      "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
+      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5eb6aeb10e2eaaad29f8",
+      "source": "wired",
+      "title": "Reebok Discount Code: 15% Off: November 2026",
+      "url": "https://www.wired.com/story/reebok-discount-code/",
+      "summary": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3f8a9a59bcb5be18762f",
+      "source": "wired",
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "url": "https://www.wired.com/story/we-vibe-discount-code/",
+      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f68ad0c39266083ecb55",
+      "source": "wired",
+      "title": "TurboTax Full Service Coupons This November 2026",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2e106afe278d15a2e22f",
+      "source": "wired",
+      "title": "Sportsman's Warehouse Promo Code: Save in November 2026",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "84ea26cc6a309e5eef70",
+      "source": "wired",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a07babc3363ed6be2aad",
+      "source": "wired",
+      "title": "Home Chef Promo Codes for November 2026",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d3f5b9f97161415e9a7b",
+      "source": "wired",
+      "title": "Fanatics Promo Code: 10% Off",
+      "url": "https://www.wired.com/story/fanatics-promo-code/",
+      "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
+      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a4ac4edd2a7e583cac98",
+      "source": "wired",
+      "title": "50% Off Blue Apron Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/blue-apron-coupon/",
+      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f2b9640ed5b2d70206b7",
+      "source": "wired",
+      "title": "Litter-Robot Promo Codes: Up to $150 Off",
+      "url": "https://www.wired.com/story/litter-robot-promo-code/",
+      "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "88f3a212610ba169c6b4",
+      "source": "wired",
+      "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026",
+      "url": "https://www.wired.com/story/sony-promo-code/",
+      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "37472d3f80ddf718811d",
+      "source": "wired",
+      "title": "ExpressVPN Coupons: 80% Off",
+      "url": "https://www.wired.com/story/expressvpn-coupons/",
+      "summary": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5abbe246fc72e9e2cacb",
+      "source": "wired",
+      "title": "Target Promo Code: $50 Off | November 2026",
+      "url": "https://www.wired.com/story/target-promo-code/",
+      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+      "published_at": "2026-11-19T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dc5d7dffc81fe43f346f",
+      "source": "verge",
+      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the…",
+      "image": "",
+      "published_at": "2026-11-19T01:39:45Z",
+      "category": "Elon Musk"
+    },
     {
       "id": "8c7a9d5c1d53d57df624",
       "source": "wired",
@@ -633,126 +773,6 @@
       "category": "Gear"
     },
     {
-      "id": "b88ad8b709c03c386e3c",
-      "source": "wired",
-      "title": "House Democrats Are Officially Coming for Trump’s Orbit",
-      "url": "https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/",
-      "summary": "The incoming head of the House Oversight Committee sent record preservation requests to Donald Trump Jr., Eric Trump, JD Vance, Stephen Miller, and other administration officials.",
-      "image": "https://media.wired.com/photos/6afcc37a4d856565ffa1dc3d/master/pass/House-Democrats-Officially-Coming-for-Trump-Family-Politics-2270265640.jpg",
-      "published_at": "2026-11-18T10:00:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "a0a5ce94b56dbeff39b3",
-      "source": "wired",
-      "title": "Lovable Wants You to Vibe Code Your Dream Job",
-      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
-      "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
-      "image": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg",
-      "published_at": "2026-11-18T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "60ad035bdf279ccc12e9",
-      "source": "wired",
-      "title": "Loop Earplugs Discount Codes: 25% Off",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "fedebf0cdaf219f861d5",
-      "source": "wired",
-      "title": "Columbia Promo Codes: 15% Off | November 2026",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1b0f43b941db86f6dfb1",
-      "source": "wired",
-      "title": "Walmart Promo Codes: 20% Off for November 2026",
-      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "78a6f7e4fd859e145c2a",
-      "source": "wired",
-      "title": "Birdfy Discount Codes: 15% Off Sitewide",
-      "url": "https://www.wired.com/story/birdfy-discount-code/",
-      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c542879b2326928390a3",
-      "source": "wired",
-      "title": "Priceline Promo Codes & Coupons: 10% Off November 2026",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "da7c921cdba559f7759b",
-      "source": "wired",
-      "title": "Squarespace Promo Codes: 55% Off in November 2026",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7bff4d4c8708fc33b389",
-      "source": "wired",
-      "title": "Maytag Promo Codes: 15% Off Appliances",
-      "url": "https://www.wired.com/story/maytag-promo-code/",
-      "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0205596f72f5659f56da",
-      "source": "wired",
-      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | November 2026",
-      "url": "https://www.wired.com/story/verizon-promo-code/",
-      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-      "image": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
-      "published_at": "2026-11-18T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "528d75526a76b232087d",
-      "source": "wired",
-      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-      "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
-      "published_at": "2026-11-18T05:01:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "8fb06fc21a2592786ee6",
-      "source": "wired",
-      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
-      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
-      "summary": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
-      "image": "https://media.wired.com/photos/6afb4dfb95139a14a66d113d/master/pass/Roblox-Senate-Hearing-Culture-2260855878.jpg",
-      "published_at": "2026-11-18T00:32:39Z",
-      "category": "Culture"
-    },
-    {
       "id": "569116382622454b6839",
       "source": "ars",
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -771,16 +791,6 @@
       "image": "",
       "published_at": "2026-11-17T23:41:18Z",
       "category": "AI"
-    },
-    {
-      "id": "2658483cb4e9a095070f",
-      "source": "wired",
-      "title": "Review: Nubia Redmagic 12 Pro | Camera",
-      "url": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
-      "summary": "",
-      "image": "https://media.wired.com/photos/6afce0f6ee5c9e07415dd40b/master/pass/4%20Nubia%20Redmagic%2012%20Pro%20Main%20Camera%20SOURCE%20Simon%20Hill.jpg",
-      "published_at": "2026-11-17T23:34:44Z",
-      "category": "Gear / Products / Phones"
     },
     {
       "id": "e509aa7abb26bb082891",
@@ -1041,16 +1051,6 @@
       "image": "",
       "published_at": "2026-11-17T17:52:10Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "adf28d9e5ac5536c97ac",
-      "source": "verge",
-      "title": "YouTube found a new way to inflate view counts",
-      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
-      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across…",
-      "image": "",
-      "published_at": "2026-11-17T17:50:22Z",
-      "category": "Entertainment"
     },
     {
       "id": "af2b3959566517e3705a",

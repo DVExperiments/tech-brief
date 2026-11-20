@@ -1,37 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T00:55:57Z",
+  "updated_at": "2026-11-20T08:33:47Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T00:55:57Z",
+      "last_success_at": "2026-11-20T08:33:46Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T00:55:57Z",
+      "last_success_at": "2026-11-20T08:33:47Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-20T00:55:57Z",
+      "last_success_at": "2026-11-20T08:33:47Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T00:55:57Z",
+      "last_success_at": "2026-11-20T08:33:47Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "4db3f14e384133f2b1d2",
+      "source": "wired",
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "published_at": "2026-11-20T07:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "2f328cf41beeca8ce08a",
+      "source": "wired",
+      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1d291b0bd99ac2ad9e21",
+      "source": "wired",
+      "title": "Vimeo Promo Codes: 40% Off This November 2026",
+      "url": "https://www.wired.com/story/vimeo-promo-code/",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7f8faf39d4a6a28cdf5f",
+      "source": "wired",
+      "title": "Expedia Coupons: 50% Off",
+      "url": "https://www.wired.com/story/expedia-coupon/",
+      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+      "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8eec36d43e393ca9ea55",
+      "source": "wired",
+      "title": "Skechers Coupon Codes 20% Off",
+      "url": "https://www.wired.com/story/skechers-coupon-codes/",
+      "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2f38749de15f3b111fd2",
+      "source": "wired",
+      "title": "HBO Max Promo Code: 50% Off | November 2026",
+      "url": "https://www.wired.com/story/max-promo-code/",
+      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d563d2e0443194294d8b",
+      "source": "wired",
+      "title": "Ancestry Coupons│50% Off│November 2026",
+      "url": "https://www.wired.com/story/ancestry-coupon-codes/",
+      "summary": "Save on family history memberships and DNA kits with the latest Ancestry coupon codes, special offers, and seasonal discounts.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "15227bf1e59bb9066f0d",
+      "source": "wired",
+      "title": "Walgreens Photo Coupons: Up to 70% Off This November 2026",
+      "url": "https://www.wired.com/story/walgreens-photo-coupon/",
+      "summary": "Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and…",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "57beb9aeaf27a532d5ca",
+      "source": "wired",
+      "title": "Castlery Promo Codes: $600 Off for November 2026",
+      "url": "https://www.wired.com/story/castlery-promo-code/",
+      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d9003daea344d6b1605e",
+      "source": "wired",
+      "title": "eBay Coupons: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ebay-coupon-code/",
+      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c749844ced8a49ec7069",
+      "source": "wired",
+      "title": "Groupon Promo Codes: 60% Off in November 2026",
+      "url": "https://www.wired.com/story/groupon-promo-code/",
+      "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f73f2ebb0d0db44aaa2a",
+      "source": "wired",
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dc2a6ca65994b34affc4",
+      "source": "wired",
+      "title": "iRobot Promo Code: 15% Off",
+      "url": "https://www.wired.com/story/irobot-promo-code/",
+      "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
+      "published_at": "2026-11-20T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f40ccfe20ad3abde46d7",
+      "source": "wired",
+      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+      "image": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/master/pass/RIP-Fiona-the-Hippo-Business-1230298782.jpg",
+      "published_at": "2026-11-20T02:39:47Z",
+      "category": "Culture"
+    },
     {
       "id": "b95388af0fd331676d9a",
       "source": "wired",
@@ -573,76 +713,6 @@
       "category": "Gear"
     },
     {
-      "id": "a07babc3363ed6be2aad",
-      "source": "wired",
-      "title": "Home Chef Promo Codes for November 2026",
-      "url": "https://www.wired.com/story/home-chef-promo-code/",
-      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d3f5b9f97161415e9a7b",
-      "source": "wired",
-      "title": "Fanatics Promo Code: 10% Off",
-      "url": "https://www.wired.com/story/fanatics-promo-code/",
-      "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a4ac4edd2a7e583cac98",
-      "source": "wired",
-      "title": "50% Off Blue Apron Promo Codes | November 2026",
-      "url": "https://www.wired.com/story/blue-apron-coupon/",
-      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f2b9640ed5b2d70206b7",
-      "source": "wired",
-      "title": "Litter-Robot Promo Codes: Up to $150 Off",
-      "url": "https://www.wired.com/story/litter-robot-promo-code/",
-      "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "88f3a212610ba169c6b4",
-      "source": "wired",
-      "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026",
-      "url": "https://www.wired.com/story/sony-promo-code/",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "37472d3f80ddf718811d",
-      "source": "wired",
-      "title": "ExpressVPN Coupons: 80% Off",
-      "url": "https://www.wired.com/story/expressvpn-coupons/",
-      "summary": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5abbe246fc72e9e2cacb",
-      "source": "wired",
-      "title": "Target Promo Code: $50 Off | November 2026",
-      "url": "https://www.wired.com/story/target-promo-code/",
-      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "dc5d7dffc81fe43f346f",
       "source": "verge",
       "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
@@ -683,16 +753,6 @@
       "category": "Tech"
     },
     {
-      "id": "7ba8f84a8a9fc1ec215c",
-      "source": "wired",
-      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "url": "https://www.wired.com/story/guys-really-we-got-this/",
-      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-      "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
-      "published_at": "2026-11-18T22:16:23Z",
-      "category": "Business"
-    },
-    {
       "id": "3a4fd4acc1a9cf46d3b9",
       "source": "ars",
       "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
@@ -711,16 +771,6 @@
       "image": "",
       "published_at": "2026-11-18T22:05:48Z",
       "category": "Policy"
-    },
-    {
-      "id": "92f4f8b46dde300f2cc9",
-      "source": "wired",
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "image": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/master/pass/politics_trump_adventures_china.jpg",
-      "published_at": "2026-11-18T22:00:00Z",
-      "category": "Politics"
     },
     {
       "id": "10fd7d19dc33a4875346",
@@ -743,16 +793,6 @@
       "category": "Comics"
     },
     {
-      "id": "febbf7b0cc7dd8a7b292",
-      "source": "wired",
-      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-      "image": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/master/pass/AI-Lab-US-Chip-War-Business.jpg",
-      "published_at": "2026-11-18T21:15:00Z",
-      "category": "Business"
-    },
-    {
       "id": "d40ac3db3957ae3bdefa",
       "source": "ars",
       "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
@@ -763,16 +803,6 @@
       "category": "Tech"
     },
     {
-      "id": "6fcfcbcc48ee608be600",
-      "source": "wired",
-      "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
-      "url": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
-      "summary": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
-      "image": "https://media.wired.com/photos/6afdf5886a27dda013bf5998/master/pass/2026-07-06T063630Z_730025260_MT1AAP000JVGO6Y_RTRMADP_3_NEIL-THE-SEAL.jpg",
-      "published_at": "2026-11-18T19:59:15Z",
-      "category": "Science"
-    },
-    {
       "id": "efcb99976aa681866317",
       "source": "verge",
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
@@ -781,16 +811,6 @@
       "image": "",
       "published_at": "2026-11-18T19:40:36Z",
       "category": "AI"
-    },
-    {
-      "id": "40d36b21947c883e9377",
-      "source": "wired",
-      "title": "The ‘GTA 6’ Work Blackout Is Here",
-      "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-      "summary": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
-      "image": "https://media.wired.com/photos/6afde131962f4b78357718b8/master/pass/GTA-Work-Blackout-Culture-2303488647.jpg",
-      "published_at": "2026-11-18T19:34:55Z",
-      "category": "Culture"
     },
     {
       "id": "a11ebebc7279248797bf",
@@ -843,16 +863,6 @@
       "category": "AI"
     },
     {
-      "id": "0cb388126b8810ef8358",
-      "source": "wired",
-      "title": "Best Early Black Friday Phone Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
-      "summary": "As the holidays creep closer, I’m already seeing some tempting early Black Friday phone deals.",
-      "image": "https://media.wired.com/photos/6afde765a3ba61ac1ff46232/master/pass/The-Best-Early-Black-Friday-Phone-Deals.jpg",
-      "published_at": "2026-11-18T19:17:06Z",
-      "category": "Gear"
-    },
-    {
       "id": "e8265581ddd38203bafb",
       "source": "verge",
       "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
@@ -871,16 +881,6 @@
       "image": "",
       "published_at": "2026-11-18T19:07:29Z",
       "category": "AI"
-    },
-    {
-      "id": "ac6a6b2ab47552d6e089",
-      "source": "wired",
-      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
-      "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-      "summary": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
-      "image": "https://media.wired.com/photos/6af4e24b10b23929948ce140/master/pass/Security_Breach%20of%20AI%20Debt%20Collection%20Call%20Center%20Exposes%20315,000%20Calls%20and%20Much%20More_v1.jpg",
-      "published_at": "2026-11-18T19:00:00Z",
-      "category": "Security"
     },
     {
       "id": "178bfee2dad3a9051864",

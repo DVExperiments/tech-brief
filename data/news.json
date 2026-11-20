@@ -1,37 +1,227 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T17:18:40Z",
+  "updated_at": "2026-11-20T23:21:57Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T17:18:40Z",
+      "last_success_at": "2026-11-20T23:21:57Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T17:18:40Z",
+      "last_success_at": "2026-11-20T23:21:57Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 29,
-      "last_success_at": "2026-11-20T17:18:40Z",
+      "count": 30,
+      "last_success_at": "2026-11-20T23:21:57Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T17:18:40Z",
+      "last_success_at": "2026-11-20T23:21:57Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "53af9cff69b527107127",
+      "source": "ars",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
+      "published_at": "2026-11-20T22:28:24Z",
+      "category": "Policy"
+    },
+    {
+      "id": "8c2f0dc8f4ac3e3ff748",
+      "source": "ars",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+      "published_at": "2026-11-20T22:16:51Z",
+      "category": "Policy"
+    },
+    {
+      "id": "a17b6293a664337635c3",
+      "source": "ars",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+      "published_at": "2026-11-20T21:58:29Z",
+      "category": "AI"
+    },
+    {
+      "id": "e0ff23bfb7212e67c412",
+      "source": "ars",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+      "published_at": "2026-11-20T21:47:10Z",
+      "category": "AI"
+    },
+    {
+      "id": "7daf4ba1cca6ea1a9699",
+      "source": "ars",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "published_at": "2026-11-20T20:59:08Z",
+      "category": "AI"
+    },
+    {
+      "id": "e102e337f3eb0ad608d5",
+      "source": "verge",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the…",
+      "image": "",
+      "published_at": "2026-11-20T20:43:52Z",
+      "category": "News"
+    },
+    {
+      "id": "24eeed7385ac68420f6b",
+      "source": "ars",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png",
+      "published_at": "2026-11-20T20:41:17Z",
+      "category": "Science"
+    },
+    {
+      "id": "d597bc12efc1506958bf",
+      "source": "ars",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg",
+      "published_at": "2026-11-20T20:26:33Z",
+      "category": "Science"
+    },
+    {
+      "id": "b95832c0f148b1e4889c",
+      "source": "ars",
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-1152x648-1767732268.jpg",
+      "published_at": "2026-11-20T19:52:59Z",
+      "category": "Policy"
+    },
+    {
+      "id": "bb75c09b31243b46a730",
+      "source": "wired",
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "image": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
+      "published_at": "2026-11-20T19:52:21Z",
+      "category": "Business"
+    },
+    {
+      "id": "ff753a1e524d6dc9a3d2",
+      "source": "verge",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder…",
+      "image": "",
+      "published_at": "2026-11-20T19:35:06Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "da32f1cf45f9eef4196e",
+      "source": "ars",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
+      "published_at": "2026-11-20T19:21:50Z",
+      "category": "Health"
+    },
+    {
+      "id": "557fc1deacfbfe38d6db",
+      "source": "verge",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of…",
+      "image": "",
+      "published_at": "2026-11-20T19:15:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "189bea3bd426f9e42446",
+      "source": "verge",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build…",
+      "image": "",
+      "published_at": "2026-11-20T18:50:19Z",
+      "category": "AI"
+    },
+    {
+      "id": "4e51ad8cda5cd70e6ef3",
+      "source": "mit",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that…",
+      "image": "",
+      "published_at": "2026-11-20T18:15:15Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "c91e21feab0ade172b84",
+      "source": "verge",
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you…",
+      "image": "",
+      "published_at": "2026-11-20T18:15:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "17a2cb93aa19bdc4485a",
+      "source": "verge",
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home…",
+      "image": "",
+      "published_at": "2026-11-20T18:00:00Z",
+      "category": "Google"
+    },
+    {
+      "id": "f59a0d564ba684dcf7a0",
+      "source": "wired",
+      "title": "Internet Archive Staffers Are Unionizing",
+      "url": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/",
+      "summary": "A supermajority of eligible workers at the nonprofit digital library voted in favor of joining the Communications Workers of America.",
+      "image": "https://media.wired.com/photos/6aff42c79dcb7a65d0403601/master/pass/Internet-Archive-Union-Business-shutterstock_1469312786.jpg",
+      "published_at": "2026-11-20T18:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "1f14b8ff8b37d1b481fe",
+      "source": "verge",
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made…",
+      "image": "",
+      "published_at": "2026-11-20T17:33:59Z",
+      "category": "Black Friday"
+    },
     {
       "id": "625d26c51f9e05bad2a2",
       "source": "verge",
@@ -97,7 +287,7 @@
       "source": "wired",
       "title": "Don’t Bring Jensen Back",
       "url": "https://www.wired.com/story/dont-bring-jensen-back/",
-      "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It's a bad idea.",
+      "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
       "image": "https://media.wired.com/photos/6aff6b595608d6b32a9beb56/master/pass/Backchannel-Backchannel-Silicon-Valley-Psychosis-Business.jpg",
       "published_at": "2026-11-20T16:00:00Z",
       "category": "Business"
@@ -525,7 +715,7 @@
     {
       "id": "a91c43623ef9674a4fe1",
       "source": "ars",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
       "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
       "summary": "Amazon now uses its shopping platform for political purposes.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
@@ -783,16 +973,6 @@
       "category": "Black Friday"
     },
     {
-      "id": "0818414534fc85a77a42",
-      "source": "wired",
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
-      "published_at": "2026-11-19T17:00:00Z",
-      "category": "Security"
-    },
-    {
       "id": "d57868e417167098b2a1",
       "source": "verge",
       "title": "Anthropic starts trading on Wall Street",
@@ -853,16 +1033,6 @@
       "category": "The Download"
     },
     {
-      "id": "c06d7b022fcab9d9b966",
-      "source": "wired",
-      "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
-      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
-      "summary": "Because staying home can actually mean having the time of your life, whether alone or with friends.",
-      "image": "https://media.wired.com/photos/6afe018a1581bbef3a3945d5/master/pass/The-21-Best-Home-Entertainment-Gifts.jpg",
-      "published_at": "2026-11-19T12:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "ca36a6bcb148b568c19e",
       "source": "mit",
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
@@ -893,16 +1063,6 @@
       "category": "Climate change and energy"
     },
     {
-      "id": "dc5d7dffc81fe43f346f",
-      "source": "verge",
-      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
-      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the…",
-      "image": "",
-      "published_at": "2026-11-19T01:39:45Z",
-      "category": "Elon Musk"
-    },
-    {
       "id": "8f5dfe54f04c1c27cc26",
       "source": "ars",
       "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
@@ -911,16 +1071,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
       "published_at": "2026-11-18T23:25:04Z",
       "category": "Policy"
-    },
-    {
-      "id": "c589dda6de4c985116f8",
-      "source": "verge",
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting…",
-      "image": "",
-      "published_at": "2026-11-18T23:18:35Z",
-      "category": "AI"
     },
     {
       "id": "b94465ff7d4b929e59a5",
@@ -943,16 +1093,6 @@
       "category": "Health"
     },
     {
-      "id": "aa283a661c689b7d0d17",
-      "source": "verge",
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14…",
-      "image": "",
-      "published_at": "2026-11-18T22:05:48Z",
-      "category": "Policy"
-    },
-    {
       "id": "10fd7d19dc33a4875346",
       "source": "ars",
       "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
@@ -961,16 +1101,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
       "published_at": "2026-11-18T21:29:24Z",
       "category": "Science"
-    },
-    {
-      "id": "07ce791c3cd7b74974fa",
-      "source": "verge",
-      "title": "Absolute Batman can save DC Studios",
-      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies…",
-      "image": "",
-      "published_at": "2026-11-18T21:20:00Z",
-      "category": "Comics"
     },
     {
       "id": "d40ac3db3957ae3bdefa",
@@ -983,16 +1113,6 @@
       "category": "Tech"
     },
     {
-      "id": "efcb99976aa681866317",
-      "source": "verge",
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US…",
-      "image": "",
-      "published_at": "2026-11-18T19:40:36Z",
-      "category": "AI"
-    },
-    {
       "id": "a11ebebc7279248797bf",
       "source": "ars",
       "title": "Best Buy sells Blu-rays online and in-store again",
@@ -1001,26 +1121,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
       "published_at": "2026-11-18T19:31:17Z",
       "category": "Tech"
-    },
-    {
-      "id": "89a7eebdb2b18832b085",
-      "source": "verge",
-      "title": "Nvidia’s rise, visualized",
-      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's…",
-      "image": "",
-      "published_at": "2026-11-18T19:30:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "45ce65399ee52724c36a",
-      "source": "verge",
-      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
-      "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED…",
-      "image": "",
-      "published_at": "2026-11-18T19:30:00Z",
-      "category": "Black Friday"
     },
     {
       "id": "5368620becd073af0675",
@@ -1063,36 +1163,6 @@
       "category": "AI"
     },
     {
-      "id": "9aea8caac7ea94338b60",
-      "source": "ars",
-      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg",
-      "published_at": "2026-11-18T17:53:59Z",
-      "category": "Reviews"
-    },
-    {
-      "id": "a64cd46dd36d03428b1a",
-      "source": "ars",
-      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-      "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-      "published_at": "2026-11-18T16:58:32Z",
-      "category": "Space"
-    },
-    {
-      "id": "546dafcd04e5876fcf29",
-      "source": "ars",
-      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
-      "published_at": "2026-11-18T16:24:34Z",
-      "category": "Cars"
-    },
-    {
       "id": "b78e706419573cdf67a1",
       "source": "mit",
       "title": "The AI Hype Index: AI is everywhere",
@@ -1101,16 +1171,6 @@
       "image": "",
       "published_at": "2026-11-18T14:42:44Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "7874c80e4338a8b9c16e",
-      "source": "ars",
-      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg",
-      "published_at": "2026-11-18T14:01:45Z",
-      "category": "Cars"
     },
     {
       "id": "5771a00c3df38311f40a",
@@ -1123,26 +1183,6 @@
       "category": "The Download"
     },
     {
-      "id": "6e2b783351535566168d",
-      "source": "ars",
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-      "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg",
-      "published_at": "2026-11-18T12:15:44Z",
-      "category": "Space"
-    },
-    {
-      "id": "e77af959707e6a5d8ed9",
-      "source": "ars",
-      "title": "Grand Theft Auto VI: The Ars Technica review",
-      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg",
-      "published_at": "2026-11-18T11:00:27Z",
-      "category": "Features"
-    },
-    {
       "id": "fb4c4abdd173ee04f69e",
       "source": "mit",
       "title": "This smell startup says its AI nose is as good as a human’s",
@@ -1151,36 +1191,6 @@
       "image": "",
       "published_at": "2026-11-18T10:20:30Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "569116382622454b6839",
-      "source": "ars",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-      "published_at": "2026-11-18T00:27:29Z",
-      "category": "AI"
-    },
-    {
-      "id": "e509aa7abb26bb082891",
-      "source": "ars",
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-      "published_at": "2026-11-17T23:09:09Z",
-      "category": "Policy"
-    },
-    {
-      "id": "e5a70729252c785a5d00",
-      "source": "ars",
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
-      "published_at": "2026-11-17T22:44:46Z",
-      "category": "Space"
     },
     {
       "id": "d6b72d786599d404d0b1",

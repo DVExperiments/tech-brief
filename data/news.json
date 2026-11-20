@@ -1,37 +1,367 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T08:33:47Z",
+  "updated_at": "2026-11-20T17:18:40Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T08:33:46Z",
+      "last_success_at": "2026-11-20T17:18:40Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T08:33:47Z",
+      "last_success_at": "2026-11-20T17:18:40Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-11-20T08:33:47Z",
+      "count": 29,
+      "last_success_at": "2026-11-20T17:18:40Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T08:33:47Z",
+      "last_success_at": "2026-11-20T17:18:40Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "625d26c51f9e05bad2a2",
+      "source": "verge",
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or…",
+      "image": "",
+      "published_at": "2026-11-20T17:05:52Z",
+      "category": "Audio"
+    },
+    {
+      "id": "c6494805cc7ed532a2f1",
+      "source": "wired",
+      "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "image": "https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png",
+      "published_at": "2026-11-20T17:01:45Z",
+      "category": "Gear"
+    },
+    {
+      "id": "af94c2218621ede6b70d",
+      "source": "verge",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the…",
+      "image": "",
+      "published_at": "2026-11-20T16:34:13Z",
+      "category": "AI"
+    },
+    {
+      "id": "0cb290f632b73aef0cfa",
+      "source": "verge",
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the…",
+      "image": "",
+      "published_at": "2026-11-20T16:22:15Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "b5a1e94b1fa92ad826f1",
+      "source": "ars",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
+      "published_at": "2026-11-20T16:11:21Z",
+      "category": "Gaming"
+    },
+    {
+      "id": "985abd45990ef6998146",
+      "source": "verge",
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their…",
+      "image": "",
+      "published_at": "2026-11-20T16:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "bb628d9db29f8f38830b",
+      "source": "wired",
+      "title": "Don’t Bring Jensen Back",
+      "url": "https://www.wired.com/story/dont-bring-jensen-back/",
+      "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It's a bad idea.",
+      "image": "https://media.wired.com/photos/6aff6b595608d6b32a9beb56/master/pass/Backchannel-Backchannel-Silicon-Valley-Psychosis-Business.jpg",
+      "published_at": "2026-11-20T16:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "8ea2dd190c36947b9fd4",
+      "source": "verge",
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite…",
+      "image": "",
+      "published_at": "2026-11-20T15:53:25Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "59765ae0742310337724",
+      "source": "verge",
+      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+      "summary": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate…",
+      "image": "",
+      "published_at": "2026-11-20T15:02:13Z",
+      "category": "Facebook"
+    },
+    {
+      "id": "013e163990f92c804716",
+      "source": "verge",
+      "title": "Let’s talk about GTA VI",
+      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+      "summary": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling…",
+      "image": "",
+      "published_at": "2026-11-20T15:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "0dcb88a666678f47dec6",
+      "source": "ars",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
+      "published_at": "2026-11-20T14:52:51Z",
+      "category": "Tech"
+    },
+    {
+      "id": "163677d107850b5b339d",
+      "source": "ars",
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "published_at": "2026-11-20T14:15:21Z",
+      "category": "Space"
+    },
+    {
+      "id": "8c6c734df91cd900cf1a",
+      "source": "verge",
+      "title": "The week everything fell apart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the…",
+      "image": "",
+      "published_at": "2026-11-20T14:06:59Z",
+      "category": "AI"
+    },
+    {
+      "id": "fdbe855d7430b5556976",
+      "source": "ars",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1795097197088-1152x648.jpg",
+      "published_at": "2026-11-20T13:35:45Z",
+      "category": "Science"
+    },
+    {
+      "id": "59b9166ce3b357de308c",
+      "source": "wired",
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "summary": "Pura fragrances are 20 percent off, and diffusers are 30 percent off through December 6. Here’s what I’d buy after having tested three generations of Pura devices.",
+      "image": "https://media.wired.com/photos/6affa74456c5e41772b72229/master/pass/Pura%E2%80%99s-Smart-Diffusers-Are-on-Sale-for-Cyber-Week.jpg",
+      "published_at": "2026-11-20T13:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5b332f13c1f3d3aee09c",
+      "source": "mit",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds…",
+      "image": "",
+      "published_at": "2026-11-20T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "5eb01e70cbf21a4fe10a",
+      "source": "wired",
+      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "url": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+      "summary": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young.",
+      "image": "https://media.wired.com/photos/6affa5f18893fa526fe4be1e/master/pass/The-Birdfy-Gifts-I%E2%80%99d-Buy-for-Backyard-Birders.jpg",
+      "published_at": "2026-11-20T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ec78a3b717e34265778e",
+      "source": "wired",
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "image": "https://media.wired.com/photos/6affa4fa92df27a5701c00d9/master/pass/Update--Rest-Easy-With-These-Early-Black-Friday-Mattress-Deals.jpg",
+      "published_at": "2026-11-20T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "78b3af5abe0e833922dc",
+      "source": "verge",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating…",
+      "image": "",
+      "published_at": "2026-11-20T12:30:47Z",
+      "category": "AI"
+    },
+    {
+      "id": "7c9938eb8600ae0a1a10",
+      "source": "ars",
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "summary": "Gambling? We're just swapping contracts!",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
+      "published_at": "2026-11-20T12:30:29Z",
+      "category": "Policy"
+    },
+    {
+      "id": "c4637fe36e6116b84a0b",
+      "source": "ars",
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "summary": "Your support for Ars matters more now than ever.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
+      "published_at": "2026-11-20T12:15:36Z",
+      "category": "Staff"
+    },
+    {
+      "id": "bbf0d8be815b610a76a5",
+      "source": "wired",
+      "title": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
+      "image": "https://media.wired.com/photos/6affa2c5fc894cda63c23f38/master/pass/Roborock%E2%80%99s-Early-Black-Friday-Sale-Isn%E2%80%99t-One-to-Miss.jpg",
+      "published_at": "2026-11-20T12:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "bdc6d026ee39c89edd18",
+      "source": "ars",
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
+      "published_at": "2026-11-20T12:00:43Z",
+      "category": "Features"
+    },
+    {
+      "id": "ad4f906ff0a61b7dc43e",
+      "source": "verge",
+      "title": "Why the robots are ditching Uber",
+      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working…",
+      "image": "",
+      "published_at": "2026-11-20T12:00:00Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "6b216588d1f6e287017c",
+      "source": "wired",
+      "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "summary": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
+      "image": "https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG",
+      "published_at": "2026-11-20T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "17796ae1b268d90ce7eb",
+      "source": "wired",
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+      "published_at": "2026-11-20T12:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "8ccecc754dbf80070f5c",
+      "source": "wired",
+      "title": "The 36 Best REI Holiday Sale Outdoor Deals (2026)",
+      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
+      "image": "https://media.wired.com/photos/6af78becda0b3f5acb040c4d/master/pass/The-21-Best-REI-Holiday-Sale-Outdoor-Deals.jpg",
+      "published_at": "2026-11-20T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0752b07bdb5639fec929",
+      "source": "wired",
+      "title": "The Smart Ring Goes to Church",
+      "url": "https://www.wired.com/story/smart-ring-goes-to-church/",
+      "summary": "From glowing crosses to voice-transcribed prayers, the Elah and Glorify rings are reimagining traditional faith rituals for the wearable era.",
+      "image": "https://media.wired.com/photos/6afb101a95139a14a66d0fbd/master/pass/Elah%20Ring_Banner_Lifestyle.png",
+      "published_at": "2026-11-20T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8282a8dbeb55c09e1db8",
+      "source": "wired",
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+      "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
+      "published_at": "2026-11-20T11:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "2ec6f409da95ad96f3f0",
+      "source": "wired",
+      "title": "The Best Gifts for the Techie in Your Life (2026)",
+      "url": "https://www.wired.com/story/best-tech-gifts-2026/",
+      "summary": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
+      "image": "https://media.wired.com/photos/6ac974ffd996135719f573b5/master/pass/9%20WIRED-Approved%20Gifts%20for%20the%20Techie%20in%20Your%20Life%20102026%20top%20art%20source%20Amazon.jpg",
+      "published_at": "2026-11-20T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "791feaef2524921fc6ce",
+      "source": "wired",
+      "title": "El Niño Is Driving a Record Marine Heat Wave Off the California Coast",
+      "url": "https://www.wired.com/story/el-nino-record-california-marine-heat-wave/",
+      "summary": "The extreme heat extends hundreds of meters below the ocean’s surface and is fueling severe storms and abnormally high seas.",
+      "image": "https://media.wired.com/photos/6afc5d41fa103e595fff7d88/master/pass/GettyImages-2305167906.jpg",
+      "published_at": "2026-11-20T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "f3c6643c4aaaaeee88c2",
+      "source": "wired",
+      "title": "‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake",
+      "url": "https://www.wired.com/story/gta-vi-is-finally-out-dont-rush-it/",
+      "summary": "While strip clubs and shootouts are a big draw, the hyper-detailed world of Leonida rewards patience over chaos.",
+      "image": "https://media.wired.com/photos/6aff7f19e482c20d396573ae/master/pass/Jason_and_Lucia_20.jpg",
+      "published_at": "2026-11-20T10:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ad9722701803df8f3ee1",
+      "source": "wired",
+      "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
+      "url": "https://www.wired.com/gallery/gifts-for-gym-bros/",
+      "summary": "Because “as many reps as possible” is their love language.",
+      "image": "https://media.wired.com/photos/6aff478ef2cbbbfa7d0cf0fa/master/pass/The-Best-Gifts-for-Gym-Bros-Who-Never-Skip-Leg-Day.jpg",
+      "published_at": "2026-11-20T10:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "4db3f14e384133f2b1d2",
       "source": "wired",
@@ -195,7 +525,7 @@
     {
       "id": "a91c43623ef9674a4fe1",
       "source": "ars",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
       "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
       "summary": "Amazon now uses its shopping platform for political purposes.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
@@ -533,26 +863,6 @@
       "category": "Gear"
     },
     {
-      "id": "032997ddf622ff623fcf",
-      "source": "wired",
-      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
-      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
-      "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
-      "image": "https://media.wired.com/photos/6afd6967d7198704b1746983/master/pass/1LD%20Social%20Graphics_Shine%20Bright%20-%20Web%20Hero%20copy%202.jpg",
-      "published_at": "2026-11-19T12:00:00Z",
-      "category": "Science / Physics and Math"
-    },
-    {
-      "id": "c57061286fcc336d383d",
-      "source": "wired",
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
-      "published_at": "2026-11-19T12:00:00Z",
-      "category": "Business"
-    },
-    {
       "id": "ca36a6bcb148b568c19e",
       "source": "mit",
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
@@ -561,16 +871,6 @@
       "image": "",
       "published_at": "2026-11-19T12:00:00Z",
       "category": "Biotechnology and health"
-    },
-    {
-      "id": "8c7a9d5c1d53d57df624",
-      "source": "wired",
-      "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
-      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
-      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
-      "published_at": "2026-11-19T11:30:00Z",
-      "category": "Gear"
     },
     {
       "id": "fdb5245eb1a15ce31ff4",
@@ -583,26 +883,6 @@
       "category": "Biz & IT"
     },
     {
-      "id": "d2bf56bb48c34dd8d64a",
-      "source": "wired",
-      "title": "Best Early Dyson Black Friday Vacuum Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
-      "summary": "Dyson’s early Black Friday deals start today, and these are the vacuum deals you don’t want to skip.",
-      "image": "https://media.wired.com/photos/6afdff856266953106784d1e/master/pass/The-Best-Early-Black-Friday-Deals-on-Dyson-Vacuums.jpg",
-      "published_at": "2026-11-19T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "34fccafa11ad78596f4d",
-      "source": "wired",
-      "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
-      "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
-      "summary": "Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.",
-      "image": "https://media.wired.com/photos/6afced7fd3e4d723d17cee88/master/pass/IMG_0337.jpg",
-      "published_at": "2026-11-19T11:00:00Z",
-      "category": "The Big Story"
-    },
-    {
       "id": "2d717215e74b0924cf52",
       "source": "mit",
       "title": "What a billion-dollar deal says about the US battery market",
@@ -611,106 +891,6 @@
       "image": "",
       "published_at": "2026-11-19T11:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "43c1884ed6969d0b2aa0",
-      "source": "wired",
-      "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
-      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
-      "summary": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
-      "image": "https://media.wired.com/photos/6afced3edd75ebb0e0f1462f/master/pass/AP26317829295215_Groundstop.jpg",
-      "published_at": "2026-11-19T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3ab9f97e1ca4c0996205",
-      "source": "wired",
-      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
-      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
-      "summary": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
-      "image": "https://media.wired.com/photos/6afe63e1564242f4569cab85/master/pass/The-Therabody-Gift-Guide-for-Rest-and-Relaxation.jpg",
-      "published_at": "2026-11-19T10:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "84d1cd85c1572b22f607",
-      "source": "wired",
-      "title": "14 Best Gifts for Travelers Who Have Everything (2026)",
-      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
-      "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
-      "image": "https://media.wired.com/photos/6afe657cf9416e2bf834c7b6/master/pass/The-Best-Gifts-for-Travelers,-According-to-WIRED%E2%80%99s-Frequent-Fliers.jpg",
-      "published_at": "2026-11-19T10:04:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "555657c3d27705a3f0b6",
-      "source": "wired",
-      "title": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
-      "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
-      "summary": "Inspection reports detailing elder care facilities show that little to no worker onboarding can lead to dangerous mistakes and overwhelmed nurses, a WIRED and Proof News investigation has found.",
-      "image": "https://media.wired.com/photos/6afe3417809613f3f77a2776/master/pass/Gig%20Nurses%20v2.jpg",
-      "published_at": "2026-11-19T10:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "dbcf6f5a5d7582252015",
-      "source": "wired",
-      "title": "Lego Promo Code | 20% Off November 2026",
-      "url": "https://www.wired.com/story/lego-promo-code/",
-      "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
-      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "5eb6aeb10e2eaaad29f8",
-      "source": "wired",
-      "title": "Reebok Discount Code: 15% Off: November 2026",
-      "url": "https://www.wired.com/story/reebok-discount-code/",
-      "summary": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3f8a9a59bcb5be18762f",
-      "source": "wired",
-      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-      "url": "https://www.wired.com/story/we-vibe-discount-code/",
-      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f68ad0c39266083ecb55",
-      "source": "wired",
-      "title": "TurboTax Full Service Coupons This November 2026",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2e106afe278d15a2e22f",
-      "source": "wired",
-      "title": "Sportsman's Warehouse Promo Code: Save in November 2026",
-      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "84ea26cc6a309e5eef70",
-      "source": "wired",
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "url": "https://www.wired.com/story/lowes-promo-code/",
-      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "published_at": "2026-11-19T06:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "dc5d7dffc81fe43f346f",
@@ -843,16 +1023,6 @@
       "category": "Black Friday"
     },
     {
-      "id": "0529b519ce3c06432b78",
-      "source": "verge",
-      "title": "Instagram now lets you edit your stories after you post them",
-      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
-      "summary": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story…",
-      "image": "",
-      "published_at": "2026-11-18T19:29:10Z",
-      "category": "Apps"
-    },
-    {
       "id": "5368620becd073af0675",
       "source": "ars",
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
@@ -860,26 +1030,6 @@
       "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
       "published_at": "2026-11-18T19:19:33Z",
-      "category": "AI"
-    },
-    {
-      "id": "e8265581ddd38203bafb",
-      "source": "verge",
-      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost…",
-      "image": "",
-      "published_at": "2026-11-18T19:11:50Z",
-      "category": "Gaming"
-    },
-    {
-      "id": "364c971a2f827e11c7a2",
-      "source": "verge",
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing…",
-      "image": "",
-      "published_at": "2026-11-18T19:07:29Z",
       "category": "AI"
     },
     {
@@ -893,36 +1043,6 @@
       "category": "Policy"
     },
     {
-      "id": "8ea2dd190c36947b9fd4",
-      "source": "verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite…",
-      "image": "",
-      "published_at": "2026-11-18T18:44:27Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "278391a5c323e4b82a46",
-      "source": "verge",
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-      "summary": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte…",
-      "image": "",
-      "published_at": "2026-11-18T18:34:55Z",
-      "category": "Asus"
-    },
-    {
-      "id": "11da29e08ec7ae22db69",
-      "source": "verge",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting…",
-      "image": "",
-      "published_at": "2026-11-18T18:34:15Z",
-      "category": "AI"
-    },
-    {
       "id": "520f784d546e875678a4",
       "source": "ars",
       "title": "The \"shameful\" measles data that lost the US its elimination status",
@@ -933,16 +1053,6 @@
       "category": "Health"
     },
     {
-      "id": "b1027c54040c279f3618",
-      "source": "verge",
-      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
-      "url": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
-      "summary": "With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas might feel out of…",
-      "image": "",
-      "published_at": "2026-11-18T18:19:15Z",
-      "category": "Deals"
-    },
-    {
       "id": "a9119807f997464e77f0",
       "source": "ars",
       "title": "Will Wright's next simulation will use AI to mine content from your memories",
@@ -951,16 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
       "published_at": "2026-11-18T18:10:33Z",
       "category": "AI"
-    },
-    {
-      "id": "73ae0cbfd9933d43aae3",
-      "source": "verge",
-      "title": "Google is forcing Android app developers to properly support foldables",
-      "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
-      "summary": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure their apps have a…",
-      "image": "",
-      "published_at": "2026-11-18T18:00:00Z",
-      "category": "Android"
     },
     {
       "id": "9aea8caac7ea94338b60",
@@ -1033,26 +1133,6 @@
       "category": "Space"
     },
     {
-      "id": "117bf79a993108836861",
-      "source": "verge",
-      "title": "Suno now lets you make AI videos for your AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that…",
-      "image": "",
-      "published_at": "2026-11-18T11:16:53Z",
-      "category": "AI"
-    },
-    {
-      "id": "e665d683a69f49058989",
-      "source": "verge",
-      "title": "Grand Theft Auto VI has arrived",
-      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
-      "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most…",
-      "image": "",
-      "published_at": "2026-11-18T11:06:16Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "e77af959707e6a5d8ed9",
       "source": "ars",
       "title": "Grand Theft Auto VI: The Ars Technica review",
@@ -1103,36 +1183,6 @@
       "category": "Space"
     },
     {
-      "id": "36d88901ae05108cff34",
-      "source": "ars",
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-      "published_at": "2026-11-17T22:32:16Z",
-      "category": "Apple"
-    },
-    {
-      "id": "231d67475f99314e5192",
-      "source": "ars",
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
-      "published_at": "2026-11-17T20:32:55Z",
-      "category": "AI"
-    },
-    {
-      "id": "3e13ee23ec63fd072932",
-      "source": "ars",
-      "title": "Civilization studio Firaxis Games lays off a third of staff",
-      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-      "summary": "Studio head Heather Hazen is among those departing.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg",
-      "published_at": "2026-11-17T19:45:25Z",
-      "category": "Gaming"
-    },
-    {
       "id": "d6b72d786599d404d0b1",
       "source": "mit",
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -1143,36 +1193,6 @@
       "category": "Biotechnology and health"
     },
     {
-      "id": "8c1ea14be30bf6867b7a",
-      "source": "ars",
-      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
-      "published_at": "2026-11-17T18:26:26Z",
-      "category": "Culture"
-    },
-    {
-      "id": "deffdbc6448582820932",
-      "source": "ars",
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
-      "published_at": "2026-11-17T18:13:34Z",
-      "category": "Policy"
-    },
-    {
-      "id": "e1e7621c0e6fce148d8e",
-      "source": "ars",
-      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg",
-      "published_at": "2026-11-17T18:00:51Z",
-      "category": "Features"
-    },
-    {
       "id": "b443a43381855a938e12",
       "source": "mit",
       "title": "Hydropower hit record lows in the US Southwest this summer",
@@ -1181,16 +1201,6 @@
       "image": "",
       "published_at": "2026-11-17T17:52:10Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "af2b3959566517e3705a",
-      "source": "ars",
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-      "published_at": "2026-11-17T16:50:10Z",
-      "category": "AI"
     },
     {
       "id": "c8f1a51c15158535f0c1",
@@ -1391,26 +1401,6 @@
       "image": "",
       "published_at": "2026-11-09T10:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "fe542bd91cf6681324a9",
-      "source": "mit",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the…",
-      "image": "",
-      "published_at": "2026-11-06T13:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "6c2b7fceec0b6bd1cbf3",
-      "source": "mit",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new…",
-      "image": "",
-      "published_at": "2026-11-06T10:00:00Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

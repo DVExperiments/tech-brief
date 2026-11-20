@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T18:40:51Z",
+  "updated_at": "2026-11-20T00:55:57Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T18:40:51Z",
+      "last_success_at": "2026-11-20T00:55:57Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T18:40:51Z",
+      "last_success_at": "2026-11-20T00:55:57Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-19T18:40:51Z",
+      "last_success_at": "2026-11-20T00:55:57Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-19T18:40:51Z",
+      "last_success_at": "2026-11-20T00:55:57Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "b95388af0fd331676d9a",
+      "source": "wired",
+      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+      "image": "https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/master/pass/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg",
+      "published_at": "2026-11-19T23:12:17Z",
+      "category": "Culture"
+    },
+    {
+      "id": "9ed311b74b069e6b88ff",
+      "source": "verge",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by…",
+      "image": "",
+      "published_at": "2026-11-19T22:31:41Z",
+      "category": "AI"
+    },
+    {
+      "id": "a91c43623ef9674a4fe1",
+      "source": "ars",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+      "published_at": "2026-11-19T22:16:37Z",
+      "category": "Policy"
+    },
+    {
+      "id": "607ae8b8245495ec3138",
+      "source": "wired",
+      "title": "Best Amazon Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
+      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+      "published_at": "2026-11-19T22:02:12Z",
+      "category": "Gear"
+    },
+    {
+      "id": "2a4a49a5421fc3c8100b",
+      "source": "verge",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around…",
+      "image": "",
+      "published_at": "2026-11-19T21:59:35Z",
+      "category": "AI"
+    },
+    {
+      "id": "52e825f3a5636db30ee9",
+      "source": "wired",
+      "title": "What’s With All These Outages?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
+      "published_at": "2026-11-19T21:57:01Z",
+      "category": "Business"
+    },
+    {
+      "id": "2fbbc71341803449733c",
+      "source": "ars",
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-1152x648.jpg",
+      "published_at": "2026-11-19T21:19:12Z",
+      "category": "Health"
+    },
+    {
+      "id": "b82323d4c2117c525d22",
+      "source": "verge",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar…",
+      "image": "",
+      "published_at": "2026-11-19T21:12:06Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "85ca60f1ad3bd3fb89ef",
+      "source": "wired",
+      "title": "The Best Hatch Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
+      "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
+      "image": "https://media.wired.com/photos/6aff45858b074d85bf38a65e/master/pass/Wake-Up,-The-Hatch-Sleep-Clock-Is-on-Sale-Ahead-of-Black-Friday.jpg",
+      "published_at": "2026-11-19T20:44:44Z",
+      "category": "Gear"
+    },
+    {
+      "id": "014517974f071c333ab6",
+      "source": "wired",
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
+      "published_at": "2026-11-19T20:34:17Z",
+      "category": "Business"
+    },
+    {
+      "id": "0fd0a2d1a771b98e8284",
+      "source": "ars",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
+      "published_at": "2026-11-19T20:29:46Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "2e004658f3683451d5c0",
+      "source": "verge",
+      "title": "Meta’s Muse Charm might cost $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year…",
+      "image": "",
+      "published_at": "2026-11-19T20:22:17Z",
+      "category": "AI"
+    },
+    {
+      "id": "8b799ca4396452c9d252",
+      "source": "ars",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+      "published_at": "2026-11-19T20:19:28Z",
+      "category": "AI"
+    },
+    {
+      "id": "edd51714528647374f6b",
+      "source": "verge",
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on…",
+      "image": "",
+      "published_at": "2026-11-19T20:05:06Z",
+      "category": "AI"
+    },
+    {
+      "id": "ce047723c5a527643f49",
+      "source": "ars",
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
+      "published_at": "2026-11-19T19:52:54Z",
+      "category": "Google"
+    },
+    {
+      "id": "b7c9ec30ef3e067fc8f9",
+      "source": "verge",
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband…",
+      "image": "",
+      "published_at": "2026-11-19T19:40:28Z",
+      "category": "Mobile"
+    },
+    {
+      "id": "aa04c6c4715ebf8a4cf2",
+      "source": "verge",
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the…",
+      "image": "",
+      "published_at": "2026-11-19T19:35:52Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "809497c4a491af9122d6",
+      "source": "verge",
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now…",
+      "image": "",
+      "published_at": "2026-11-19T19:33:22Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "d6e41b609ccbd32ac741",
+      "source": "verge",
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a…",
+      "image": "",
+      "published_at": "2026-11-19T19:12:30Z",
+      "category": "Creators"
+    },
+    {
+      "id": "06e43d9fd3241ab0dc82",
+      "source": "ars",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
+      "published_at": "2026-11-19T18:44:39Z",
+      "category": "Science"
+    },
     {
       "id": "16837082b59c3667ad42",
       "source": "verge",
@@ -207,7 +407,7 @@
       "source": "wired",
       "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
       "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
       "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
       "published_at": "2026-11-19T12:00:00Z",
       "category": "Business"
@@ -773,46 +973,6 @@
       "category": "Reviews"
     },
     {
-      "id": "d5fa9697479e0fad0d62",
-      "source": "wired",
-      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
-      "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
-      "summary": "The highly contagious disease is spreading across the country, and “may even be gaining speed.”",
-      "image": "https://media.wired.com/photos/6afcff5af77d006ac6e61e11/master/pass/science_us_measles_free_status.jpg",
-      "published_at": "2026-11-18T17:53:08Z",
-      "category": "Science"
-    },
-    {
-      "id": "4f8fb9193205504e35bb",
-      "source": "wired",
-      "title": "The MacBook Neo Is on Sale Ahead of Black Friday (2026)",
-      "url": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
-      "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649.",
-      "image": "https://media.wired.com/photos/6afddc7636140b742f8ad817/master/pass/The-MacBook-Neo-Just-Got-Its-Largest-Discount-Ever.jpg",
-      "published_at": "2026-11-18T17:47:23Z",
-      "category": "Gear"
-    },
-    {
-      "id": "325a11dca8628fdf8f18",
-      "source": "wired",
-      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg",
-      "published_at": "2026-11-18T17:33:07Z",
-      "category": "Business"
-    },
-    {
-      "id": "3cba0f37712b417bda0d",
-      "source": "wired",
-      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
-      "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
-      "summary": "“The only way you get some change against Big Tech is to sue them,” says lawyer Hillary Nappi, who is representing Amani Al-Khatahtbeh in the lawsuit.",
-      "image": "https://media.wired.com/photos/6afce67e8d4d47192101a96f/master/pass/AI%20Hijab%20stripping.jpg",
-      "published_at": "2026-11-18T17:30:54Z",
-      "category": "Culture"
-    },
-    {
       "id": "a64cd46dd36d03428b1a",
       "source": "ars",
       "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
@@ -821,16 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
       "published_at": "2026-11-18T16:58:32Z",
       "category": "Space"
-    },
-    {
-      "id": "c43d788da5fca2aee5d1",
-      "source": "wired",
-      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg",
-      "published_at": "2026-11-18T16:35:24Z",
-      "category": "Security"
     },
     {
       "id": "546dafcd04e5876fcf29",
@@ -913,26 +1063,6 @@
       "category": "Features"
     },
     {
-      "id": "db822d3db67f210d5f64",
-      "source": "verge",
-      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
-      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
-      "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million…",
-      "image": "",
-      "published_at": "2026-11-18T11:00:00Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "482cee1591ae153a9336",
-      "source": "verge",
-      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
-      "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
-      "summary": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of…",
-      "image": "",
-      "published_at": "2026-11-18T11:00:00Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "fb4c4abdd173ee04f69e",
       "source": "mit",
       "title": "This smell startup says its AI nose is as good as a human’s",
@@ -950,16 +1080,6 @@
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
       "published_at": "2026-11-18T00:27:29Z",
-      "category": "AI"
-    },
-    {
-      "id": "f72fdbbb209287856785",
-      "source": "verge",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the…",
-      "image": "",
-      "published_at": "2026-11-17T23:41:18Z",
       "category": "AI"
     },
     {
@@ -983,26 +1103,6 @@
       "category": "Space"
     },
     {
-      "id": "b1858862eda6bbfc8be8",
-      "source": "verge",
-      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff…",
-      "image": "",
-      "published_at": "2026-11-17T22:38:41Z",
-      "category": "Amazon"
-    },
-    {
-      "id": "80404e36f2c57024147e",
-      "source": "verge",
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's…",
-      "image": "",
-      "published_at": "2026-11-17T22:32:50Z",
-      "category": "Business"
-    },
-    {
       "id": "36d88901ae05108cff34",
       "source": "ars",
       "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
@@ -1011,46 +1111,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
       "published_at": "2026-11-17T22:32:16Z",
       "category": "Apple"
-    },
-    {
-      "id": "e5b2edb6087a8203dd3c",
-      "source": "verge",
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks…",
-      "image": "",
-      "published_at": "2026-11-17T22:25:41Z",
-      "category": "Apple"
-    },
-    {
-      "id": "78ac1692647b79c41150",
-      "source": "verge",
-      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to…",
-      "image": "",
-      "published_at": "2026-11-17T22:05:05Z",
-      "category": "Analysis"
-    },
-    {
-      "id": "c74bcde7ff12a7efdfb2",
-      "source": "verge",
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently…",
-      "image": "",
-      "published_at": "2026-11-17T21:46:20Z",
-      "category": "Apple"
-    },
-    {
-      "id": "b045d157fae79893f320",
-      "source": "verge",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the…",
-      "image": "",
-      "published_at": "2026-11-17T21:40:59Z",
-      "category": "AI"
     },
     {
       "id": "231d67475f99314e5192",
@@ -1133,26 +1193,6 @@
       "category": "AI"
     },
     {
-      "id": "06222c534f82551d5b14",
-      "source": "ars",
-      "title": "House Democrats promise a US return to global climate talks",
-      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-      "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
-      "published_at": "2026-11-17T15:32:43Z",
-      "category": "Policy"
-    },
-    {
-      "id": "e71b54998429db360c6e",
-      "source": "ars",
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-      "published_at": "2026-11-17T15:28:59Z",
-      "category": "AI"
-    },
-    {
       "id": "c8f1a51c15158535f0c1",
       "source": "mit",
       "title": "Research Reports",
@@ -1163,16 +1203,6 @@
       "category": "Artificial intelligence"
     },
     {
-      "id": "72e974258de533e18c51",
-      "source": "ars",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-      "published_at": "2026-11-17T14:00:29Z",
-      "category": "AI"
-    },
-    {
       "id": "815a99f78a7f4aff59c6",
       "source": "mit",
       "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
@@ -1181,36 +1211,6 @@
       "image": "",
       "published_at": "2026-11-17T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "43eda016c375fa97555e",
-      "source": "ars",
-      "title": "Artist brings old Space Shuttle tank back to life",
-      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-      "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg",
-      "published_at": "2026-11-17T12:15:54Z",
-      "category": "Space"
-    },
-    {
-      "id": "763028b477e7fbd714e9",
-      "source": "ars",
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
-      "published_at": "2026-11-16T22:58:27Z",
-      "category": "AI"
-    },
-    {
-      "id": "beb71c6ea84ab61a15b9",
-      "source": "ars",
-      "title": "Three small failures combined to take down Microsoft 365",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
-      "published_at": "2026-11-16T21:56:39Z",
-      "category": "Tech"
     },
     {
       "id": "e6c767658b2a7816af2a",

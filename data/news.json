@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T23:21:57Z",
+  "updated_at": "2026-11-21T04:17:42Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T23:21:57Z",
+      "last_success_at": "2026-11-21T04:17:41Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T23:21:57Z",
+      "last_success_at": "2026-11-21T04:17:41Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-20T23:21:57Z",
+      "last_success_at": "2026-11-21T04:17:42Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-20T23:21:57Z",
+      "last_success_at": "2026-11-21T04:17:42Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "4e88c7aff68f4918e6c1",
+      "source": "wired",
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
+      "published_at": "2026-11-20T23:24:02Z",
+      "category": "Culture"
+    },
     {
       "id": "53af9cff69b527107127",
       "source": "ars",
@@ -781,16 +791,6 @@
       "image": "https://media.wired.com/photos/6aff45858b074d85bf38a65e/master/pass/Wake-Up,-The-Hatch-Sleep-Clock-Is-on-Sale-Ahead-of-Black-Friday.jpg",
       "published_at": "2026-11-19T20:44:44Z",
       "category": "Gear"
-    },
-    {
-      "id": "014517974f071c333ab6",
-      "source": "wired",
-      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
-      "published_at": "2026-11-19T20:34:17Z",
-      "category": "Business"
     },
     {
       "id": "0fd0a2d1a771b98e8284",

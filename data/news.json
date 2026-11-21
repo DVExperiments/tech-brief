@@ -1,37 +1,277 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T04:17:42Z",
+  "updated_at": "2026-11-21T13:03:11Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T04:17:41Z",
+      "last_success_at": "2026-11-21T13:03:11Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T04:17:41Z",
+      "last_success_at": "2026-11-21T13:03:11Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-21T04:17:42Z",
+      "last_success_at": "2026-11-21T13:03:11Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T04:17:42Z",
+      "last_success_at": "2026-11-21T13:03:11Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "4ef80fbd6b76e5242dd3",
+      "source": "verge",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen…",
+      "image": "",
+      "published_at": "2026-11-21T13:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "0362974fd8bd59ff2303",
+      "source": "verge",
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all…",
+      "image": "",
+      "published_at": "2026-11-21T13:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "2cb42e75aca5072a1545",
+      "source": "wired",
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+      "published_at": "2026-11-21T13:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "3952cb35226fb422d093",
+      "source": "ars",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "published_at": "2026-11-21T12:01:13Z",
+      "category": "Science"
+    },
+    {
+      "id": "0a31f28dfe53a296dc01",
+      "source": "wired",
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-21T12:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "66a524bfe62ba16d99a6",
+      "source": "verge",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner…",
+      "image": "",
+      "published_at": "2026-11-21T12:00:00Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "5f73188584c21d09bc29",
+      "source": "wired",
+      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
+      "image": "https://media.wired.com/photos/6b0013b54b02437d9d07344e/master/pass/Hera_her_CubeSats_and_their_rocky_target.png",
+      "published_at": "2026-11-21T12:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "4ede6234cf241e369b66",
+      "source": "wired",
+      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
+      "summary": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
+      "image": "https://media.wired.com/photos/6b0138f3d9699de6f24482d6/master/pass/Review--Sony-Bravia-9-II-TV.jpg",
+      "published_at": "2026-11-21T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "6654ec258092b0c9eee2",
+      "source": "wired",
+      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
+      "summary": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off.",
+      "image": "https://media.wired.com/photos/6b0130a435cb0e2956884a12/master/pass/Pure-One-Station-5.jpg",
+      "published_at": "2026-11-21T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a13635412c5f74e5b097",
+      "source": "wired",
+      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
+      "url": "https://www.wired.com/story/best-laptops-for-travel/",
+      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
+      "image": "https://media.wired.com/photos/6aff4b9df2cbbbfa7d0cf100/master/pass/GettyImages-2160884480.jpg",
+      "published_at": "2026-11-21T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "98fa1ca1d44b99caefe2",
+      "source": "wired",
+      "title": "17 Best Gifts for Women in the Enshittocene (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-women/",
+      "summary": "The least you can do is buy her something nice.",
+      "image": "https://media.wired.com/photos/6b00a34ddb184e9e0cfa8424/master/pass/Best-Gifts-for-Women-Who-Deserve-Compensation.jpg",
+      "published_at": "2026-11-21T10:02:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c5e67c574145d14630cb",
+      "source": "wired",
+      "title": "The Manosphere Isn’t Ready for Brothercore",
+      "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+      "summary": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.",
+      "image": "https://media.wired.com/photos/6b00e9307020ceeb4716a30e/master/pass/W-24.jpg",
+      "published_at": "2026-11-21T10:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "2c6bfd5d118dec204075",
+      "source": "wired",
+      "title": "Therabody Promo Codes: 15% Off November 2026",
+      "url": "https://www.wired.com/story/therabody-promo-code/",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "741a0808eb26caecfae9",
+      "source": "wired",
+      "title": "Mountain Hardwear Coupon Code 15% Off November",
+      "url": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
+      "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b854d1cf87417218d0d0",
+      "source": "wired",
+      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d3a3a11b47533b9207c9",
+      "source": "wired",
+      "title": "Motorola Coupon Code for November 2026",
+      "url": "https://www.wired.com/story/motorola-coupon-code/",
+      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fef86ed17d68ce68fa95",
+      "source": "wired",
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "url": "https://www.wired.com/story/total-wireless-promo-code/",
+      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "519ba6421b3f2608dbdb",
+      "source": "wired",
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0260110bde917509701a",
+      "source": "wired",
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e135c9b0583ca71a3682",
+      "source": "wired",
+      "title": "Mint Mobile Discounts for November 2026",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "1a2d02470ad0f74408f5",
+      "source": "wired",
+      "title": "20% Off Brooks Promo Code | November 2026",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "18300edcdce9c2b9dc88",
+      "source": "wired",
+      "title": "Uplift Promo Codes: $300 Off",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "9d5281de5fde520293c5",
+      "source": "wired",
+      "title": "Hostinger Promo Code: 85% Off for November 2026",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "48eb1254324c712f505f",
+      "source": "wired",
+      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+      "url": "https://www.wired.com/story/hostgator-coupon/",
+      "summary": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
+      "published_at": "2026-11-21T06:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "4e88c7aff68f4918e6c1",
       "source": "wired",
@@ -543,176 +783,6 @@
       "category": "Science"
     },
     {
-      "id": "f3c6643c4aaaaeee88c2",
-      "source": "wired",
-      "title": "‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake",
-      "url": "https://www.wired.com/story/gta-vi-is-finally-out-dont-rush-it/",
-      "summary": "While strip clubs and shootouts are a big draw, the hyper-detailed world of Leonida rewards patience over chaos.",
-      "image": "https://media.wired.com/photos/6aff7f19e482c20d396573ae/master/pass/Jason_and_Lucia_20.jpg",
-      "published_at": "2026-11-20T10:15:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ad9722701803df8f3ee1",
-      "source": "wired",
-      "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
-      "url": "https://www.wired.com/gallery/gifts-for-gym-bros/",
-      "summary": "Because “as many reps as possible” is their love language.",
-      "image": "https://media.wired.com/photos/6aff478ef2cbbbfa7d0cf0fa/master/pass/The-Best-Gifts-for-Gym-Bros-Who-Never-Skip-Leg-Day.jpg",
-      "published_at": "2026-11-20T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4db3f14e384133f2b1d2",
-      "source": "wired",
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
-      "published_at": "2026-11-20T07:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "2f328cf41beeca8ce08a",
-      "source": "wired",
-      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
-      "url": "https://www.wired.com/story/adorama-promo-code/",
-      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "1d291b0bd99ac2ad9e21",
-      "source": "wired",
-      "title": "Vimeo Promo Codes: 40% Off This November 2026",
-      "url": "https://www.wired.com/story/vimeo-promo-code/",
-      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "7f8faf39d4a6a28cdf5f",
-      "source": "wired",
-      "title": "Expedia Coupons: 50% Off",
-      "url": "https://www.wired.com/story/expedia-coupon/",
-      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-      "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8eec36d43e393ca9ea55",
-      "source": "wired",
-      "title": "Skechers Coupon Codes 20% Off",
-      "url": "https://www.wired.com/story/skechers-coupon-codes/",
-      "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2f38749de15f3b111fd2",
-      "source": "wired",
-      "title": "HBO Max Promo Code: 50% Off | November 2026",
-      "url": "https://www.wired.com/story/max-promo-code/",
-      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d563d2e0443194294d8b",
-      "source": "wired",
-      "title": "Ancestry Coupons│50% Off│November 2026",
-      "url": "https://www.wired.com/story/ancestry-coupon-codes/",
-      "summary": "Save on family history memberships and DNA kits with the latest Ancestry coupon codes, special offers, and seasonal discounts.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "15227bf1e59bb9066f0d",
-      "source": "wired",
-      "title": "Walgreens Photo Coupons: Up to 70% Off This November 2026",
-      "url": "https://www.wired.com/story/walgreens-photo-coupon/",
-      "summary": "Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and…",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "57beb9aeaf27a532d5ca",
-      "source": "wired",
-      "title": "Castlery Promo Codes: $600 Off for November 2026",
-      "url": "https://www.wired.com/story/castlery-promo-code/",
-      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d9003daea344d6b1605e",
-      "source": "wired",
-      "title": "eBay Coupons: 20% Off in November 2026",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c749844ced8a49ec7069",
-      "source": "wired",
-      "title": "Groupon Promo Codes: 60% Off in November 2026",
-      "url": "https://www.wired.com/story/groupon-promo-code/",
-      "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f73f2ebb0d0db44aaa2a",
-      "source": "wired",
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "dc2a6ca65994b34affc4",
-      "source": "wired",
-      "title": "iRobot Promo Code: 15% Off",
-      "url": "https://www.wired.com/story/irobot-promo-code/",
-      "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-      "published_at": "2026-11-20T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f40ccfe20ad3abde46d7",
-      "source": "wired",
-      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
-      "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
-      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
-      "image": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/master/pass/RIP-Fiona-the-Hippo-Business-1230298782.jpg",
-      "published_at": "2026-11-20T02:39:47Z",
-      "category": "Culture"
-    },
-    {
-      "id": "b95388af0fd331676d9a",
-      "source": "wired",
-      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
-      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
-      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
-      "image": "https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/master/pass/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg",
-      "published_at": "2026-11-19T23:12:17Z",
-      "category": "Culture"
-    },
-    {
       "id": "9ed311b74b069e6b88ff",
       "source": "verge",
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -733,16 +803,6 @@
       "category": "Policy"
     },
     {
-      "id": "607ae8b8245495ec3138",
-      "source": "wired",
-      "title": "Best Amazon Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
-      "published_at": "2026-11-19T22:02:12Z",
-      "category": "Gear"
-    },
-    {
       "id": "2a4a49a5421fc3c8100b",
       "source": "verge",
       "title": "A brief history of Nvidia’s recent stock fluctuations",
@@ -751,16 +811,6 @@
       "image": "",
       "published_at": "2026-11-19T21:59:35Z",
       "category": "AI"
-    },
-    {
-      "id": "52e825f3a5636db30ee9",
-      "source": "wired",
-      "title": "What’s With All These Outages?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-      "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
-      "published_at": "2026-11-19T21:57:01Z",
-      "category": "Business"
     },
     {
       "id": "2fbbc71341803449733c",
@@ -781,16 +831,6 @@
       "image": "",
       "published_at": "2026-11-19T21:12:06Z",
       "category": "Entertainment"
-    },
-    {
-      "id": "85ca60f1ad3bd3fb89ef",
-      "source": "wired",
-      "title": "The Best Hatch Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
-      "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
-      "image": "https://media.wired.com/photos/6aff45858b074d85bf38a65e/master/pass/Wake-Up,-The-Hatch-Sleep-Clock-Is-on-Sale-Ahead-of-Black-Friday.jpg",
-      "published_at": "2026-11-19T20:44:44Z",
-      "category": "Gear"
     },
     {
       "id": "0fd0a2d1a771b98e8284",
@@ -973,36 +1013,6 @@
       "category": "Black Friday"
     },
     {
-      "id": "d57868e417167098b2a1",
-      "source": "verge",
-      "title": "Anthropic starts trading on Wall Street",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The…",
-      "image": "",
-      "published_at": "2026-11-19T16:52:01Z",
-      "category": "AI"
-    },
-    {
-      "id": "34f17ddf720742066b31",
-      "source": "verge",
-      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-      "summary": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or…",
-      "image": "",
-      "published_at": "2026-11-19T16:28:12Z",
-      "category": "Apps"
-    },
-    {
-      "id": "ec2b317fab9605281e91",
-      "source": "verge",
-      "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
-      "summary": "Ahead of Black Friday, you can subscribe to Paramount Plus for just $2.99 per month for the first two months. After the introductory period, you can cancel your subscription or automatically renew at the…",
-      "image": "",
-      "published_at": "2026-11-19T16:15:01Z",
-      "category": "Black Friday"
-    },
-    {
       "id": "67f49cfceeefb04d98a6",
       "source": "ars",
       "title": "Mouse fight club might explain why we like to watch violent things",
@@ -1151,16 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg",
       "published_at": "2026-11-18T18:30:23Z",
       "category": "Health"
-    },
-    {
-      "id": "a9119807f997464e77f0",
-      "source": "ars",
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
-      "published_at": "2026-11-18T18:10:33Z",
-      "category": "AI"
     },
     {
       "id": "b78e706419573cdf67a1",

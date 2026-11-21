@@ -1,37 +1,107 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T13:03:11Z",
+  "updated_at": "2026-11-21T20:06:31Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T13:03:11Z",
+      "last_success_at": "2026-11-21T20:06:31Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T13:03:11Z",
+      "last_success_at": "2026-11-21T20:06:31Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-21T13:03:11Z",
+      "last_success_at": "2026-11-21T20:06:31Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T13:03:11Z",
+      "last_success_at": "2026-11-21T20:06:31Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "5f06be3aacc369fc6767",
+      "source": "verge",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the…",
+      "image": "",
+      "published_at": "2026-11-21T20:03:37Z",
+      "category": "AI"
+    },
+    {
+      "id": "5bf52788f07b574a1c6c",
+      "source": "verge",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months…",
+      "image": "",
+      "published_at": "2026-11-21T17:42:27Z",
+      "category": "News"
+    },
+    {
+      "id": "41ac4ba27001ee5ac339",
+      "source": "verge",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of…",
+      "image": "",
+      "published_at": "2026-11-21T16:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "f367ae52dad9117ed382",
+      "source": "verge",
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting…",
+      "image": "",
+      "published_at": "2026-11-21T16:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "4810932fd3e8369c7ccc",
+      "source": "verge",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq…",
+      "image": "",
+      "published_at": "2026-11-21T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "c5b1bd590c0a5f600201",
+      "source": "verge",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless…",
+      "image": "",
+      "published_at": "2026-11-21T14:55:28Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "d8923d6356ee57071cad",
+      "source": "verge",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi…",
+      "image": "",
+      "published_at": "2026-11-21T14:00:00Z",
+      "category": "AI"
+    },
     {
       "id": "4ef80fbd6b76e5242dd3",
       "source": "verge",
@@ -933,56 +1003,6 @@
       "category": "Science"
     },
     {
-      "id": "16837082b59c3667ad42",
-      "source": "verge",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "summary": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up…",
-      "image": "",
-      "published_at": "2026-11-19T18:33:08Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "eb0f032e7996611a23f2",
-      "source": "verge",
-      "title": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be…",
-      "image": "",
-      "published_at": "2026-11-19T18:21:13Z",
-      "category": "AI"
-    },
-    {
-      "id": "3ed41053b812e577014c",
-      "source": "verge",
-      "title": "Leaked images reveal Motorola’s wide foldable",
-      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-      "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot…",
-      "image": "",
-      "published_at": "2026-11-19T18:19:03Z",
-      "category": "Android"
-    },
-    {
-      "id": "91231b182a98371fbef3",
-      "source": "verge",
-      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The…",
-      "image": "",
-      "published_at": "2026-11-19T18:15:00Z",
-      "category": "Analysis"
-    },
-    {
-      "id": "a6aaa75a08092adf3631",
-      "source": "verge",
-      "title": "Apple’s iPhone camera leader has reportedly left the company",
-      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
-      "summary": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the…",
-      "image": "",
-      "published_at": "2026-11-19T18:13:05Z",
-      "category": "Apple"
-    },
-    {
       "id": "c3d52f4f7c00229c6f4c",
       "source": "ars",
       "title": "Google will launch Android app verification requirement globally in January 2027",
@@ -991,26 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
       "published_at": "2026-11-19T18:00:33Z",
       "category": "Google"
-    },
-    {
-      "id": "486fd89c8a258711e5f2",
-      "source": "verge",
-      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
-      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
-      "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor…",
-      "image": "",
-      "published_at": "2026-11-19T17:58:01Z",
-      "category": "Amazon"
-    },
-    {
-      "id": "292e2af90a0cff618636",
-      "source": "verge",
-      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
-      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
-      "summary": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which…",
-      "image": "",
-      "published_at": "2026-11-19T17:15:00Z",
-      "category": "Black Friday"
     },
     {
       "id": "67f49cfceeefb04d98a6",

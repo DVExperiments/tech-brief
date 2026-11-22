@@ -1,37 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T20:06:31Z",
+  "updated_at": "2026-11-22T00:21:00Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T20:06:31Z",
+      "last_success_at": "2026-11-22T00:20:59Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T20:06:31Z",
+      "last_success_at": "2026-11-22T00:20:59Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-21T20:06:31Z",
+      "last_success_at": "2026-11-22T00:21:00Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-21T20:06:31Z",
+      "last_success_at": "2026-11-22T00:21:00Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "e21e77b8fea113c7bc3f",
+      "source": "ars",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+      "published_at": "2026-11-21T22:12:41Z",
+      "category": "Culture"
+    },
+    {
+      "id": "18c26221c68a24e3a379",
+      "source": "verge",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to…",
+      "image": "",
+      "published_at": "2026-11-21T21:59:31Z",
+      "category": "Amazon"
+    },
     {
       "id": "5f06be3aacc369fc6767",
       "source": "verge",
@@ -983,16 +1003,6 @@
       "category": "Entertainment"
     },
     {
-      "id": "d6e41b609ccbd32ac741",
-      "source": "verge",
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a…",
-      "image": "",
-      "published_at": "2026-11-19T19:12:30Z",
-      "category": "Creators"
-    },
-    {
       "id": "06e43d9fd3241ab0dc82",
       "source": "ars",
       "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
@@ -1151,16 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg",
       "published_at": "2026-11-18T18:46:08Z",
       "category": "Policy"
-    },
-    {
-      "id": "520f784d546e875678a4",
-      "source": "ars",
-      "title": "The \"shameful\" measles data that lost the US its elimination status",
-      "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-      "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg",
-      "published_at": "2026-11-18T18:30:23Z",
-      "category": "Health"
     },
     {
       "id": "b78e706419573cdf67a1",

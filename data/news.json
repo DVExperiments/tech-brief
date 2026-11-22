@@ -1,37 +1,77 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T15:41:38Z",
+  "updated_at": "2026-11-22T21:17:19Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T15:41:38Z",
+      "last_success_at": "2026-11-22T21:17:19Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T15:41:38Z",
+      "last_success_at": "2026-11-22T21:17:19Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-22T15:41:38Z",
+      "last_success_at": "2026-11-22T21:17:19Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T15:41:38Z",
+      "last_success_at": "2026-11-22T21:17:19Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "bd21e33158ed097c22b6",
+      "source": "verge",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is…",
+      "image": "",
+      "published_at": "2026-11-22T17:46:44Z",
+      "category": "News"
+    },
+    {
+      "id": "76fe7fffa5123aceee54",
+      "source": "verge",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the…",
+      "image": "",
+      "published_at": "2026-11-22T17:25:20Z",
+      "category": "AI"
+    },
+    {
+      "id": "53c69815e8f0307389da",
+      "source": "verge",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a…",
+      "image": "",
+      "published_at": "2026-11-22T17:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "d8d7368cef512120b147",
+      "source": "verge",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP…",
+      "image": "",
+      "published_at": "2026-11-22T16:33:29Z",
+      "category": "Column"
+    },
     {
       "id": "9449c3f7b8ee5b2ec7d9",
       "source": "verge",
@@ -873,16 +913,6 @@
       "category": "Gear"
     },
     {
-      "id": "78b3af5abe0e833922dc",
-      "source": "verge",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating…",
-      "image": "",
-      "published_at": "2026-11-20T12:30:47Z",
-      "category": "AI"
-    },
-    {
       "id": "7c9938eb8600ae0a1a10",
       "source": "ars",
       "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
@@ -923,16 +953,6 @@
       "category": "Features"
     },
     {
-      "id": "ad4f906ff0a61b7dc43e",
-      "source": "verge",
-      "title": "Why the robots are ditching Uber",
-      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working…",
-      "image": "",
-      "published_at": "2026-11-20T12:00:00Z",
-      "category": "Autonomous Cars"
-    },
-    {
       "id": "6b216588d1f6e287017c",
       "source": "wired",
       "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
@@ -943,16 +963,6 @@
       "category": "Gear"
     },
     {
-      "id": "9ed311b74b069e6b88ff",
-      "source": "verge",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by…",
-      "image": "",
-      "published_at": "2026-11-19T22:31:41Z",
-      "category": "AI"
-    },
-    {
       "id": "a91c43623ef9674a4fe1",
       "source": "ars",
       "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
@@ -961,16 +971,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
       "published_at": "2026-11-19T22:16:37Z",
       "category": "Policy"
-    },
-    {
-      "id": "2a4a49a5421fc3c8100b",
-      "source": "verge",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around…",
-      "image": "",
-      "published_at": "2026-11-19T21:59:35Z",
-      "category": "AI"
     },
     {
       "id": "2fbbc71341803449733c",

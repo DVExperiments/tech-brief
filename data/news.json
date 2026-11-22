@@ -1,37 +1,167 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T00:21:00Z",
+  "updated_at": "2026-11-22T15:41:38Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T00:20:59Z",
+      "last_success_at": "2026-11-22T15:41:38Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T00:20:59Z",
+      "last_success_at": "2026-11-22T15:41:38Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-22T00:21:00Z",
+      "last_success_at": "2026-11-22T15:41:38Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T00:21:00Z",
+      "last_success_at": "2026-11-22T15:41:38Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "9449c3f7b8ee5b2ec7d9",
+      "source": "verge",
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the…",
+      "image": "",
+      "published_at": "2026-11-22T15:15:07Z",
+      "category": "Meta"
+    },
+    {
+      "id": "1764a44bdef4fff49702",
+      "source": "verge",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a…",
+      "image": "",
+      "published_at": "2026-11-22T14:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "1d8e30a7140e3e53aef1",
+      "source": "verge",
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a…",
+      "image": "",
+      "published_at": "2026-11-22T14:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "a5745149173d64030980",
+      "source": "verge",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as…",
+      "image": "",
+      "published_at": "2026-11-22T13:15:27Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "38d8d4c176fe3678fa17",
+      "source": "verge",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and…",
+      "image": "",
+      "published_at": "2026-11-22T13:00:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "3094f66a7665e45007fa",
+      "source": "verge",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on…",
+      "image": "",
+      "published_at": "2026-11-22T13:00:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "fbd07d95bd1c11246b1f",
+      "source": "ars",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
+      "published_at": "2026-11-22T12:07:41Z",
+      "category": "Health"
+    },
+    {
+      "id": "45189538791dfdc675d6",
+      "source": "wired",
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg",
+      "published_at": "2026-11-22T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "57ba69b25f439cd3fee9",
+      "source": "wired",
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
+      "published_at": "2026-11-22T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b8d2a96e96b922494bf5",
+      "source": "wired",
+      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+      "image": "https://media.wired.com/photos/6b00a7fa835217c5c30f2b18/master/pass/The-Gifts-Moms-Actually-Want,-Picked-by-Moms.jpg",
+      "published_at": "2026-11-22T11:02:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "31abf07032239ed579a9",
+      "source": "wired",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+      "published_at": "2026-11-22T11:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a2f15af9f296a9647a73",
+      "source": "wired",
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "image": "https://media.wired.com/photos/6afec80a658c126f4fca9f94/master/pass/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg",
+      "published_at": "2026-11-22T10:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "8ad3c433f068ceb8f5fd",
+      "source": "wired",
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "image": "https://media.wired.com/photos/6b00ddb2631c13f3e234776c/master/pass/How-This-Years-Super-El-Nino-Will-Worsen-Global-Hunger-Science-2297395830.jpg",
+      "published_at": "2026-11-22T10:00:00Z",
+      "category": "Science"
+    },
     {
       "id": "e21e77b8fea113c7bc3f",
       "source": "ars",
@@ -813,66 +943,6 @@
       "category": "Gear"
     },
     {
-      "id": "17796ae1b268d90ce7eb",
-      "source": "wired",
-      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-      "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
-      "published_at": "2026-11-20T12:00:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "8ccecc754dbf80070f5c",
-      "source": "wired",
-      "title": "The 36 Best REI Holiday Sale Outdoor Deals (2026)",
-      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
-      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
-      "image": "https://media.wired.com/photos/6af78becda0b3f5acb040c4d/master/pass/The-21-Best-REI-Holiday-Sale-Outdoor-Deals.jpg",
-      "published_at": "2026-11-20T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0752b07bdb5639fec929",
-      "source": "wired",
-      "title": "The Smart Ring Goes to Church",
-      "url": "https://www.wired.com/story/smart-ring-goes-to-church/",
-      "summary": "From glowing crosses to voice-transcribed prayers, the Elah and Glorify rings are reimagining traditional faith rituals for the wearable era.",
-      "image": "https://media.wired.com/photos/6afb101a95139a14a66d0fbd/master/pass/Elah%20Ring_Banner_Lifestyle.png",
-      "published_at": "2026-11-20T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8282a8dbeb55c09e1db8",
-      "source": "wired",
-      "title": "Regular Tech Bros Are Worried About Honeypots",
-      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-      "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
-      "published_at": "2026-11-20T11:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "2ec6f409da95ad96f3f0",
-      "source": "wired",
-      "title": "The Best Gifts for the Techie in Your Life (2026)",
-      "url": "https://www.wired.com/story/best-tech-gifts-2026/",
-      "summary": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
-      "image": "https://media.wired.com/photos/6ac974ffd996135719f573b5/master/pass/9%20WIRED-Approved%20Gifts%20for%20the%20Techie%20in%20Your%20Life%20102026%20top%20art%20source%20Amazon.jpg",
-      "published_at": "2026-11-20T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "791feaef2524921fc6ce",
-      "source": "wired",
-      "title": "El Niño Is Driving a Record Marine Heat Wave Off the California Coast",
-      "url": "https://www.wired.com/story/el-nino-record-california-marine-heat-wave/",
-      "summary": "The extreme heat extends hundreds of meters below the ocean’s surface and is fueling severe storms and abnormally high seas.",
-      "image": "https://media.wired.com/photos/6afc5d41fa103e595fff7d88/master/pass/GettyImages-2305167906.jpg",
-      "published_at": "2026-11-20T10:30:00Z",
-      "category": "Science"
-    },
-    {
       "id": "9ed311b74b069e6b88ff",
       "source": "verge",
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -913,16 +983,6 @@
       "category": "Health"
     },
     {
-      "id": "b82323d4c2117c525d22",
-      "source": "verge",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar…",
-      "image": "",
-      "published_at": "2026-11-19T21:12:06Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "0fd0a2d1a771b98e8284",
       "source": "ars",
       "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
@@ -931,16 +991,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
       "published_at": "2026-11-19T20:29:46Z",
       "category": "Biz & IT"
-    },
-    {
-      "id": "2e004658f3683451d5c0",
-      "source": "verge",
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year…",
-      "image": "",
-      "published_at": "2026-11-19T20:22:17Z",
-      "category": "AI"
     },
     {
       "id": "8b799ca4396452c9d252",
@@ -953,16 +1003,6 @@
       "category": "AI"
     },
     {
-      "id": "edd51714528647374f6b",
-      "source": "verge",
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on…",
-      "image": "",
-      "published_at": "2026-11-19T20:05:06Z",
-      "category": "AI"
-    },
-    {
       "id": "ce047723c5a527643f49",
       "source": "ars",
       "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
@@ -971,36 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
       "published_at": "2026-11-19T19:52:54Z",
       "category": "Google"
-    },
-    {
-      "id": "b7c9ec30ef3e067fc8f9",
-      "source": "verge",
-      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband…",
-      "image": "",
-      "published_at": "2026-11-19T19:40:28Z",
-      "category": "Mobile"
-    },
-    {
-      "id": "aa04c6c4715ebf8a4cf2",
-      "source": "verge",
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the…",
-      "image": "",
-      "published_at": "2026-11-19T19:35:52Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "809497c4a491af9122d6",
-      "source": "verge",
-      "title": "You can now buy a Steam Machine without getting on a waitlist",
-      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now…",
-      "image": "",
-      "published_at": "2026-11-19T19:33:22Z",
-      "category": "Entertainment"
     },
     {
       "id": "06e43d9fd3241ab0dc82",
@@ -1151,16 +1161,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
       "published_at": "2026-11-18T19:19:33Z",
       "category": "AI"
-    },
-    {
-      "id": "178bfee2dad3a9051864",
-      "source": "ars",
-      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg",
-      "published_at": "2026-11-18T18:46:08Z",
-      "category": "Policy"
     },
     {
       "id": "b78e706419573cdf67a1",

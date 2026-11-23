@@ -1,37 +1,87 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T01:58:43Z",
+  "updated_at": "2026-11-23T10:47:31Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-23T01:58:43Z",
+      "last_success_at": "2026-11-23T10:47:31Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-23T01:58:43Z",
+      "last_success_at": "2026-11-23T10:47:31Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-11-23T01:58:43Z",
+      "count": 29,
+      "last_success_at": "2026-11-23T10:47:31Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-23T01:58:43Z",
+      "last_success_at": "2026-11-23T10:47:31Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "d481e82805ad2f1784a0",
+      "source": "wired",
+      "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+      "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+      "summary": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.",
+      "image": "https://media.wired.com/photos/6afcd9e7dd75ebb0e0f145e2/master/pass/business_west_bank_google_maps.jpg",
+      "published_at": "2026-11-23T10:30:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "9a3bcb347c94f4d7630b",
+      "source": "wired",
+      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+      "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+      "summary": "Before the EPA recommended waiving acid rain regulations for certain data-center power plants, it met with industry players—including Williams, a gas power provider for Meta data centers.",
+      "image": "https://media.wired.com/photos/6b00d5965a6f50dee6f4c70d/master/pass/Gas-Company-Lobbied-EPA-Science-2197414117.jpg",
+      "published_at": "2026-11-23T10:15:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "7a855b584763ea6e6c12",
+      "source": "wired",
+      "title": "Goodbye, World: The End of Programmers",
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+      "image": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
+      "published_at": "2026-11-23T10:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "4b89c028f670a4d79d22",
+      "source": "wired",
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-23-2026/",
+      "summary": "We’ve pulled shots on every machine here. These are the ones we’d buy at their early Black Friday prices.",
+      "image": "https://media.wired.com/photos/6b013ceaf081739979ed6edd/master/pass/The-Best-Early-Black-Friday-Espresso-Machine-Deals-for-National-Espresso-Day.jpg",
+      "published_at": "2026-11-23T10:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f523ba7559b9b4b0ed23",
+      "source": "verge",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to…",
+      "image": "",
+      "published_at": "2026-11-23T03:00:00Z",
+      "category": "Gadgets"
+    },
     {
       "id": "f03704decebe5b886034",
       "source": "verge",
@@ -833,16 +883,6 @@
       "category": "Facebook"
     },
     {
-      "id": "013e163990f92c804716",
-      "source": "verge",
-      "title": "Let’s talk about GTA VI",
-      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
-      "summary": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling…",
-      "image": "",
-      "published_at": "2026-11-20T15:00:00Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "0dcb88a666678f47dec6",
       "source": "ars",
       "title": "US will soon announce root cause behind FAA nationwide ground stop",
@@ -893,26 +933,6 @@
       "category": "The Download"
     },
     {
-      "id": "5eb01e70cbf21a4fe10a",
-      "source": "wired",
-      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
-      "url": "https://www.wired.com/story/best-birdfy-gifts-2026/",
-      "summary": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young.",
-      "image": "https://media.wired.com/photos/6affa5f18893fa526fe4be1e/master/pass/The-Birdfy-Gifts-I%E2%80%99d-Buy-for-Backyard-Birders.jpg",
-      "published_at": "2026-11-20T13:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "ec78a3b717e34265778e",
-      "source": "wired",
-      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
-      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-      "image": "https://media.wired.com/photos/6affa4fa92df27a5701c00d9/master/pass/Update--Rest-Easy-With-These-Early-Black-Friday-Mattress-Deals.jpg",
-      "published_at": "2026-11-20T13:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "7c9938eb8600ae0a1a10",
       "source": "ars",
       "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
@@ -933,16 +953,6 @@
       "category": "Staff"
     },
     {
-      "id": "bbf0d8be815b610a76a5",
-      "source": "wired",
-      "title": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
-      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
-      "image": "https://media.wired.com/photos/6affa2c5fc894cda63c23f38/master/pass/Roborock%E2%80%99s-Early-Black-Friday-Sale-Isn%E2%80%99t-One-to-Miss.jpg",
-      "published_at": "2026-11-20T12:15:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "bdc6d026ee39c89edd18",
       "source": "ars",
       "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
@@ -951,16 +961,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
       "published_at": "2026-11-20T12:00:43Z",
       "category": "Features"
-    },
-    {
-      "id": "6b216588d1f6e287017c",
-      "source": "wired",
-      "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
-      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
-      "summary": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
-      "image": "https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG",
-      "published_at": "2026-11-20T12:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "a91c43623ef9674a4fe1",
@@ -1401,16 +1401,6 @@
       "image": "",
       "published_at": "2026-11-09T13:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "eaeb55afc69ac9351a77",
-      "source": "mit",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to…",
-      "image": "",
-      "published_at": "2026-11-09T10:00:00Z",
-      "category": "Climate change and energy"
     }
   ]
 }

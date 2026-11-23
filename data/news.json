@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T21:17:19Z",
+  "updated_at": "2026-11-23T01:58:43Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T21:17:19Z",
+      "last_success_at": "2026-11-23T01:58:43Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T21:17:19Z",
+      "last_success_at": "2026-11-23T01:58:43Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-22T21:17:19Z",
+      "last_success_at": "2026-11-23T01:58:43Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-22T21:17:19Z",
+      "last_success_at": "2026-11-23T01:58:43Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "f03704decebe5b886034",
+      "source": "verge",
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there…",
+      "image": "",
+      "published_at": "2026-11-22T22:48:02Z",
+      "category": "AI"
+    },
     {
       "id": "bd21e33158ed097c22b6",
       "source": "verge",
@@ -851,16 +861,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
       "published_at": "2026-11-20T14:15:21Z",
       "category": "Space"
-    },
-    {
-      "id": "8c6c734df91cd900cf1a",
-      "source": "verge",
-      "title": "The week everything fell apart",
-      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the…",
-      "image": "",
-      "published_at": "2026-11-20T14:06:59Z",
-      "category": "AI"
     },
     {
       "id": "fdbe855d7430b5556976",

@@ -1,37 +1,247 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T22:39:15Z",
+  "updated_at": "2026-11-24T06:26:24Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-23T22:39:15Z",
+      "last_success_at": "2026-11-24T06:26:23Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-23T22:39:15Z",
+      "last_success_at": "2026-11-24T06:26:23Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 28,
-      "last_success_at": "2026-11-23T22:39:15Z",
+      "last_success_at": "2026-11-24T06:26:24Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-23T22:39:15Z",
+      "last_success_at": "2026-11-24T06:26:24Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0dc87ccbbccc94f6d09a",
+      "source": "wired",
+      "title": "B&H Photo Promo Codes and Deals This November 2026",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4a21dcf688ed71da4d22",
+      "source": "wired",
+      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
+      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a60394cde7e828bb0d2c",
+      "source": "wired",
+      "title": "Hoka Coupon Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
+      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3540acbdc767493815c0",
+      "source": "wired",
+      "title": "Layla Sleep Coupon: Save Up to $600 in November 2026",
+      "url": "https://www.wired.com/story/layla-sleep-coupon/",
+      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "cc631c80dbcaa229488f",
+      "source": "wired",
+      "title": "Chegg Coupon Codes November 2026: Save on Study, Textbooks, & More",
+      "url": "https://www.wired.com/story/chegg-coupon-code/",
+      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b0e25edfcc07de1ed70a",
+      "source": "wired",
+      "title": "Mattress Firm Coupons: Save up to $700",
+      "url": "https://www.wired.com/story/mattress-firm-coupon/",
+      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0bce2bf761934644ff18",
+      "source": "wired",
+      "title": "Herman Miller Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in November 2026.",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "af7aa7365f9e1e28ba3c",
+      "source": "wired",
+      "title": "HP Coupon Codes and Deals November 2026",
+      "url": "https://www.wired.com/story/hp-coupon-code/",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fad596e904758e76d678",
+      "source": "wired",
+      "title": "Dermstore Coupons: 25% Off for November 2026",
+      "url": "https://www.wired.com/story/dermstore-promo-code/",
+      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8b3388f9c158b04d6997",
+      "source": "wired",
+      "title": "Pura Promo Codes: $20 Off November 2026",
+      "url": "https://www.wired.com/story/pura-promo-code/",
+      "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "288dbb236e7bf79ae1c5",
+      "source": "wired",
+      "title": "ABT Promo Codes & Discounts for November 2026",
+      "url": "https://www.wired.com/story/abt-promo-code/",
+      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8cbe1cc874cc33c835b8",
+      "source": "wired",
+      "title": "30% VistaPrint Coupon & Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c836fe138787ccf7138c",
+      "source": "wired",
+      "title": "Bartesian Discount Codes: 35% Off",
+      "url": "https://www.wired.com/story/bartesian-discount-code/",
+      "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0e26c4a3b1452acc7f97",
+      "source": "wired",
+      "title": "Alo Discount Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "21234b3a92b626d00647",
+      "source": "wired",
+      "title": "Jabra Promo Codes: 30% Off Headphones, Headsets & More",
+      "url": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+      "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "0a42db5852afb68a2d7a",
+      "source": "wired",
+      "title": "Purple Promo Codes and Deals: Up to 30% Off",
+      "url": "https://www.wired.com/story/purple-promo-code/",
+      "summary": "On the hunt for the perfect mattress or pillow? Save on your soon-to-be favorite brand, Purple, with these Purple coupons and deals.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3d5f1ead40bf5c24b9de",
+      "source": "wired",
+      "title": "Skullcandy Discount Code: 30% Off | November 2026",
+      "url": "https://www.wired.com/story/skullcandy-discount-code/",
+      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-24T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f4a71d843bd30f75f51a",
+      "source": "wired",
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+      "image": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/master/pass/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+      "published_at": "2026-11-24T01:35:38Z",
+      "category": "Business"
+    },
+    {
+      "id": "0e14dfb6a68f4ddb3d80",
+      "source": "verge",
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new…",
+      "image": "",
+      "published_at": "2026-11-24T00:02:52Z",
+      "category": "Apps"
+    },
+    {
+      "id": "a5c9b65980df244a8026",
+      "source": "verge",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license…",
+      "image": "",
+      "published_at": "2026-11-23T23:25:01Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "808eb21cc8414f2aece6",
+      "source": "verge",
+      "title": "The Verge’s 2026 holiday gift guide",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on…",
+      "image": "",
+      "published_at": "2026-11-23T23:14:10Z",
+      "category": "Gadgets"
+    },
     {
       "id": "6578efb325fe331e96d5",
       "source": "verge",
@@ -81,16 +291,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-1024x648.jpg",
       "published_at": "2026-11-23T21:58:34Z",
       "category": "Health"
-    },
-    {
-      "id": "0dc87ccbbccc94f6d09a",
-      "source": "wired",
-      "title": "B&H Photo Promo Codes and Deals This November 2026",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "published_at": "2026-11-23T21:39:20Z",
-      "category": "Gear"
     },
     {
       "id": "f21596153d117f135366",
@@ -603,46 +803,6 @@
       "category": "Gear"
     },
     {
-      "id": "b8d2a96e96b922494bf5",
-      "source": "wired",
-      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-      "image": "https://media.wired.com/photos/6b00a7fa835217c5c30f2b18/master/pass/The-Gifts-Moms-Actually-Want,-Picked-by-Moms.jpg",
-      "published_at": "2026-11-22T11:02:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "31abf07032239ed579a9",
-      "source": "wired",
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-      "published_at": "2026-11-22T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a2f15af9f296a9647a73",
-      "source": "wired",
-      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
-      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
-      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
-      "image": "https://media.wired.com/photos/6afec80a658c126f4fca9f94/master/pass/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg",
-      "published_at": "2026-11-22T10:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "8ad3c433f068ceb8f5fd",
-      "source": "wired",
-      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
-      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
-      "image": "https://media.wired.com/photos/6b00ddb2631c13f3e234776c/master/pass/How-This-Years-Super-El-Nino-Will-Worsen-Global-Hunger-Science-2297395830.jpg",
-      "published_at": "2026-11-22T10:00:00Z",
-      "category": "Science"
-    },
-    {
       "id": "e21e77b8fea113c7bc3f",
       "source": "ars",
       "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
@@ -753,16 +913,6 @@
       "category": "Gadgets"
     },
     {
-      "id": "2cb42e75aca5072a1545",
-      "source": "wired",
-      "title": "The Outages Are Just Getting Started",
-      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-      "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
-      "published_at": "2026-11-21T13:00:00Z",
-      "category": "Security"
-    },
-    {
       "id": "3952cb35226fb422d093",
       "source": "ars",
       "title": "“Race realism” isn’t realistic—and it isn’t good science",
@@ -773,16 +923,6 @@
       "category": "Science"
     },
     {
-      "id": "0a31f28dfe53a296dc01",
-      "source": "wired",
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "published_at": "2026-11-21T12:01:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "66a524bfe62ba16d99a6",
       "source": "verge",
       "title": "Harbinger is building the unsexy EVs that keep the economy moving",
@@ -791,116 +931,6 @@
       "image": "",
       "published_at": "2026-11-21T12:00:00Z",
       "category": "Electric Cars"
-    },
-    {
-      "id": "5f73188584c21d09bc29",
-      "source": "wired",
-      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
-      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
-      "image": "https://media.wired.com/photos/6b0013b54b02437d9d07344e/master/pass/Hera_her_CubeSats_and_their_rocky_target.png",
-      "published_at": "2026-11-21T12:00:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "4ede6234cf241e369b66",
-      "source": "wired",
-      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
-      "summary": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
-      "image": "https://media.wired.com/photos/6b0138f3d9699de6f24482d6/master/pass/Review--Sony-Bravia-9-II-TV.jpg",
-      "published_at": "2026-11-21T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6654ec258092b0c9eee2",
-      "source": "wired",
-      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-      "summary": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off.",
-      "image": "https://media.wired.com/photos/6b0130a435cb0e2956884a12/master/pass/Pure-One-Station-5.jpg",
-      "published_at": "2026-11-21T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a13635412c5f74e5b097",
-      "source": "wired",
-      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-      "url": "https://www.wired.com/story/best-laptops-for-travel/",
-      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-      "image": "https://media.wired.com/photos/6aff4b9df2cbbbfa7d0cf100/master/pass/GettyImages-2160884480.jpg",
-      "published_at": "2026-11-21T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "98fa1ca1d44b99caefe2",
-      "source": "wired",
-      "title": "17 Best Gifts for Women in the Enshittocene (2026)",
-      "url": "https://www.wired.com/story/best-gifts-for-women/",
-      "summary": "The least you can do is buy her something nice.",
-      "image": "https://media.wired.com/photos/6b00a34ddb184e9e0cfa8424/master/pass/Best-Gifts-for-Women-Who-Deserve-Compensation.jpg",
-      "published_at": "2026-11-21T10:02:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c5e67c574145d14630cb",
-      "source": "wired",
-      "title": "The Manosphere Isn’t Ready for Brothercore",
-      "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
-      "summary": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.",
-      "image": "https://media.wired.com/photos/6b00e9307020ceeb4716a30e/master/pass/W-24.jpg",
-      "published_at": "2026-11-21T10:00:00Z",
-      "category": "The Big Story"
-    },
-    {
-      "id": "2c6bfd5d118dec204075",
-      "source": "wired",
-      "title": "Therabody Promo Codes: 15% Off November 2026",
-      "url": "https://www.wired.com/story/therabody-promo-code/",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-      "published_at": "2026-11-21T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "741a0808eb26caecfae9",
-      "source": "wired",
-      "title": "Mountain Hardwear Coupon Code 15% Off November",
-      "url": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
-      "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "published_at": "2026-11-21T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b854d1cf87417218d0d0",
-      "source": "wired",
-      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-11-21T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d3a3a11b47533b9207c9",
-      "source": "wired",
-      "title": "Motorola Coupon Code for November 2026",
-      "url": "https://www.wired.com/story/motorola-coupon-code/",
-      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-21T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "fef86ed17d68ce68fa95",
-      "source": "wired",
-      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-      "url": "https://www.wired.com/story/total-wireless-promo-code/",
-      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "published_at": "2026-11-21T06:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "53af9cff69b527107127",
@@ -953,16 +983,6 @@
       "category": "AI"
     },
     {
-      "id": "e102e337f3eb0ad608d5",
-      "source": "verge",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the…",
-      "image": "",
-      "published_at": "2026-11-20T20:43:52Z",
-      "category": "News"
-    },
-    {
       "id": "24eeed7385ac68420f6b",
       "source": "ars",
       "title": "Watching as a giant star swallowed its neighbor and exploded",
@@ -993,16 +1013,6 @@
       "category": "Policy"
     },
     {
-      "id": "ff753a1e524d6dc9a3d2",
-      "source": "verge",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder…",
-      "image": "",
-      "published_at": "2026-11-20T19:35:06Z",
-      "category": "Entertainment"
-    },
-    {
       "id": "da32f1cf45f9eef4196e",
       "source": "ars",
       "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
@@ -1011,16 +1021,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
       "published_at": "2026-11-20T19:21:50Z",
       "category": "Health"
-    },
-    {
-      "id": "557fc1deacfbfe38d6db",
-      "source": "verge",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of…",
-      "image": "",
-      "published_at": "2026-11-20T19:15:00Z",
-      "category": "Black Friday"
     },
     {
       "id": "4e51ad8cda5cd70e6ef3",

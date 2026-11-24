@@ -1,37 +1,467 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T06:26:24Z",
+  "updated_at": "2026-11-24T18:21:22Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-24T06:26:23Z",
+      "last_success_at": "2026-11-24T18:21:22Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-24T06:26:23Z",
+      "last_success_at": "2026-11-24T18:21:22Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 28,
-      "last_success_at": "2026-11-24T06:26:24Z",
+      "count": 29,
+      "last_success_at": "2026-11-24T18:21:22Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-24T06:26:24Z",
+      "last_success_at": "2026-11-24T18:21:22Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "f07b7bb848ce9c04fbfe",
+      "source": "ars",
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg",
+      "published_at": "2026-11-24T18:18:37Z",
+      "category": "Science"
+    },
+    {
+      "id": "11541b69588af119916f",
+      "source": "verge",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about…",
+      "image": "",
+      "published_at": "2026-11-24T18:15:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "c64fb2dacca0bc0fd3c2",
+      "source": "ars",
+      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+      "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264-1152x648.jpg",
+      "published_at": "2026-11-24T18:03:58Z",
+      "category": "Policy"
+    },
+    {
+      "id": "4c85c79a8d12827fa218",
+      "source": "wired",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "image": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
+      "published_at": "2026-11-24T17:44:53Z",
+      "category": "Business"
+    },
+    {
+      "id": "7606c40f0e99d624d84c",
+      "source": "ars",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+      "published_at": "2026-11-24T17:34:34Z",
+      "category": "AI"
+    },
+    {
+      "id": "99b384fedf9b4a690ec2",
+      "source": "verge",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more…",
+      "image": "",
+      "published_at": "2026-11-24T17:30:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "8a7c3510f19d2591862a",
+      "source": "verge",
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according…",
+      "image": "",
+      "published_at": "2026-11-24T17:17:09Z",
+      "category": "AI"
+    },
+    {
+      "id": "a2e77a137eebcd43adeb",
+      "source": "ars",
+      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "summary": "Technical details are still limited, but we already know it's fun to drive.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879-1152x648.jpg",
+      "published_at": "2026-11-24T16:58:20Z",
+      "category": "Cars"
+    },
+    {
+      "id": "13ae764846b93fbebf93",
+      "source": "wired",
+      "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
+      "summary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is now live. Grab these deals on our favorite (and tested) products through November 30.",
+      "image": "https://media.wired.com/photos/6b05be76befd568d19cd5dfe/master/pass/Amazon-Black-Friday-Deals-Are-Now-Live-Ahead-of-Thanksgiving.jpg",
+      "published_at": "2026-11-24T16:44:25Z",
+      "category": "Gear"
+    },
+    {
+      "id": "21d6531294dc39b58dc9",
+      "source": "verge",
+      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+      "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing…",
+      "image": "",
+      "published_at": "2026-11-24T16:37:03Z",
+      "category": "Business"
+    },
+    {
+      "id": "9f64b74509fe46790688",
+      "source": "verge",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black…",
+      "image": "",
+      "published_at": "2026-11-24T16:30:00Z",
+      "category": "AI"
+    },
+    {
+      "id": "6a43e5c2ce70bbb1dab0",
+      "source": "wired",
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
+      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
+      "published_at": "2026-11-24T16:28:01Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b11c0f664a25d1cf12d4",
+      "source": "ars",
+      "title": "No more heated seat subscriptions for cars in New York from 2027",
+      "url": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+      "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2153520868-1152x648.jpg",
+      "published_at": "2026-11-24T16:20:37Z",
+      "category": "Cars"
+    },
+    {
+      "id": "cbcffe9bda3fd29aa6bb",
+      "source": "ars",
+      "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+      "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+      "summary": "\"Without this funding, activities would be delayed.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg",
+      "published_at": "2026-11-24T16:12:46Z",
+      "category": "Space"
+    },
+    {
+      "id": "41b98fe4e101790fcaf7",
+      "source": "verge",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The…",
+      "image": "",
+      "published_at": "2026-11-24T16:09:23Z",
+      "category": "Adobe"
+    },
+    {
+      "id": "fe0fc5ca03f955998ddb",
+      "source": "ars",
+      "title": "Homo erectus lived in the rainforest alongside Denisovans",
+      "url": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+      "summary": "You can learn a surprising amount from a few loose teeth.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/forest-eyes-1152x648.jpg",
+      "published_at": "2026-11-24T16:01:19Z",
+      "category": "Science"
+    },
+    {
+      "id": "3e945ce5625268e6a707",
+      "source": "wired",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+      "published_at": "2026-11-24T16:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "73ac5412fb718f17bc63",
+      "source": "verge",
+      "title": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
+      "url": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
+      "summary": "The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate. There are sales happening for both the ad-supported and ad-free…",
+      "image": "",
+      "published_at": "2026-11-24T15:24:46Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "49e3c3d9b9e98baf50cc",
+      "source": "mit",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the…",
+      "image": "",
+      "published_at": "2026-11-24T15:15:16Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "2bd8a20c502e6b51a5dc",
+      "source": "verge",
+      "title": "Wyze’s new window feeder records birds from a camera inside your home",
+      "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+      "summary": "A year ago, Wyze introduced a $35 security camera that stuck to the inside of a window so you could keep an eye on what was happening outside your home without a complicated installation. Today the company…",
+      "image": "",
+      "published_at": "2026-11-24T15:14:05Z",
+      "category": "Cameras"
+    },
+    {
+      "id": "30845bec08d10c528fa7",
+      "source": "wired",
+      "title": "Thanksgiving Travel Will Be a Stormy Mess",
+      "url": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+      "summary": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all—and it could wreak havoc at airports across the US.",
+      "image": "https://media.wired.com/photos/6b04c97ceec76be14d96215d/master/pass/Holiday-Travel-Mess-Science-2305538543.jpg",
+      "published_at": "2026-11-24T15:12:31Z",
+      "category": "Science"
+    },
+    {
+      "id": "818b8c5aa158a5fab15f",
+      "source": "ars",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+      "published_at": "2026-11-24T14:56:50Z",
+      "category": "AI"
+    },
+    {
+      "id": "b06794661be045096dd1",
+      "source": "verge",
+      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+      "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+      "summary": "Harman Kardon’s alien-looking SoundSticks became synonymous with the Mac in the early 2000s, and they sounded pretty great. But did you know the company still makes them? After selling steadily for $300 for several…",
+      "image": "",
+      "published_at": "2026-11-24T14:13:22Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "8ce022676e859e659a4d",
+      "source": "verge",
+      "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+      "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+      "summary": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu…",
+      "image": "",
+      "published_at": "2026-11-24T14:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "57c1affa35e545adb617",
+      "source": "mit",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the…",
+      "image": "",
+      "published_at": "2026-11-24T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "63db15ff813831873f13",
+      "source": "wired",
+      "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
+      "url": "https://www.wired.com/gallery/best-espresso-machines/",
+      "summary": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.",
+      "image": "https://media.wired.com/photos/699d08b7fbe4706f6e413cbd/master/pass/Review-%20Fellow%20Series%201%20Espresso%20Machine.png",
+      "published_at": "2026-11-24T12:32:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d9651978af1cffa913f1",
+      "source": "ars",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "published_at": "2026-11-24T12:30:05Z",
+      "category": "AI"
+    },
+    {
+      "id": "c3fc242ab0fbff7fe8a2",
+      "source": "ars",
+      "title": "One terminal command gave my forgotten Android device a desk job",
+      "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+      "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS-1152x648.jpg",
+      "published_at": "2026-11-24T12:15:38Z",
+      "category": "Tech"
+    },
+    {
+      "id": "0d8898804ccfd0706d19",
+      "source": "wired",
+      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+      "url": "https://www.wired.com/story/gifts-for-friends/",
+      "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
+      "image": "https://media.wired.com/photos/6b04d279470266bfec0ce812/master/pass/Be-the-Friend-Who-Gives-the-Good-Gifts.jpg",
+      "published_at": "2026-11-24T12:03:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "3637e5553870f0cc2edc",
+      "source": "ars",
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+      "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg",
+      "published_at": "2026-11-24T12:00:57Z",
+      "category": "Tech"
+    },
+    {
+      "id": "de8c921238eb45326f73",
+      "source": "wired",
+      "title": "This Hollywood Star Took on Crypto. Now He’s Got a New Target",
+      "url": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
+      "summary": "Ben McKenzie is launching a nonprofit to take on prediction markets. “There’s a real, real problem here,” he says.",
+      "image": "https://media.wired.com/photos/6b0473356fc54eec225ff48b/master/pass/Hollywood-Star-Took-on-Crypto-Politics-2287897688.jpg",
+      "published_at": "2026-11-24T12:00:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "49d7c7f341017d832640",
+      "source": "wired",
+      "title": "Best Early Black Friday AirPods Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-24-2026/",
+      "summary": "Black Friday is just days away, but AirPods discounts are dropping early.",
+      "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/master/pass/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg",
+      "published_at": "2026-11-24T11:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "c9398eeb9de644b797f7",
+      "source": "wired",
+      "title": "‘GTA 6’ Is a Birder’s Paradise",
+      "url": "https://www.wired.com/story/gta-vi-birders-paradise/",
+      "summary": "Here’s what it’s like to grab a pair of binoculars and go in search of the 62 species of birds that populate the game.",
+      "image": "https://media.wired.com/photos/6b03f4615f8e6c0d7b84ae8c/master/pass/image2.png",
+      "published_at": "2026-11-24T11:45:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "a28c56ec00d5fe6dea8e",
+      "source": "wired",
+      "title": "Now There’s a GLP-1 in Chocolate Form",
+      "url": "https://www.wired.com/story/now-theres-a-glp-1-in-chocolate-form/",
+      "summary": "A telehealth clinic is offering orforglipron, the active ingredient in Eli Lilly’s prescription weight-loss pill Foundayo, in edible chocolate squares. Lilly is not amused.",
+      "image": "https://media.wired.com/photos/6afdbe23483a38e3131af67f/master/pass/111826-GLP1%20Choco.jpg",
+      "published_at": "2026-11-24T11:30:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "947cce42397da36a5bcf",
+      "source": "wired",
+      "title": "The Best Early Black Friday MacBook Deals (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-macbook-deals-2026/",
+      "summary": "Many of the best laptops in Apple’s MacBook lineup are on sale ahead of Black Friday, including great discounts on the MacBook Air and MacBook Neo.",
+      "image": "https://media.wired.com/photos/6b04c7dbd465d36db5e33dd5/master/pass/_Apple-2026-MacBook-Air.jpg",
+      "published_at": "2026-11-24T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "f8a5e1354c134ffa05d8",
+      "source": "wired",
+      "title": "GPS Dog Collar for Less: Fi Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/fi-pet-trackers-deal-11-2026/",
+      "summary": "Get Fi’s lineup of GPS and health trackers for cats and dogs at 50 percent off right now for Black Friday.",
+      "image": "https://media.wired.com/photos/6b04df229ef0144d4a1179b7/master/pass/Our-Favorite-Pet-Trackers-Are-Half-Off-for-Black-Friday.jpg",
+      "published_at": "2026-11-24T11:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d9709cc109d8058e6c74",
+      "source": "wired",
+      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/",
+      "summary": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people—including data that could let attackers “own” a victim’s digital life.",
+      "image": "https://media.wired.com/photos/6b04b219ef7c9c5fad5ca15d/master/pass/Security_3.5%20Billion%20Usernames,%20Passwords,%20and%20Documents%20Leaked%20Online_v1.jpg",
+      "published_at": "2026-11-24T11:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "2ba61f28ab2a984d6fdc",
+      "source": "wired",
+      "title": "Inside the Chinese City Where Furniture Dupes Are Made",
+      "url": "https://www.wired.com/story/foshan-china-dupes-furniture/",
+      "summary": "Across social media, influencers share the fake luxury pieces they got directly from China—for one-tenth the price. Here’s where that viral sofa came from.",
+      "image": "https://media.wired.com/photos/6afd988f1a9a899b59991c80/master/pass/WIRED_Dupes_AmyLuo_06.jpg",
+      "published_at": "2026-11-24T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "57e3f25232f1d60fb48d",
+      "source": "mit",
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead…",
+      "image": "",
+      "published_at": "2026-11-24T11:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "9971ab27567251358aae",
+      "source": "wired",
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+      "image": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
+      "published_at": "2026-11-24T10:45:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "30410ecefeefcea7827b",
+      "source": "wired",
+      "title": "Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling",
+      "url": "https://www.wired.com/story/election-deniers-despair-because-even-donald-trump-isnt-buying-what-theyre-selling/",
+      "summary": "In the wake of the overwhelming victory for Democrats in the midterm elections, Trump has broadly appeared to accept the results. His followers are devastated.",
+      "image": "https://media.wired.com/photos/6b0474796b539f1f31296459/master/pass/Trump-Refusal-To-Entertain-Midterm-Conspiracy-Theories-Politics-2306092808.jpg",
+      "published_at": "2026-11-24T10:30:00Z",
+      "category": "Politics"
+    },
+    {
+      "id": "a9bc272db79108f3577c",
+      "source": "wired",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
+      "published_at": "2026-11-24T10:15:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "bd5f182ec56feeea164d",
+      "source": "wired",
+      "title": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life",
+      "url": "https://www.wired.com/story/wish-list-2026/",
+      "summary": "You’ll find something for everyone in this curated collection of gorgeously designed gifts.",
+      "image": "https://media.wired.com/photos/6b00bbacc3c11edfb41b277e/master/pass/Lead.png",
+      "published_at": "2026-11-24T10:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "0dc87ccbbccc94f6d09a",
       "source": "wired",
@@ -203,16 +633,6 @@
       "category": "Gear"
     },
     {
-      "id": "f4a71d843bd30f75f51a",
-      "source": "wired",
-      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
-      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
-      "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
-      "image": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/master/pass/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
-      "published_at": "2026-11-24T01:35:38Z",
-      "category": "Business"
-    },
-    {
       "id": "0e14dfb6a68f4ddb3d80",
       "source": "verge",
       "title": "Google alternative Kagi launches an email service",
@@ -301,16 +721,6 @@
       "image": "",
       "published_at": "2026-11-23T21:36:48Z",
       "category": "Apple"
-    },
-    {
-      "id": "b83f9d5cf193f9fa497d",
-      "source": "wired",
-      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
-      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
-      "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
-      "image": "https://media.wired.com/photos/6b0499d1945816fbdeabbb63/master/pass/How-to-Make-Big-Money-Betting-on-Jensen-Business-2298607192.jpg",
-      "published_at": "2026-11-23T21:31:08Z",
-      "category": "Business"
     },
     {
       "id": "92e6b14852b09211ef14",
@@ -413,26 +823,6 @@
       "category": "Space"
     },
     {
-      "id": "ccc2fee97e56f78fdf43",
-      "source": "wired",
-      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
-      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
-      "summary": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
-      "image": "https://media.wired.com/photos/6b00cf1fe6d43a3251b4bce0/master/pass/Local-Officials-Say-Pentagon-Told-Them-Nothing-About-Volcano-of-Exploding-Lead-Science-2305973748.jpg",
-      "published_at": "2026-11-23T18:46:51Z",
-      "category": "Science"
-    },
-    {
-      "id": "67fc2a62c8ea80b6a11b",
-      "source": "wired",
-      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
-      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-      "image": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg",
-      "published_at": "2026-11-23T17:52:56Z",
-      "category": "Business"
-    },
-    {
       "id": "46722cbbfbb5644a99de",
       "source": "mit",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -473,16 +863,6 @@
       "category": "Science"
     },
     {
-      "id": "8df06e0b25157cd3f8d5",
-      "source": "wired",
-      "title": "Jensen Huang Is Back as Nvidia CEO",
-      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-      "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-      "image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
-      "published_at": "2026-11-23T14:27:35Z",
-      "category": "Business"
-    },
-    {
       "id": "5aa9e94bf74b1de59557",
       "source": "ars",
       "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
@@ -491,16 +871,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305548314-1152x648.jpg",
       "published_at": "2026-11-23T13:54:22Z",
       "category": "Cars"
-    },
-    {
-      "id": "9db55bbb5af1df139069",
-      "source": "wired",
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-      "published_at": "2026-11-23T13:11:00Z",
-      "category": "Science"
     },
     {
       "id": "9490e3608d42280b1df9",
@@ -523,26 +893,6 @@
       "category": "Reviews"
     },
     {
-      "id": "fb5aebe39515798da4bb",
-      "source": "wired",
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-      "image": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg",
-      "published_at": "2026-11-23T12:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "3a6779331e8491a1fb48",
-      "source": "wired",
-      "title": "44 Best Gifts Under $100 That WIRED Loves (2026)",
-      "url": "https://www.wired.com/gallery/best-gifts-under-100/",
-      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
-      "image": "https://media.wired.com/photos/6b0149d36b5d15d047263feb/master/pass/44-Gifts-Under-$100-That-Will-Delight-Anyone.jpg",
-      "published_at": "2026-11-23T12:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "73231b698a3fd4cfad8d",
       "source": "ars",
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
@@ -553,56 +903,6 @@
       "category": "AI"
     },
     {
-      "id": "c1b6293ba20449e97a2d",
-      "source": "wired",
-      "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
-      "url": "https://www.wired.com/story/gifts-for-parents-2026/",
-      "summary": "If your friend is in the depths of newborn survival, these gifts and gadgets can go a long way to help make parenting a little easier.",
-      "image": "https://media.wired.com/photos/6b0148e905903ab357a102a6/master/pass/The-Best-Gifts-for-New-Parents-(and-Their-Little-One).jpg",
-      "published_at": "2026-11-23T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "2e13bd65bd4f68b3239f",
-      "source": "wired",
-      "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
-      "url": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
-      "summary": "Canadian citizen Yat Choi moved from DOGE to the National Design Studio before launching his own company, Govmaxxing.",
-      "image": "https://media.wired.com/photos/6afc64e8276fa364fc470b47/master/pass/111726-NDS%20Gov%20Contract.jpg",
-      "published_at": "2026-11-23T11:30:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "ec291755e6111ade8566",
-      "source": "wired",
-      "title": "‘Babylon on the Potomac’: Pete Hegseth’s Radical DC Church Attracts Government Elites",
-      "url": "https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/",
-      "summary": "Doug Wilson, an Idaho pastor who wants to repeal women’s right to vote, set up shop in DC last year. Now his congregation boasts top officials from the Pentagon and throughout the government.",
-      "image": "https://media.wired.com/photos/6aff6a5a3554349c98f00f7a/master/pass/Politics_%E2%80%9CBabylon%20on%20the%20Potomac%E2%80%9D-%20Government%20Officials%20are%20Flocking%20to%20This%20Controversial%20Church%20On%20Capitol%20Hill_v1.jpg",
-      "published_at": "2026-11-23T11:15:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "e7308bf6c1fc5c6e07b3",
-      "source": "wired",
-      "title": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
-      "url": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
-      "summary": "You might be tempted to wait for Black Friday proper, but some of these early iPad deals are already worth considering.",
-      "image": "https://media.wired.com/photos/6b013bd535cb0e2956884b15/master/pass/The-Best-Early-Black-Friday-iPad-Deals.jpg",
-      "published_at": "2026-11-23T11:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "9198e35a331a0f48abf8",
-      "source": "wired",
-      "title": "States Sue SpaceX Over Grok Deepfakes",
-      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-      "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
-      "published_at": "2026-11-23T11:00:00Z",
-      "category": "Security"
-    },
-    {
       "id": "a915a5c83ec45c6cd7da",
       "source": "mit",
       "title": "Why using rocks for carbon removal could eventually reduce crop growth",
@@ -611,46 +911,6 @@
       "image": "",
       "published_at": "2026-11-23T11:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "d481e82805ad2f1784a0",
-      "source": "wired",
-      "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
-      "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
-      "summary": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.",
-      "image": "https://media.wired.com/photos/6afcd9e7dd75ebb0e0f145e2/master/pass/business_west_bank_google_maps.jpg",
-      "published_at": "2026-11-23T10:30:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "9a3bcb347c94f4d7630b",
-      "source": "wired",
-      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
-      "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
-      "summary": "Before the EPA recommended waiving acid rain regulations for certain data-center power plants, it met with industry players—including Williams, a gas power provider for Meta data centers.",
-      "image": "https://media.wired.com/photos/6b00d5965a6f50dee6f4c70d/master/pass/Gas-Company-Lobbied-EPA-Science-2197414117.jpg",
-      "published_at": "2026-11-23T10:15:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "7a855b584763ea6e6c12",
-      "source": "wired",
-      "title": "Goodbye, World: The End of Programmers",
-      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
-      "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
-      "image": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
-      "published_at": "2026-11-23T10:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "4b89c028f670a4d79d22",
-      "source": "wired",
-      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-23-2026/",
-      "summary": "We’ve pulled shots on every machine here. These are the ones we’d buy at their early Black Friday prices.",
-      "image": "https://media.wired.com/photos/6b013ceaf081739979ed6edd/master/pass/The-Best-Early-Black-Friday-Espresso-Machine-Deals-for-National-Espresso-Day.jpg",
-      "published_at": "2026-11-23T10:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "f523ba7559b9b4b0ed23",
@@ -783,26 +1043,6 @@
       "category": "Health"
     },
     {
-      "id": "45189538791dfdc675d6",
-      "source": "wired",
-      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "url": "https://www.wired.com/gallery/best-travel-adapters/",
-      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-      "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg",
-      "published_at": "2026-11-22T12:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "57ba69b25f439cd3fee9",
-      "source": "wired",
-      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
-      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
-      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-      "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
-      "published_at": "2026-11-22T11:30:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "e21e77b8fea113c7bc3f",
       "source": "ars",
       "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
@@ -823,96 +1063,6 @@
       "category": "Amazon"
     },
     {
-      "id": "5f06be3aacc369fc6767",
-      "source": "verge",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the…",
-      "image": "",
-      "published_at": "2026-11-21T20:03:37Z",
-      "category": "AI"
-    },
-    {
-      "id": "5bf52788f07b574a1c6c",
-      "source": "verge",
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months…",
-      "image": "",
-      "published_at": "2026-11-21T17:42:27Z",
-      "category": "News"
-    },
-    {
-      "id": "41ac4ba27001ee5ac339",
-      "source": "verge",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of…",
-      "image": "",
-      "published_at": "2026-11-21T16:00:00Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "f367ae52dad9117ed382",
-      "source": "verge",
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting…",
-      "image": "",
-      "published_at": "2026-11-21T16:00:00Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "4810932fd3e8369c7ccc",
-      "source": "verge",
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq…",
-      "image": "",
-      "published_at": "2026-11-21T15:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "c5b1bd590c0a5f600201",
-      "source": "verge",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless…",
-      "image": "",
-      "published_at": "2026-11-21T14:55:28Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "d8923d6356ee57071cad",
-      "source": "verge",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi…",
-      "image": "",
-      "published_at": "2026-11-21T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "4ef80fbd6b76e5242dd3",
-      "source": "verge",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen…",
-      "image": "",
-      "published_at": "2026-11-21T13:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "0362974fd8bd59ff2303",
-      "source": "verge",
-      "title": "The game of the year is finally here",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all…",
-      "image": "",
-      "published_at": "2026-11-21T13:00:00Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "3952cb35226fb422d093",
       "source": "ars",
       "title": "“Race realism” isn’t realistic—and it isn’t good science",
@@ -921,16 +1071,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
       "published_at": "2026-11-21T12:01:13Z",
       "category": "Science"
-    },
-    {
-      "id": "66a524bfe62ba16d99a6",
-      "source": "verge",
-      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner…",
-      "image": "",
-      "published_at": "2026-11-21T12:00:00Z",
-      "category": "Electric Cars"
     },
     {
       "id": "53af9cff69b527107127",
@@ -1043,36 +1183,6 @@
       "category": "Gaming"
     },
     {
-      "id": "0dcb88a666678f47dec6",
-      "source": "ars",
-      "title": "US will soon announce root cause behind FAA nationwide ground stop",
-      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
-      "published_at": "2026-11-20T14:52:51Z",
-      "category": "Tech"
-    },
-    {
-      "id": "163677d107850b5b339d",
-      "source": "ars",
-      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
-      "published_at": "2026-11-20T14:15:21Z",
-      "category": "Space"
-    },
-    {
-      "id": "fdbe855d7430b5556976",
-      "source": "ars",
-      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1795097197088-1152x648.jpg",
-      "published_at": "2026-11-20T13:35:45Z",
-      "category": "Science"
-    },
-    {
       "id": "5b332f13c1f3d3aee09c",
       "source": "mit",
       "title": "The Download: inside the quest to make our minds immortal",
@@ -1081,86 +1191,6 @@
       "image": "",
       "published_at": "2026-11-20T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "7c9938eb8600ae0a1a10",
-      "source": "ars",
-      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "summary": "Gambling? We're just swapping contracts!",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
-      "published_at": "2026-11-20T12:30:29Z",
-      "category": "Policy"
-    },
-    {
-      "id": "c4637fe36e6116b84a0b",
-      "source": "ars",
-      "title": "Science has a home here at Ars—please help keep it that way",
-      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-      "summary": "Your support for Ars matters more now than ever.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
-      "published_at": "2026-11-20T12:15:36Z",
-      "category": "Staff"
-    },
-    {
-      "id": "bdc6d026ee39c89edd18",
-      "source": "ars",
-      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
-      "published_at": "2026-11-20T12:00:43Z",
-      "category": "Features"
-    },
-    {
-      "id": "a91c43623ef9674a4fe1",
-      "source": "ars",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "summary": "Amazon now uses its shopping platform for political purposes.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
-      "published_at": "2026-11-19T22:16:37Z",
-      "category": "Policy"
-    },
-    {
-      "id": "2fbbc71341803449733c",
-      "source": "ars",
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-1152x648.jpg",
-      "published_at": "2026-11-19T21:19:12Z",
-      "category": "Health"
-    },
-    {
-      "id": "0fd0a2d1a771b98e8284",
-      "source": "ars",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
-      "published_at": "2026-11-19T20:29:46Z",
-      "category": "Biz & IT"
-    },
-    {
-      "id": "8b799ca4396452c9d252",
-      "source": "ars",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-      "published_at": "2026-11-19T20:19:28Z",
-      "category": "AI"
-    },
-    {
-      "id": "ce047723c5a527643f49",
-      "source": "ars",
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
-      "published_at": "2026-11-19T19:52:54Z",
-      "category": "Google"
     },
     {
       "id": "a16e26c0886d4e101653",
@@ -1371,26 +1401,6 @@
       "image": "",
       "published_at": "2026-11-11T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "6d86629016391090f656",
-      "source": "mit",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a…",
-      "image": "",
-      "published_at": "2026-11-10T13:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "edc09a45cf15382f1ad2",
-      "source": "mit",
-      "title": "Evolving metal extraction processes",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a…",
-      "image": "",
-      "published_at": "2026-11-10T13:00:00Z",
-      "category": "Engineering"
     }
   ]
 }

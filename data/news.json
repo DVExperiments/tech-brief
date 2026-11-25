@@ -1,37 +1,267 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T12:57:20Z",
+  "updated_at": "2026-11-25T22:33:38Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T12:57:19Z",
+      "last_success_at": "2026-11-25T22:33:37Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T12:57:19Z",
+      "last_success_at": "2026-11-25T22:33:37Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-25T12:57:19Z",
+      "last_success_at": "2026-11-25T22:33:37Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T12:57:20Z",
+      "last_success_at": "2026-11-25T22:33:38Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "8ba8b1c19d5517f1cfbc",
+      "source": "ars",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
+      "published_at": "2026-11-25T20:57:09Z",
+      "category": "Tech"
+    },
+    {
+      "id": "c6338fbba9a0f9fe7abf",
+      "source": "verge",
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging…",
+      "image": "",
+      "published_at": "2026-11-25T20:31:48Z",
+      "category": "Apps"
+    },
+    {
+      "id": "ee2a60cd88f18adb59e6",
+      "source": "verge",
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide…",
+      "image": "",
+      "published_at": "2026-11-25T19:45:51Z",
+      "category": "Environment"
+    },
+    {
+      "id": "cad262ae10d8066663f3",
+      "source": "verge",
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users…",
+      "image": "",
+      "published_at": "2026-11-25T19:10:15Z",
+      "category": "News"
+    },
+    {
+      "id": "9f25ec98ad2af5f0037c",
+      "source": "ars",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "published_at": "2026-11-25T18:38:29Z",
+      "category": "Biz & IT"
+    },
+    {
+      "id": "e2c7eb71145646d08012",
+      "source": "wired",
+      "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
+      "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+      "summary": "Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing.",
+      "image": "https://media.wired.com/photos/6b070bb9c3af37e5a5192585/master/pass/GettyImages-2306835116.jpg",
+      "published_at": "2026-11-25T18:38:12Z",
+      "category": "Science"
+    },
+    {
+      "id": "6ff9f01d04d0e600c846",
+      "source": "ars",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+      "published_at": "2026-11-25T18:22:38Z",
+      "category": "Policy"
+    },
+    {
+      "id": "8ee9fedfec1c1182111f",
+      "source": "verge",
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+      "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to…",
+      "image": "",
+      "published_at": "2026-11-25T18:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "7c6608cde9a73b9b61d3",
+      "source": "verge",
+      "title": "The loneliest peptide party in New York",
+      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer…",
+      "image": "",
+      "published_at": "2026-11-25T18:00:00Z",
+      "category": "Column"
+    },
+    {
+      "id": "528170e1d3d13891e604",
+      "source": "verge",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also…",
+      "image": "",
+      "published_at": "2026-11-25T17:44:51Z",
+      "category": "AI"
+    },
+    {
+      "id": "f1ca436ee423ecdf149a",
+      "source": "ars",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+      "published_at": "2026-11-25T17:33:30Z",
+      "category": "Tech"
+    },
+    {
+      "id": "1e53c370aa315d619265",
+      "source": "ars",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
+      "published_at": "2026-11-25T17:12:57Z",
+      "category": "Policy"
+    },
+    {
+      "id": "e9407ad18f618e881652",
+      "source": "verge",
+      "title": "The Verge’s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely…",
+      "image": "",
+      "published_at": "2026-11-25T17:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "a1c5e0fd056ede029936",
+      "source": "mit",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure…",
+      "image": "",
+      "published_at": "2026-11-25T17:00:00Z",
+      "category": "Climate change and energy"
+    },
+    {
+      "id": "16e6c3c8fbaa706a1ece",
+      "source": "ars",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "published_at": "2026-11-25T16:47:14Z",
+      "category": "AI"
+    },
+    {
+      "id": "a0db316f2b05b6464d36",
+      "source": "ars",
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg",
+      "published_at": "2026-11-25T16:33:45Z",
+      "category": "Policy"
+    },
+    {
+      "id": "c37e32b3b00f5f821347",
+      "source": "verge",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and…",
+      "image": "",
+      "published_at": "2026-11-25T16:00:59Z",
+      "category": "AI"
+    },
+    {
+      "id": "30a2813ad4883ba511bc",
+      "source": "ars",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
+      "published_at": "2026-11-25T15:35:17Z",
+      "category": "Health"
+    },
+    {
+      "id": "c144ff0cfee676b5cccd",
+      "source": "wired",
+      "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "image": "https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png",
+      "published_at": "2026-11-25T15:03:16Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e80c9af32898fabdb8a5",
+      "source": "verge",
+      "title": "The Verge’s guide to affordable holiday gifts under $25",
+      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy…",
+      "image": "",
+      "published_at": "2026-11-25T15:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "2b7e16d43d1136f59a46",
+      "source": "ars",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg",
+      "published_at": "2026-11-25T14:29:43Z",
+      "category": "Security"
+    },
+    {
+      "id": "58517ed0ec0b053bbbc8",
+      "source": "verge",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds…",
+      "image": "",
+      "published_at": "2026-11-25T14:12:33Z",
+      "category": "AI"
+    },
+    {
+      "id": "316838bda10ccd718319",
+      "source": "mit",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’…",
+      "image": "",
+      "published_at": "2026-11-25T13:10:00Z",
+      "category": "The Download"
+    },
     {
       "id": "0d0b24a6ee0af1d00d0e",
       "source": "ars",
@@ -155,7 +385,7 @@
     {
       "id": "d64fbddd693dc625547a",
       "source": "wired",
-      "title": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
+      "title": "Not Just Nvidia: Inside Team Trump’s Takeover of Intel",
       "url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
       "summary": "Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.",
       "image": "https://media.wired.com/photos/6b04df84424fd4be0d579981/master/pass/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg",
@@ -793,26 +1023,6 @@
       "category": "Gear"
     },
     {
-      "id": "d9709cc109d8058e6c74",
-      "source": "wired",
-      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
-      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/",
-      "summary": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people—including data that could let attackers “own” a victim’s digital life.",
-      "image": "https://media.wired.com/photos/6b04b219ef7c9c5fad5ca15d/master/pass/Security_3.5%20Billion%20Usernames,%20Passwords,%20and%20Documents%20Leaked%20Online_v1.jpg",
-      "published_at": "2026-11-24T11:00:00Z",
-      "category": "Security"
-    },
-    {
-      "id": "2ba61f28ab2a984d6fdc",
-      "source": "wired",
-      "title": "Inside the Chinese City Where Furniture Dupes Are Made",
-      "url": "https://www.wired.com/story/foshan-china-dupes-furniture/",
-      "summary": "Across social media, influencers share the fake luxury pieces they got directly from China—for one-tenth the price. Here’s where that viral sofa came from.",
-      "image": "https://media.wired.com/photos/6afd988f1a9a899b59991c80/master/pass/WIRED_Dupes_AmyLuo_06.jpg",
-      "published_at": "2026-11-24T11:00:00Z",
-      "category": "The Big Story"
-    },
-    {
       "id": "57e3f25232f1d60fb48d",
       "source": "mit",
       "title": "Data centers are getting their own natural gas power plants",
@@ -873,26 +1083,6 @@
       "category": "AI"
     },
     {
-      "id": "e414a21b3c4aba4494aa",
-      "source": "verge",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New…",
-      "image": "",
-      "published_at": "2026-11-23T22:10:32Z",
-      "category": "AI"
-    },
-    {
-      "id": "ae9b6c0a5142fb50ef75",
-      "source": "verge",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it…",
-      "image": "",
-      "published_at": "2026-11-23T22:09:26Z",
-      "category": "AI"
-    },
-    {
       "id": "ee42c04f6cb95e7eb671",
       "source": "ars",
       "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
@@ -903,16 +1093,6 @@
       "category": "Health"
     },
     {
-      "id": "f21596153d117f135366",
-      "source": "verge",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a…",
-      "image": "",
-      "published_at": "2026-11-23T21:36:48Z",
-      "category": "Apple"
-    },
-    {
       "id": "92e6b14852b09211ef14",
       "source": "ars",
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
@@ -921,26 +1101,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
       "published_at": "2026-11-23T21:30:44Z",
       "category": "AI"
-    },
-    {
-      "id": "c5a0e3f0315fdbdd3a5d",
-      "source": "verge",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United…",
-      "image": "",
-      "published_at": "2026-11-23T21:09:37Z",
-      "category": "AI"
-    },
-    {
-      "id": "e12203fd696521b249e6",
-      "source": "verge",
-      "title": "Apple renews Ted Lasso for season 5",
-      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-      "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a…",
-      "image": "",
-      "published_at": "2026-11-23T20:56:00Z",
-      "category": "Apple"
     },
     {
       "id": "8710feac936ace604b38",
@@ -961,36 +1121,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822-1152x648.jpg",
       "published_at": "2026-11-23T20:11:43Z",
       "category": "Policy"
-    },
-    {
-      "id": "8732ba2f1b8d23a5d5dd",
-      "source": "verge",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers…",
-      "image": "",
-      "published_at": "2026-11-23T20:00:00Z",
-      "category": "AI"
-    },
-    {
-      "id": "a74ecd3c65a6ead7fd7c",
-      "source": "verge",
-      "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
-      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
-      "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the…",
-      "image": "",
-      "published_at": "2026-11-23T19:58:27Z",
-      "category": "News"
-    },
-    {
-      "id": "2f00d5ce587be5c141f7",
-      "source": "verge",
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November…",
-      "image": "",
-      "published_at": "2026-11-23T19:57:18Z",
-      "category": "AI"
     },
     {
       "id": "a1877b5d0e334a046575",
@@ -1053,16 +1183,6 @@
       "category": "Science"
     },
     {
-      "id": "5aa9e94bf74b1de59557",
-      "source": "ars",
-      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-      "url": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-      "summary": "There were 352 position changes, including 35 for the lead.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305548314-1152x648.jpg",
-      "published_at": "2026-11-23T13:54:22Z",
-      "category": "Cars"
-    },
-    {
       "id": "9490e3608d42280b1df9",
       "source": "mit",
       "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
@@ -1073,26 +1193,6 @@
       "category": "The Download"
     },
     {
-      "id": "16cfe03c28e98d74f32b",
-      "source": "ars",
-      "title": "Tri-screen portable monitors aren’t for the faint of heart",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
-      "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720-1152x648.jpg",
-      "published_at": "2026-11-23T12:15:16Z",
-      "category": "Reviews"
-    },
-    {
-      "id": "73231b698a3fd4cfad8d",
-      "source": "ars",
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
-      "published_at": "2026-11-23T12:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "a915a5c83ec45c6cd7da",
       "source": "mit",
       "title": "Why using rocks for carbon removal could eventually reduce crop growth",
@@ -1101,86 +1201,6 @@
       "image": "",
       "published_at": "2026-11-23T11:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "f523ba7559b9b4b0ed23",
-      "source": "verge",
-      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to…",
-      "image": "",
-      "published_at": "2026-11-23T03:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "f03704decebe5b886034",
-      "source": "verge",
-      "title": "We haven’t seen the last of the major tech outages",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there…",
-      "image": "",
-      "published_at": "2026-11-22T22:48:02Z",
-      "category": "AI"
-    },
-    {
-      "id": "fbd07d95bd1c11246b1f",
-      "source": "ars",
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
-      "published_at": "2026-11-22T12:07:41Z",
-      "category": "Health"
-    },
-    {
-      "id": "e21e77b8fea113c7bc3f",
-      "source": "ars",
-      "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "summary": "Director Takashi Yamazaki ups the ante, pitting Godzilla against one of the monster's greatest foes.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
-      "published_at": "2026-11-21T22:12:41Z",
-      "category": "Culture"
-    },
-    {
-      "id": "3952cb35226fb422d093",
-      "source": "ars",
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
-      "published_at": "2026-11-21T12:01:13Z",
-      "category": "Science"
-    },
-    {
-      "id": "53af9cff69b527107127",
-      "source": "ars",
-      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-      "published_at": "2026-11-20T22:28:24Z",
-      "category": "Policy"
-    },
-    {
-      "id": "8c2f0dc8f4ac3e3ff748",
-      "source": "ars",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
-      "published_at": "2026-11-20T22:16:51Z",
-      "category": "Policy"
-    },
-    {
-      "id": "a17b6293a664337635c3",
-      "source": "ars",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-      "published_at": "2026-11-20T21:58:29Z",
-      "category": "AI"
     },
     {
       "id": "4e51ad8cda5cd70e6ef3",
@@ -1390,26 +1410,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates…",
       "image": "",
       "published_at": "2026-11-12T13:10:00Z",
-      "category": "The Download"
-    },
-    {
-      "id": "39c713d0dd423908a0b9",
-      "source": "mit",
-      "title": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8…",
-      "image": "",
-      "published_at": "2026-11-11T17:00:00Z",
-      "category": "Climate change and energy"
-    },
-    {
-      "id": "e3773944fe274ee50c3c",
-      "source": "mit",
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what…",
-      "image": "",
-      "published_at": "2026-11-11T13:10:00Z",
       "category": "The Download"
     }
   ]

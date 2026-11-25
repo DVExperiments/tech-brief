@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T02:48:16Z",
+  "updated_at": "2026-11-25T12:57:20Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T02:48:15Z",
+      "last_success_at": "2026-11-25T12:57:19Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T02:48:15Z",
+      "last_success_at": "2026-11-25T12:57:19Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 29,
-      "last_success_at": "2026-11-25T02:48:15Z",
+      "count": 30,
+      "last_success_at": "2026-11-25T12:57:19Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T02:48:16Z",
+      "last_success_at": "2026-11-25T12:57:20Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "0d0b24a6ee0af1d00d0e",
+      "source": "ars",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "published_at": "2026-11-25T12:00:28Z",
+      "category": "AI"
+    },
+    {
+      "id": "70cf4b47a8a619eccc7a",
+      "source": "wired",
+      "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+      "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+      "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
+      "image": "https://media.wired.com/photos/6b06117e208563f15f466c09/master/pass/culture_jumproping_toy_soldiers_fyp.gif",
+      "published_at": "2026-11-25T12:00:00Z",
+      "category": "Culture"
+    },
+    {
+      "id": "0aa01b5ccb52566582a2",
+      "source": "wired",
+      "title": "The 36 Best Gifts for Dads (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-dads-2026/",
+      "summary": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
+      "image": "https://media.wired.com/photos/6b064e68966159a4e56ddef8/master/pass/The-36-Very-Best-Gifts-for-Dads.jpg",
+      "published_at": "2026-11-25T11:49:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "56f1ae6b9b25830a0fd3",
+      "source": "wired",
+      "title": "The Best TVs We’ve Tested (2026): Samsung, LG, TCL, Sony, and More.",
+      "url": "https://www.wired.com/story/best-tvs/",
+      "summary": "Affordable QLEDs, glorious RGB, premium OLEDs—these are our favorite televisions across every category.",
+      "image": "https://media.wired.com/photos/6b05c2905ca3d5e4d37124a1/master/pass/The-Best-TVs-We%E2%80%99ve-Tested.jpg",
+      "published_at": "2026-11-25T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b43ff1012d494b5ea89e",
+      "source": "wired",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
+      "published_at": "2026-11-25T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "57788fccd0190e251b04",
+      "source": "verge",
+      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of…",
+      "image": "",
+      "published_at": "2026-11-25T11:12:42Z",
+      "category": "Microsoft"
+    },
+    {
+      "id": "6464827e00163bd3077e",
+      "source": "wired",
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "summary": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+      "image": "https://media.wired.com/photos/6b05e919e84f380c55f0e941/master/pass/Security_Fans%20of%20School%20Shooters%20Are%20Using%20AI%20to%20Lionize%20Their%20Heroes_v1.jpg",
+      "published_at": "2026-11-25T11:00:00Z",
+      "category": "Security"
+    },
+    {
+      "id": "56f7a46f3eaabe287acc",
+      "source": "wired",
+      "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
+      "url": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
+      "summary": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
+      "image": "https://media.wired.com/photos/6b0498c7eec76be14d96208f/master/pass/Deported-Illustration_01.gif",
+      "published_at": "2026-11-25T11:00:00Z",
+      "category": "The Big Story"
+    },
+    {
+      "id": "07ba07af06cb5f50329e",
+      "source": "wired",
+      "title": "The Best iPhone Duo Cases and Accessories (2026)",
+      "url": "https://www.wired.com/story/best-iphone-duo-cases-and-accessories/",
+      "summary": "Protect and enhance your iPhone Duo with one of our favorite cases or accessories.",
+      "image": "https://media.wired.com/photos/6b0612d548eaa0eb94d073e5/master/pass/The-Best-iPhone-Duo-Cases-and-Accessories.jpg",
+      "published_at": "2026-11-25T10:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e99d58adebb583c5edc8",
+      "source": "wired",
+      "title": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
+      "url": "https://www.wired.com/story/shop-small-gift-guide-2026/",
+      "summary": "Here are 11 independent stores WIRED editors love and the gifts we’d order from them on Shop.com.",
+      "image": "https://media.wired.com/photos/6b06176900d767ae948b4ef6/master/pass/Shop-Small--Our-Favorite-Gifts-From-Independent-Businesses.jpg",
+      "published_at": "2026-11-25T10:32:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7d25c41f5043116fb8ff",
+      "source": "wired",
+      "title": "The 6 Best Latte Machines for Automatic Espresso Drinks (2026)",
+      "url": "https://www.wired.com/story/best-latte-and-cappuccino-machines/",
+      "summary": "Whether you want a cappuccino at the push of a button or an iced latte with cold foam, we found a machine that makes it easy.",
+      "image": "https://media.wired.com/photos/684cb58efa9dc2887ce54967/master/pass/courtesy%20of%20De%E2%80%99Longhi.png",
+      "published_at": "2026-11-25T10:17:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "831bca8a1a32b603bc54",
+      "source": "wired",
+      "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+      "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "summary": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+      "image": "https://media.wired.com/photos/6b04dfdd15bd092ec9b63873/master/pass/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
+      "published_at": "2026-11-25T10:01:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "d64fbddd693dc625547a",
+      "source": "wired",
+      "title": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
+      "url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
+      "summary": "Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.",
+      "image": "https://media.wired.com/photos/6b04df84424fd4be0d579981/master/pass/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg",
+      "published_at": "2026-11-25T10:00:00Z",
+      "category": "Business"
+    },
+    {
+      "id": "a805294d81acfb9550a3",
+      "source": "mit",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer…",
+      "image": "",
+      "published_at": "2026-11-25T10:00:00Z",
+      "category": "Artificial intelligence"
+    },
+    {
+      "id": "0d2d73a69d1b8f0456ad",
+      "source": "wired",
+      "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "published_at": "2026-11-25T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "56a2e4d6a03304104069",
+      "source": "wired",
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "published_at": "2026-11-25T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "637f824ab081230921cb",
+      "source": "wired",
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "published_at": "2026-11-25T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "12e9a112f26215bb95a7",
+      "source": "wired",
+      "title": "Klook Promo Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/klook-promo-code/",
+      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "published_at": "2026-11-25T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "18300edcdce9c2b9dc88",
+      "source": "wired",
+      "title": "Uplift Promo Codes: $300 Off",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-25T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "052fdfde12ca374ebea7",
+      "source": "wired",
+      "title": "Adidas Promo Code | 60% Off | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-25T06:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "ca45706038b71cb85979",
       "source": "verge",
@@ -623,176 +823,6 @@
       "category": "Climate change and energy"
     },
     {
-      "id": "9971ab27567251358aae",
-      "source": "wired",
-      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-      "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
-      "image": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
-      "published_at": "2026-11-24T10:45:00Z",
-      "category": "Culture"
-    },
-    {
-      "id": "30410ecefeefcea7827b",
-      "source": "wired",
-      "title": "Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling",
-      "url": "https://www.wired.com/story/election-deniers-despair-because-even-donald-trump-isnt-buying-what-theyre-selling/",
-      "summary": "In the wake of the overwhelming victory for Democrats in the midterm elections, Trump has broadly appeared to accept the results. His followers are devastated.",
-      "image": "https://media.wired.com/photos/6b0474796b539f1f31296459/master/pass/Trump-Refusal-To-Entertain-Midterm-Conspiracy-Theories-Politics-2306092808.jpg",
-      "published_at": "2026-11-24T10:30:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "a9bc272db79108f3577c",
-      "source": "wired",
-      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
-      "image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
-      "published_at": "2026-11-24T10:15:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "bd5f182ec56feeea164d",
-      "source": "wired",
-      "title": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life",
-      "url": "https://www.wired.com/story/wish-list-2026/",
-      "summary": "You’ll find something for everyone in this curated collection of gorgeously designed gifts.",
-      "image": "https://media.wired.com/photos/6b00bbacc3c11edfb41b277e/master/pass/Lead.png",
-      "published_at": "2026-11-24T10:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0dc87ccbbccc94f6d09a",
-      "source": "wired",
-      "title": "B&H Photo Promo Codes and Deals This November 2026",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "4a21dcf688ed71da4d22",
-      "source": "wired",
-      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "a60394cde7e828bb0d2c",
-      "source": "wired",
-      "title": "Hoka Coupon Codes: 30% Off in November 2026",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
-      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3540acbdc767493815c0",
-      "source": "wired",
-      "title": "Layla Sleep Coupon: Save Up to $600 in November 2026",
-      "url": "https://www.wired.com/story/layla-sleep-coupon/",
-      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "cc631c80dbcaa229488f",
-      "source": "wired",
-      "title": "Chegg Coupon Codes November 2026: Save on Study, Textbooks, & More",
-      "url": "https://www.wired.com/story/chegg-coupon-code/",
-      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "b0e25edfcc07de1ed70a",
-      "source": "wired",
-      "title": "Mattress Firm Coupons: Save up to $700",
-      "url": "https://www.wired.com/story/mattress-firm-coupon/",
-      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0bce2bf761934644ff18",
-      "source": "wired",
-      "title": "Herman Miller Promo Codes: 40% Off November 2026",
-      "url": "https://www.wired.com/story/herman-miller-promo-code/",
-      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in November 2026.",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "af7aa7365f9e1e28ba3c",
-      "source": "wired",
-      "title": "HP Coupon Codes and Deals November 2026",
-      "url": "https://www.wired.com/story/hp-coupon-code/",
-      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "fad596e904758e76d678",
-      "source": "wired",
-      "title": "Dermstore Coupons: 25% Off for November 2026",
-      "url": "https://www.wired.com/story/dermstore-promo-code/",
-      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8b3388f9c158b04d6997",
-      "source": "wired",
-      "title": "Pura Promo Codes: $20 Off November 2026",
-      "url": "https://www.wired.com/story/pura-promo-code/",
-      "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "288dbb236e7bf79ae1c5",
-      "source": "wired",
-      "title": "ABT Promo Codes & Discounts for November 2026",
-      "url": "https://www.wired.com/story/abt-promo-code/",
-      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "8cbe1cc874cc33c835b8",
-      "source": "wired",
-      "title": "30% VistaPrint Coupon & Promo Codes | November 2026",
-      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c836fe138787ccf7138c",
-      "source": "wired",
-      "title": "Bartesian Discount Codes: 35% Off",
-      "url": "https://www.wired.com/story/bartesian-discount-code/",
-      "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "0e14dfb6a68f4ddb3d80",
       "source": "verge",
       "title": "Google alternative Kagi launches an email service",
@@ -1093,16 +1123,6 @@
       "category": "AI"
     },
     {
-      "id": "bd21e33158ed097c22b6",
-      "source": "verge",
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is…",
-      "image": "",
-      "published_at": "2026-11-22T17:46:44Z",
-      "category": "News"
-    },
-    {
       "id": "fbd07d95bd1c11246b1f",
       "source": "ars",
       "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
@@ -1160,16 +1180,6 @@
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
       "published_at": "2026-11-20T21:58:29Z",
-      "category": "AI"
-    },
-    {
-      "id": "e0ff23bfb7212e67c412",
-      "source": "ars",
-      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
-      "published_at": "2026-11-20T21:47:10Z",
       "category": "AI"
     },
     {

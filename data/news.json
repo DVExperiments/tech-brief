@@ -1,37 +1,237 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T18:21:22Z",
+  "updated_at": "2026-11-25T02:48:16Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-24T18:21:22Z",
+      "last_success_at": "2026-11-25T02:48:15Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-24T18:21:22Z",
+      "last_success_at": "2026-11-25T02:48:15Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 29,
-      "last_success_at": "2026-11-24T18:21:22Z",
+      "last_success_at": "2026-11-25T02:48:15Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-24T18:21:22Z",
+      "last_success_at": "2026-11-25T02:48:16Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "ca45706038b71cb85979",
+      "source": "verge",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident…",
+      "image": "",
+      "published_at": "2026-11-25T01:00:00Z",
+      "category": "News"
+    },
+    {
+      "id": "ec0f2e4caf55f9680cad",
+      "source": "verge",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find…",
+      "image": "",
+      "published_at": "2026-11-24T23:59:29Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "19a65d46ed7820e5f015",
+      "source": "wired",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "image": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
+      "published_at": "2026-11-24T23:39:04Z",
+      "category": "Security"
+    },
+    {
+      "id": "5cf9cc3d6ebd0c5b3e97",
+      "source": "verge",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what…",
+      "image": "",
+      "published_at": "2026-11-24T23:25:46Z",
+      "category": "Environment"
+    },
+    {
+      "id": "1a46a17a4ad3e66b90a4",
+      "source": "ars",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
+      "published_at": "2026-11-24T22:50:11Z",
+      "category": "Science"
+    },
+    {
+      "id": "03014751b97a18624f98",
+      "source": "ars",
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
+      "published_at": "2026-11-24T22:36:28Z",
+      "category": "Tech"
+    },
+    {
+      "id": "2a9a952d049a2981c4d6",
+      "source": "verge",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused…",
+      "image": "",
+      "published_at": "2026-11-24T22:23:27Z",
+      "category": "Huawei"
+    },
+    {
+      "id": "596ca6c1e2b8442dfc00",
+      "source": "wired",
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "image": "https://media.wired.com/photos/6af7d0c3d135dcb52741f5c1/master/pass/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
+      "published_at": "2026-11-24T22:22:20Z",
+      "category": "Gear"
+    },
+    {
+      "id": "03d62f87cbc5f111f630",
+      "source": "verge",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA…",
+      "image": "",
+      "published_at": "2026-11-24T21:39:14Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "9b7dfbc98dfdc904519e",
+      "source": "verge",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your…",
+      "image": "",
+      "published_at": "2026-11-24T21:09:59Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "678ed2353421343cdfd2",
+      "source": "ars",
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+      "published_at": "2026-11-24T20:34:53Z",
+      "category": "AI"
+    },
+    {
+      "id": "dc83e8a6327a01693658",
+      "source": "verge",
+      "title": "TikTok was down",
+      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos…",
+      "image": "",
+      "published_at": "2026-11-24T20:27:27Z",
+      "category": "Creators"
+    },
+    {
+      "id": "986a53d4bd4634f08f3a",
+      "source": "verge",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get…",
+      "image": "",
+      "published_at": "2026-11-24T20:02:03Z",
+      "category": "AI"
+    },
+    {
+      "id": "4e08047a407b901dae9d",
+      "source": "ars",
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
+      "published_at": "2026-11-24T20:00:18Z",
+      "category": "Health"
+    },
+    {
+      "id": "94f7a3700daf619b37b0",
+      "source": "verge",
+      "title": "The clock is running out for America’s most contentious spying law",
+      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending…",
+      "image": "",
+      "published_at": "2026-11-24T20:00:00Z",
+      "category": "Policy"
+    },
+    {
+      "id": "c5b0591649682dc6c0a3",
+      "source": "wired",
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
+      "image": "https://media.wired.com/photos/6b05dbc15e00c95c05adac31/master/pass/What-Jensen-Actually-Said-Business-2286324485.jpg",
+      "published_at": "2026-11-24T19:33:23Z",
+      "category": "Business"
+    },
+    {
+      "id": "a65c774c2ad71efbd8c2",
+      "source": "verge",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s…",
+      "image": "",
+      "published_at": "2026-11-24T19:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "998cf912096594a1797e",
+      "source": "wired",
+      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
+      "url": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
+      "summary": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
+      "image": "https://media.wired.com/photos/6b05c1c6aac3f6aed4769983/master/pass/Review--iRestore-Elite-Laser-Hair-Growth-System.jpg",
+      "published_at": "2026-11-24T19:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "7adb21c2310d9d254073",
+      "source": "ars",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
+      "published_at": "2026-11-24T18:47:57Z",
+      "category": "AI"
+    },
+    {
+      "id": "fc67e748ef0847616853",
+      "source": "ars",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg",
+      "published_at": "2026-11-24T18:30:36Z",
+      "category": "Space"
+    },
     {
       "id": "f07b7bb848ce9c04fbfe",
       "source": "ars",
@@ -67,7 +267,7 @@
       "source": "wired",
       "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
       "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
       "image": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
       "published_at": "2026-11-24T17:44:53Z",
       "category": "Business"
@@ -593,46 +793,6 @@
       "category": "Gear"
     },
     {
-      "id": "0e26c4a3b1452acc7f97",
-      "source": "wired",
-      "title": "Alo Discount Code: 20% Off November 2026",
-      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "21234b3a92b626d00647",
-      "source": "wired",
-      "title": "Jabra Promo Codes: 30% Off Headphones, Headsets & More",
-      "url": "https://www.wired.com/story/jabra-promo-codes-coupons/",
-      "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "0a42db5852afb68a2d7a",
-      "source": "wired",
-      "title": "Purple Promo Codes and Deals: Up to 30% Off",
-      "url": "https://www.wired.com/story/purple-promo-code/",
-      "summary": "On the hunt for the perfect mattress or pillow? Save on your soon-to-be favorite brand, Purple, with these Purple coupons and deals.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "3d5f1ead40bf5c24b9de",
-      "source": "wired",
-      "title": "Skullcandy Discount Code: 30% Off | November 2026",
-      "url": "https://www.wired.com/story/skullcandy-discount-code/",
-      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "published_at": "2026-11-24T06:00:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "0e14dfb6a68f4ddb3d80",
       "source": "verge",
       "title": "Google alternative Kagi launches an email service",
@@ -943,96 +1103,6 @@
       "category": "News"
     },
     {
-      "id": "76fe7fffa5123aceee54",
-      "source": "verge",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the…",
-      "image": "",
-      "published_at": "2026-11-22T17:25:20Z",
-      "category": "AI"
-    },
-    {
-      "id": "53c69815e8f0307389da",
-      "source": "verge",
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a…",
-      "image": "",
-      "published_at": "2026-11-22T17:00:00Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "d8d7368cef512120b147",
-      "source": "verge",
-      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP…",
-      "image": "",
-      "published_at": "2026-11-22T16:33:29Z",
-      "category": "Column"
-    },
-    {
-      "id": "9449c3f7b8ee5b2ec7d9",
-      "source": "verge",
-      "title": "Protesters storm Meta offices in India",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the…",
-      "image": "",
-      "published_at": "2026-11-22T15:15:07Z",
-      "category": "Meta"
-    },
-    {
-      "id": "1764a44bdef4fff49702",
-      "source": "verge",
-      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a…",
-      "image": "",
-      "published_at": "2026-11-22T14:00:00Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "1d8e30a7140e3e53aef1",
-      "source": "verge",
-      "title": "‘The show is starting soon. Please turn on your headphones.’",
-      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-      "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a…",
-      "image": "",
-      "published_at": "2026-11-22T14:00:00Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "a5745149173d64030980",
-      "source": "verge",
-      "title": "How Tamagotchis got us hooked on digital pets",
-      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as…",
-      "image": "",
-      "published_at": "2026-11-22T13:15:27Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "38d8d4c176fe3678fa17",
-      "source": "verge",
-      "title": "Your questions about Apple HomeView’s audio, answered",
-      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and…",
-      "image": "",
-      "published_at": "2026-11-22T13:00:00Z",
-      "category": "Apple"
-    },
-    {
-      "id": "3094f66a7665e45007fa",
-      "source": "verge",
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on…",
-      "image": "",
-      "published_at": "2026-11-22T13:00:00Z",
-      "category": "AI"
-    },
-    {
       "id": "fbd07d95bd1c11246b1f",
       "source": "ars",
       "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
@@ -1051,16 +1121,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
       "published_at": "2026-11-21T22:12:41Z",
       "category": "Culture"
-    },
-    {
-      "id": "18c26221c68a24e3a379",
-      "source": "verge",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to…",
-      "image": "",
-      "published_at": "2026-11-21T21:59:31Z",
-      "category": "Amazon"
     },
     {
       "id": "3952cb35226fb422d093",
@@ -1113,56 +1173,6 @@
       "category": "AI"
     },
     {
-      "id": "7daf4ba1cca6ea1a9699",
-      "source": "ars",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
-      "published_at": "2026-11-20T20:59:08Z",
-      "category": "AI"
-    },
-    {
-      "id": "24eeed7385ac68420f6b",
-      "source": "ars",
-      "title": "Watching as a giant star swallowed its neighbor and exploded",
-      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png",
-      "published_at": "2026-11-20T20:41:17Z",
-      "category": "Science"
-    },
-    {
-      "id": "d597bc12efc1506958bf",
-      "source": "ars",
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg",
-      "published_at": "2026-11-20T20:26:33Z",
-      "category": "Science"
-    },
-    {
-      "id": "b95832c0f148b1e4889c",
-      "source": "ars",
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-1152x648-1767732268.jpg",
-      "published_at": "2026-11-20T19:52:59Z",
-      "category": "Policy"
-    },
-    {
-      "id": "da32f1cf45f9eef4196e",
-      "source": "ars",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
-      "published_at": "2026-11-20T19:21:50Z",
-      "category": "Health"
-    },
-    {
       "id": "4e51ad8cda5cd70e6ef3",
       "source": "mit",
       "title": "The most misunderstood graph in AI just got a major update",
@@ -1171,16 +1181,6 @@
       "image": "",
       "published_at": "2026-11-20T18:15:15Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "b5a1e94b1fa92ad826f1",
-      "source": "ars",
-      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
-      "published_at": "2026-11-20T16:11:21Z",
-      "category": "Gaming"
     },
     {
       "id": "5b332f13c1f3d3aee09c",

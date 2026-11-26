@@ -1,37 +1,377 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T04:25:36Z",
+  "updated_at": "2026-11-26T14:29:39Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T04:25:36Z",
+      "last_success_at": "2026-11-26T14:29:39Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T04:25:36Z",
+      "last_success_at": "2026-11-26T14:29:39Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 30,
-      "last_success_at": "2026-11-26T04:25:36Z",
+      "count": 31,
+      "last_success_at": "2026-11-26T14:29:39Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T04:25:36Z",
+      "last_success_at": "2026-11-26T14:29:39Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "c5b87cc98e21682c1147",
+      "source": "verge",
+      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+      "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the…",
+      "image": "",
+      "published_at": "2026-11-26T14:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "13a0b2783c0643d3ac86",
+      "source": "verge",
+      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+      "summary": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The…",
+      "image": "",
+      "published_at": "2026-11-26T14:00:00Z",
+      "category": "Gadgets"
+    },
+    {
+      "id": "a0915b61fc18a7609cdf",
+      "source": "mit",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson…",
+      "image": "",
+      "published_at": "2026-11-26T13:10:00Z",
+      "category": "The Download"
+    },
+    {
+      "id": "20b53194e43dfde4d86e",
+      "source": "wired",
+      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+      "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "summary": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
+      "image": "https://media.wired.com/photos/69b24dc4853ef33f258516c7/master/pass/The-Best-Meal-Delivery-Services-and-Meal-Kits-of-2026.jpg",
+      "published_at": "2026-11-26T13:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "405997e61dcfd00a61e1",
+      "source": "wired",
+      "title": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "image": "https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png",
+      "published_at": "2026-11-26T12:35:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "fbf77ff18234bb260c10",
+      "source": "ars",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-1152x648.jpg",
+      "published_at": "2026-11-26T12:15:42Z",
+      "category": "Science"
+    },
+    {
+      "id": "ad23a6568c9b3d656b41",
+      "source": "wired",
+      "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
+      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
+      "summary": "The slim, convenient magnetic wallets you’ll actually want to stick to the back of your iPhone.",
+      "image": "https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png",
+      "published_at": "2026-11-26T12:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "775eb057df0e25b98420",
+      "source": "ars",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
+      "published_at": "2026-11-26T12:00:14Z",
+      "category": "Features"
+    },
+    {
+      "id": "8f027d67532ea95727d6",
+      "source": "verge",
+      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+      "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+      "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting…",
+      "image": "",
+      "published_at": "2026-11-26T12:00:00Z",
+      "category": "Autonomous Cars"
+    },
+    {
+      "id": "b609a7571b4aea948010",
+      "source": "wired",
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "summary": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "image": "https://media.wired.com/photos/6b0407a462601105f3183aca/master/pass/GettyImages-2171438731.jpg",
+      "published_at": "2026-11-26T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ac06acb1ec2a075af171",
+      "source": "wired",
+      "title": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens",
+      "url": "https://www.wired.com/gallery/best-keyboards/",
+      "summary": "As a professional keyboard nerd, I’ve tested dozens and dozens of models. One of these eight picks should suit your needs—no matter your budget.",
+      "image": "https://media.wired.com/photos/68a91b1c8930cbd96bd0da81/master/pass/The%20Best%20Keyboards%20for%20Work%20and%20Play.png",
+      "published_at": "2026-11-26T12:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "28ed27acec2e9086af74",
+      "source": "wired",
+      "title": "A First Drive With the Fiat Topolino in New York City",
+      "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+      "summary": "Fiat’s $15,000, 25-mph electric quadricycle is built for beach towns and gated communities. Naturally, I took it across the Manhattan Bridge.",
+      "image": "https://media.wired.com/photos/6b03f727c433b8421f8e9adb/master/pass/DSC_0343.jpg",
+      "published_at": "2026-11-26T11:45:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "80ffe138842087641d82",
+      "source": "wired",
+      "title": "Best Gaming Mouse (2026): My Picks After Testing Dozens of Mice",
+      "url": "https://www.wired.com/gallery/best-gaming-mouse/",
+      "summary": "From ergonomic to ultralight, we’ve tested dozens of the best gaming mice to find the absolute best for the style of gaming you prefer.",
+      "image": "https://media.wired.com/photos/68a02b2f0f0d8eb47079908b/master/pass/The%20Best%20Gaming%20Mouse.png",
+      "published_at": "2026-11-26T11:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "e9dad81fb30cf39de4e9",
+      "source": "wired",
+      "title": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)",
+      "url": "https://www.wired.com/gallery/japanese-joinery-bed-frames/",
+      "summary": "Everyone loves Thuma bed frames for their Japanese-style joinery, but they’re pricey. We tested six less expensive frames with similar quality and performance.",
+      "image": "https://media.wired.com/photos/68c0cb4c1da5744b4777860d/master/pass/Thuma%20Dupes-%20Japanese%20Joinery%20Bed%20Frames%20That%20Stack%20Up.png",
+      "published_at": "2026-11-26T11:15:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "ca3bb9aca80f9233dad8",
+      "source": "wired",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
+      "published_at": "2026-11-26T10:51:27Z",
+      "category": "Business"
+    },
+    {
+      "id": "800038089d80ac0ee227",
+      "source": "verge",
+      "title": "X is finally getting its first parental controls",
+      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to…",
+      "image": "",
+      "published_at": "2026-11-26T10:45:50Z",
+      "category": "News"
+    },
+    {
+      "id": "4a9ce629545def66be3f",
+      "source": "wired",
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+      "url": "https://www.wired.com/story/best-robot-vacuum/",
+      "summary": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
+      "image": "https://media.wired.com/photos/6b0742e76b92a77c48186528/master/pass/I-Put-the-Best-Robot-Vacuums-Through-a-Houseful-of-Messes.jpg",
+      "published_at": "2026-11-26T10:44:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "8a5368f3f21bc255b63c",
+      "source": "wired",
+      "title": "How Do Cooking Pros Decide the ‘Best’ Recipe for Something?",
+      "url": "https://www.wired.com/story/how-do-cooking-pros-decide-what-the-best-recipe-is/",
+      "summary": "It requires a lot of research, trial and error, and even some creative writing to afford you the best and most consistent results.",
+      "image": "",
+      "published_at": "2026-11-26T10:30:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "5fc157968945eab29238",
+      "source": "wired",
+      "title": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
+      "url": "https://www.wired.com/story/best-bed-frames/",
+      "summary": "Looking for the best bed frame? Our top recommendation is the Classic Bed from Thuma, but we’ve got options for all budgets and tastes.",
+      "image": "https://media.wired.com/photos/69fa48e216b465babf17a53b/master/pass/Best%20Bed%20Frames%20top%20art%20052026%20SOURCE%20Ikea.jpg",
+      "published_at": "2026-11-26T10:19:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dd6157bc49acaa69f0b4",
+      "source": "wired",
+      "title": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
+      "url": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
+      "summary": "This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces.",
+      "image": "https://media.wired.com/photos/6afdf964ad9e100370243ebe/master/pass/521341010",
+      "published_at": "2026-11-26T10:00:00Z",
+      "category": "Science"
+    },
+    {
+      "id": "f4f8597edd219f1fd5c6",
+      "source": "mit",
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel…",
+      "image": "",
+      "published_at": "2026-11-26T09:59:00Z",
+      "category": "Biotechnology and health"
+    },
+    {
+      "id": "d5aca83b0b91852114ff",
+      "source": "verge",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various…",
+      "image": "",
+      "published_at": "2026-11-26T09:54:40Z",
+      "category": "AI"
+    },
+    {
+      "id": "1cdf363fd7cfe468ff36",
+      "source": "wired",
+      "title": "Lenovo Coupon Codes: 15% Off in November 2026",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4b426cf7a03849354e86",
+      "source": "wired",
+      "title": "Chewy Promo Codes: 50% Off November 2026",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "15ae9788e01f3210f8c3",
+      "source": "wired",
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "551c7c70d08fa6150abf",
+      "source": "wired",
+      "title": "LG Promo Code: 40% Off for November 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "b85c67f0c41fcf2beee1",
+      "source": "wired",
+      "title": "30% Off Canon Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "62dbba02251e08ab8e30",
+      "source": "wired",
+      "title": "50% Off DoorDash Promo Code | November 2026",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "565f705cf73f69492324",
+      "source": "wired",
+      "title": "Disney Plus Discount Codes: 52% Off November 2026",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "dcfaddb031a777b29327",
+      "source": "wired",
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "a955aeeaf7b6e6f17608",
+      "source": "wired",
+      "title": "AT&T Promo Codes: $50 Off This November 2026",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "84184ea6993d9b009beb",
+      "source": "wired",
+      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "4fa2b481b6048ff8e82b",
+      "source": "wired",
+      "title": "20% Off Samsung Promo Code | November 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
+    {
+      "id": "050bd2da8710c5873202",
+      "source": "wired",
+      "title": "Design Within Reach Promo Codes: 30% Off | November 2026",
+      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "published_at": "2026-11-26T06:00:00Z",
+      "category": "Gear"
+    },
     {
       "id": "957dff0953308380ece4",
       "source": "verge",
@@ -423,26 +763,6 @@
       "category": "Gear"
     },
     {
-      "id": "831bca8a1a32b603bc54",
-      "source": "wired",
-      "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
-      "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-      "summary": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
-      "image": "https://media.wired.com/photos/6b04dfdd15bd092ec9b63873/master/pass/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
-      "published_at": "2026-11-25T10:01:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "d64fbddd693dc625547a",
-      "source": "wired",
-      "title": "Not Just Nvidia: Inside Team Trump’s Takeover of Intel",
-      "url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
-      "summary": "Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.",
-      "image": "https://media.wired.com/photos/6b04df84424fd4be0d579981/master/pass/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg",
-      "published_at": "2026-11-25T10:00:00Z",
-      "category": "Business"
-    },
-    {
       "id": "a805294d81acfb9550a3",
       "source": "mit",
       "title": "AI is straining America’s open records systems",
@@ -451,66 +771,6 @@
       "image": "",
       "published_at": "2026-11-25T10:00:00Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "0d2d73a69d1b8f0456ad",
-      "source": "wired",
-      "title": "NordVPN Coupons: 75% Off + 3 Months Free",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "published_at": "2026-11-25T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "56a2e4d6a03304104069",
-      "source": "wired",
-      "title": "Wayfair Coupons: Up to 80% Off November 2026",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "published_at": "2026-11-25T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "637f824ab081230921cb",
-      "source": "wired",
-      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
-      "url": "https://www.wired.com/story/noom-promo-code/",
-      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "published_at": "2026-11-25T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "12e9a112f26215bb95a7",
-      "source": "wired",
-      "title": "Klook Promo Code: 20% Off November 2026",
-      "url": "https://www.wired.com/story/klook-promo-code/",
-      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "published_at": "2026-11-25T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "18300edcdce9c2b9dc88",
-      "source": "wired",
-      "title": "Uplift Promo Codes: $300 Off",
-      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
-      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "published_at": "2026-11-25T06:00:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "052fdfde12ca374ebea7",
-      "source": "wired",
-      "title": "Adidas Promo Code | 60% Off | November 2026",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "published_at": "2026-11-25T06:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "ca45706038b71cb85979",
@@ -531,16 +791,6 @@
       "image": "",
       "published_at": "2026-11-24T23:59:29Z",
       "category": "Gadgets"
-    },
-    {
-      "id": "19a65d46ed7820e5f015",
-      "source": "wired",
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "image": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
-      "published_at": "2026-11-24T23:39:04Z",
-      "category": "Security"
     },
     {
       "id": "5cf9cc3d6ebd0c5b3e97",
@@ -581,16 +831,6 @@
       "image": "",
       "published_at": "2026-11-24T22:23:27Z",
       "category": "Huawei"
-    },
-    {
-      "id": "596ca6c1e2b8442dfc00",
-      "source": "wired",
-      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
-      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "image": "https://media.wired.com/photos/6af7d0c3d135dcb52741f5c1/master/pass/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
-      "published_at": "2026-11-24T22:22:20Z",
-      "category": "Gear"
     },
     {
       "id": "03d62f87cbc5f111f630",
@@ -663,16 +903,6 @@
       "category": "Policy"
     },
     {
-      "id": "c5b0591649682dc6c0a3",
-      "source": "wired",
-      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
-      "image": "https://media.wired.com/photos/6b05dbc15e00c95c05adac31/master/pass/What-Jensen-Actually-Said-Business-2286324485.jpg",
-      "published_at": "2026-11-24T19:33:23Z",
-      "category": "Business"
-    },
-    {
       "id": "a65c774c2ad71efbd8c2",
       "source": "verge",
       "title": "Amazon is knocking almost $50 off six months of Apple TV",
@@ -681,16 +911,6 @@
       "image": "",
       "published_at": "2026-11-24T19:00:00Z",
       "category": "Black Friday"
-    },
-    {
-      "id": "998cf912096594a1797e",
-      "source": "wired",
-      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-      "url": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-      "summary": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
-      "image": "https://media.wired.com/photos/6b05c1c6aac3f6aed4769983/master/pass/Review--iRestore-Elite-Laser-Hair-Growth-System.jpg",
-      "published_at": "2026-11-24T19:00:00Z",
-      "category": "Gear"
     },
     {
       "id": "7adb21c2310d9d254073",
@@ -743,16 +963,6 @@
       "category": "Policy"
     },
     {
-      "id": "4c85c79a8d12827fa218",
-      "source": "wired",
-      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-      "image": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
-      "published_at": "2026-11-24T17:44:53Z",
-      "category": "Business"
-    },
-    {
       "id": "7606c40f0e99d624d84c",
       "source": "ars",
       "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
@@ -793,16 +1003,6 @@
       "category": "Cars"
     },
     {
-      "id": "13ae764846b93fbebf93",
-      "source": "wired",
-      "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
-      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
-      "summary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is now live. Grab these deals on our favorite (and tested) products through November 30.",
-      "image": "https://media.wired.com/photos/6b05be76befd568d19cd5dfe/master/pass/Amazon-Black-Friday-Deals-Are-Now-Live-Ahead-of-Thanksgiving.jpg",
-      "published_at": "2026-11-24T16:44:25Z",
-      "category": "Gear"
-    },
-    {
       "id": "21d6531294dc39b58dc9",
       "source": "verge",
       "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
@@ -821,16 +1021,6 @@
       "image": "",
       "published_at": "2026-11-24T16:30:00Z",
       "category": "AI"
-    },
-    {
-      "id": "6a43e5c2ce70bbb1dab0",
-      "source": "wired",
-      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
-      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
-      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-      "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
-      "published_at": "2026-11-24T16:28:01Z",
-      "category": "Gear"
     },
     {
       "id": "b11c0f664a25d1cf12d4",
@@ -873,26 +1063,6 @@
       "category": "Science"
     },
     {
-      "id": "3e945ce5625268e6a707",
-      "source": "wired",
-      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-      "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
-      "published_at": "2026-11-24T16:00:00Z",
-      "category": "Business"
-    },
-    {
-      "id": "73ac5412fb718f17bc63",
-      "source": "verge",
-      "title": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
-      "url": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
-      "summary": "The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate. There are sales happening for both the ad-supported and ad-free…",
-      "image": "",
-      "published_at": "2026-11-24T15:24:46Z",
-      "category": "Black Friday"
-    },
-    {
       "id": "49e3c3d9b9e98baf50cc",
       "source": "mit",
       "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -901,26 +1071,6 @@
       "image": "",
       "published_at": "2026-11-24T15:15:16Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "2bd8a20c502e6b51a5dc",
-      "source": "verge",
-      "title": "Wyze’s new window feeder records birds from a camera inside your home",
-      "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
-      "summary": "A year ago, Wyze introduced a $35 security camera that stuck to the inside of a window so you could keep an eye on what was happening outside your home without a complicated installation. Today the company…",
-      "image": "",
-      "published_at": "2026-11-24T15:14:05Z",
-      "category": "Cameras"
-    },
-    {
-      "id": "30845bec08d10c528fa7",
-      "source": "wired",
-      "title": "Thanksgiving Travel Will Be a Stormy Mess",
-      "url": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
-      "summary": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all—and it could wreak havoc at airports across the US.",
-      "image": "https://media.wired.com/photos/6b04c97ceec76be14d96215d/master/pass/Holiday-Travel-Mess-Science-2305538543.jpg",
-      "published_at": "2026-11-24T15:12:31Z",
-      "category": "Science"
     },
     {
       "id": "818b8c5aa158a5fab15f",
@@ -933,26 +1083,6 @@
       "category": "AI"
     },
     {
-      "id": "b06794661be045096dd1",
-      "source": "verge",
-      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
-      "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
-      "summary": "Harman Kardon’s alien-looking SoundSticks became synonymous with the Mac in the early 2000s, and they sounded pretty great. But did you know the company still makes them? After selling steadily for $300 for several…",
-      "image": "",
-      "published_at": "2026-11-24T14:13:22Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "8ce022676e859e659a4d",
-      "source": "verge",
-      "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
-      "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
-      "summary": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu…",
-      "image": "",
-      "published_at": "2026-11-24T14:00:00Z",
-      "category": "Gadgets"
-    },
-    {
       "id": "57c1affa35e545adb617",
       "source": "mit",
       "title": "The Download: AI’s gas power boom and a consciousness reality check",
@@ -961,16 +1091,6 @@
       "image": "",
       "published_at": "2026-11-24T13:10:00Z",
       "category": "The Download"
-    },
-    {
-      "id": "63db15ff813831873f13",
-      "source": "wired",
-      "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
-      "url": "https://www.wired.com/gallery/best-espresso-machines/",
-      "summary": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.",
-      "image": "https://media.wired.com/photos/699d08b7fbe4706f6e413cbd/master/pass/Review-%20Fellow%20Series%201%20Espresso%20Machine.png",
-      "published_at": "2026-11-24T12:32:00Z",
-      "category": "Gear"
     },
     {
       "id": "d9651978af1cffa913f1",
@@ -993,16 +1113,6 @@
       "category": "Tech"
     },
     {
-      "id": "0d8898804ccfd0706d19",
-      "source": "wired",
-      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "url": "https://www.wired.com/story/gifts-for-friends/",
-      "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "image": "https://media.wired.com/photos/6b04d279470266bfec0ce812/master/pass/Be-the-Friend-Who-Gives-the-Good-Gifts.jpg",
-      "published_at": "2026-11-24T12:03:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "3637e5553870f0cc2edc",
       "source": "ars",
       "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
@@ -1013,66 +1123,6 @@
       "category": "Tech"
     },
     {
-      "id": "de8c921238eb45326f73",
-      "source": "wired",
-      "title": "This Hollywood Star Took on Crypto. Now He’s Got a New Target",
-      "url": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
-      "summary": "Ben McKenzie is launching a nonprofit to take on prediction markets. “There’s a real, real problem here,” he says.",
-      "image": "https://media.wired.com/photos/6b0473356fc54eec225ff48b/master/pass/Hollywood-Star-Took-on-Crypto-Politics-2287897688.jpg",
-      "published_at": "2026-11-24T12:00:00Z",
-      "category": "Politics"
-    },
-    {
-      "id": "49d7c7f341017d832640",
-      "source": "wired",
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-24-2026/",
-      "summary": "Black Friday is just days away, but AirPods discounts are dropping early.",
-      "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/master/pass/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg",
-      "published_at": "2026-11-24T11:45:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "c9398eeb9de644b797f7",
-      "source": "wired",
-      "title": "‘GTA 6’ Is a Birder’s Paradise",
-      "url": "https://www.wired.com/story/gta-vi-birders-paradise/",
-      "summary": "Here’s what it’s like to grab a pair of binoculars and go in search of the 62 species of birds that populate the game.",
-      "image": "https://media.wired.com/photos/6b03f4615f8e6c0d7b84ae8c/master/pass/image2.png",
-      "published_at": "2026-11-24T11:45:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "a28c56ec00d5fe6dea8e",
-      "source": "wired",
-      "title": "Now There’s a GLP-1 in Chocolate Form",
-      "url": "https://www.wired.com/story/now-theres-a-glp-1-in-chocolate-form/",
-      "summary": "A telehealth clinic is offering orforglipron, the active ingredient in Eli Lilly’s prescription weight-loss pill Foundayo, in edible chocolate squares. Lilly is not amused.",
-      "image": "https://media.wired.com/photos/6afdbe23483a38e3131af67f/master/pass/111826-GLP1%20Choco.jpg",
-      "published_at": "2026-11-24T11:30:00Z",
-      "category": "Science"
-    },
-    {
-      "id": "947cce42397da36a5bcf",
-      "source": "wired",
-      "title": "The Best Early Black Friday MacBook Deals (2026)",
-      "url": "https://www.wired.com/story/best-black-friday-macbook-deals-2026/",
-      "summary": "Many of the best laptops in Apple’s MacBook lineup are on sale ahead of Black Friday, including great discounts on the MacBook Air and MacBook Neo.",
-      "image": "https://media.wired.com/photos/6b04c7dbd465d36db5e33dd5/master/pass/_Apple-2026-MacBook-Air.jpg",
-      "published_at": "2026-11-24T11:30:00Z",
-      "category": "Gear"
-    },
-    {
-      "id": "f8a5e1354c134ffa05d8",
-      "source": "wired",
-      "title": "GPS Dog Collar for Less: Fi Black Friday Sale (2026)",
-      "url": "https://www.wired.com/story/fi-pet-trackers-deal-11-2026/",
-      "summary": "Get Fi’s lineup of GPS and health trackers for cats and dogs at 50 percent off right now for Black Friday.",
-      "image": "https://media.wired.com/photos/6b04df229ef0144d4a1179b7/master/pass/Our-Favorite-Pet-Trackers-Are-Half-Off-for-Black-Friday.jpg",
-      "published_at": "2026-11-24T11:15:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "57e3f25232f1d60fb48d",
       "source": "mit",
       "title": "Data centers are getting their own natural gas power plants",
@@ -1081,16 +1131,6 @@
       "image": "",
       "published_at": "2026-11-24T11:00:00Z",
       "category": "Climate change and energy"
-    },
-    {
-      "id": "0e14dfb6a68f4ddb3d80",
-      "source": "verge",
-      "title": "Google alternative Kagi launches an email service",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new…",
-      "image": "",
-      "published_at": "2026-11-24T00:02:52Z",
-      "category": "Apps"
     },
     {
       "id": "ee42c04f6cb95e7eb671",
@@ -1161,26 +1201,6 @@
       "image": "",
       "published_at": "2026-11-23T17:36:08Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "2310b49134535d408fcf",
-      "source": "ars",
-      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-      "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/doomsday1-1152x648.jpg",
-      "published_at": "2026-11-23T15:55:12Z",
-      "category": "Culture"
-    },
-    {
-      "id": "2631013e8768206bd375",
-      "source": "ars",
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
-      "published_at": "2026-11-23T15:46:18Z",
-      "category": "AI"
     },
     {
       "id": "9490e3608d42280b1df9",
@@ -1401,16 +1421,6 @@
       "image": "",
       "published_at": "2026-11-12T20:16:24Z",
       "category": "Artificial intelligence"
-    },
-    {
-      "id": "68ee908a7c2af5496321",
-      "source": "mit",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates…",
-      "image": "",
-      "published_at": "2026-11-12T13:10:00Z",
-      "category": "The Download"
     }
   ]
 }

@@ -1,37 +1,87 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T22:33:38Z",
+  "updated_at": "2026-11-26T04:25:36Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T22:33:37Z",
+      "last_success_at": "2026-11-26T04:25:36Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T22:33:37Z",
+      "last_success_at": "2026-11-26T04:25:36Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-25T22:33:37Z",
+      "last_success_at": "2026-11-26T04:25:36Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-25T22:33:38Z",
+      "last_success_at": "2026-11-26T04:25:36Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "957dff0953308380ece4",
+      "source": "verge",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support…",
+      "image": "",
+      "published_at": "2026-11-26T00:04:34Z",
+      "category": "Google"
+    },
+    {
+      "id": "55efc5b0a14b9df1c6fd",
+      "source": "verge",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled…",
+      "image": "",
+      "published_at": "2026-11-25T23:56:44Z",
+      "category": "Amazon"
+    },
+    {
+      "id": "11ddc3d13a04da94df70",
+      "source": "ars",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+      "published_at": "2026-11-25T22:36:45Z",
+      "category": "Science"
+    },
+    {
+      "id": "544cb2cc290e691e9074",
+      "source": "verge",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its…",
+      "image": "",
+      "published_at": "2026-11-25T21:51:26Z",
+      "category": "AI"
+    },
+    {
+      "id": "11f9beb55eab639f37d7",
+      "source": "verge",
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends…",
+      "image": "",
+      "published_at": "2026-11-25T21:48:00Z",
+      "category": "Gadgets"
+    },
     {
       "id": "8ba8b1c19d5517f1cfbc",
       "source": "ars",
@@ -1043,46 +1093,6 @@
       "category": "Apps"
     },
     {
-      "id": "a5c9b65980df244a8026",
-      "source": "verge",
-      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license…",
-      "image": "",
-      "published_at": "2026-11-23T23:25:01Z",
-      "category": "Entertainment"
-    },
-    {
-      "id": "808eb21cc8414f2aece6",
-      "source": "verge",
-      "title": "The Verge’s 2026 holiday gift guide",
-      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on…",
-      "image": "",
-      "published_at": "2026-11-23T23:14:10Z",
-      "category": "Gadgets"
-    },
-    {
-      "id": "6578efb325fe331e96d5",
-      "source": "verge",
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and…",
-      "image": "",
-      "published_at": "2026-11-23T22:38:09Z",
-      "category": "Apps"
-    },
-    {
-      "id": "e3f12bb04016d8fee525",
-      "source": "verge",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing…",
-      "image": "",
-      "published_at": "2026-11-23T22:25:12Z",
-      "category": "AI"
-    },
-    {
       "id": "ee42c04f6cb95e7eb671",
       "source": "ars",
       "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
@@ -1171,16 +1181,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
       "published_at": "2026-11-23T15:46:18Z",
       "category": "AI"
-    },
-    {
-      "id": "5f3b21928f743be54a87",
-      "source": "ars",
-      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-      "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-      "summary": "COP31 ended without a consensus deal for the first time since 2009.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
-      "published_at": "2026-11-23T15:23:26Z",
-      "category": "Science"
     },
     {
       "id": "9490e3608d42280b1df9",

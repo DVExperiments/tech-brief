@@ -1,37 +1,147 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T14:29:39Z",
+  "updated_at": "2026-11-26T23:19:54Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T14:29:39Z",
+      "last_success_at": "2026-11-26T23:19:53Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T14:29:39Z",
+      "last_success_at": "2026-11-26T23:19:54Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
-      "count": 31,
-      "last_success_at": "2026-11-26T14:29:39Z",
+      "count": 30,
+      "last_success_at": "2026-11-26T23:19:54Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T14:29:39Z",
+      "last_success_at": "2026-11-26T23:19:54Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "f04b51d0d4c889480bf8",
+      "source": "verge",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing…",
+      "image": "",
+      "published_at": "2026-11-26T21:00:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "18f0d802687ba4010d2e",
+      "source": "verge",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to…",
+      "image": "",
+      "published_at": "2026-11-26T19:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "debe7012b4f4bad408a7",
+      "source": "wired",
+      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "image": "https://media.wired.com/photos/6b0872488f3dc8acb1142218/master/pass/Black%20Friday%20Thanksgiving%20Day%20Deals%201.png",
+      "published_at": "2026-11-26T18:49:47Z",
+      "category": "Gear"
+    },
+    {
+      "id": "314a335d07bbf031db9c",
+      "source": "ars",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
+      "published_at": "2026-11-26T18:00:29Z",
+      "category": "Cars"
+    },
+    {
+      "id": "c74bcde7ff12a7efdfb2",
+      "source": "verge",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently…",
+      "image": "",
+      "published_at": "2026-11-26T17:07:00Z",
+      "category": "Apple"
+    },
+    {
+      "id": "9a517ab38141f413272a",
+      "source": "verge",
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is…",
+      "image": "",
+      "published_at": "2026-11-26T17:06:24Z",
+      "category": "Android"
+    },
+    {
+      "id": "8ea2dd190c36947b9fd4",
+      "source": "verge",
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our…",
+      "image": "",
+      "published_at": "2026-11-26T16:55:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "436ad7e6044e55fe0707",
+      "source": "verge",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's…",
+      "image": "",
+      "published_at": "2026-11-26T16:38:00Z",
+      "category": "Entertainment"
+    },
+    {
+      "id": "6bfe916c63d051034801",
+      "source": "verge",
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some…",
+      "image": "",
+      "published_at": "2026-11-26T16:00:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "71908a769950ab1d92b1",
+      "source": "verge",
+      "title": "GTA VI developers vote against unionization",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers…",
+      "image": "",
+      "published_at": "2026-11-26T15:55:24Z",
+      "category": "Business"
+    },
+    {
+      "id": "695c13f3ee5659a758c0",
+      "source": "verge",
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense…",
+      "image": "",
+      "published_at": "2026-11-26T15:00:00Z",
+      "category": "Entertainment"
+    },
     {
       "id": "c5b87cc98e21682c1147",
       "source": "verge",
@@ -753,16 +863,6 @@
       "category": "Gear"
     },
     {
-      "id": "7d25c41f5043116fb8ff",
-      "source": "wired",
-      "title": "The 6 Best Latte Machines for Automatic Espresso Drinks (2026)",
-      "url": "https://www.wired.com/story/best-latte-and-cappuccino-machines/",
-      "summary": "Whether you want a cappuccino at the push of a button or an iced latte with cold foam, we found a machine that makes it easy.",
-      "image": "https://media.wired.com/photos/684cb58efa9dc2887ce54967/master/pass/courtesy%20of%20De%E2%80%99Longhi.png",
-      "published_at": "2026-11-25T10:17:00Z",
-      "category": "Gear"
-    },
-    {
       "id": "a805294d81acfb9550a3",
       "source": "mit",
       "title": "AI is straining America’s open records systems",
@@ -873,16 +973,6 @@
       "category": "Creators"
     },
     {
-      "id": "986a53d4bd4634f08f3a",
-      "source": "verge",
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get…",
-      "image": "",
-      "published_at": "2026-11-24T20:02:03Z",
-      "category": "AI"
-    },
-    {
       "id": "4e08047a407b901dae9d",
       "source": "ars",
       "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
@@ -891,26 +981,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
       "published_at": "2026-11-24T20:00:18Z",
       "category": "Health"
-    },
-    {
-      "id": "94f7a3700daf619b37b0",
-      "source": "verge",
-      "title": "The clock is running out for America’s most contentious spying law",
-      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending…",
-      "image": "",
-      "published_at": "2026-11-24T20:00:00Z",
-      "category": "Policy"
-    },
-    {
-      "id": "a65c774c2ad71efbd8c2",
-      "source": "verge",
-      "title": "Amazon is knocking almost $50 off six months of Apple TV",
-      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
-      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s…",
-      "image": "",
-      "published_at": "2026-11-24T19:00:00Z",
-      "category": "Black Friday"
     },
     {
       "id": "7adb21c2310d9d254073",
@@ -943,16 +1013,6 @@
       "category": "Science"
     },
     {
-      "id": "11541b69588af119916f",
-      "source": "verge",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about…",
-      "image": "",
-      "published_at": "2026-11-24T18:15:00Z",
-      "category": "AI"
-    },
-    {
       "id": "c64fb2dacca0bc0fd3c2",
       "source": "ars",
       "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
@@ -973,26 +1033,6 @@
       "category": "AI"
     },
     {
-      "id": "99b384fedf9b4a690ec2",
-      "source": "verge",
-      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
-      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more…",
-      "image": "",
-      "published_at": "2026-11-24T17:30:00Z",
-      "category": "Black Friday"
-    },
-    {
-      "id": "8a7c3510f19d2591862a",
-      "source": "verge",
-      "title": "Tidal will start banning AI-generated music next month",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according…",
-      "image": "",
-      "published_at": "2026-11-24T17:17:09Z",
-      "category": "AI"
-    },
-    {
       "id": "a2e77a137eebcd43adeb",
       "source": "ars",
       "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
@@ -1001,26 +1041,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879-1152x648.jpg",
       "published_at": "2026-11-24T16:58:20Z",
       "category": "Cars"
-    },
-    {
-      "id": "21d6531294dc39b58dc9",
-      "source": "verge",
-      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-      "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing…",
-      "image": "",
-      "published_at": "2026-11-24T16:37:03Z",
-      "category": "Business"
-    },
-    {
-      "id": "9f64b74509fe46790688",
-      "source": "verge",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black…",
-      "image": "",
-      "published_at": "2026-11-24T16:30:00Z",
-      "category": "AI"
     },
     {
       "id": "b11c0f664a25d1cf12d4",
@@ -1041,16 +1061,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg",
       "published_at": "2026-11-24T16:12:46Z",
       "category": "Space"
-    },
-    {
-      "id": "41b98fe4e101790fcaf7",
-      "source": "verge",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The…",
-      "image": "",
-      "published_at": "2026-11-24T16:09:23Z",
-      "category": "Adobe"
     },
     {
       "id": "fe0fc5ca03f955998ddb",
@@ -1181,16 +1191,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg",
       "published_at": "2026-11-23T19:38:13Z",
       "category": "Policy"
-    },
-    {
-      "id": "e3971acd1150f18db0b7",
-      "source": "ars",
-      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-      "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-      "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
-      "published_at": "2026-11-23T19:28:30Z",
-      "category": "Space"
     },
     {
       "id": "46722cbbfbb5644a99de",
@@ -1411,16 +1411,6 @@
       "image": "",
       "published_at": "2026-11-13T10:00:00Z",
       "category": "Business"
-    },
-    {
-      "id": "9017d190a441b2208a89",
-      "source": "mit",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology…",
-      "image": "",
-      "published_at": "2026-11-12T20:16:24Z",
-      "category": "Artificial intelligence"
     }
   ]
 }

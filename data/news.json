@@ -1,37 +1,47 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T23:19:54Z",
+  "updated_at": "2026-11-27T05:22:22Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T23:19:53Z",
+      "last_success_at": "2026-11-27T05:22:22Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T23:19:54Z",
+      "last_success_at": "2026-11-27T05:22:22Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-26T23:19:54Z",
+      "last_success_at": "2026-11-27T05:22:22Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-26T23:19:54Z",
+      "last_success_at": "2026-11-27T05:22:22Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
+    {
+      "id": "debe7012b4f4bad408a7",
+      "source": "wired",
+      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "image": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg",
+      "published_at": "2026-11-27T00:56:52Z",
+      "category": "Gear"
+    },
     {
       "id": "f04b51d0d4c889480bf8",
       "source": "verge",
@@ -51,16 +61,6 @@
       "image": "",
       "published_at": "2026-11-26T19:00:00Z",
       "category": "Black Friday"
-    },
-    {
-      "id": "debe7012b4f4bad408a7",
-      "source": "wired",
-      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
-      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-      "image": "https://media.wired.com/photos/6b0872488f3dc8acb1142218/master/pass/Black%20Friday%20Thanksgiving%20Day%20Deals%201.png",
-      "published_at": "2026-11-26T18:49:47Z",
-      "category": "Gear"
     },
     {
       "id": "314a335d07bbf031db9c",

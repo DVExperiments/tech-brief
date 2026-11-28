@@ -1,45 +1,125 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T23:44:36Z",
+  "updated_at": "2026-11-28T04:59:39Z",
   "sources": {
     "verge": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-27T23:44:36Z",
+      "last_success_at": "2026-11-28T04:59:39Z",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "error": null
     },
     "wired": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-27T23:44:36Z",
+      "last_success_at": "2026-11-28T04:59:39Z",
       "feed_url": "https://www.wired.com/feed/rss",
       "error": null
     },
     "mit": {
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-27T23:44:36Z",
+      "last_success_at": "2026-11-28T04:59:39Z",
       "feed_url": "https://www.technologyreview.com/feed/",
       "error": null
     },
     "ars": {
       "status": "ok",
       "count": 36,
-      "last_success_at": "2026-11-27T23:44:36Z",
+      "last_success_at": "2026-11-28T04:59:39Z",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "error": null
     }
   },
   "articles": [
     {
+      "id": "26bd12d117461465a474",
+      "source": "verge",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage…",
+      "image": "",
+      "published_at": "2026-11-28T03:30:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "bc50053c0f8ce0035eab",
+      "source": "verge",
+      "title": "The absolute best Black Friday deals you can still get",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot…",
+      "image": "",
+      "published_at": "2026-11-28T03:28:32Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "7c2ca0d3102d0ab52e2b",
+      "source": "verge",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of…",
+      "image": "",
+      "published_at": "2026-11-28T01:30:00Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "6594291799a94726ced3",
+      "source": "wired",
+      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+      "image": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg",
+      "published_at": "2026-11-28T00:14:33Z",
+      "category": "Gear"
+    },
+    {
+      "id": "10c3afa5c1489daca432",
+      "source": "verge",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just…",
+      "image": "",
+      "published_at": "2026-11-28T00:02:49Z",
+      "category": "Electric Cars"
+    },
+    {
+      "id": "59c7307f4fe3e82b3c8c",
+      "source": "wired",
+      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+      "url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+      "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
+      "image": "https://media.wired.com/photos/6ac50d7fb19b1ceefddd39c0/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Yeti%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "published_at": "2026-11-27T23:54:42Z",
+      "category": "Gear"
+    },
+    {
+      "id": "de1fc7bd1444c4e08ee0",
+      "source": "verge",
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help…",
+      "image": "",
+      "published_at": "2026-11-27T23:53:19Z",
+      "category": "Black Friday"
+    },
+    {
       "id": "295f4094a3cd1e1730bf",
       "source": "verge",
-      "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
       "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
       "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are…",
       "image": "",
       "published_at": "2026-11-27T23:32:17Z",
+      "category": "Black Friday"
+    },
+    {
+      "id": "64aef733449a207d84cb",
+      "source": "verge",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds…",
+      "image": "",
+      "published_at": "2026-11-27T23:32:00Z",
       "category": "Black Friday"
     },
     {
@@ -81,16 +161,6 @@
       "image": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/master/pass/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
       "published_at": "2026-11-27T23:15:34Z",
       "category": "Gear"
-    },
-    {
-      "id": "bc50053c0f8ce0035eab",
-      "source": "verge",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for…",
-      "image": "",
-      "published_at": "2026-11-27T22:43:57Z",
-      "category": "Black Friday"
     },
     {
       "id": "4cf2937e0a98a3de8932",
@@ -200,16 +270,6 @@
       "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
       "image": "https://media.wired.com/photos/6b065b795e00c95c05adad67/master/pass/The-Best-Black-Friday-Mattress-Deals.jpg",
       "published_at": "2026-11-27T19:07:28Z",
-      "category": "Gear"
-    },
-    {
-      "id": "6594291799a94726ced3",
-      "source": "wired",
-      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
-      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
-      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
-      "image": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg",
-      "published_at": "2026-11-27T18:51:57Z",
       "category": "Gear"
     },
     {
@@ -643,16 +703,6 @@
       "category": "Cars"
     },
     {
-      "id": "ce418cb9b6934f4c1c54",
-      "source": "wired",
-      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
-      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
-      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
-      "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
-      "published_at": "2026-11-27T07:00:00Z",
-      "category": "Business"
-    },
-    {
       "id": "f04b51d0d4c889480bf8",
       "source": "verge",
       "title": "Netflix’s coziest show has made a very quiet return",
@@ -813,16 +863,6 @@
       "category": "Autonomous Cars"
     },
     {
-      "id": "800038089d80ac0ee227",
-      "source": "verge",
-      "title": "X is finally getting its first parental controls",
-      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to…",
-      "image": "",
-      "published_at": "2026-11-26T10:45:50Z",
-      "category": "News"
-    },
-    {
       "id": "f4f8597edd219f1fd5c6",
       "source": "mit",
       "title": "The next generation of bionic hands is here—and they can feel",
@@ -833,36 +873,6 @@
       "category": "Biotechnology and health"
     },
     {
-      "id": "d5aca83b0b91852114ff",
-      "source": "verge",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various…",
-      "image": "",
-      "published_at": "2026-11-26T09:54:40Z",
-      "category": "AI"
-    },
-    {
-      "id": "957dff0953308380ece4",
-      "source": "verge",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support…",
-      "image": "",
-      "published_at": "2026-11-26T00:04:34Z",
-      "category": "Google"
-    },
-    {
-      "id": "55efc5b0a14b9df1c6fd",
-      "source": "verge",
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled…",
-      "image": "",
-      "published_at": "2026-11-25T23:56:44Z",
-      "category": "Amazon"
-    },
-    {
       "id": "11ddc3d13a04da94df70",
       "source": "ars",
       "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
@@ -871,16 +881,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
       "published_at": "2026-11-25T22:36:45Z",
       "category": "Science"
-    },
-    {
-      "id": "544cb2cc290e691e9074",
-      "source": "verge",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its…",
-      "image": "",
-      "published_at": "2026-11-25T21:51:26Z",
-      "category": "AI"
     },
     {
       "id": "8ba8b1c19d5517f1cfbc",
